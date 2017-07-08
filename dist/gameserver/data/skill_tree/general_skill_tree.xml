@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--AUTHOR: Bonux-->
+<!--Древо скиллов используется для верификации умений с забытых книг и т.д.-->
+<list>
+	<general_skill_tree>
+		<skill id="841" level="1" name="Aurabird Falcon" min_level="75"/>
+		<skill id="842" level="1" name="Aurabird Owl" min_level="75"/>
+		<skill id="15094" level="1" name="Clan Flag"/>
+		<skill id="19115" level="1" name="Air Bike"/>
+		<skill id="19116" level="1" name="Summon Lyn Draco"/>
+		<class id="131"> <!--doombringer-->
+			<skill id="840" level="1" name="Final Flying Form" min_level="79"/>
+		</class>
+		<class id="132"> <!--male_soulhound-->
+			<skill id="840" level="1" name="Final Flying Form" min_level="79"/>
+		</class>
+		<class id="133"> <!--female_soulhound-->
+			<skill id="840" level="1" name="Final Flying Form" min_level="79"/>
+		</class>
+		<class id="134"> <!--trickster-->
+			<skill id="840" level="1" name="Final Flying Form" min_level="79"/>
+		</class>
+		<class id="136"> <!--judicator-->
+			<skill id="840" level="1" name="Final Flying Form" min_level="79"/>
+		</class>
+	</general_skill_tree>
+</list>

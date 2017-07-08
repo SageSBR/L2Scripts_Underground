@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<item>
+		<production id="19455" count="1"/>	<!--Браслет Истхины-->
+		<ingredient id="-500" count="100"/>	
+	</item>
+	<item>
+		<production id="19461" count="1"/>	<!--Браслет Октависа-->
+		<ingredient id="-500" count="100"/>	
+	</item>
+	<item>
+		<production id="35293" count="1"/>	<!--Браслет Таути-->
+		<ingredient id="-500" count="100"/>	
+	</item>
+</list>

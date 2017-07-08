@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<list>
+    <loot id="21797">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="42" min="18"/>
+            <reward chance="1.0000" item_id="2414" max="1" min="1"/>
+            <reward chance="1.0000" item_id="2497" max="1" min="1"/>
+            <reward chance="1.0000" item_id="4175" max="1" min="1"/>
+            <reward chance="0.6536" item_id="36521" max="1" min="1"/>
+            <reward chance="0.5988" item_id="2961" max="1" min="1"/>
+            <reward chance="0.5988" item_id="2959" max="1" min="1"/>
+            <reward chance="0.5000" item_id="2966" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45929" max="1" min="1"/>
+            <reward chance="0.1000" item_id="45930" max="1" min="1"/>
+            <reward chance="0.1000" item_id="4972" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36922" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36872" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36856" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="31.6900" item_id="36531" max="1" min="1"/>
+            <reward chance="0.7519" item_id="36532" max="1" min="1"/>
+            <reward chance="0.5000" item_id="36880" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+</list>

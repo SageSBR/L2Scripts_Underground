@@ -1,0 +1,714 @@
+<?xml version="1.0" ?>
+<list>
+    <loot id="18607">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18608">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18609">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18610">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18611">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18612">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18613">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18614">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18615">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18616">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18623">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18624">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18625">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18626">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18627">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18628">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18629">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18630">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18631">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18632">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18635">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18636">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18637">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18638">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18639">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18640">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18641">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18642">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18643">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18644">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18645">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18646">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18647">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18648">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18649">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18650">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18651">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18652">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18653">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18654">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18655">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18656">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18657">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18658">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18659">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="20" item_id="8600" max="1" min="1"/>
+                <reward chance="45" item_id="8601" max="1" min="1"/>
+                <reward chance="35" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="22">
+                <reward chance="15" item_id="8603" max="1" min="1"/>
+                <reward chance="54" item_id="8604" max="1" min="1"/>
+                <reward chance="31" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18672">
+        <database_rewardlist>
+            <reward chance="70.5555" item_id="13788" max="1" min="1"/>
+            <reward chance="59.1667" item_id="13787" max="1" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18678">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="14016" max="10" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18679">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="14015" max="10" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18680">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="14017" max="10" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18681">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="14018" max="10" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18682">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="14020" max="10" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18683">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="14019" max="10" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18684">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="14009" max="10" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18685">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="14009" max="10" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18686">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="14009" max="10" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18687">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="14010" max="10" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18688">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="14010" max="10" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18689">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="14010" max="10" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18690">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="14011" max="10" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18691">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="14011" max="10" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18692">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="14011" max="10" min="1"/>
+        </database_rewardlist>
+    </loot>
+</list>

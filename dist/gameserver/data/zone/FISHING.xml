@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<zone name="fishing_zone_1" type="FISHING"> <!--Hot Springs: Red-->
+		<set name="distribution_id" val="1"/>
+		<polygon>
+			<coords loc="141249 -109636 -3634 -3434"/>
+			<coords loc="141473 -109798 -3634 -3434"/>
+			<coords loc="141739 -109821 -3634 -3434"/>
+			<coords loc="141924 -109669 -3634 -3434"/>
+			<coords loc="142038 -109397 -3634 -3434"/>
+			<coords loc="141852 -109130 -3634 -3434"/>
+			<coords loc="141604 -109051 -3634 -3434"/>
+			<coords loc="141321 -109091 -3634 -3434"/>
+			<coords loc="141213 -109266 -3634 -3434"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_2" type="FISHING"> <!--Hot Springs: Yellow-->
+		<set name="distribution_id" val="1"/>
+		<polygon>
+			<coords loc="140174 -105832 -3668 -3468"/>
+			<coords loc="140490 -105875 -3668 -3468"/>
+			<coords loc="140962 -105738 -3668 -3468"/>
+			<coords loc="141039 -105378 -3668 -3468"/>
+			<coords loc="140872 -105119 -3668 -3468"/>
+			<coords loc="140081 -105295 -3668 -3468"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_3" type="FISHING"> <!--Hot Springs: Green-->
+		<set name="distribution_id" val="1"/>
+		<polygon>
+			<coords loc="144927 -105193 -3724 -3524"/>
+			<coords loc="145226 -105412 -3724 -3524"/>
+			<coords loc="145576 -105344 -3724 -3524"/>
+			<coords loc="145819 -104976 -3724 -3524"/>
+			<coords loc="145575 -104555 -3724 -3524"/>
+			<coords loc="145217 -104490 -3724 -3524"/>
+			<coords loc="144935 -104684 -3724 -3524"/>
+			<coords loc="144832 -104959 -3724 -3524"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_4" type="FISHING"> <!--Hot Springs: Yellow 2-->
+		<set name="distribution_id" val="1"/>
+		<polygon>
+			<coords loc="152081 -108262 -2871 -2671"/>
+			<coords loc="152455 -108588 -2871 -2671"/>
+			<coords loc="152835 -108448 -2871 -2671"/>
+			<coords loc="152992 -108120 -2871 -2671"/>
+			<coords loc="152817 -107670 -2871 -2671"/>
+			<coords loc="152310 -107632 -2871 -2671"/>
+			<coords loc="152069 -107905 -2871 -2671"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_5" type="FISHING"> <!--Hot Springs: Green 2-->
+		<set name="distribution_id" val="1"/>
+		<polygon>
+			<coords loc="155279 -105735 -2787 -2587"/>
+			<coords loc="155448 -105880 -2787 -2587"/>
+			<coords loc="155992 -105963 -2787 -2587"/>
+			<coords loc="156201 -105790 -2787 -2587"/>
+			<coords loc="156133 -105320 -2787 -2587"/>
+			<coords loc="155896 -105229 -2787 -2587"/>
+			<coords loc="155459 -105254 -2787 -2587"/>
+			<coords loc="155283 -105478 -2787 -2587"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_6" type="FISHING"> <!--Hot Springs: Red 2-->
+		<set name="distribution_id" val="1"/>
+		<polygon>
+			<coords loc="156838 -109948 -2717 -2517"/>
+			<coords loc="157133 -110046 -2717 -2517"/>
+			<coords loc="157436 -109918 -2717 -2517"/>
+			<coords loc="157491 -109405 -2717 -2517"/>
+			<coords loc="157197 -109197 -2717 -2517"/>
+			<coords loc="156843 -109261 -2717 -2517"/>
+			<coords loc="156683 -109569 -2717 -2517"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_7" type="FISHING"> <!--Hot Springs: Yellow 3-->
+		<set name="distribution_id" val="1"/>
+		<polygon>
+			<coords loc="152063 -116732 -1609 -1409"/>
+			<coords loc="152505 -116982 -1609 -1409"/>
+			<coords loc="152904 -116927 -1609 -1409"/>
+			<coords loc="153020 -116469 -1609 -1409"/>
+			<coords loc="152881 -116221 -1609 -1409"/>
+			<coords loc="152555 -116100 -1609 -1409"/>
+			<coords loc="152285 -116160 -1609 -1409"/>
+			<coords loc="152099 -116415 -1609 -1409"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_8" type="FISHING"> <!--Hot Springs: Green 3-->
+		<set name="distribution_id" val="1"/>
+		<polygon>
+			<coords loc="152683 -112829 -1694 -1494"/>
+			<coords loc="152796 -113129 -1694 -1494"/>
+			<coords loc="153125 -113339 -1694 -1494"/>
+			<coords loc="153557 -113190 -1694 -1494"/>
+			<coords loc="153649 -112721 -1694 -1494"/>
+			<coords loc="153344 -112385 -1694 -1494"/>
+			<coords loc="152937 -112409 -1694 -1494"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_9" type="FISHING"> <!--Hot Springs: Red 3-->
+		<set name="distribution_id" val="1"/>
+		<polygon>
+			<coords loc="157444 -115790 -1979 -1779"/>
+			<coords loc="157774 -115907 -1979 -1779"/>
+			<coords loc="158174 -115759 -1979 -1779"/>
+			<coords loc="158017 -114971 -1979 -1779"/>
+			<coords loc="157625 -114984 -1979 -1779"/>
+			<coords loc="157439 -115101 -1979 -1779"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_10" type="FISHING"> <!--Hot Springs: Red 4-->
+		<set name="distribution_id" val="1"/>
+		<polygon>
+			<coords loc="147182 -113255 -2152 -1952"/>
+			<coords loc="147194 -113430 -2152 -1952"/>
+			<coords loc="147312 -113584 -2152 -1952"/>
+			<coords loc="147467 -113630 -2152 -1952"/>
+			<coords loc="147748 -113523 -2152 -1952"/>
+			<coords loc="147816 -113273 -2152 -1952"/>
+			<coords loc="147723 -113074 -2152 -1952"/>
+			<coords loc="147512 -112956 -2152 -1952"/>
+			<coords loc="147258 -113048 -2152 -1952"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_11" type="FISHING"> <!-- Радужное Озеро -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="35360 70052 -4388 -1388"/>
+			<coords loc="54640 70780 -4388 -1388"/>
+			<coords loc="58104 89528 -4388 -1388"/>
+			<coords loc="38900 91644 -4388 -1388"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_12" type="FISHING"> <!-- Озеро Нарсилл -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="134452 66180 -4640 -1640"/>
+			<coords loc="170228 67184 -4640 -1640"/>
+			<coords loc="172464 97052 -4640 -1640"/>
+			<coords loc="136188 94940 -4640 -1640"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_13" type="FISHING"> <!-- Озеро Нарсилл -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="135800 35476 -4216 -1216"/>
+			<coords loc="162960 35364 -4216 -1216"/>
+			<coords loc="161056 64920 -4216 -1216"/>
+			<coords loc="136496 65092 -4216 -1216"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_14" type="FISHING"> <!-- Земли Иннадрила -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="89909 158343 -7356 -1356"/>
+			<coords loc="130731 153447 -7356 -1356"/>
+			<coords loc="130741 261840 -7356 -1356"/>
+			<coords loc="65549 262183 -7356 -1356"/>
+			<coords loc="65612 189166 -7356 -1356"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_15" type="FISHING"> <!-- округ Гирана -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="81328 136658 -3892 -892"/>
+			<coords loc="139003 123356 -3892 -892"/>
+			<coords loc="138584 145204 -3892 -892"/>
+			<coords loc="121150 155944 -3892 -892"/>
+			<coords loc="80807 160436 -3892 -892"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_16" type="FISHING"> <!-- округ Гирана -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="67326 160359 -4684 -1684"/>
+			<coords loc="86813 160109 -4684 -1684"/>
+			<coords loc="64159 189723 -4684 -1684"/>
+			<coords loc="42375 183029 -4684 -1684"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_17" type="FISHING"> <!-- Гавань Гирана -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="30606 184275 -4874 -1874"/>
+			<coords loc="40957 182824 -4874 -1874"/>
+			<coords loc="62226 189792 -4874 -1874"/>
+			<coords loc="62509 228946 -4874 -1874"/>
+			<coords loc="30706 228846 -4874 -1874"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_18" type="FISHING"> <!-- Долина Ящеров -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="65472 71452 -4372 -1372"/>
+			<coords loc="86420 82248 -4372 -1372"/>
+			<coords loc="97656 93300 -4372 -1372"/>
+			<coords loc="97692 98032 -4372 -1372"/>
+			<coords loc="64528 97660 -4372 -1372"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_19" type="FISHING"> <!-- Вокруг замка Орен -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="66204 3448 -4328 -1328"/>
+			<coords loc="121052 30384 -4328 -1328"/>
+			<coords loc="87064 56664 -4328 -1328"/>
+			<coords loc="69484 31724 -4328 -1328"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_20" type="FISHING"> <!-- Нейтральная Зона -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="4721 99932 -4096 -1096"/>
+			<coords loc="60654 99812 -4096 -1096"/>
+			<coords loc="60606 158582 -4096 -1096"/>
+			<coords loc="40546 154557 -4096 -1096"/>
+			<coords loc="3147 123027 -4096 -1096"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_21" type="FISHING"> <!-- Вокруг замка Глудио --> 
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="436 128216 -4764 -1764"/>
+			<coords loc="10168 128584 -4764 -1764"/>
+			<coords loc="42184 182056 -4764 -1764"/>
+			<coords loc="31996 197312 -4764 -1764"/>
+			<coords loc="680 197804 -4764 -1764"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_22" type="FISHING"> <!-- Радужное Озеро -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="35960 34780 -3900 -900"/>
+			<coords loc="61228 52232 -3900 -900"/>
+			<coords loc="61704 77128 -3900 -900"/>
+			<coords loc="43360 66444 -3900 -900"/>
+			<coords loc="32924 37972 -3900 -900"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_23" type="FISHING"> <!-- Радужное Озеро -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="11764 36204 -4004 -1004"/>
+			<coords loc="42092 63036 -4004 -1004"/>
+			<coords loc="44408 69824 -4004 -1004"/>
+			<coords loc="444 75320 -4004 -1004"/>
+			<coords loc="2780 51824 -4004 -1004"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_24" type="FISHING"> <!-- Нейтральная Зона -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="148 77464 -3856 -856"/>
+			<coords loc="4116 80668 -3856 -856"/>
+			<coords loc="4816 95352 -3856 -856"/>
+			<coords loc="460 94180 -3856 -856"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_25" type="FISHING"> <!-- Вокруг замка Глудио -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="-27548 90040 -4044 -1044"/>
+			<coords loc="3188 95180 -4044 -1044"/>
+			<coords loc="1816 117348 -4044 -1044"/>
+			<coords loc="-1732 130032 -4044 -1044"/>
+			<coords loc="-25952 130540 -4044 -1044"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_26" type="FISHING"> <!-- Нейтральная Зона -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="-13628 57148 -4084 -1084"/>
+			<coords loc="-428 57856 -4084 -1084"/>
+			<coords loc="3668 90204 -4084 -1084"/>
+			<coords loc="-21376 89884 -4084 -1084"/>
+			<coords loc="-26808 87940 -4084 -1084"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_27" type="FISHING"> <!-- Юго-западное побережье -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="-65739 186145 -4828 -1828"/>
+			<coords loc="-188 193188 -4828 -1828"/>
+			<coords loc="-470 213105 -4828 -1828"/>
+			<coords loc="-22923 225218 -4828 -1828"/>
+			<coords loc="-58597 224836 -4828 -1828"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_28" type="FISHING"> <!-- Озеро Фельмер -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="-62980 111764 -3772 -772"/>
+			<coords loc="-50756 126392 -3772 -772"/>
+			<coords loc="-63940 140572 -3772 -772"/>
+			<coords loc="-71220 133792 -3772 -772"/>
+			<coords loc="-69448 120784 -3772 -772"/>
+		</polygon>
+	</zone>
+	<zone name="fishing_zone_29" type="FISHING"> <!-- Остров Душ - восточное побережье -->
+		<set name="distribution_id" val="2"/>
+		<polygon>
+			<coords loc="-111370 100078 -4892 -1892"/>
+			<coords loc="-77020 67100 -4892 -1892"/>
+			<coords loc="-65711 190964 -4892 -1892"/>
+			<coords loc="-99937 150239 -4892 -1892"/>
+		</polygon>
+	</zone>
+</list>

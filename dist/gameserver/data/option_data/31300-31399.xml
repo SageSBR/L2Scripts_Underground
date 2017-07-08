@@ -1,0 +1,512 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<option_data id="31300">
+		<for>
+			<add order="0x60" stat="bleedPower" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="31301">
+		<for>
+			<add order="0x60" stat="bleedPower" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="31302">
+		<for>
+			<add order="0x60" stat="bleedPower" value="9"/>
+		</for>
+	</option_data>
+	<option_data id="31303">
+		<for>
+			<add order="0x60" stat="bleedPower" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="31304">
+		<for>
+			<add order="0x60" stat="bleedPower" value="12"/>
+		</for>
+	</option_data>
+	<option_data id="31305">
+		<for>
+			<add order="0x60" stat="bleedPower" value="15"/>
+		</for>
+	</option_data>
+	<option_data id="31306">
+		<for>
+			<add order="0x60" stat="bleedPower" value="30"/>
+		</for>
+	</option_data>
+	<option_data id="31307">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="3"/>
+		</for>
+	</option_data>
+	<option_data id="31308">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="31309">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="31310">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="31311">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="9"/>
+		</for>
+	</option_data>
+	<option_data id="31312">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="31313">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="12"/>
+		</for>
+	</option_data>
+	<option_data id="31314">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="15"/>
+		</for>
+	</option_data>
+	<option_data id="31315">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="30"/>
+		</for>
+	</option_data>
+	<option_data id="31316">
+		<for>
+			<add order="0x60" stat="mentalPower" value="3"/>
+		</for>
+	</option_data>
+	<option_data id="31317">
+		<for>
+			<add order="0x60" stat="mentalPower" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="31318">
+		<for>
+			<add order="0x60" stat="mentalPower" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="31319">
+		<for>
+			<add order="0x60" stat="mentalPower" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="31320">
+		<for>
+			<add order="0x60" stat="mentalPower" value="9"/>
+		</for>
+	</option_data>
+	<option_data id="31321">
+		<for>
+			<add order="0x60" stat="mentalPower" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="31322">
+		<for>
+			<add order="0x60" stat="mentalPower" value="12"/>
+		</for>
+	</option_data>
+	<option_data id="31323">
+		<for>
+			<add order="0x60" stat="mentalPower" value="15"/>
+		</for>
+	</option_data>
+	<option_data id="31324">
+		<for>
+			<add order="0x60" stat="mentalPower" value="30"/>
+		</for>
+	</option_data>
+	<option_data id="31325">
+		<for>
+			<add order="0x60" stat="sleepPower" value="3"/>
+		</for>
+	</option_data>
+	<option_data id="31326">
+		<for>
+			<add order="0x60" stat="sleepPower" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="31327">
+		<for>
+			<add order="0x60" stat="sleepPower" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="31328">
+		<for>
+			<add order="0x60" stat="sleepPower" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="31329">
+		<for>
+			<add order="0x60" stat="sleepPower" value="9"/>
+		</for>
+	</option_data>
+	<option_data id="31330">
+		<for>
+			<add order="0x60" stat="sleepPower" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="31331">
+		<for>
+			<add order="0x60" stat="sleepPower" value="12"/>
+		</for>
+	</option_data>
+	<option_data id="31332">
+		<for>
+			<add order="0x60" stat="sleepPower" value="15"/>
+		</for>
+	</option_data>
+	<option_data id="31333">
+		<for>
+			<add order="0x60" stat="sleepPower" value="30"/>
+		</for>
+	</option_data>
+	<option_data id="31334">
+		<for>
+			<add order="0x60" stat="poisonPower" value="3"/>
+		</for>
+	</option_data>
+	<option_data id="31335">
+		<for>
+			<add order="0x60" stat="poisonPower" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="31336">
+		<for>
+			<add order="0x60" stat="poisonPower" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="31337">
+		<for>
+			<add order="0x60" stat="poisonPower" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="31338">
+		<for>
+			<add order="0x60" stat="poisonPower" value="9"/>
+		</for>
+	</option_data>
+	<option_data id="31339">
+		<for>
+			<add order="0x60" stat="poisonPower" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="31340">
+		<for>
+			<add order="0x60" stat="poisonPower" value="12"/>
+		</for>
+	</option_data>
+	<option_data id="31341">
+		<for>
+			<add order="0x60" stat="poisonPower" value="15"/>
+		</for>
+	</option_data>
+	<option_data id="31342">
+		<for>
+			<add order="0x60" stat="poisonPower" value="30"/>
+		</for>
+	</option_data>
+	<option_data id="31343">
+		<for>
+			<add order="0x60" stat="knockDownPower" value="3"/>
+			<add order="0x60" stat="knockBackPower" value="3"/>
+		</for>
+	</option_data>
+	<option_data id="31344">
+		<for>
+			<add order="0x60" stat="knockDownPower" value="5"/>
+			<add order="0x60" stat="knockBackPower" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="31345">
+		<for>
+			<add order="0x60" stat="knockDownPower" value="6"/>
+			<add order="0x60" stat="knockBackPower" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="31346">
+		<for>
+			<add order="0x60" stat="knockDownPower" value="7"/>
+			<add order="0x60" stat="knockBackPower" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="31347">
+		<for>
+			<add order="0x60" stat="knockDownPower" value="9"/>
+			<add order="0x60" stat="knockBackPower" value="9"/>
+		</for>
+	</option_data>
+	<option_data id="31348">
+		<for>
+			<add order="0x60" stat="knockDownPower" value="10"/>
+			<add order="0x60" stat="knockBackPower" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="31349">
+		<for>
+			<add order="0x60" stat="knockDownPower" value="12"/>
+			<add order="0x60" stat="knockBackPower" value="12"/>
+		</for>
+	</option_data>
+	<option_data id="31350">
+		<for>
+			<add order="0x60" stat="knockDownPower" value="15"/>
+			<add order="0x60" stat="knockBackPower" value="15"/>
+		</for>
+	</option_data>
+	<option_data id="31351">
+		<for>
+			<add order="0x60" stat="knockDownPower" value="30"/>
+			<add order="0x60" stat="knockBackPower" value="30"/>
+		</for>
+	</option_data>
+	<option_data id="31352">
+		<for>
+			<add order="0x60" stat="airjokePower" value="3"/>
+		</for>
+	</option_data>
+	<option_data id="31353">
+		<for>
+			<add order="0x60" stat="airjokePower" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="31354">
+		<for>
+			<add order="0x60" stat="airjokePower" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="31355">
+		<for>
+			<add order="0x60" stat="airjokePower" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="31356">
+		<for>
+			<add order="0x60" stat="airjokePower" value="9"/>
+		</for>
+	</option_data>
+	<option_data id="31357">
+		<for>
+			<add order="0x60" stat="airjokePower" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="31358">
+		<for>
+			<add order="0x60" stat="airjokePower" value="12"/>
+		</for>
+	</option_data>
+	<option_data id="31359">
+		<for>
+			<add order="0x60" stat="airjokePower" value="15"/>
+		</for>
+	</option_data>
+	<option_data id="31360">
+		<for>
+			<add order="0x60" stat="airjokePower" value="30"/>
+		</for>
+	</option_data>
+	<option_data id="31361">
+		<for>
+			<add order="0x60" stat="pullPower" value="3"/>
+		</for>
+	</option_data>
+	<option_data id="31362">
+		<for>
+			<add order="0x60" stat="pullPower" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="31363">
+		<for>
+			<add order="0x60" stat="pullPower" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="31364">
+		<for>
+			<add order="0x60" stat="pullPower" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="31365">
+		<for>
+			<add order="0x60" stat="pullPower" value="9"/>
+		</for>
+	</option_data>
+	<option_data id="31366">
+		<for>
+			<add order="0x60" stat="pullPower" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="31367">
+		<for>
+			<add order="0x60" stat="pullPower" value="12"/>
+		</for>
+	</option_data>
+	<option_data id="31368">
+		<for>
+			<add order="0x60" stat="pullPower" value="15"/>
+		</for>
+	</option_data>
+	<option_data id="31369">
+		<for>
+			<add order="0x60" stat="pullPower" value="30"/>
+		</for>
+	</option_data>
+	<option_data id="31370">
+		<skills>
+			<skill id="13764" level="26"/> <!--Предметное умение: шанс превратить в камень-->
+		</skills>
+	</option_data>
+	<option_data id="31371">
+		<skills>
+			<skill id="13764" level="27"/> <!--Предметное умение: шанс превратить в камень-->
+		</skills>
+	</option_data>
+	<option_data id="31372">
+		<skills>
+			<skill id="13764" level="28"/> <!--Предметное умение: шанс превратить в камень-->
+		</skills>
+	</option_data>
+	<option_data id="31373">
+		<skills>
+			<skill id="13764" level="29"/> <!--Предметное умение: шанс превратить в камень-->
+		</skills>
+	</option_data>
+	<option_data id="31374">
+		<skills>
+			<skill id="13764" level="30"/> <!--Предметное умение: шанс превратить в камень-->
+		</skills>
+	</option_data>
+	<option_data id="31375">
+		<skills>
+			<skill id="13764" level="31"/> <!--Предметное умение: шанс превратить в камень-->
+		</skills>
+	</option_data>
+	<option_data id="31376">
+		<skills>
+			<skill id="13764" level="32"/> <!--Предметное умение: шанс превратить в камень-->
+		</skills>
+	</option_data>
+	<option_data id="31377">
+		<skills>
+			<skill id="13764" level="33"/> <!--Предметное умение: шанс превратить в камень-->
+		</skills>
+	</option_data>
+	<option_data id="31378">
+		<skills>
+			<skill id="13764" level="34"/> <!--Предметное умение: шанс превратить в камень-->
+		</skills>
+	</option_data>
+	<option_data id="31379">
+		<for>
+			<add order="0x60" stat="pDef" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="31380">
+		<for>
+			<add order="0x60" stat="pDef" value="9"/>
+		</for>
+	</option_data>
+	<option_data id="31381">
+		<for>
+			<add order="0x60" stat="pDef" value="11"/>
+		</for>
+	</option_data>
+	<option_data id="31382">
+		<for>
+			<add order="0x60" stat="pDef" value="14"/>
+		</for>
+	</option_data>
+	<option_data id="31383">
+		<for>
+			<add order="0x60" stat="pDef" value="17"/>
+		</for>
+	</option_data>
+	<option_data id="31384">
+		<for>
+			<add order="0x60" stat="pDef" value="21"/>
+		</for>
+	</option_data>
+	<option_data id="31385">
+		<for>
+			<add order="0x60" stat="pDef" value="24"/>
+		</for>
+	</option_data>
+	<option_data id="31386">
+		<for>
+			<add order="0x60" stat="pDef" value="28"/>
+		</for>
+	</option_data>
+	<option_data id="31387">
+		<for>
+			<add order="0x60" stat="pDef" value="35"/>
+		</for>
+	</option_data>
+	<option_data id="31388">
+		<for>
+			<add order="0x60" stat="pDef" value="70"/>
+		</for>
+	</option_data>
+	<option_data id="31389">
+		<for>
+			<add order="0x60" stat="mDef" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="31390">
+		<for>
+			<add order="0x60" stat="mDef" value="9"/>
+		</for>
+	</option_data>
+	<option_data id="31391">
+		<for>
+			<add order="0x60" stat="mDef" value="11"/>
+		</for>
+	</option_data>
+	<option_data id="31392">
+		<for>
+			<add order="0x60" stat="mDef" value="14"/>
+		</for>
+	</option_data>
+	<option_data id="31393">
+		<for>
+			<add order="0x60" stat="mDef" value="17"/>
+		</for>
+	</option_data>
+	<option_data id="31394">
+		<for>
+			<add order="0x60" stat="mDef" value="21"/>
+		</for>
+	</option_data>
+	<option_data id="31395">
+		<for>
+			<add order="0x60" stat="mDef" value="24"/>
+		</for>
+	</option_data>
+	<option_data id="31396">
+		<for>
+			<add order="0x60" stat="mDef" value="28"/>
+		</for>
+	</option_data>
+	<option_data id="31397">
+		<for>
+			<add order="0x60" stat="mDef" value="35"/>
+		</for>
+	</option_data>
+	<option_data id="31398">
+		<for>
+			<add order="0x60" stat="mDef" value="70"/>
+		</for>
+	</option_data>
+	<option_data id="31399">
+		<for>
+			<add order="0x60" stat="pEvasRate" value="1"/>
+		</for>
+	</option_data>
+</list>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<etcitem id="27500" name="Сундук с Рудой Стихий" add_name="Песнь Дущи">
+		<set name="sellable" value="true"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="EXTRACTABLE_ONE"/>
+		<capsuled_items>
+			<capsuled_item id="9555" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="36975" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="9553" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="36973" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="9554" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="36974" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="9552" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="36972" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="9557" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="36977" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="9556" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="36976" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="34670" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="34668" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="34669" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="34667" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="34672" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="34671" min_count="1" max_count="1" chance="50.0"/>
+		</capsuled_items>
+	</etcitem>
+	<etcitem id="27501" name="Большой Сундук с Рудой Стихий" add_name="Песнь Дущи">
+		<set name="sellable" value="false"/>
+		<set name="handler" value="SkillsReduce"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="EXTRACTABLE_ONE"/>
+		<capsuled_items>
+			<capsuled_item id="36975" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="36973" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="36974" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="36972" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="36977" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="36976" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="34670" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="34668" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="34669" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="34667" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="34672" min_count="1" max_count="1" chance="50.0"/>
+			<capsuled_item id="34671" min_count="1" max_count="1" chance="50.0"/>
+		</capsuled_items>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+	<etcitem id="27502" name="Сундук со Свитками Модификации" add_name="Песнь Дущи">
+		<set name="sellable" value="true"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="EXTRACTABLE_ONE"/>
+		<capsuled_items>
+			<capsuled_item id="19448" min_count="1" max_count="1" chance="55.0"/>
+			<capsuled_item id="19447" min_count="1" max_count="1" chance="55.0"/>
+			<capsuled_item id="36164" min_count="1" max_count="1" chance="45.0"/>
+			<capsuled_item id="36163" min_count="1" max_count="1" chance="45.0"/>
+			<capsuled_item id="33479" min_count="1" max_count="1" chance="15.0"/>
+			<capsuled_item id="33478" min_count="1" max_count="1" chance="15.0"/>
+			<capsuled_item id="34940" min_count="1" max_count="1" chance="25.0"/>
+			<capsuled_item id="17527" min_count="1" max_count="1" chance="65.0"/>
+			<capsuled_item id="17526" min_count="1" max_count="1" chance="65.0"/>
+		</capsuled_items>
+	</etcitem>
+	<etcitem id="27503" name="Большой Сундук со Свитками Модификации" add_name="Песнь Дущи">
+		<set name="sellable" value="false"/>
+		<set name="handler" value="SkillsReduce"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+	<etcitem id="27504" name="Сундук с Камнями Модификации" add_name="Песнь Дущи">
+		<set name="sellable" value="false"/>
+		<set name="handler" value="SkillsReduce"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+	<etcitem id="27505" name="Большой Сундук с Камнями Модификации" add_name="Песнь Дущи">
+		<set name="sellable" value="false"/>
+		<set name="handler" value="SkillsReduce"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+	<etcitem id="27506" name="Сундук с Сокровищами" add_name="Песнь Души">
+		<set name="sellable" value="false"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="EXTRACTABLE_ONE"/>
+		<capsuled_items>
+			<capsuled_item id="27494" min_count="1" max_count="1" chance="10.0"/>
+			<capsuled_item id="27491" min_count="1" max_count="1" chance="1.0"/>
+			<capsuled_item id="27497" min_count="1" max_count="1" chance="15.0"/>
+			<capsuled_item id="27496" min_count="1" max_count="1" chance="18.0"/>
+			<capsuled_item id="27504" min_count="1" max_count="1" chance="18.0"/>
+			<capsuled_item id="27498" min_count="1" max_count="1" chance="8.0"/>
+			<capsuled_item id="27499" min_count="1" max_count="1" chance="35.0"/>
+			<capsuled_item id="27500" min_count="1" max_count="1" chance="65.0"/>
+			<capsuled_item id="27495" min_count="1" max_count="1" chance="8.0"/>
+			<capsuled_item id="27502" min_count="1" max_count="1" chance="15.0"/>
+		</capsuled_items>
+	</etcitem>
+	<etcitem id="27507" name="Сундук с Сокровищами Героя" add_name="Песнь Дущи">
+		<set name="sellable" value="false"/>
+		<set name="handler" value="SkillsReduce"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+	<etcitem id="27508" name="Сундук с Талисманом Изобилия" add_name="Песнь Дущи">
+		<set name="sellable" value="true"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="EXTRACTABLE_ONE"/>
+		<capsuled_items>
+			<capsuled_item id="26418" min_count="1" max_count="1" chance="20.0"/>
+			<capsuled_item id="26419" min_count="1" max_count="1" chance="20.0"/>
+			<capsuled_item id="26420" min_count="1" max_count="1" chance="20.0"/>
+			<capsuled_item id="26421" min_count="1" max_count="1" chance="20.0"/>
+			<capsuled_item id="23839" min_count="1" max_count="1" chance="5.0"/>
+			<capsuled_item id="23833" min_count="1" max_count="1" chance="15.0"/>
+			<capsuled_item id="23834" min_count="1" max_count="1" chance="15.0"/>
+			<capsuled_item id="23835" min_count="1" max_count="1" chance="15.0"/>
+			<capsuled_item id="23836" min_count="1" max_count="1" chance="15.0"/>
+			<capsuled_item id="26338" min_count="1" max_count="1" chance="7.0"/>
+			<capsuled_item id="26339" min_count="1" max_count="1" chance="7.0"/>
+			<capsuled_item id="26340" min_count="1" max_count="1" chance="7.0"/>
+			<capsuled_item id="26341" min_count="1" max_count="1" chance="7.0"/>
+			<capsuled_item id="23837" min_count="1" max_count="1" chance="10.0"/>
+			<capsuled_item id="23840" min_count="1" max_count="1" chance="10.0"/>
+			<capsuled_item id="23838" min_count="1" max_count="1" chance="10.0"/>
+		</capsuled_items>
+	</etcitem>
+	<etcitem id="27509" name="Сундук с Сокровищами" add_name="Песнь Дущи">
+		<set name="sellable" value="false"/>
+		<set name="handler" value="SkillsReduce"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+	<etcitem id="27510" name="Сундук с Сокровищами Героя" add_name="Песнь Дущи">
+		<set name="sellable" value="false"/>
+		<set name="handler" value="SkillsReduce"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+	<etcitem id="27535" name="Сундук с Сияющей Футболкой Эйнхасад +8">
+		<set name="sellable" value="false"/>
+		<set name="handler" value="SkillsReduce"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+	<etcitem id="27536" name="Сундук с Футболкой Отражения Атаки +8">
+		<set name="sellable" value="false"/>
+		<set name="handler" value="SkillsReduce"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+	<etcitem id="27537" name="Сундук с Футболкой Отражения Магии +8">
+		<set name="sellable" value="false"/>
+		<set name="handler" value="SkillsReduce"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+	<etcitem id="27538" name="Сундук Кровавого Хелиоса +7">
+		<set name="sellable" value="false"/>
+		<set name="handler" value="SkillsReduce"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+	<etcitem id="27539" name="Сундук с Двумя Драгоценными Камнями Ур. 4">
+		<set name="sellable" value="false"/>
+		<set name="handler" value="SkillsReduce"/>
+		<set name="icon" value="icon.event_hero_treasure_box_i00"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+	<etcitem id="27565" name="Сундук Неотложных Дел с Оружием Ранга C">
+		<set name="sellable" value="true"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="EXTRACTABLE"/>
+		<capsuled_items>
+			<capsuled_item id="38693" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38700" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38694" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38703" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38697" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38696" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38698" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38695" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="40291" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38701" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38702" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38699" min_count="1" max_count="1" chance="100"/>
+		</capsuled_items>
+	</etcitem>
+	<etcitem id="27566" name="Сундук Неотложных Дел с Оружием Ранга В">
+		<set name="sellable" value="true"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="EXTRACTABLE"/>
+		<capsuled_items>
+			<capsuled_item id="38711" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38712" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38707" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38714" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38706" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38708" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38710" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38715" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38709" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="40292" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38705" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38713" min_count="1" max_count="1" chance="100"/>
+		</capsuled_items>
+	</etcitem>
+	<etcitem id="27567" name="Сундук Неотложных Дел с Оружием Ранга А">
+		<set name="sellable" value="true"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="EXTRACTABLE"/>
+		<capsuled_items>
+			<capsuled_item id="38720" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38723" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38721" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38725" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38718" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38722" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38727" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38719" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38726" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38724" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="40293" min_count="1" max_count="1" chance="100"/>
+		</capsuled_items>
+	</etcitem>
+	<etcitem id="27568" name="Сундук Неотложных Дел с Оружием Ранга S">
+		<set name="sellable" value="true"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="EXTRACTABLE"/>
+		<capsuled_items>
+			<capsuled_item id="38736" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38732" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38729" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38734" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38738" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38728" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38730" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38735" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38598" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38731" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38737" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38733" min_count="1" max_count="1" chance="100"/>
+		</capsuled_items>
+	</etcitem>
+	<etcitem id="27569" name="Сундук Неотложных Дел с Оружием Династии">
+		<set name="sellable" value="true"/>
+		<set name="weight" value="10"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="EXTRACTABLE"/>
+		<capsuled_items>
+			<capsuled_item id="38742" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38740" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38746" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38741" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38744" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38745" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38747" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38748" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38749" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38743" min_count="1" max_count="1" chance="100"/>
+			<capsuled_item id="38739" min_count="1" max_count="1" chance="100"/>
+		</capsuled_items>
+	</etcitem>
+</list>

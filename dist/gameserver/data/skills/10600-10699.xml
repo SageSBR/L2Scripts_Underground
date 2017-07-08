@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="10606" levels="1" name="Shadow Dodge">
+		<table name="#pDef">1</table>
+		<table name="#mDef">1</table>
+		<set name="icon" value="icon.skill11862"/>
+		<set name="reuseDelay" value="120000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="1000"/>
+		<set name="mp_consume" value="38"/>
+		<set name="abnormal_time" value="10"/>
+		<set name="magicLevel" value="99"/>
+		<set name="magicType" value="ITEM"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="target" value="TARGET_SELF"/>
+		<cond msgId="113" addName="1">
+			<using kind="Dagger,Dual Dagger"/>
+		</cond>
+		<enchant_info type="1" name="Shield">
+			<enchant_tables skill_level="1" enchant_levels="30">
+				<table name="#pDef">1.01 1.014 1.018 1.022 1.026 1.03 1.034 1.038 1.042 1.046 1.05 1.054 1.058 1.062 1.066 1.07 1.074 1.078 1.082 1.086 1.09 1.094 1.098 1.102 1.106 1.11 1.114 1.118 1.122 1.126</table>
+			</enchant_tables>
+		</enchant_info>
+		<enchant_info type="2" name="Magic Shield">
+			<enchant_tables skill_level="1" enchant_levels="30">
+			<table name="#mDef">1.01 1.014 1.018 1.022 1.026 1.03 1.034 1.038 1.042 1.046 1.05 1.054 1.058 1.062 1.066 1.07 1.074 1.078 1.082 1.086 1.09 1.094 1.098 1.102 1.106 1.11 1.114 1.118 1.122 1.126</table>
+			</enchant_tables>
+		</enchant_info>
+		<for>
+			<effect>
+				<add order="0x40" stat="pSkillEvasion" value="90"/>
+				<mul order="0x30" stat="pDef" value="#pDef"/>
+				<mul order="0x30" stat="mDef" value="#mDef"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10607" levels="1" name="Maximum Mortality">
+		<set name="icon" value="icon.skill10607"/>
+		<set name="reuseDelay" value="300000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="1000"/>
+		<set name="mp_consume" value="38"/>
+		<set name="abnormal_time" value="60"/>
+		<set name="lethal2DepensencyAddon" value="20"/>
+		<set name="lethal2SkillDepencensyAddon" value="10607"/>
+		<set name="magicLevel" value="99"/>
+		<set name="magicType" value="ITEM"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="target" value="TARGET_SELF"/>
+		<cond msgId="113" addName="1">
+			<using kind="Dagger,Dual Dagger"/>
+		</cond>
+		<for>
+			<effect>
+				<mul order="0x30" stat="pAtkSpd" value="1.0"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10608" levels="4" name="Superior Haste">
+		<table name="#magicLevel">85 90 95 99</table>
+		<table name="#reuse">0.95 0.94 0.93 0.9</table>
+		<table name="#spd">5 6 7 10</table>
+		<set name="icon" value="icon.skill10608"/>
+		<set name="magicLevel" value="#magicLevel"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="target" value="TARGET_SELF"/>
+		<for>
+			<mul order="0x30" stat="mReuse" value="#reuse"/>
+			<mul order="0x30" stat="pReuse" value="#reuse"/>
+			<add order="0x40" stat="runSpd" value="#spd"/>
+		</for>
+	</skill>
+	<skill id="10609" levels="1" name="Critical Chances">
+		<table name="#TabrunSpd">0</table>
+		<table name="#abnormal_time">300</table>
+		<set name="icon" value="icon.skill10878"/>
+		<set name="reuseDelay" value="30000"/>
+		<set name="hitTime" value="2000"/>
+		<set name="mp_consume" value="36"/>
+		<set name="ride_state" value="NONE"/>
+		<set name="abnormal_time" value="#abnormal_time"/>
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_type" value="focus_dagger"/>
+		<set name="magicLevel" value="85"/>
+		<set name="hitCancelTime" value="500"/>
+		<set name="effectPoint" value="669"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<cond msgId="113">
+			<using kind="Dagger,Dual Dagger"/>
+		</cond>
+		<enchant_info type="1" name="Time">
+			<enchant_tables skill_level="1" enchant_levels="30">
+				<table name="#abnormal_time" type="ADD">15 30 45 60 75 90 105 120 135 150 165 180 195 210 225 240 255 270 285 300 315 330 345 360 375 390 405 420 435 450</table>
+			</enchant_tables>
+		</enchant_info>
+		<enchant_info type="2" name="Wind">
+			<enchant_tables skill_level="1" enchant_levels="30">
+				<table name="#TabrunSpd" type="ADD">2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60</table>
+			</enchant_tables>
+		</enchant_info>
+		<for>
+			<effect>
+				<mul order="0x30" stat="pCritDamage" value="0.7">
+					<target direction="front"/>
+				</mul>
+				<mul order="0x30" stat="pCritRate" value="0.7">
+					<target direction="front"/>
+				</mul>				
+				<mul order="0x30" stat="pCritDamage" value="1.3">
+					<and>
+						<target direction="side"/>
+						<not>
+							<target direction="behind"/>
+						</not>
+					</and>
+				</mul>
+				<mul order="0x30" stat="pCritRate" value="1.3">
+					<and>
+						<target direction="side"/>
+						<not>
+							<target direction="behind"/>
+						</not>
+					</and>
+				</mul>				
+				<mul order="0x30" stat="pCritDamage" value="1.5">
+					<and>
+						<target direction="behind"/>
+						<not>
+							<target direction="side"/>
+						</not>
+					</and>
+				</mul>
+				<mul order="0x30" stat="pCritRate" value="1.5">
+					<and>
+						<target direction="behind"/>
+						<not>
+							<target direction="side"/>
+						</not>
+					</and>
+				</mul>				
+				<mul order="0x30" stat="blowRate" value="1.15"/>
+				<add order="0x40" stat="pCritDamageStatic" value="304"/>
+				<add order="0x40" stat="runSpd" value="#TabrunSpd"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10610" levels="1" name="Critical Expansions">
+		<set name="icon" value="icon.skill0819"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="target" value="TARGET_SELF"/>
+		<for>
+			<add order="0x40" stat="basePCritRate" value="500">
+				<using kind="Dagger,Dual Dagger"/>
+			</add>
+		</for>
+	</skill>
+	<skill id="10653" levels="1" name="Melee Reflect">
+		<table name="#pDef">1</table>
+		<table name="#mDef">1</table>
+		<set name="icon" value="icon.skill11863"/>
+		<set name="reuseDelay" value="120000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="1000"/>
+		<set name="mp_consume" value="38"/>
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_time" value="10"/>
+		<set name="abnormal_type" value="avoid_skill_special"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="target" value="TARGET_SELF"/>
+		<enchant_info type="1" name="Shield">
+			<enchant_tables skill_level="1" enchant_levels="30">
+				<table name="#pDef">1.01 1.014 1.018 1.022 1.026 1.03 1.034 1.038 1.042 1.046 1.05 1.054 1.058 1.062 1.066 1.07 1.074 1.078 1.082 1.086 1.09 1.094 1.098 1.102 1.106 1.11 1.114 1.118 1.122 1.126</table>
+			</enchant_tables>
+		</enchant_info>
+		<enchant_info type="2" name="Magic Shield">
+			<enchant_tables skill_level="1" enchant_levels="30">
+				<table name="#mDef">1.01 1.014 1.018 1.022 1.026 1.03 1.034 1.038 1.042 1.046 1.05 1.054 1.058 1.062 1.066 1.07 1.074 1.078 1.082 1.086 1.09 1.094 1.098 1.102 1.106 1.11 1.114 1.118 1.122 1.126</table>
+			</enchant_tables>
+		</enchant_info>
+		<for>
+			<effect>
+				<add order="0x40" stat="reflectPSkillDam" value="50"/> <!--maybe more or less? !-->
+				<mul order="0x30" stat="pDef" value="#pDef"/>
+				<mul order="0x30" stat="mDef" value="#mDef"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10654" levels="1" name="Maximum Mortality">
+		<set name="icon" value="icon.skill10607"/>
+		<set name="reuseDelay" value="300000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="1000"/>
+		<set name="mp_consume" value="38"/>
+		<set name="abnormal_time" value="60"/>
+		<set name="lethal2DepensencyAddon" value="20"/>
+		<set name="lethal2SkillDepencensyAddon" value="10654"/>
+		<set name="magicLevel" value="85"/>
+		<set name="magicType" value="ITEM"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="target" value="TARGET_SELF"/>
+		<cond msgId="113" addName="1">
+			<using kind="Dagger,Dual Dagger"/>
+		</cond>
+		<for>
+			<effect>
+				<mul order="0x30" stat="pAtkSpd" value="1.0"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10655" levels="4" name="Superior Critical Damage">
+		<table name="#dam">1.05 1.06 1.07 1.10</table>
+		<table name="#magicLevel">85 90 95 99</table>
+		<table name="#spd">2 3 4 5</table>
+		<set name="icon" value="icon.skill10655"/>
+		<set name="magicLevel" value="#magicLevel"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="target" value="TARGET_SELF"/>
+		<for>
+			<mul order="0x30" stat="pCritDamage" value="#dam"/>
+			<add order="0x40" stat="runSpd" value="#spd"/>
+		</for>
+	</skill>
+	<skill id="10656" levels="1" name="Critical Prowess">
+		<table name="#TabrunSpd">0</table>
+		<table name="#abnormal_time">300</table>
+		<set name="icon" value="icon.skill10656"/>
+		<set name="reuseDelay" value="30000"/>
+		<set name="hitTime" value="2000"/>
+		<set name="mp_consume" value="36"/>
+		<set name="ride_state" value="NONE"/>
+		<set name="abnormal_time" value="300"/>
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_type" value="focus_dagger"/>
+		<set name="magicLevel" value="85"/>
+		<set name="hitCancelTime" value="500"/>
+		<set name="effectPoint" value="669"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<cond msgId="113">
+			<using kind="Dagger,Dual Dagger"/>
+		</cond>
+		<enchant_info type="1" name="Time">
+			<enchant_tables skill_level="1" enchant_levels="30">
+				<table name="#abnormal_time" type="ADD">15 30 45 60 75 90 105 120 135 150 165 180 195 210 225 240 255 270 285 300 315 330 345 360 375 390 405 420 435 450</table>
+			</enchant_tables>
+		</enchant_info>
+		<enchant_info type="2" name="Wind">
+			<enchant_tables skill_level="1" enchant_levels="30">
+				<table name="#TabrunSpd" type="ADD">2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60</table>
+			</enchant_tables>
+		</enchant_info>
+		<for>
+			<effect>
+				<mul order="0x30" stat="pCritDamage" value="0.7">
+					<target direction="front"/>
+				</mul>
+				<mul order="0x30" stat="pCritDamage" value="1.3">
+					<and>
+						<target direction="side"/>
+						<not>
+							<target direction="behind"/>
+						</not>
+					</and>
+				</mul>
+				<mul order="0x30" stat="pCritDamage" value="1.5">
+					<and>
+						<target direction="behind"/>
+						<not>
+							<target direction="side"/>
+						</not>
+					</and>
+				</mul>
+				<mul order="0x30" stat="blowRate" value="1.05"/>
+				<add order="0x40" stat="pCritDamageStatic" value="608"/>
+				<add order="0x40" stat="runSpd" value="#TabrunSpd"/>
+			</effect>
+		</for>
+	</skill>
+</list>

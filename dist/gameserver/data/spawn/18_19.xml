@@ -1,0 +1,2493 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<list>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-46963" y="59430" z="-3184" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46986" y="59015" z="-3184" h="24945" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47498" y="58584" z="-3168" h="54760" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48108" y="58930" z="-3160" h="47525" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47879" y="58628" z="-3192" h="28339" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48044" y="59035" z="-3152" h="15945" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48011" y="58462" z="-3168" h="13687" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-47966" y="57823" z="-3096" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-48080" y="57810" z="-3096" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47922" y="57474" z="-3088" h="34010" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47966" y="57725" z="-3096" h="36802" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47792" y="57386" z="-3104" h="43437" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47638" y="57358" z="-3120" h="38202" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47676" y="57416" z="-3120" h="40795" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47768" y="58846" z="-3192" h="38785" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48084" y="59146" z="-3160" h="16994" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45097" y="57669" z="-2944" h="54878" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45088" y="57475" z="-2936" h="46172" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45343" y="57845" z="-2952" h="61069" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45180" y="57784" z="-2944" h="31622" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45086" y="57498" z="-2936" h="15976" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45197" y="57473" z="-2936" h="1156" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46689" y="57687" z="-3176" h="35684" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46369" y="57826" z="-3176" h="58264" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46419" y="57444" z="-3184" h="20309" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-46091" y="57349" z="-3184" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46352" y="57567" z="-3184" h="48516" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46784" y="58810" z="-3184" h="4097" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46549" y="58338" z="-3160" h="60894" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-46119" y="57716" z="-3184" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-46903" y="59349" z="-3184" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-47084" y="59379" z="-3184" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45690" y="58901" z="-2864" h="36407" />
+		<npc id="19594" /><!---->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45579" y="59169" z="-2904" h="55286" />
+		<npc id="34063" /><!--Glenkinchie-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45419" y="59066" z="-2864" h="54421" />
+		<npc id="19594" /><!---->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45675" y="59130" z="-2904" h="54353" />
+		<npc id="34059" /><!--Barton-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46725" y="58134" z="-3160" h="13695" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46825" y="58458" z="-3168" h="36981" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46653" y="58309" z="-3160" h="0" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47153" y="59057" z="-3184" h="30571" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47158" y="59069" z="-3184" h="33640" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48250" y="55924" z="-3160" h="8099" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47699" y="55389" z="-3160" h="14967" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48325" y="56013" z="-3160" h="21950" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48093" y="56144" z="-3144" h="26394" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47791" y="55345" z="-3160" h="56841" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47960" y="55733" z="-3160" h="62455" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48273" y="55592" z="-3160" h="45192" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48203" y="56071" z="-3144" h="24040" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47935" y="55692" z="-3160" h="6157" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47676" y="56691" z="-3160" h="31016" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47592" y="56929" z="-3152" h="52317" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47653" y="56581" z="-3176" h="36864" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47577" y="56685" z="-3176" h="31275" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47663" y="56786" z="-3152" h="13469" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-47475" y="56483" z="-3192" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-47472" y="56566" z="-3192" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-47418" y="56620" z="-3192" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45049" y="56543" z="-2976" h="33491" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45324" y="55777" z="-2968" h="25750" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45165" y="55856" z="-2976" h="7757" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45227" y="56440" z="-2976" h="33773" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45205" y="56353" z="-2976" h="38617" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45346" y="55969" z="-2984" h="63897" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45559" y="55552" z="-2952" h="9294" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45519" y="55612" z="-2952" h="59426" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45639" y="55552" z="-2952" h="58908" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45459" y="55532" z="-2936" h="34883" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44992" y="56483" z="-2976" h="4196" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45140" y="56663" z="-2976" h="55017" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45085" y="56575" z="-2976" h="6814" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45207" y="57187" z="-2952" h="49789" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45349" y="55667" z="-2952" h="25890" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45068" y="56534" z="-2976" h="55763" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46760" y="55545" z="-3184" h="11683" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46719" y="56873" z="-3184" h="0" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46505" y="56225" z="-3184" h="36619" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46346" y="56355" z="-3184" h="34075" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46855" y="55793" z="-3184" h="39769" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46782" y="55615" z="-3184" h="7542" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47188" y="55442" z="-3184" h="36900" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46362" y="56172" z="-3184" h="40283" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47112" y="55462" z="-3184" h="34879" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46680" y="56163" z="-3184" h="14265" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46990" y="55893" z="-3184" h="54251" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46750" y="55820" z="-3184" h="64406" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46623" y="56856" z="-3184" h="46822" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46403" y="56327" z="-3184" h="9767" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46567" y="56264" z="-3184" h="12835" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-46021" y="56542" z="-3184" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-46008" y="56349" z="-3184" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46796" y="56871" z="-3184" h="260" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46759" y="56790" z="-3184" h="42875" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-45623" y="55734" z="-2968" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46406" y="56127" z="-3184" h="38676" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-45513" y="56006" z="-2984" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-45361" y="56058" z="-2984" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43007" y="57126" z="-2856" h="39406" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43178" y="57028" z="-2864" h="18769" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44896" y="55650" z="-2936" h="8047" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44803" y="55501" z="-2920" h="51092" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44590" y="56229" z="-2952" h="18207" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44461" y="56358" z="-2904" h="46126" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44909" y="55539" z="-2952" h="36319" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44953" y="55574" z="-2960" h="31635" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44571" y="56218" z="-2944" h="5542" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44876" y="55610" z="-2936" h="14744" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44593" y="56553" z="-2960" h="21173" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44450" y="56463" z="-2912" h="65496" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44606" y="56267" z="-2960" h="12757" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44901" y="55646" z="-2936" h="6926" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44614" y="56238" z="-2960" h="10241" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44723" y="55650" z="-2936" h="62564" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45220" y="55311" z="-2936" h="37789" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42883" y="57035" z="-2856" h="32327" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42988" y="57078" z="-2856" h="27410" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43243" y="57530" z="-2888" h="60545" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43299" y="57775" z="-2888" h="2365" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43372" y="57528" z="-2896" h="32067" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44196" y="58173" z="-2920" h="780" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44259" y="58311" z="-2936" h="7242" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44379" y="58525" z="-2944" h="37702" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44062" y="58136" z="-2912" h="46975" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44149" y="58372" z="-2944" h="35592" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44406" y="58208" z="-2912" h="21504" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44051" y="58283" z="-2944" h="17936" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47443" y="54748" z="-3184" h="53603" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47473" y="54995" z="-3184" h="45272" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47824" y="55222" z="-3160" h="42319" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47511" y="54741" z="-3184" h="35135" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47815" y="55251" z="-3160" h="47877" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47489" y="54888" z="-3184" h="19574" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-48310" y="54882" z="-3160" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-48533" y="55274" z="-3160" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-48476" y="55089" z="-3160" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48853" y="53439" z="-2360" h="0" />
+		<npc id="34139" /><!--Karrod-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-47535" y="54523" z="-3184" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="120" respawn_random="0" period_of_day="none">
+		<point x="-48119" y="54908" z="-3160" h="0" />
+		<npc id="34137" /><!--Embryo Supply Box-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45105" y="55173" z="-2920" h="48404" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45124" y="55258" z="-2944" h="4319" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46791" y="54780" z="-3120" h="55509" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46662" y="54789" z="-3096" h="218" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46501" y="54818" z="-3064" h="9176" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46745" y="54741" z="-3112" h="30577" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45702" y="54846" z="-2960" h="19104" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46763" y="54971" z="-3128" h="20514" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46799" y="54981" z="-3128" h="11508" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45828" y="54827" z="-2968" h="1102" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45512" y="54772" z="-2928" h="55502" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46066" y="54776" z="-2968" h="607" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45677" y="54810" z="-2944" h="24992" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45646" y="54905" z="-2944" h="4485" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46684" y="54774" z="-3080" h="21113" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45930" y="54746" z="-2960" h="32767" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45044" y="55234" z="-2920" h="24852" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43692" y="54198" z="-2816" h="47411" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43334" y="54878" z="-2808" h="58202" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43443" y="54534" z="-2800" h="7546" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43387" y="54628" z="-2800" h="35050" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44110" y="53980" z="-2848" h="61995" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43364" y="54868" z="-2808" h="34077" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43437" y="54480" z="-2816" h="64756" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42962" y="55786" z="-2840" h="42856" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42911" y="55895" z="-2848" h="41183" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42933" y="56103" z="-2848" h="7636" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42927" y="56010" z="-2848" h="40663" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42980" y="55796" z="-2840" h="57547" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43002" y="56518" z="-2856" h="49747" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43189" y="55502" z="-2808" h="32534" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47240" y="51535" z="-2376" h="12344" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46972" y="51664" z="-2376" h="56332" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47195" y="51737" z="-2376" h="47409" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44576" y="55784" z="-2904" h="49035" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44701" y="55813" z="-2944" h="14904" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47839" y="49180" z="-2400" h="58790" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47527" y="49438" z="-2400" h="16252" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47793" y="49182" z="-2400" h="37956" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47172" y="49520" z="-2392" h="29025" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47633" y="49051" z="-2400" h="45135" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47476" y="49052" z="-2400" h="52550" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47255" y="49620" z="-2384" h="23025" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48106" y="49898" z="-2352" h="29873" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48025" y="50089" z="-2376" h="56338" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48289" y="49775" z="-2376" h="27931" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47980" y="51011" z="-2400" h="65305" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48229" y="51031" z="-2400" h="23270" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48211" y="50261" z="-2376" h="40961" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48084" y="50880" z="-2384" h="61568" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48371" y="49950" z="-2384" h="56696" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47969" y="50896" z="-2376" h="12641" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48221" y="50015" z="-2392" h="13266" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48357" y="49941" z="-2384" h="33423" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47287" y="51920" z="-2400" h="42936" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47525" y="51470" z="-2400" h="11902" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47372" y="51631" z="-2384" h="8886" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47239" y="51907" z="-2400" h="20710" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47749" y="52707" z="-2400" h="26440" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47968" y="52916" z="-2400" h="30021" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47615" y="52627" z="-2400" h="47587" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47487" y="52911" z="-2384" h="27050" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47809" y="52975" z="-2400" h="28831" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47840" y="52848" z="-2400" h="57040" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47939" y="52802" z="-2400" h="26860" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48409" y="51877" z="-2384" h="30742" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48527" y="52071" z="-2384" h="59743" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48464" y="51802" z="-2384" h="47932" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48430" y="51917" z="-2384" h="30486" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48330" y="51877" z="-2384" h="3039" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48517" y="52076" z="-2384" h="31369" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48526" y="52066" z="-2384" h="20514" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46382" y="50287" z="-2384" h="29218" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45304" y="49133" z="-2392" h="26521" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45020" y="49160" z="-2360" h="54375" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45009" y="49138" z="-2360" h="56610" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45357" y="49062" z="-2400" h="39852" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46955" y="49493" z="-2400" h="53291" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46989" y="49635" z="-2392" h="16121" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45100" y="49149" z="-2376" h="15162" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46121" y="49742" z="-2400" h="30480" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46033" y="49478" z="-2400" h="1275" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46142" y="49387" z="-2400" h="46650" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46105" y="49758" z="-2400" h="50450" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46082" y="49589" z="-2400" h="20595" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46238" y="49471" z="-2400" h="30794" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45046" y="49100" z="-2360" h="51666" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46435" y="50076" z="-2400" h="13553" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46367" y="50310" z="-2384" h="12458" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46029" y="49709" z="-2400" h="39741" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46335" y="50194" z="-2384" h="32592" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46358" y="50338" z="-2384" h="12533" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45140" y="49101" z="-2376" h="58962" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46909" y="50991" z="-2376" h="0" />
+		<npc id="34140" /><!--Aios-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43300" y="50152" z="-2048" h="60739" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43346" y="49707" z="-2048" h="35226" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43444" y="50060" z="-2064" h="13481" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43634" y="50208" z="-2080" h="33638" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43344" y="49778" z="-2048" h="56854" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43339" y="49461" z="-2048" h="2450" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43129" y="49723" z="-2048" h="43624" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43718" y="50770" z="-2088" h="0" />
+		<npc id="34143" /><!--Sumari-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49443" y="51221" z="-2400" h="12641" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49391" y="51202" z="-2400" h="15683" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49168" y="51263" z="-2400" h="17371" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49195" y="51209" z="-2400" h="8396" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49660" y="50672" z="-2400" h="0" />
+		<npc id="34141" /><!--Bronk-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49489" y="51518" z="-2400" h="58778" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49445" y="51264" z="-2400" h="14188" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49480" y="51358" z="-2400" h="17608" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49440" y="53085" z="-2440" h="49627" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49353" y="53040" z="-2424" h="38781" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49370" y="53144" z="-2408" h="27643" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49262" y="53439" z="-2400" h="47879" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49274" y="53205" z="-2408" h="13616" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49205" y="53033" z="-2408" h="18854" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49492" y="53098" z="-2440" h="26440" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49229" y="48459" z="-1688" h="15683" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49083" y="48260" z="-1696" h="22871" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49174" y="48593" z="-1672" h="34092" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49412" y="48441" z="-1704" h="19942" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49390" y="48481" z="-1704" h="51246" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-50156" y="47925" z="-1728" h="43204" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49952" y="47889" z="-1744" h="63206" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-50511" y="48179" z="-1632" h="22832" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-50359" y="48195" z="-1664" h="29393" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-50261" y="48155" z="-1696" h="43776" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49094" y="47076" z="-1728" h="5545" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48763" y="47753" z="-1752" h="14461" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48912" y="47565" z="-1768" h="17021" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47233" y="47998" z="-2400" h="0" />
+		<npc id="34144" /><!--Lansia-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48128" y="49095" z="-2400" h="0" />
+		<npc id="34142" /><!--Brunon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49081" y="47611" z="-1768" h="58766" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49028" y="47698" z="-1768" h="18821" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45887" y="48232" z="-2392" h="17034" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45928" y="48217" z="-2392" h="32418" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46647" y="48007" z="-2400" h="17429" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46576" y="48054" z="-2400" h="36878" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46595" y="47934" z="-2400" h="26230" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47067" y="48947" z="-2400" h="29383" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46328" y="48494" z="-2400" h="11060" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46546" y="48784" z="-2400" h="54841" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45717" y="48595" z="-2384" h="14336" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46512" y="48153" z="-2400" h="15202" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45722" y="48410" z="-2376" h="8191" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45730" y="48304" z="-2376" h="982" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46982" y="48828" z="-2400" h="32534" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46524" y="47854" z="-2400" h="25141" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46821" y="48881" z="-2400" h="26501" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46830" y="48925" z="-2400" h="32989" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46332" y="48321" z="-2400" h="48152" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45831" y="48562" z="-2400" h="42577" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45836" y="48296" z="-2392" h="41442" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44332" y="47694" z="-2112" h="11105" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44320" y="47548" z="-2096" h="0" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44492" y="47703" z="-2120" h="39481" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44555" y="47512" z="-2128" h="60158" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42931" y="48299" z="-2048" h="58445" />
+		<npc id="23506" /><!--Fortress Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44226" y="47632" z="-2088" h="33950" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44494" y="47499" z="-2112" h="25933" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42945" y="47969" z="-2048" h="13553" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43041" y="48303" z="-2048" h="22920" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44621" y="47662" z="-2144" h="65097" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43830" y="47831" z="-2048" h="41545" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49188" y="45007" z="-1576" h="54403" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47970" y="45606" z="-1664" h="10968" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49109" y="47210" z="-1728" h="26994" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48949" y="47056" z="-1752" h="53603" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49233" y="47221" z="-1720" h="31427" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47770" y="45568" z="-1640" h="15860" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47758" y="45465" z="-1648" h="9751" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47695" y="45520" z="-1624" h="10219" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48070" y="45698" z="-1688" h="58384" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45210" y="45018" z="-1528" h="47673" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44991" y="45068" z="-1536" h="62967" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46591" y="46027" z="-1544" h="55960" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46898" y="46005" z="-1520" h="61322" />
+		<npc id="23512" /><!--Atelia High Priest-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46822" y="46048" z="-1520" h="21791" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46772" y="46458" z="-1536" h="23007" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47105" y="46329" z="-1520" h="27430" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47029" y="45838" z="-1528" h="39852" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46944" y="46184" z="-1520" h="30879" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44254" y="45267" z="-1496" h="40961" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43566" y="45553" z="-1456" h="20304" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43603" y="45180" z="-1456" h="51330" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43536" y="45240" z="-1456" h="39446" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43501" y="45288" z="-1456" h="53950" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-43419" y="45440" z="-1456" h="44936" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44014" y="45385" z="-1488" h="64859" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44114" y="45300" z="-1488" h="14159" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44262" y="45077" z="-1480" h="28636" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44126" y="45164" z="-1472" h="29852" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44081" y="45064" z="-1464" h="3807" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42989" y="45427" z="-1456" h="41898" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42746" y="45628" z="-1456" h="63971" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42895" y="45730" z="-1456" h="31152" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42707" y="45463" z="-1456" h="35467" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42848" y="45683" z="-1456" h="52399" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42691" y="45428" z="-1456" h="46745" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42965" y="47939" z="-2048" h="40163" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42786" y="47910" z="-2048" h="29301" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42976" y="48253" z="-2048" h="47145" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42217" y="49060" z="-2048" h="8766" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42111" y="49152" z="-2048" h="27775" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41961" y="48341" z="-2032" h="63129" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42205" y="48372" z="-2048" h="64923" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41955" y="49068" z="-2048" h="54193" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41707" y="48654" z="-2048" h="17083" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41808" y="48508" z="-2040" h="5407" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41668" y="49445" z="-2048" h="34563" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41704" y="49708" z="-2048" h="16033" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41606" y="49329" z="-2048" h="26891" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41839" y="49796" z="-2048" h="38934" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41597" y="49358" z="-2048" h="32505" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41637" y="50266" z="-1984" h="47829" />
+		<npc id="19594" /><!---->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41820" y="50390" z="-2024" h="51814" />
+		<npc id="34060" /><!--Hayuk-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41940" y="50217" z="-1984" h="48780" />
+		<npc id="19594" /><!---->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41752" y="50392" z="-2024" h="50934" />
+		<npc id="34064" /><!--Hurak-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45096" y="44845" z="-1536" h="59741" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44932" y="44215" z="-1504" h="62729" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45319" y="45260" z="-1520" h="49153" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45973" y="44273" z="-1536" h="33119" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45406" y="43837" z="-1488" h="36042" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46032" y="43210" z="-1496" h="4162" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46480" y="43014" z="-1528" h="61794" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45306" y="44096" z="-1496" h="53770" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45494" y="43891" z="-1488" h="61495" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45634" y="45028" z="-1528" h="38825" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45472" y="43738" z="-1488" h="40989" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45148" y="44982" z="-1536" h="58190" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46126" y="44597" z="-1552" h="33815" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45859" y="44095" z="-1512" h="53293" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45807" y="44589" z="-1552" h="63975" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45813" y="44372" z="-1536" h="20815" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46599" y="43230" z="-1544" h="34664" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46553" y="43148" z="-1528" h="35776" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45734" y="44501" z="-1552" h="34183" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46211" y="43257" z="-1512" h="26946" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46467" y="43450" z="-1528" h="25414" />
+		<npc id="23512" /><!--Atelia High Priest-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46168" y="43228" z="-1504" h="60995" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44735" y="44344" z="-1488" h="8314" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44720" y="44306" z="-1488" h="12836" />
+		<npc id="23512" /><!--Atelia High Priest-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41824" y="43812" z="-1424" h="24287" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41582" y="43749" z="-1440" h="26038" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41688" y="44293" z="-1448" h="15101" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41610" y="43892" z="-1440" h="51336" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41732" y="43961" z="-1432" h="8191" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42270" y="44795" z="-1440" h="47476" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42356" y="44902" z="-1456" h="30606" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42298" y="44953" z="-1456" h="57992" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42173" y="44660" z="-1432" h="41378" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-41560" y="43918" z="-1464" h="3775" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42452" y="44697" z="-1440" h="19373" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-42293" y="44624" z="-1432" h="37822" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49089" y="45156" z="-1584" h="25565" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47324" y="43335" z="-1552" h="19574" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47354" y="43181" z="-1552" h="50250" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47197" y="43187" z="-1552" h="62855" />
+		<npc id="23512" /><!--Atelia High Priest-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47603" y="43194" z="-1552" h="61126" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47431" y="43118" z="-1560" h="17648" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48651" y="43985" z="-1544" h="28637" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48530" y="44157" z="-1552" h="10008" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48651" y="44037" z="-1544" h="65363" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48681" y="43886" z="-1544" h="10587" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48713" y="44258" z="-1544" h="23723" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48846" y="43865" z="-1544" h="50456" />
+		<npc id="23512" /><!--Atelia High Priest-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-48601" y="43644" z="-1544" h="37449" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47636" y="43077" z="-1552" h="49601" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-47468" y="43345" z="-1544" h="41967" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45391" y="41085" z="-1496" h="15538" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45346" y="41091" z="-1504" h="56426" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46178" y="40961" z="-1512" h="37145" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45591" y="41215" z="-1512" h="19206" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46617" y="42190" z="-1536" h="17518" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46611" y="41812" z="-1512" h="38151" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46474" y="41933" z="-1512" h="50780" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46340" y="42018" z="-1512" h="12835" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46692" y="41784" z="-1512" h="24158" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46411" y="41709" z="-1512" h="55813" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46473" y="42228" z="-1528" h="22015" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45217" y="40445" z="-1456" h="62113" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46114" y="40850" z="-1504" h="27350" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45556" y="40812" z="-1504" h="1711" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45482" y="41161" z="-1504" h="24823" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45157" y="40445" z="-1440" h="25423" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46210" y="40924" z="-1512" h="9055" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45577" y="40425" z="-1440" h="29510" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45577" y="40545" z="-1456" h="13980" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45337" y="40325" z="-1456" h="13610" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-45599" y="40649" z="-1480" h="59573" />
+		<npc id="23505" /><!--Fortress Raider-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-46242" y="40749" z="-1512" h="12376" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44860" y="40254" z="-1376" h="23239" />
+		<npc id="19594" /><!---->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44525" y="40430" z="-1416" h="22568" />
+		<npc id="34076" /><!--Mion-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44778" y="40556" z="-1384" h="22322" />
+		<npc id="19594" /><!---->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44574" y="40318" z="-1416" h="28937" />
+		<npc id="34065" /><!--Laffian-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44603" y="40202" z="-1416" h="32350" />
+		<npc id="34074" /><!--Julia-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-44715" y="40358" z="-1416" h="29326" />
+		<npc id="34061" /><!--Elise-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49293" y="45019" z="-1560" h="40223" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49342" y="45025" z="-1560" h="46321" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49359" y="44982" z="-1560" h="55920" />
+		<npc id="23512" /><!--Atelia High Priest-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49626" y="45992" z="-1584" h="9435" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49882" y="46252" z="-1592" h="61084" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49396" y="45052" z="-1560" h="55057" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-50063" y="46112" z="-1624" h="65215" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49858" y="46330" z="-1592" h="35432" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49608" y="46194" z="-1584" h="16489" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-50022" y="46656" z="-1600" h="10045" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-50042" y="46402" z="-1600" h="7411" />
+		<npc id="23512" /><!--Atelia High Priest-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-49292" y="45012" z="-1560" h="60545" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54795" y="46503" z="-1512" h="3493" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54561" y="47066" z="-1528" h="61279" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55163" y="46496" z="-1552" h="20401" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55143" y="46435" z="-1552" h="15333" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55107" y="46387" z="-1552" h="4214" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54585" y="47008" z="-1528" h="46154" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54425" y="46915" z="-1528" h="5566" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54642" y="47218" z="-1528" h="56130" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54059" y="48866" z="-2160" h="64490" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54085" y="48898" z="-2160" h="49835" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54046" y="49074" z="-2160" h="60276" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54046" y="48882" z="-2160" h="11623" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55213" y="50326" z="-2208" h="44193" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55290" y="50507" z="-2208" h="30828" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55147" y="50668" z="-2208" h="62017" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55235" y="50383" z="-2208" h="55286" />
+		<npc id="23512" /><!--Atelia High Priest-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54224" y="50106" z="-2160" h="46975" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54005" y="50207" z="-2160" h="26013" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54297" y="49907" z="-2160" h="34234" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54138" y="50152" z="-2160" h="22967" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-53842" y="50302" z="-2160" h="9859" />
+		<npc id="23512" /><!--Atelia High Priest-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-53980" y="50111" z="-2160" h="347" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-53750" y="49803" z="-2152" h="11859" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-53787" y="49937" z="-2152" h="7232" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54440" y="50567" z="-2168" h="17224" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54476" y="50780" z="-2184" h="7713" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54649" y="50635" z="-2184" h="21901" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54454" y="50502" z="-2168" h="37512" />
+		<npc id="23512" /><!--Atelia High Priest-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54730" y="50166" z="-2160" h="24182" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54658" y="50274" z="-2160" h="43921" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54554" y="50542" z="-2168" h="25170" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54422" y="50607" z="-2168" h="56488" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55134" y="49834" z="-2160" h="6076" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55077" y="49852" z="-2160" h="56586" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55134" y="49870" z="-2160" h="23972" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57036" y="46169" z="-1600" h="8931" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55981" y="45845" z="-1664" h="15859" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57139" y="46075" z="-1632" h="24298" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56905" y="46028" z="-1632" h="25351" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55792" y="46404" z="-1664" h="2998" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55841" y="45729" z="-1632" h="1248" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55844" y="46303" z="-1672" h="45907" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55966" y="46359" z="-1648" h="15457" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55854" y="46301" z="-1672" h="61978" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56043" y="45735" z="-1656" h="31066" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56905" y="46235" z="-1576" h="14188" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56995" y="45871" z="-1664" h="1936" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55958" y="45811" z="-1656" h="12482" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56983" y="45815" z="-1664" h="63791" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56956" y="46003" z="-1632" h="23774" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55785" y="46450" z="-1664" h="32839" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55746" y="46331" z="-1664" h="35453" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55582" y="48944" z="-2168" h="49985" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55679" y="49199" z="-2176" h="39926" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55196" y="50714" z="-2208" h="64184" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55247" y="50338" z="-2208" h="23053" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55284" y="50674" z="-2208" h="45863" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55617" y="49049" z="-2168" h="33295" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55634" y="49073" z="-2168" h="17250" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55683" y="49210" z="-2184" h="44733" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56877" y="51030" z="-2168" h="15162" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56892" y="51118" z="-2168" h="59212" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55362" y="49780" z="-2168" h="60214" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55500" y="49283" z="-2168" h="18071" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55846" y="50248" z="-2200" h="3879" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55596" y="49055" z="-2168" h="18488" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55615" y="48994" z="-2168" h="46872" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55835" y="50198" z="-2200" h="30841" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55823" y="50302" z="-2200" h="45742" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55886" y="50171" z="-2192" h="52093" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56070" y="49630" z="-2184" h="49413" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55950" y="49438" z="-2184" h="45813" />
+		<npc id="23512" /><!--Atelia High Priest-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56261" y="49848" z="-2176" h="31582" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56043" y="49362" z="-2184" h="53942" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55245" y="50759" z="-2208" h="4626" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55879" y="49451" z="-2184" h="25166" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56158" y="49566" z="-2184" h="49804" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56210" y="49846" z="-2176" h="17537" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55780" y="49523" z="-2184" h="58246" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56793" y="51097" z="-2168" h="53368" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55920" y="50862" z="-2208" h="27639" />
+		<npc id="23508" /><!--Atelia Elite Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56787" y="50760" z="-2168" h="54825" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56304" y="51135" z="-2208" h="31366" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56331" y="51188" z="-2192" h="17641" />
+		<npc id="23512" /><!--Atelia High Priest-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56317" y="51250" z="-2208" h="59167" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55986" y="50715" z="-2208" h="57712" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56120" y="50862" z="-2208" h="64600" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56290" y="51175" z="-2208" h="32031" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56304" y="50987" z="-2200" h="17464" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56994" y="51054" z="-2168" h="11687" />
+		<npc id="23512" /><!--Atelia High Priest-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57133" y="50747" z="-2168" h="29577" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57008" y="50664" z="-2168" h="50364" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57046" y="49379" z="-2168" h="26776" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57270" y="49516" z="-2168" h="33658" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57184" y="49674" z="-2160" h="44796" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57337" y="49560" z="-2160" h="38119" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56989" y="49374" z="-2168" h="24372" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-56880" y="49481" z="-2160" h="51396" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57199" y="49633" z="-2160" h="29393" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58948" y="44778" z="-1584" h="18048" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-59070" y="44577" z="-1600" h="48676" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-59174" y="44433" z="-1608" h="52749" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-59133" y="44456" z="-1592" h="53942" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-59010" y="44665" z="-1600" h="38662" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-59150" y="44755" z="-1632" h="11158" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58942" y="44670" z="-1584" h="4277" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58327" y="43957" z="-1552" h="25179" />
+		<npc id="34075" /><!--Saylem-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58395" y="43905" z="-1552" h="28798" />
+		<npc id="34066" /><!--Sherry-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58449" y="44207" z="-1512" h="20327" />
+		<npc id="19594" /><!---->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58450" y="43843" z="-1552" h="32767" />
+		<npc id="34077" /><!--Nika-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58693" y="43986" z="-1520" h="17904" />
+		<npc id="19594" /><!---->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58480" y="44000" z="-1552" h="25300" />
+		<npc id="34062" /><!--Eliyah-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57878" y="46050" z="-1640" h="35197" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57877" y="46029" z="-1640" h="9671" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57743" y="45819" z="-1656" h="5486" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57682" y="46829" z="-1744" h="42449" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57673" y="46539" z="-1696" h="55574" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57704" y="46567" z="-1696" h="37511" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58028" y="46957" z="-1736" h="30411" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58021" y="46700" z="-1696" h="53396" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58014" y="46746" z="-1704" h="45352" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58082" y="46822" z="-1672" h="43505" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58034" y="47729" z="-1944" h="44168" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58131" y="47745" z="-1960" h="26351" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58158" y="47771" z="-1960" h="64773" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58303" y="47708" z="-1904" h="21512" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58082" y="47593" z="-1944" h="54661" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-59272" y="47029" z="-1680" h="39611" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58966" y="47098" z="-1720" h="2099" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58978" y="47393" z="-1832" h="36153" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-59042" y="47036" z="-1696" h="30303" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58746" y="47768" z="-1960" h="22516" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58792" y="47117" z="-1688" h="58882" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-59048" y="47421" z="-1840" h="2588" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58454" y="48466" z="-2000" h="57956" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57730" y="49043" z="-2176" h="25427" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57860" y="49027" z="-2168" h="27650" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57745" y="49008" z="-2168" h="43894" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57732" y="48989" z="-2168" h="31926" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57718" y="48935" z="-2176" h="15703" />
+		<npc id="23512" /><!--Atelia High Priest-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58508" y="48492" z="-2000" h="14822" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58443" y="48407" z="-2000" h="8190" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58613" y="48481" z="-2000" h="31243" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58459" y="48583" z="-2000" h="44504" />
+		<npc id="23512" /><!--Atelia High Priest-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58922" y="47851" z="-1960" h="56284" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-59045" y="47304" z="-1792" h="23290" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58880" y="47999" z="-1992" h="45471" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-59051" y="47861" z="-1944" h="48863" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58896" y="47736" z="-1960" h="4393" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-59067" y="47735" z="-1944" h="34434" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58740" y="47980" z="-1992" h="37873" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57987" y="47722" z="-1944" h="61655" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58120" y="47655" z="-1944" h="35770" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58696" y="50622" z="-2168" h="54622" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58568" y="50670" z="-2168" h="2184" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58451" y="50728" z="-2168" h="45342" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58483" y="50502" z="-2168" h="11690" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57791" y="50079" z="-2168" h="47524" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57816" y="50040" z="-2168" h="50600" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57654" y="49718" z="-2168" h="27767" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57840" y="50017" z="-2168" h="19276" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57806" y="50055" z="-2168" h="48217" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57764" y="50099" z="-2168" h="49805" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57664" y="50115" z="-2168" h="5069" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58620" y="50697" z="-2168" h="7780" />
+		<npc id="23512" /><!--Atelia High Priest-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57976" y="51300" z="-2168" h="41904" />
+		<npc id="23511" /><!--Fortress Archon-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58091" y="51392" z="-2168" h="22043" />
+		<npc id="23509" /><!--Fortress Dark Wizard-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58054" y="51310" z="-2168" h="52411" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58068" y="51346" z="-2168" h="27743" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-58022" y="51404" z="-2168" h="4362" />
+		<npc id="23510" /><!--Atelia Flame Master-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-57979" y="51274" z="-2168" h="49500" />
+		<npc id="23507" /><!--Atelia Passionate Soldier-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-55417" y="51727" z="-2160" h="56730" />
+		<npc id="23539" /><!--Atelia Trial Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="90" respawn_random="0" period_of_day="none">
+		<point x="-54651" y="52290" z="-2184" h="36149" />
+		<npc id="23539" /><!--Atelia Trial Guardian Captain-->
+	</spawn>
+	<spawn count="1" respawn="64800" respawn_random="43200" period_of_day="none">
+		<territory>
+			<add x="-43224" y="62056" zmin="-3184" zmax="-3184"/>
+			<add x="-43528" y="62472" zmin="-3184" zmax="-3184"/>
+			<add x="-43816" y="62136" zmin="-3184" zmax="-3184"/>
+			<add x="-43384" y="61944" zmin="-3184" zmax="-3184"/>
+		</territory>
+		<npc id="25380"/><!--Icarus' Herald Kaysha-->
+	</spawn>
+</list>

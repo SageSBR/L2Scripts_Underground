@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>		
+	<armor id="46670" name="Камень Энергии" add_name="Ур. 1">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_bm_jewel_topaz_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="5"/>
+		<equip>
+			<slot id="JEWEL"/>
+		</equip>
+		<skills>
+			<skill id="18568" level="1"/>
+		</skills>
+	</armor>
+	<armor id="46671" name="Камень Энергии" add_name="Ур. 2">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_bm_jewel_topaz_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="5"/>
+		<equip>
+			<slot id="JEWEL"/>
+		</equip>
+		<skills>
+			<skill id="18568" level="2"/>
+		</skills>
+	</armor>
+	<armor id="46672" name="Камень Энергии" add_name="Ур. 3">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_bm_jewel_topaz_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="5"/>
+		<equip>
+			<slot id="JEWEL"/>
+		</equip>
+		<skills>
+			<skill id="18568" level="3"/>
+		</skills>
+	</armor>
+	<armor id="46673" name="Камень Энергии" add_name="Ур. 4">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_bm_jewel_topaz_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="5"/>
+		<equip>
+			<slot id="JEWEL"/>
+		</equip>
+		<skills>
+			<skill id="18568" level="4"/>
+			<skill id="27439" level="2"/>
+		</skills>
+	</armor>
+	<armor id="46674" name="Камень Энергии" add_name="Ур. 5">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_bm_jewel_topaz_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="5"/>
+		<equip>
+			<slot id="JEWEL"/>
+		</equip>
+		<skills>
+			<skill id="18568" level="5"/>
+			<skill id="27439" level="3"/>
+		</skills>
+	</armor>	
+	<armor id="46668" name="Радужная Брошь Лавианроз">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_bm_brooch_lavianrose_i02"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="10"/>
+		<equip>
+			<slot id="BROOCH"/>
+		</equip>
+		<skills>
+			<skill id="13659" level="1"/>
+			<skill id="13661" level="1"/>
+		</skills>
+		<for>
+			<add stat="mDef" order="0x10" value="101"/>
+		</for>
+	</armor>
+</list>

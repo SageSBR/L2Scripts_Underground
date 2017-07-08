@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Create by VISTALL. Full reworked to Ertheia (Part 1) by Bonux. -->
+<list>
+	<normal_skill_tree>
+		<class id="159"> <!--othell_rogue-->
+			<!--Race Skills-->
+			<!--Human-->
+			<skill id="1901" level="1" name="Ясная Цель(Aim)" race="HUMAN"/>
+			<skill id="1902" level="1" name="Крепкая Психика(Mental Fortress)" race="HUMAN"/>
+			<!--Elf-->
+			<skill id="1906" level="1" name="Благословенная Вода(Blessing of Water)" race="ELF"/>
+			<skill id="1908" level="1" name="Чуткость(Delicacy)" race="ELF"/>
+			<!--Dark Elf-->
+			<skill id="1909" level="1" name="Острота(Sharpness)" race="DARKELF"/>
+			<skill id="1911" level="1" name="Благословенный Ветер(Blessing of Wind)" race="DARKELF"/>
+			<!--Orc-->
+			<skill id="1915" level="1" name="Сила Огня(Blessing of Fire)" race="ORC"/>
+			<skill id="1916" level="1" name="Сильная Энергетика(Energetic)" race="ORC"/>
+			<!--Dwarf-->
+			<skill id="1919" level="1" name="Ловкость(Dexterity)" race="DWARF"/>
+			<skill id="1921" level="1" name="Благословенная Земля(Blessing of Earth)" race="DWARF"/>
+			<!--Kamael-->
+			<skill id="1923" level="1" name="Боевой Инстинкт(Battle Instinct)" race="KAMAEL"/>
+			<skill id="1924" level="1" name="Темная Тишина(Dark Silence)" race="KAMAEL"/>
+			<skill id="1926" level="1" name="Укрепление Тела(Body Reinforcement)" race="KAMAEL"/>
+			<skill id="1954" level="1" name="Укрепление Тела в Полете(Flying Body Reinforcement)" race="KAMAEL"/>
+			<skill id="1473" level="1" name="Конверсия(Change Weapon)" race="KAMAEL"/>	<!--TODO: Check this.-->
+			<!--Specific skills-->
+			<skill id="194" level="1" name="Везение(Lucky)"/>
+			<skill id="1322" level="1" name="Обычное Ремесло(Common Craft)"/>
+			<skill id="1571" level="1" name="Увеличение Инвентаря(Inventory Increase)"/>
+			<skill id="1597" level="1" name="Увеличение Веса(Weight Increase)"/>
+			<skill id="248" level="6" name="Кристаллизация(Crystallize)"/>
+			<!--Dafault skills-->
+			<skill id="1931" level="1" name="Аура Одала(Othell Aura)"/>
+			<skill id="1948" level="1" name="Блокировать Силу Одала(Block Othell Force)"/>
+			<skill id="8602" level="1" name="Верховой Кровавый Скакун(Summon Blood Tail)"/>
+			<!--Default by level skills-->
+			<skill id="10531" level="1" name="Ангел Смерти(Angel of Death)" cost="10000" min_level="85"/>
+			<skill id="10543" level="1" name="Бесшумная Походка(Silent Step)" cost="10000" min_level="85"/>
+			<skill id="10608" level="1" name="Великий Шанс Крит. Удара(Superior Haste)" cost="10000" min_level="85"/>
+			<skill id="10506" level="1" name="Великое Владение Духом(Superior Spirit Mastery)" cost="10000" min_level="85"/>
+			<skill id="10501" level="1" name="Великое Владение Кинжалом(Superior Dagger Mastery)" cost="10000" min_level="85"/>
+			<skill id="10505" level="1" name="Великое Владение Критическим Ударом(Superior Critical Mastery)" cost="10000" min_level="85"/>
+			<skill id="10503" level="1" name="Великое Владение Легкой Броней(Superior Light Armor Mastery)" cost="10000" min_level="85"/>
+			<skill id="10502" level="1" name="Великое Владение Парными Кинжалами(Superior Dual Dagger Mastery)" cost="10000" min_level="85"/>
+			<skill id="10504" level="1" name="Великое Движение(Superior Movement)" cost="10000" min_level="85"/>
+			<skill id="10552" level="1" name="Великое Сопротивление(Superior Resistance)" cost="10000" min_level="85"/>
+			<skill id="10512" level="1" name="Взрывающийся Кинжал(Dagger Explosion)" cost="10000" min_level="85"/>
+			<skill id="531" level="2" name="Критическая Рана(Critical Wound)" cost="10000" min_level="85"/>
+			<skill id="10508" level="1" name="Кровавый Шаг(Blood Stab)" cost="10000" min_level="85"/>
+			<skill id="10520" level="1" name="Максимальное Абсолютное Уклонение(Final Ultimate Evasion)" cost="10000" min_level="85"/>
+			<skill id="10542" level="1" name="Максимальный Критический Урон(Maximum Critical)" cost="10000" min_level="85"/>
+			<skill id="10539" level="1" name="Метнуть Кинжал(Throw Dagger)" cost="10000" min_level="85"/>
+			<skill id="10554" level="1" name="Обманный Маневр(Power Bluff)" cost="10000" min_level="85"/>
+			<skill id="10522" level="1" name="Отравленная Зона(Poison Zone)" cost="10000" min_level="85"/>
+			<skill id="10540" level="1" name="Песок в Глаза(Throw Sand)" cost="10000" min_level="85"/>
+			<skill id="10516" level="1" name="Погоня за Тенью(Shadow Chase)" cost="10000" min_level="85"/>
+			<skill id="10610" level="1" name="Потенциальный Крит. Удар(Critical Expansions)" cost="10000" min_level="85"/>
+			<skill id="10509" level="1" name="Разбивание Сердца(Heart Breaker)" cost="10000" min_level="85"/>
+			<skill id="10525" level="1" name="Рывок Тени(Shadow Dash)" cost="10000" min_level="85"/>
+			<skill id="10517" level="1" name="Скрытие Тени(Shadow Hide)" cost="10000" min_level="85"/>
+			<skill id="410" level="5" name="Смертельный Укол(Mortal Strike)" cost="10000" min_level="85"/>
+			<skill id="1320" level="10" name="Создать Обычный Предмет(Create Common Item)" min_level="85"/>
+			<skill id="10514" level="1" name="Темный Паралич(Dark Paralysis)" cost="10000" min_level="85"/>
+			<skill id="10606" level="1" name="Теневое Уклонение(Shadow Dodge)" cost="10000" min_level="85"/>
+			<skill id="10549" level="1" name="Тычок(Kick)" cost="10000" min_level="85"/>
+			<skill id="10511" level="1" name="Удар с Разворота(Reverse)" cost="10000" min_level="85"/>
+			<skill id="10510" level="1" name="Цепной Импульс(Chain Blow)" cost="10000" min_level="85"/>
+			<skill id="10526" level="1" name="Шалость(Mischief)" cost="10000" min_level="85"/>
+			<skill id="10609" level="1" name="Шанс Ветра(Critical Chances)" cost="10000" min_level="85"/>
+			<skill id="10535" level="1" name="Яд Скорпиона(Scorpion Poison)" cost="10000" min_level="85"/>
+			<skill id="10541" level="1" name="Ядовитые Иглы(Throw Poison Needle)" cost="10000" min_level="85"/>
+			<skill id="10512" level="2" name="Взрывающийся Кинжал(Dagger Explosion)" cost="50000" min_level="86"/>
+			<skill id="10508" level="2" name="Кровавый Шаг(Blood Stab)" cost="50000" min_level="86"/>
+			<skill id="10539" level="2" name="Метнуть Кинжал(Throw Dagger)" cost="50000" min_level="86"/>
+			<skill id="10509" level="2" name="Разбивание Сердца(Heart Breaker)" cost="50000" min_level="86"/>
+			<skill id="10541" level="2" name="Ядовитые Иглы(Throw Poison Needle)" cost="50000" min_level="86"/>
+			<skill id="10513" level="1" name="Кровавый Дождь(Razor Rain)" cost="60000" min_level="87"/>
+			<skill id="10522" level="2" name="Отравленная Зона(Poison Zone)" cost="60000" min_level="87"/>
+			<skill id="10516" level="2" name="Погоня за Тенью(Shadow Chase)" cost="60000" min_level="87"/>
+			<skill id="10510" level="2" name="Цепной Импульс(Chain Blow)" cost="60000" min_level="87"/>
+			<skill id="10526" level="2" name="Шалость(Mischief)" cost="60000" min_level="87"/>
+			<skill id="10512" level="3" name="Взрывающийся Кинжал(Dagger Explosion)" cost="80000" min_level="88"/>
+			<skill id="10508" level="3" name="Кровавый Шаг(Blood Stab)" cost="80000" min_level="88"/>
+			<skill id="10539" level="3" name="Метнуть Кинжал(Throw Dagger)" cost="80000" min_level="88"/>
+			<skill id="10540" level="2" name="Песок в Глаза(Throw Sand)" cost="80000" min_level="88"/>
+			<skill id="10509" level="3" name="Разбивание Сердца(Heart Breaker)" cost="80000" min_level="88"/>
+			<skill id="10514" level="2" name="Темный Паралич(Dark Paralysis)" cost="80000" min_level="88"/>
+			<skill id="10549" level="2" name="Тычок(Kick)" cost="80000" min_level="88"/>
+			<skill id="10546" level="1" name="Апперкот(Uppercut)" cost="100000" min_level="89"/>
+			<skill id="10513" level="2" name="Кровавый Дождь(Razor Rain)" cost="100000" min_level="89"/>
+			<skill id="10510" level="3" name="Цепной Импульс(Chain Blow)" cost="100000" min_level="89"/>
+			<skill id="10541" level="3" name="Ядовитые Иглы(Throw Poison Needle)" cost="100000" min_level="89"/>
+			<skill id="10608" level="2" name="Великий Шанс Крит. Удара(Superior Haste)" cost="370000" min_level="90"/>
+			<skill id="10501" level="2" name="Великое Владение Кинжалом(Superior Dagger Mastery)" cost="370000" min_level="90"/>
+			<skill id="10505" level="2" name="Великое Владение Критическим Ударом(Superior Critical Mastery)" cost="370000" min_level="90"/>
+			<skill id="10503" level="2" name="Великое Владение Легкой Броней(Superior Light Armor Mastery)" cost="370000" min_level="90"/>
+			<skill id="10502" level="2" name="Великое Владение Парными Кинжалами(Superior Dual Dagger Mastery)" cost="370000" min_level="90"/>
+			<skill id="10504" level="2" name="Великое Движение(Superior Movement)" cost="370000" min_level="90"/>
+			<skill id="10552" level="2" name="Великое Сопротивление(Superior Resistance)" cost="370000" min_level="90"/>
+			<skill id="10512" level="4" name="Взрывающийся Кинжал(Dagger Explosion)" cost="370000" min_level="90"/>
+			<skill id="10532" level="1" name="Иллюзия Тени(Clone Attack)" cost="370000" min_level="90"/>
+			<skill id="531" level="3" name="Критическая Рана(Critical Wound)" cost="370000" min_level="90"/>
+			<skill id="10508" level="4" name="Кровавый Шаг(Blood Stab)" cost="370000" min_level="90"/>
+			<skill id="10520" level="2" name="Максимальное Абсолютное Уклонение(Final Ultimate Evasion)" cost="370000" min_level="90"/>
+			<skill id="10539" level="4" name="Метнуть Кинжал(Throw Dagger)" cost="370000" min_level="90"/>
+			<skill id="10554" level="2" name="Обманный Маневр(Power Bluff)" cost="370000" min_level="90"/>
+			<skill id="10522" level="3" name="Отравленная Зона(Poison Zone)" cost="370000" min_level="90"/>
+			<skill id="10516" level="3" name="Погоня за Тенью(Shadow Chase)" cost="370000" min_level="90"/>
+			<skill id="10509" level="4" name="Разбивание Сердца(Heart Breaker)" cost="370000" min_level="90"/>
+			<skill id="10525" level="2" name="Рывок Тени(Shadow Dash)" cost="370000" min_level="90"/>
+			<skill id="410" level="6" name="Смертельный Укол(Mortal Strike)" cost="370000" min_level="90"/>
+			<skill id="10511" level="2" name="Удар с Разворота(Reverse)" cost="370000" min_level="90"/>
+			<skill id="10526" level="3" name="Шалость(Mischief)" cost="370000" min_level="90"/>
+			<skill id="10535" level="2" name="Яд Скорпиона(Scorpion Poison)" cost="370000" min_level="90"/>
+			<skill id="10513" level="3" name="Кровавый Дождь(Razor Rain)" cost="400000" min_level="91"/>
+			<skill id="10524" level="1" name="Ответный Урон(Evasive Counterstrike)" cost="400000" min_level="91"/>
+			<skill id="10540" level="3" name="Песок в Глаза(Throw Sand)" cost="400000" min_level="91"/>
+			<skill id="10514" level="3" name="Темный Паралич(Dark Paralysis)" cost="400000" min_level="91"/>
+			<skill id="10549" level="3" name="Тычок(Kick)" cost="400000" min_level="91"/>
+			<skill id="10510" level="4" name="Цепной Импульс(Chain Blow)" cost="400000" min_level="91"/>
+			<skill id="10546" level="2" name="Апперкот(Uppercut)" cost="420000" min_level="92"/>
+			<skill id="10512" level="5" name="Взрывающийся Кинжал(Dagger Explosion)" cost="420000" min_level="92"/>
+			<skill id="10508" level="5" name="Кровавый Шаг(Blood Stab)" cost="420000" min_level="92"/>
+			<skill id="10539" level="5" name="Метнуть Кинжал(Throw Dagger)" cost="420000" min_level="92"/>
+			<skill id="10509" level="5" name="Разбивание Сердца(Heart Breaker)" cost="420000" min_level="92"/>
+			<skill id="10541" level="4" name="Ядовитые Иглы(Throw Poison Needle)" cost="420000" min_level="92"/>
+			<skill id="10513" level="4" name="Кровавый Дождь(Razor Rain)" cost="440000" min_level="93"/>
+			<skill id="10522" level="4" name="Отравленная Зона(Poison Zone)" cost="440000" min_level="93"/>
+			<skill id="10516" level="4" name="Погоня за Тенью(Shadow Chase)" cost="440000" min_level="93"/>
+			<skill id="10528" level="1" name="Притвориться Мертвым - Тень(Shadow Fake Death)" cost="440000" min_level="93"/>
+			<skill id="10510" level="5" name="Цепной Импульс(Chain Blow)" cost="440000" min_level="93"/>
+			<skill id="10526" level="4" name="Шалость(Mischief)" cost="440000" min_level="93"/>
+			<skill id="10512" level="6" name="Взрывающийся Кинжал(Dagger Explosion)" cost="480000" min_level="94"/>
+			<skill id="10508" level="6" name="Кровавый Шаг(Blood Stab)" cost="480000" min_level="94"/>
+			<skill id="10539" level="6" name="Метнуть Кинжал(Throw Dagger)" cost="480000" min_level="94"/>
+			<skill id="10540" level="4" name="Песок в Глаза(Throw Sand)" cost="480000" min_level="94"/>
+			<skill id="10509" level="6" name="Разбивание Сердца(Heart Breaker)" cost="480000" min_level="94"/>
+			<skill id="10514" level="4" name="Темный Паралич(Dark Paralysis)" cost="480000" min_level="94"/>
+			<skill id="10549" level="4" name="Тычок(Kick)" cost="480000" min_level="94"/>
+			<skill id="10546" level="3" name="Апперкот(Uppercut)" cost="1000000" min_level="95"/>
+			<skill id="10608" level="3" name="Великий Шанс Крит. Удара(Superior Haste)" cost="1000000" min_level="95"/>
+			<skill id="10501" level="3" name="Великое Владение Кинжалом(Superior Dagger Mastery)" cost="1000000" min_level="95"/>
+			<skill id="10505" level="3" name="Великое Владение Критическим Ударом(Superior Critical Mastery)" cost="1000000" min_level="95"/>
+			<skill id="10503" level="3" name="Великое Владение Легкой Броней(Superior Light Armor Mastery)" cost="1000000" min_level="95"/>
+			<skill id="10502" level="3" name="Великое Владение Парными Кинжалами(Superior Dual Dagger Mastery)" cost="1000000" min_level="95"/>
+			<skill id="10504" level="3" name="Великое Движение(Superior Movement)" cost="1000000" min_level="95"/>
+			<skill id="10552" level="3" name="Великое Сопротивление(Superior Resistance)" cost="1000000" min_level="95"/>
+			<skill id="10532" level="2" name="Иллюзия Тени(Clone Attack)" cost="1000000" min_level="95"/>
+			<skill id="531" level="4" name="Критическая Рана(Critical Wound)" cost="1000000" min_level="95"/>
+			<skill id="10513" level="5" name="Кровавый Дождь(Razor Rain)" cost="1000000" min_level="95"/>
+			<skill id="10520" level="3" name="Максимальное Абсолютное Уклонение(Final Ultimate Evasion)" cost="1000000" min_level="95"/>
+			<skill id="10554" level="3" name="Обманный Маневр(Power Bluff)" cost="1000000" min_level="95"/>
+			<skill id="10524" level="2" name="Ответный Урон(Evasive Counterstrike)" cost="1000000" min_level="95"/>
+			<skill id="10525" level="3" name="Рывок Тени(Shadow Dash)" cost="1000000" min_level="95"/>
+			<skill id="410" level="7" name="Смертельный Укол(Mortal Strike)" cost="1000000" min_level="95"/>
+			<skill id="10511" level="3" name="Удар с Разворота(Reverse)" cost="1000000" min_level="95"/>
+			<skill id="10510" level="6" name="Цепной Импульс(Chain Blow)" cost="1000000" min_level="95"/>
+			<skill id="10535" level="3" name="Яд Скорпиона(Scorpion Poison)" cost="1000000" min_level="95"/>
+			<skill id="10541" level="5" name="Ядовитые Иглы(Throw Poison Needle)" cost="1000000" min_level="95"/>
+			<skill id="10512" level="7" name="Взрывающийся Кинжал(Dagger Explosion)" cost="4970000" min_level="96"/>
+			<skill id="10508" level="7" name="Кровавый Шаг(Blood Stab)" cost="4970000" min_level="96"/>
+			<skill id="10539" level="7" name="Метнуть Кинжал(Throw Dagger)" cost="4970000" min_level="96"/>
+			<skill id="10522" level="5" name="Отравленная Зона(Poison Zone)" cost="4970000" min_level="96"/>
+			<skill id="10516" level="5" name="Погоня за Тенью(Shadow Chase)" cost="4970000" min_level="96"/>
+			<skill id="10509" level="7" name="Разбивание Сердца(Heart Breaker)" cost="4970000" min_level="96"/>
+			<skill id="10526" level="5" name="Шалость(Mischief)" cost="4970000" min_level="96"/>
+			<skill id="10532" level="3" name="Иллюзия Тени(Clone Attack)" cost="4980000" min_level="97"/>
+			<skill id="10513" level="6" name="Кровавый Дождь(Razor Rain)" cost="4980000" min_level="97"/>
+			<skill id="10527" level="1" name="Массовая Уловка(Mass Trick)" cost="4980000" min_level="97"/>
+			<skill id="10540" level="5" name="Песок в Глаза(Throw Sand)" cost="4980000" min_level="97"/>
+			<skill id="10514" level="5" name="Темный Паралич(Dark Paralysis)" cost="4980000" min_level="97"/>
+			<skill id="10549" level="5" name="Тычок(Kick)" cost="4980000" min_level="97"/>
+			<skill id="10510" level="7" name="Цепной Импульс(Chain Blow)" cost="4980000" min_level="97"/>
+			<skill id="10531" level="2" name="Ангел Смерти(Angel of Death)" cost="4990000" min_level="98"/>
+			<skill id="10546" level="4" name="Апперкот(Uppercut)" cost="4990000" min_level="98"/>
+			<skill id="10512" level="8" name="Взрывающийся Кинжал(Dagger Explosion)" cost="4990000" min_level="98"/>
+			<skill id="10508" level="8" name="Кровавый Шаг(Blood Stab)" cost="4990000" min_level="98"/>
+			<skill id="10539" level="8" name="Метнуть Кинжал(Throw Dagger)" cost="4990000" min_level="98"/>
+			<skill id="10509" level="8" name="Разбивание Сердца(Heart Breaker)" cost="4990000" min_level="98"/>
+			<skill id="10541" level="6" name="Ядовитые Иглы(Throw Poison Needle)" cost="4990000" min_level="98"/>
+			<skill id="1405" level="5" name="Божественное Вдохновение(Divine Inspiration)" cost="5000000" min_level="99" item_id="40064" item_count="1"/>
+			<skill id="1405" level="6" name="Божественное Вдохновение(Divine Inspiration)" cost="5000000" min_level="99" item_id="40065" item_count="1"/>
+			<skill id="10608" level="4" name="Великий Шанс Крит. Удара(Superior Haste)" cost="5000000" min_level="99"/>
+			<skill id="10501" level="4" name="Великое Владение Кинжалом(Superior Dagger Mastery)" cost="5000000" min_level="99"/>
+			<skill id="10505" level="4" name="Великое Владение Критическим Ударом(Superior Critical Mastery)" cost="5000000" min_level="99"/>
+			<skill id="10503" level="4" name="Великое Владение Легкой Броней(Superior Light Armor Mastery)" cost="5000000" min_level="99"/>
+			<skill id="10502" level="4" name="Великое Владение Парными Кинжалами(Superior Dual Dagger Mastery)" cost="5000000" min_level="99"/>
+			<skill id="10504" level="4" name="Великое Движение(Superior Movement)" cost="5000000" min_level="99"/>
+			<skill id="10552" level="4" name="Великое Сопротивление(Superior Resistance)" cost="5000000" min_level="99"/>
+			<skill id="10532" level="4" name="Иллюзия Тени(Clone Attack)" cost="5000000" min_level="99"/>
+			<skill id="531" level="5" name="Критическая Рана(Critical Wound)" cost="5000000" min_level="99"/>
+			<skill id="10513" level="7" name="Кровавый Дождь(Razor Rain)" cost="5000000" min_level="99"/>
+			<skill id="10520" level="4" name="Максимальное Абсолютное Уклонение(Final Ultimate Evasion)" cost="5000000" min_level="99"/>
+			<skill id="10554" level="4" name="Обманный Маневр(Power Bluff)" cost="5000000" min_level="99"/>
+			<skill id="10524" level="3" name="Ответный Урон(Evasive Counterstrike)" cost="5000000" min_level="99"/>
+			<skill id="10522" level="6" name="Отравленная Зона(Poison Zone)" cost="5000000" min_level="99"/>
+			<skill id="10516" level="6" name="Погоня за Тенью(Shadow Chase)" cost="5000000" min_level="99"/>
+			<skill id="10525" level="4" name="Рывок Тени(Shadow Dash)" cost="5000000" min_level="99"/>
+			<skill id="410" level="8" name="Смертельный Укол(Mortal Strike)" cost="5000000" min_level="99"/>
+			<skill id="10529" level="1" name="Теневая Вспышка(Shadow Flash)" cost="5000000" min_level="99"/>
+			<skill id="10511" level="4" name="Удар с Разворота(Reverse)" cost="5000000" min_level="99"/>
+			<skill id="10510" level="8" name="Цепной Импульс(Chain Blow)" cost="5000000" min_level="99"/>
+			<skill id="10507" level="1" name="Час Смерти(Death Clock)" cost="5000000" min_level="99"/>
+			<skill id="10526" level="6" name="Шалость(Mischief)" cost="5000000" min_level="99"/>
+			<skill id="10535" level="4" name="Яд Скорпиона(Scorpion Poison)" cost="5000000" min_level="99"/>
+			<skill id="10501" level="5" name="Великое Владение Кинжалом(Superior Dagger Mastery)" cost="88099899" min_level="100"/>
+			<skill id="10505" level="5" name="Великое Владение Критическим Ударом(Superior Critical Mastery)" cost="88099899" min_level="100"/>
+			<skill id="10503" level="5" name="Великое Владение Легкой Броней(Superior Light Armor Mastery)" cost="88099899" min_level="100"/>
+			<skill id="10502" level="5" name="Великое Владение Парными Кинжалами(Superior Dual Dagger Mastery)" cost="88099899" min_level="100"/>
+			<skill id="10504" level="5" name="Великое Движение(Superior Movement)" cost="88099899" min_level="100"/>
+			<skill id="10552" level="5" name="Великое Сопротивление(Superior Resistance)" cost="88099899" min_level="100"/>
+			<skill id="10956" level="1" name="Распространение Божественности(Divine Expansion)" cost="88099899" min_level="100" item_id="39738" item_count="8"/>
+			<skill id="10546" level="5" name="Апперкот(Uppercut)" cost="211440000" min_level="101"/>
+			<skill id="10512" level="9" name="Взрывающийся Кинжал(Dagger Explosion)" cost="211440000" min_level="101"/>
+			<skill id="10532" level="5" name="Иллюзия Тени(Clone Attack)" cost="211440000" min_level="101"/>
+			<skill id="531" level="6" name="Критическая Рана(Critical Wound)" cost="211440000" min_level="101"/>
+			<skill id="10513" level="8" name="Кровавый Дождь(Razor Rain)" cost="211440000" min_level="101"/>
+			<skill id="10508" level="9" name="Кровавый Шаг(Blood Stab)" cost="211440000" min_level="101"/>
+			<skill id="10527" level="2" name="Массовая Уловка(Mass Trick)" cost="211440000" min_level="101"/>
+			<skill id="10539" level="9" name="Метнуть Кинжал(Throw Dagger)" cost="211440000" min_level="101"/>
+			<skill id="10554" level="5" name="Обманный Маневр(Power Bluff)" cost="211440000" min_level="101"/>
+			<skill id="10522" level="7" name="Отравленная Зона(Poison Zone)" cost="211440000" min_level="101"/>
+			<skill id="10540" level="6" name="Песок в Глаза(Throw Sand)" cost="211440000" min_level="101"/>
+			<skill id="10516" level="7" name="Погоня за Тенью(Shadow Chase)" cost="211440000" min_level="101"/>
+			<skill id="10705" level="1" name="Походка Тени(Shadow Walking)" cost="211440000" min_level="101" item_id="39738" item_count="8"/>
+			<skill id="10509" level="9" name="Разбивание Сердца(Heart Breaker)" cost="211440000" min_level="101"/>
+			<skill id="10525" level="5" name="Рывок Тени(Shadow Dash)" cost="211440000" min_level="101"/>
+			<skill id="10514" level="6" name="Темный Паралич(Dark Paralysis)" cost="211440000" min_level="101"/>
+			<skill id="10529" level="2" name="Теневая Вспышка(Shadow Flash)" cost="211440000" min_level="101"/>
+			<skill id="10549" level="6" name="Тычок(Kick)" cost="211440000" min_level="101"/>
+			<skill id="10511" level="5" name="Удар с Разворота(Reverse)" cost="211440000" min_level="101"/>
+			<skill id="10510" level="9" name="Цепной Импульс(Chain Blow)" cost="211440000" min_level="101"/>
+			<skill id="10526" level="7" name="Шалость(Mischief)" cost="211440000" min_level="101"/>
+			<skill id="10541" level="7" name="Ядовитые Иглы(Throw Poison Needle)" cost="211440000" min_level="101"/>
+			<skill id="10501" level="6" name="Великое Владение Кинжалом(Superior Dagger Mastery)" cost="507455418" min_level="102"/>
+			<skill id="10505" level="6" name="Великое Владение Критическим Ударом(Superior Critical Mastery)" cost="507455418" min_level="102"/>
+			<skill id="10503" level="6" name="Великое Владение Легкой Броней(Superior Light Armor Mastery)" cost="507455418" min_level="102"/>
+			<skill id="10502" level="6" name="Великое Владение Парными Кинжалами(Superior Dual Dagger Mastery)" cost="507455418" min_level="102"/>
+			<skill id="10504" level="6" name="Великое Движение(Superior Movement)" cost="507455418" min_level="102"/>
+			<skill id="10552" level="6" name="Великое Сопротивление(Superior Resistance)" cost="507455418" min_level="102"/>
+			<skill id="10546" level="6" name="Апперкот(Uppercut)" cost="608946501" min_level="103"/>
+			<skill id="10512" level="10" name="Взрывающийся Кинжал(Dagger Explosion)" cost="608946501" min_level="103"/>
+			<skill id="10532" level="6" name="Иллюзия Тени(Clone Attack)" cost="608946501" min_level="103"/>
+			<skill id="531" level="7" name="Критическая Рана(Critical Wound)" cost="608946501" min_level="103"/>
+			<skill id="10513" level="9" name="Кровавый Дождь(Razor Rain)" cost="608946501" min_level="103"/>
+			<skill id="10508" level="10" name="Кровавый Шаг(Blood Stab)" cost="608946501" min_level="103"/>
+			<skill id="10527" level="3" name="Массовая Уловка(Mass Trick)" cost="608946501" min_level="103"/>
+			<skill id="10539" level="10" name="Метнуть Кинжал(Throw Dagger)" cost="608946501" min_level="103"/>
+			<skill id="10554" level="6" name="Обманный Маневр(Power Bluff)" cost="608946501" min_level="103"/>
+			<skill id="10522" level="8" name="Отравленная Зона(Poison Zone)" cost="608946501" min_level="103"/>
+			<skill id="10540" level="7" name="Песок в Глаза(Throw Sand)" cost="608946501" min_level="103"/>
+			<skill id="10516" level="8" name="Погоня за Тенью(Shadow Chase)" cost="608946501" min_level="103"/>
+			<skill id="10509" level="10" name="Разбивание Сердца(Heart Breaker)" cost="608946501" min_level="103"/>
+			<skill id="10525" level="6" name="Рывок Тени(Shadow Dash)" cost="608946501" min_level="103"/>
+			<skill id="10514" level="7" name="Темный Паралич(Dark Paralysis)" cost="608946501" min_level="103"/>
+			<skill id="10529" level="3" name="Теневая Вспышка(Shadow Flash)" cost="608946501" min_level="103"/>
+			<skill id="10549" level="7" name="Тычок(Kick)" cost="608946501" min_level="103"/>
+			<skill id="10511" level="6" name="Удар с Разворота(Reverse)" cost="608946501" min_level="103"/>
+			<skill id="10510" level="10" name="Цепной Импульс(Chain Blow)" cost="608946501" min_level="103"/>
+			<skill id="10526" level="8" name="Шалость(Mischief)" cost="608946501" min_level="103"/>
+			<skill id="10541" level="8" name="Ядовитые Иглы(Throw Poison Needle)" cost="608946501" min_level="103"/>
+			<skill id="10501" level="7" name="Великое Владение Кинжалом(Superior Dagger Mastery)" cost="1461471604" min_level="104"/>
+			<skill id="10505" level="7" name="Великое Владение Критическим Ударом(Superior Critical Mastery)" cost="1461471604" min_level="104"/>
+			<skill id="10503" level="7" name="Великое Владение Легкой Броней(Superior Light Armor Mastery)" cost="1461471604" min_level="104"/>
+			<skill id="10502" level="7" name="Великое Владение Парными Кинжалами(Superior Dual Dagger Mastery)" cost="1461471604" min_level="104"/>
+			<skill id="10504" level="7" name="Великое Движение(Superior Movement)" cost="1461471604" min_level="104"/>
+			<skill id="10552" level="7" name="Великое Сопротивление(Superior Resistance)" cost="1461471604" min_level="104"/>
+			<skill id="10546" level="7" name="Апперкот(Uppercut)" cost="1753765925" min_level="105"/>
+			<skill id="10512" level="11" name="Взрывающийся Кинжал(Dagger Explosion)" cost="1753765925" min_level="105"/>
+			<skill id="10532" level="7" name="Иллюзия Тени(Clone Attack)" cost="1753765925" min_level="105"/>
+			<skill id="531" level="8" name="Критическая Рана(Critical Wound)" cost="1753765925" min_level="105"/>
+			<skill id="10513" level="10" name="Кровавый Дождь(Razor Rain)" cost="1753765925" min_level="105"/>
+			<skill id="10508" level="11" name="Кровавый Шаг(Blood Stab)" cost="1753765925" min_level="105"/>
+			<skill id="10527" level="4" name="Массовая Уловка(Mass Trick)" cost="1753765925" min_level="105"/>
+			<skill id="10539" level="11" name="Метнуть Кинжал(Throw Dagger)" cost="1753765925" min_level="105"/>
+			<skill id="10554" level="7" name="Обманный Маневр(Power Bluff)" cost="1753765925" min_level="105"/>
+			<skill id="10522" level="9" name="Отравленная Зона(Poison Zone)" cost="1753765925" min_level="105"/>
+			<skill id="10540" level="8" name="Песок в Глаза(Throw Sand)" cost="1753765925" min_level="105"/>
+			<skill id="10516" level="9" name="Погоня за Тенью(Shadow Chase)" cost="1753765925" min_level="105"/>
+			<skill id="10509" level="11" name="Разбивание Сердца(Heart Breaker)" cost="1753765925" min_level="105"/>
+			<skill id="10525" level="7" name="Рывок Тени(Shadow Dash)" cost="1753765925" min_level="105"/>
+			<skill id="10514" level="8" name="Темный Паралич(Dark Paralysis)" cost="1753765925" min_level="105"/>
+			<skill id="10529" level="4" name="Теневая Вспышка(Shadow Flash)" cost="1753765925" min_level="105"/>
+			<skill id="10549" level="8" name="Тычок(Kick)" cost="1753765925" min_level="105"/>
+			<skill id="10511" level="7" name="Удар с Разворота(Reverse)" cost="1753765925" min_level="105"/>
+			<skill id="10510" level="11" name="Цепной Импульс(Chain Blow)" cost="1753765925" min_level="105"/>
+			<skill id="10526" level="9" name="Шалость(Mischief)" cost="1753765925" min_level="105"/>
+			<skill id="10541" level="9" name="Ядовитые Иглы(Throw Poison Needle)" cost="1753765925" min_level="105"/>
+		</class>
+	</normal_skill_tree>
+</list>

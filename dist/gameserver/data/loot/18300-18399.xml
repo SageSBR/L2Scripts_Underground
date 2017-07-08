@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<list>
+    <loot id="18319">
+        <database_rewardlist>
+            <reward chance="12.0767" item_id="6535" max="36" min="12"/>
+            <reward chance="8.6953" item_id="6520" max="1" min="1"/>
+            <reward chance="7.2460" item_id="6526" max="1" min="1"/>
+            <reward chance="5.7969" item_id="6523" max="1" min="1"/>
+            <reward chance="0.1159" item_id="6529" max="1" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18320">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="6536" max="8" min="8"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18321">
+        <database_rewardlist>
+            <reward chance="60.0000" item_id="6537" max="8" min="4"/>
+            <reward chance="20.0000" item_id="6526" max="1" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18322">
+        <database_rewardlist>
+            <reward chance="40.0000" item_id="6538" max="9" min="9"/>
+            <reward chance="20.0000" item_id="6520" max="1" min="1"/>
+            <reward chance="20.0000" item_id="6523" max="1" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18323">
+        <database_rewardlist>
+            <reward chance="17.0000" item_id="6520" max="4" min="4"/>
+            <reward chance="17.0000" item_id="6523" max="1" min="1"/>
+            <reward chance="17.0000" item_id="6526" max="1" min="1"/>
+            <reward chance="16.6667" item_id="6539" max="9" min="5"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18324">
+        <database_rewardlist>
+            <reward chance="32.0755" item_id="6539" max="8" min="3"/>
+            <reward chance="18.0000" item_id="6520" max="6" min="3"/>
+            <reward chance="18.0000" item_id="6523" max="1" min="1"/>
+            <reward chance="18.0000" item_id="6526" max="5" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18325">
+        <database_rewardlist>
+            <reward chance="32.0755" item_id="6539" max="8" min="3"/>
+            <reward chance="18.0000" item_id="6520" max="6" min="3"/>
+            <reward chance="18.0000" item_id="6523" max="1" min="1"/>
+            <reward chance="18.0000" item_id="6526" max="5" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18326">
+        <database_rewardlist>
+            <reward chance="25.7320" item_id="6523" max="1" min="1"/>
+            <reward chance="17.1547" item_id="6540" max="9" min="3"/>
+            <reward chance="8.5773" item_id="6520" max="6" min="2"/>
+            <reward chance="5.7182" item_id="6526" max="6" min="2"/>
+            <reward chance="0.0030" item_id="6534" max="1" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18329">
+        <database_rewardlist>
+            <reward chance="4.9730" item_id="8556" max="1" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18334">
+        <database_rewardlist>
+            <reward chance="50.1829" item_id="8192" max="1" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18342">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="57" max="1" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18345">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="165" min="72"/>
+            <reward chance="19.5402" item_id="8787" max="1" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18346">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="163" min="72"/>
+            <reward chance="16.3265" item_id="8787" max="1" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="18352">
+        <rewardlist type="NOT_RATED_NOT_GROUPED">
+            <reward chance="100" item_id="9703" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="18353">
+        <rewardlist type="NOT_RATED_NOT_GROUPED">
+            <reward chance="100" item_id="9704" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="18354">
+        <rewardlist type="NOT_RATED_NOT_GROUPED">
+            <reward chance="100" item_id="9705" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="18355">
+        <rewardlist type="NOT_RATED_NOT_GROUPED">
+            <reward chance="100" item_id="9706" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="18356">
+        <rewardlist type="NOT_RATED_NOT_GROUPED">
+            <reward chance="100" item_id="9707" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="18357">
+        <rewardlist type="NOT_RATED_NOT_GROUPED">
+            <reward chance="100" item_id="9708" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="18358">
+        <rewardlist type="NOT_RATED_NOT_GROUPED">
+            <reward chance="100" item_id="9713" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="18359">
+        <rewardlist type="NOT_RATED_NOT_GROUPED">
+            <reward chance="100" item_id="9709" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="18360">
+        <rewardlist type="NOT_RATED_NOT_GROUPED">
+            <reward chance="100" item_id="9710" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="18361">
+        <rewardlist type="NOT_RATED_NOT_GROUPED">
+            <reward chance="100" item_id="9711" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+</list>

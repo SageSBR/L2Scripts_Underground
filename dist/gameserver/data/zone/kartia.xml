@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<zone name="[kartia_teleport_solo]" type="dummy" >
+		<set name="enabled" val="true"/>
+		<polygon>
+			<coords loc="-110568 -10232 -13000 -10000"/>
+			<coords loc="-111128 -10264 -13000 -10000"/>
+			<coords loc="-111128 -9688 -13000 -10000"/>
+			<coords loc="-111704 -9704 -13000 -10000"/>
+			<coords loc="-111688 -11224 -13000 -10000"/>
+			<coords loc="-111144 -11224 -13000 -10000"/>
+			<coords loc="-111160 -10680 -13000 -10000"/>
+			<coords loc="-110568 -10680 -13000 -10000"/>
+		</polygon>
+	</zone>
+	<zone name="[kartia_teleport_party]" type="dummy" >
+		<set name="enabled" val="true"/>
+		<polygon>
+			<coords loc="-120136 -10232 -13000 -10000"/>
+			<coords loc="-120696 -10280 -13000 -10000"/>
+			<coords loc="-120696 -9672 -13000 -10000"/>
+			<coords loc="-121256 -9704 -13000 -10000"/>
+			<coords loc="-121256 -11224 -13000 -10000"/>
+			<coords loc="-120696 -11240 -13000 -10000"/>
+			<coords loc="-120744 -10664 -13000 -10000"/>
+			<coords loc="-120136 -10664 -13000 -10000"/>
+		</polygon>
+	</zone>
+</list>

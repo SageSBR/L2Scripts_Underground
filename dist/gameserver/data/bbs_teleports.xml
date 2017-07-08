@@ -1,0 +1,71 @@
+<list>
+	<teleport_list id="1" name_en="Towns" name_ru="Города">
+		<point id="1" x="82698" y="148638" z="-3473" castle_id="3" name_en="Giran" name_ru="Гиран"/>
+		<point id="2" x="147450" y="27064" z="-2208" castle_id="5" name_en="Aden" name_ru="Аден"/>
+		<point id="3" x="147725" y="-56517" z="-2780" castle_id="7" name_en="Goddard" name_ru="Годдард"/>
+		<point id="4" x="44070" y="-50243" z="-796" castle_id="8" name_en="Rune" name_ru="Рун"/>
+		<point id="5" x="82321" y="55139" z="-1529" castle_id="4" name_en="Oren" name_ru="Орен"/>
+		<point id="6" x="87358" y="-141982" z="-1341" castle_id="9" name_en="Schuttgart" name_ru="Штутгарт"/>
+		<point id="7" x="111115" y="219017" z="-3547" castle_id="6" name_en="Heine" name_ru="Хейн"/>
+		<point id="8" x="18748" y="145437" z="-3132" castle_id="2" name_en="Dion" name_ru="Дион"/>
+		<point id="9" x="-14225" y="123540" z="-3121" castle_id="1" name_en="Gludio" name_ru="Глудио"/>
+		<point id="10" x="-83063" y="150791" z="-3133" name_en="Gludin" name_ru="Глудин"/>
+		<point id="11" x="17144" y="170156" z="-3502" name_en="Floran" name_ru="Флоран"/>
+		<point id="12" x="116589" y="76268" z="-2734" name_en="Hunter Village" name_ru="Деревня охотников"/>
+		<point id="13" x="207624" y="87416" z="-1114" name_en="Arcan" name_ru="Город Аркан"/>
+		<point id="14" x="16310" y="-114031" z="-224" name_en="Kainak" name_ru="Кайнак"/>
+		<point id="15" x="-50990" y="-147299" z="-14944" name_en="Kainak" name_ru="Подземный Кайнак"/>
+	</teleport_list>
+
+	<teleport_list id="2" name_en="Start Villages" name_ru="Стартовые деревни">
+		<point id="1" x="12428" y="16551" z="-4588" name_en="Dark Elf Village" name_ru="Деревня Темный Эльфов"/>
+		<point id="2" x="116551" y="-182493" z="-1525" name_en="Dwarf Village" name_ru="Деревня Гномов"/>
+		<point id="3" x="45873" y="49288" z="-3064" name_en="Elf Village" name_ru="Деревня Эльфов"/>
+		<point id="4" x="-116934" y="46616" z="368" name_en="Kamael Village" name_ru="Деревня Камаэлев"/>
+		<point id="5" x="-44133" y="-113911" z="-244" name_en="Orc Village" name_ru="Деревня Орков"/>
+		<point id="6" x="-114360" y="255160" z="-1549" name_en="Talking Island" name_ru="Говорящий остров"/>
+		<point id="7" x="-80424" y="247704" z="-3520" name_en="Vernon" name_ru="Бенон"/>
+	</teleport_list>
+	
+	<teleport_list id="3" name_en="Hellbound" name_ru="Остров Ада">
+		<point id="1" x="-28040" y="254808" z="-2232" name_en="Hellbound" name_ru="Деревня Беженцев"/>
+	</teleport_list>
+	
+	<teleport_list id="4" name_en="old" name_ru="Побродить">
+		<point id="1" x="214662" y="79922" z="820" name_en="Fairy" name_ru="Колония Фей"/>
+		<point id="2" x="213603" y="116066" z="-880" name_en="GOG" name_ru="Сад Бытия"/>
+		<point id="3" x="198623" y="86493" z="-132" name_en="Orbis" name_ru="Храм Орбиса"/>
+		<point id="4" x="213016" y="50424" z="-8432" name_en="Храм Орбиса 1-й уровень" name_ru="Храм Орбиса 1-й уровень"/>
+		<point id="5" x="213016" y="50424" z="-14665" name_en="Храм Орбиса 2-й уровень" name_ru="Храм Орбиса 2-й уровень"/>
+		<point id="6" x="214312" y="112696" z="-12929" name_en="Храм Орбиса 3-й уровень" name_ru="Храм Орбиса 3-й уровень"/>
+		<point id="7" x="-114675" y="230171" z="-1648" name_en="Esagira Ruins" name_ru="Руины Эсагира"/>
+		<point id="8" x="-15838" y="30495" z="-3611" name_en="Blood Topi" name_ru="Кровавые Топи"/>
+		<point id="9" x="184701" y="19707" z="-3163" name_en="Gates" name_ru="Запретные Врата"/>
+		<point id="10" x="54556" y="139159" z="-2591" name_en="Gilotin" name_ru="Форт Гильотины"/>
+		<point id="11" x="17207" y="-146219" z="-387" name_en="hunt" name_ru="Перекресток Разбойников"/>
+		<point id="12" x="-13900" y="-126380" z="-2185" name_en="Chaos Erth" name_ru="Земля Хаоса"/>
+	</teleport_list>
+	
+	<teleport_list id="5" name_en="Arenas" name_ru="Арены">
+		<point id="1" x="73890" y="142656" z="-3778" name_en="Giran Arena" name_ru="Арена Гирана"/>
+		<point id="2" x="-86979" y="142402" z="-3643" name_en="Gludin Arena" name_ru="Арена Глудина"/>
+		<point id="3" x="147451" y="46728" z="-3410" name_en="Coliseum Arena" name_ru="Колизей"/>
+		<point id="4" x="-81896" y="-49589" z="-10352" name_en="Underground Coliseum" name_ru="Подземный Колизей"/>
+		<point id="5" x="12312" y="182752" z="-3558" name_en="Monster Race Track" name_ru="Гонки Монстров"/>
+		<point id="6" x="-59193" y="-56893" z="-2039" name_en="Fantasy Island" name_ru="Остров Грез"/>
+	</teleport_list>
+	
+	<teleport_list id="6" name_en="Lvl up" name_ru="Прокачка">
+		<point id="1" x="-107928" y="249520" z="-3104" name_en="1-10" name_ru="1-10"/>
+		<point id="2" x="-115593" y="236563" z="-3088" name_en="12-20" name_ru="12-20"/>
+		<point id="3" x="-20555" y="123969" z="-3376" name_en="20-35" name_ru="20-35"/>
+		<point id="4" x="15776" y="116843" z="-12096" name_en="40-55" name_ru="40-55"/>
+		<point id="5" x="115173" y="15970" z="-5104" name_en="55-70" name_ru="55-70"/>
+		<point id="6" x="116295" y="17687" z="4976" name_en="70-80" name_ru="70-80"/>
+		<point id="7" x="-15838" y="30495" z="-3611" name_en="81-88" name_ru="81-88"/>
+		<point id="8" x="212186" y="77913" z="752" name_en="90-95" name_ru="90-95"/>
+		<point id="9" x="214289" y="115568" z="-12736" name_en="95-99" name_ru="95-99"/>
+		<point id="10" x="-51016" y="82440" z="-4904" name_en="99-105" name_ru="99-105"/>
+		<point id="11" x="-48120" y="60760" z="-3273" name_en="100-105" name_ru="100-105"/>	
+	</teleport_list>	
+</list>

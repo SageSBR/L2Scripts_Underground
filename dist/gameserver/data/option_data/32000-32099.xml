@@ -1,0 +1,603 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<option_data id="32000">
+		<for>
+			<add order="0x60" stat="stunResist" value="6"/>
+			<add order="0x60" stat="bleedResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32001">
+		<for>
+			<add order="0x60" stat="stunResist" value="6"/>
+			<add order="0x60" stat="paralyzeResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32002">
+		<for>
+			<add order="0x60" stat="stunResist" value="6"/>
+			<add order="0x60" stat="mentalResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32003">
+		<for>
+			<add order="0x60" stat="stunResist" value="6"/>
+			<add order="0x60" stat="sleepResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32004">
+		<for>
+			<add order="0x60" stat="stunResist" value="6"/>
+			<add order="0x60" stat="poisonResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32005">
+		<for>
+			<add order="0x60" stat="stunResist" value="6"/>
+			<add order="0x60" stat="knockDownResist" value="6"/>
+			<add order="0x60" stat="knockBackResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32006">
+		<for>
+			<add order="0x60" stat="stunResist" value="6"/>
+			<add order="0x60" stat="airjokeResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32007">
+		<for>
+			<add order="0x60" stat="stunResist" value="6"/>
+			<add order="0x60" stat="pullResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32008">
+		<skills>
+			<skill id="13765" level="4"/> <!--Предметное умение: Сопротивление Оглушению, Окаменению. -->
+		</skills>
+	</option_data>
+	<option_data id="32009">
+		<for>
+			<add order="0x60" stat="rootResist" value="6"/>
+			<add order="0x60" stat="bleedResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32010">
+		<for>
+			<add order="0x60" stat="rootResist" value="6"/>
+			<add order="0x60" stat="paralyzeResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32011">
+		<for>
+			<add order="0x60" stat="rootResist" value="6"/>
+			<add order="0x60" stat="mentalResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32012">
+		<for>
+			<add order="0x60" stat="rootResist" value="6"/>
+			<add order="0x60" stat="sleepResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32013">
+		<for>
+			<add order="0x60" stat="rootResist" value="6"/>
+			<add order="0x60" stat="poisonResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32014">
+		<for>
+			<add order="0x60" stat="rootResist" value="6"/>
+			<add order="0x60" stat="knockDownResist" value="6"/>
+			<add order="0x60" stat="knockBackResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32015">
+		<for>
+			<add order="0x60" stat="rootResist" value="6"/>
+			<add order="0x60" stat="airjokeResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32016">
+		<for>
+			<add order="0x60" stat="rootResist" value="6"/>
+			<add order="0x60" stat="pullResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32017">
+		<skills>
+			<skill id="13769" level="4"/> <!--Предметное умение: Сопротивление Удержанию, Окаменению. -->
+		</skills>
+	</option_data>
+	<option_data id="32018">
+		<for>
+			<add order="0x60" stat="bleedResist" value="6"/>
+			<add order="0x60" stat="paralyzeResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32019">
+		<for>
+			<add order="0x60" stat="bleedResist" value="6"/>
+			<add order="0x60" stat="mentalResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32020">
+		<for>
+			<add order="0x60" stat="bleedResist" value="6"/>
+			<add order="0x60" stat="sleepResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32021">
+		<for>
+			<add order="0x60" stat="bleedResist" value="6"/>
+			<add order="0x60" stat="poisonResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32022">
+		<for>
+			<add order="0x60" stat="bleedResist" value="6"/>
+			<add order="0x60" stat="knockDownResist" value="6"/>
+			<add order="0x60" stat="knockBackResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32023">
+		<for>
+			<add order="0x60" stat="bleedResist" value="6"/>
+			<add order="0x60" stat="airjokeResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32024">
+		<for>
+			<add order="0x60" stat="bleedResist" value="6"/>
+			<add order="0x60" stat="pullResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32025">
+		<skills>
+			<skill id="13768" level="4"/> <!--Предметное умение: Сопротивление Кровоточению, Окаменению. -->
+		</skills>
+	</option_data>
+	<option_data id="32026">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="6"/>
+			<add order="0x60" stat="mentalResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32027">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="6"/>
+			<add order="0x60" stat="sleepResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32028">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="6"/>
+			<add order="0x60" stat="poisonResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32029">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="6"/>
+			<add order="0x60" stat="knockDownResist" value="6"/>
+			<add order="0x60" stat="knockBackResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32030">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="6"/>
+			<add order="0x60" stat="airjokeResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32031">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="6"/>
+			<add order="0x60" stat="pullResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32032">
+		<skills>
+			<skill id="13761" level="4"/> <!--Предметное умение: Сопротивление Параличу, Окаменению. -->
+		</skills>
+	</option_data>
+	<option_data id="32033">
+		<for>
+			<add order="0x60" stat="mentalResist" value="6"/>
+			<add order="0x60" stat="sleepResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32034">
+		<for>
+			<add order="0x60" stat="mentalResist" value="6"/>
+			<add order="0x60" stat="poisonResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32035">
+		<for>
+			<add order="0x60" stat="mentalResist" value="6"/>
+			<add order="0x60" stat="knockDownResist" value="6"/>
+			<add order="0x60" stat="knockBackResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32036">
+		<for>
+			<add order="0x60" stat="mentalResist" value="6"/>
+			<add order="0x60" stat="airjokeResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32037">
+		<for>
+			<add order="0x60" stat="mentalResist" value="6"/>
+			<add order="0x60" stat="pullResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32038">
+		<skills>
+			<skill id="13761" level="4"/> <!--Предметное умение: Сопротивление Ментальным, Окаменению. -->
+		</skills>
+	</option_data>
+	<option_data id="32039">
+		<for>
+			<add order="0x60" stat="sleepResist" value="6"/>
+			<add order="0x60" stat="poisonResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32040">
+		<for>
+			<add order="0x60" stat="sleepResist" value="6"/>
+			<add order="0x60" stat="knockDownResist" value="6"/>
+			<add order="0x60" stat="knockBackResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32041">
+		<for>
+			<add order="0x60" stat="sleepResist" value="6"/>
+			<add order="0x60" stat="airjokeResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32042">
+		<for>
+			<add order="0x60" stat="sleepResist" value="6"/>
+			<add order="0x60" stat="pullResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32043">
+		<skills>
+			<skill id="13766" level="4"/> <!--Предметное умение: Сопротивление Ментальным, Окаменению. -->
+		</skills>
+	</option_data>
+	<option_data id="32044">
+		<for>
+			<add order="0x60" stat="poisonResist" value="6"/>
+			<add order="0x60" stat="knockDownResist" value="6"/>
+			<add order="0x60" stat="knockBackResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32045">
+		<for>
+			<add order="0x60" stat="poisonResist" value="6"/>
+			<add order="0x60" stat="airjokeResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32046">
+		<for>
+			<add order="0x60" stat="poisonResist" value="6"/>
+			<add order="0x60" stat="pullResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32047">
+		<skills>
+			<skill id="13757" level="4"/> <!--Предметное умение: Сопротивление Ментальным, Окаменению. -->
+		</skills>
+	</option_data>
+	<option_data id="32048">
+		<for>
+			<add order="0x60" stat="knockDownResist" value="6"/>
+			<add order="0x60" stat="knockBackResist" value="6"/>
+			<add order="0x60" stat="airjokeResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32049">
+		<for>
+			<add order="0x60" stat="knockDownResist" value="6"/>
+			<add order="0x60" stat="knockBackResist" value="6"/>
+			<add order="0x60" stat="pullResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32050">
+		<skills>
+			<skill id="13756" level="4"/> <!--Предметное умение: Сопротивление Ментальным, Окаменению. -->
+		</skills>
+	</option_data>
+	<option_data id="32051">
+		<for>
+			<add order="0x60" stat="airjokeResist" value="6"/>
+			<add order="0x60" stat="pullResist" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="32052">
+		<skills>
+			<skill id="13754" level="4"/> <!--Предметное умение: Сопротивление Ментальным, Окаменению. -->
+		</skills>
+	</option_data>
+	<option_data id="32053">
+		<skills>
+			<skill id="13755" level="4"/> <!--Предметное умение: Сопротивление Ментальным, Окаменению. -->
+		</skills>
+	</option_data>
+	<option_data id="32054">
+		<for>
+			<add order="0x60" stat="stunResist" value="7"/>
+			<add order="0x60" stat="rootResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32055">
+		<for>
+			<add order="0x60" stat="stunResist" value="7"/>
+			<add order="0x60" stat="bleedResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32056">
+		<for>
+			<add order="0x60" stat="stunResist" value="7"/>
+			<add order="0x60" stat="paralyzeResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32057">
+		<for>
+			<add order="0x60" stat="stunResist" value="7"/>
+			<add order="0x60" stat="mentalResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32058">
+		<for>
+			<add order="0x60" stat="stunResist" value="7"/>
+			<add order="0x60" stat="sleepResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32059">
+		<for>
+			<add order="0x60" stat="stunResist" value="7"/>
+			<add order="0x60" stat="poisonResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32060">
+		<for>
+			<add order="0x60" stat="stunResist" value="7"/>
+			<add order="0x60" stat="knockDownResist" value="7"/>
+			<add order="0x60" stat="knockBackResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32061">
+		<for>
+			<add order="0x60" stat="stunResist" value="7"/>
+			<add order="0x60" stat="airjokeResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32062">
+		<for>
+			<add order="0x60" stat="stunResist" value="7"/>
+			<add order="0x60" stat="pullResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32063">
+		<skills>
+			<skill id="13765" level="6"/> <!--Предметное умение: Сопротивление Оглушению, Окаменению. -->
+		</skills>
+	</option_data>
+	<option_data id="32064">
+		<for>
+			<add order="0x60" stat="rootResist" value="7"/>
+			<add order="0x60" stat="bleedResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32065">
+		<for>
+			<add order="0x60" stat="rootResist" value="7"/>
+			<add order="0x60" stat="paralyzeResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32066">
+		<for>
+			<add order="0x60" stat="rootResist" value="7"/>
+			<add order="0x60" stat="mentalResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32067">
+		<for>
+			<add order="0x60" stat="rootResist" value="7"/>
+			<add order="0x60" stat="sleepResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32068">
+		<for>
+			<add order="0x60" stat="rootResist" value="7"/>
+			<add order="0x60" stat="poisonResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32069">
+		<for>
+			<add order="0x60" stat="rootResist" value="7"/>
+			<add order="0x60" stat="knockDownResist" value="7"/>
+			<add order="0x60" stat="knockBackResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32070">
+		<for>
+			<add order="0x60" stat="rootResist" value="7"/>
+			<add order="0x60" stat="airjokeResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32071">
+		<for>
+			<add order="0x60" stat="rootResist" value="7"/>
+			<add order="0x60" stat="pullResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32072">
+		<skills>
+			<skill id="13769" level="6"/> <!--Предметное умение: Сопротивление Удержанию, Окаменению. -->
+		</skills>
+	</option_data>
+	<option_data id="32073">
+		<for>
+			<add order="0x60" stat="bleedResist" value="7"/>
+			<add order="0x60" stat="paralyzeResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32074">
+		<for>
+			<add order="0x60" stat="bleedResist" value="7"/>
+			<add order="0x60" stat="mentalResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32075">
+		<for>
+			<add order="0x60" stat="bleedResist" value="7"/>
+			<add order="0x60" stat="sleepResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32076">
+		<for>
+			<add order="0x60" stat="bleedResist" value="7"/>
+			<add order="0x60" stat="poisonResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32077">
+		<for>
+			<add order="0x60" stat="bleedResist" value="7"/>
+			<add order="0x60" stat="knockDownResist" value="7"/>
+			<add order="0x60" stat="knockBackResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32078">
+		<for>
+			<add order="0x60" stat="bleedResist" value="7"/>
+			<add order="0x60" stat="airjokeResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32079">
+		<for>
+			<add order="0x60" stat="bleedResist" value="7"/>
+			<add order="0x60" stat="pullResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32080">
+		<skills>
+			<skill id="13768" level="6"/> <!--Предметное умение: Сопротивление Кровоточению, Окаменению. -->
+		</skills>
+	</option_data>
+	<option_data id="32081">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="7"/>
+			<add order="0x60" stat="mentalResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32082">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="7"/>
+			<add order="0x60" stat="sleepResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32083">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="7"/>
+			<add order="0x60" stat="poisonResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32084">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="7"/>
+			<add order="0x60" stat="knockDownResist" value="7"/>
+			<add order="0x60" stat="knockBackResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32085">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="7"/>
+			<add order="0x60" stat="airjokeResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32086">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="7"/>
+			<add order="0x60" stat="pullResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32087">
+		<skills>
+			<skill id="13761" level="6"/> <!--Предметное умение: Сопротивление Параличу, Окаменению. -->
+		</skills>
+	</option_data>
+	<option_data id="32088">
+		<for>
+			<add order="0x60" stat="mentalResist" value="7"/>
+			<add order="0x60" stat="sleepResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32089">
+		<for>
+			<add order="0x60" stat="mentalResist" value="7"/>
+			<add order="0x60" stat="poisonResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32090">
+		<for>
+			<add order="0x60" stat="mentalResist" value="7"/>
+			<add order="0x60" stat="knockDownResist" value="7"/>
+			<add order="0x60" stat="knockBackResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32091">
+		<for>
+			<add order="0x60" stat="mentalResist" value="7"/>
+			<add order="0x60" stat="airjokeResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32092">
+		<for>
+			<add order="0x60" stat="mentalResist" value="7"/>
+			<add order="0x60" stat="pullResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32093">
+		<skills>
+			<skill id="13761" level="6"/> <!--Предметное умение: Сопротивление Ментальным, Окаменению. -->
+		</skills>
+	</option_data>
+	<option_data id="32094">
+		<for>
+			<add order="0x60" stat="sleepResist" value="7"/>
+			<add order="0x60" stat="poisonResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32095">
+		<for>
+			<add order="0x60" stat="sleepResist" value="7"/>
+			<add order="0x60" stat="knockDownResist" value="7"/>
+			<add order="0x60" stat="knockBackResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32096">
+		<for>
+			<add order="0x60" stat="sleepResist" value="7"/>
+			<add order="0x60" stat="airjokeResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32097">
+		<for>
+			<add order="0x60" stat="sleepResist" value="7"/>
+			<add order="0x60" stat="pullResist" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="32098">
+		<skills>
+			<skill id="13766" level="6"/> <!--Предметное умение: Сопротивление Ментальным, Окаменению. -->
+		</skills>
+	</option_data>
+	<option_data id="32099">
+		<for>
+			<add order="0x60" stat="poisonResist" value="7"/>
+			<add order="0x60" stat="knockDownResist" value="7"/>
+			<add order="0x60" stat="knockBackResist" value="7"/>
+		</for>
+	</option_data>
+</list>

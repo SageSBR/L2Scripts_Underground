@@ -1,0 +1,503 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<option_data id="30700">
+		<skills>
+			<skill id="13759" level="14"/> <!--Предметное умение: Шанс Крит. Атк. маг. умений -->
+		</skills>
+	</option_data>
+	<option_data id="30701">
+		<skills>
+			<skill id="13759" level="15"/> <!--Предметное умение: Шанс Крит. Атк. маг. умений -->
+		</skills>
+	</option_data>
+	<option_data id="30702">
+		<skills>
+			<skill id="13759" level="16"/> <!--Предметное умение: Шанс Крит. Атк. маг. умений -->
+		</skills>
+	</option_data>
+	<option_data id="30703">
+		<skills>
+			<skill id="13759" level="17"/> <!--Предметное умение: Шанс Крит. Атк. маг. умений -->
+		</skills>
+	</option_data>
+	<option_data id="30704">
+		<skills>
+			<skill id="13759" level="18"/> <!--Предметное умение: Шанс Крит. Атк. маг. умений -->
+		</skills>
+	</option_data>
+	<option_data id="30705">
+		<skills>
+			<skill id="13759" level="19"/> <!--Предметное умение: Шанс Крит. Атк. маг. умений -->
+		</skills>
+	</option_data>
+	<option_data id="30706">
+		<skills>
+			<skill id="13759" level="20"/> <!--Предметное умение: Шанс Крит. Атк. маг. умений -->
+		</skills>
+	</option_data>
+	<option_data id="30707">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.00825"/>
+		</for>
+	</option_data>
+	<option_data id="30708">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.00975"/>
+		</for>
+	</option_data>
+	<option_data id="30709">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.01275"/>
+		</for>
+	</option_data>
+	<option_data id="30710">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.01575"/>
+		</for>
+	</option_data>
+	<option_data id="30711">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.01875"/>
+		</for>
+	</option_data>
+	<option_data id="30712">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.0225"/>
+		</for>
+	</option_data>
+	<option_data id="30713">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.02625"/>
+		</for>
+	</option_data>
+	<option_data id="30714">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.03"/>
+		</for>
+	</option_data>
+	<option_data id="30715">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.0375"/>
+		</for>
+	</option_data>
+	<option_data id="30716">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.075"/>
+		</for>
+	</option_data>
+	<option_data id="30717">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.00825"/>
+		</for>
+	</option_data>
+	<option_data id="30718">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.00975"/>
+		</for>
+	</option_data>
+	<option_data id="30719">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.01275"/>
+		</for>
+	</option_data>
+	<option_data id="30720">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.01575"/>
+		</for>
+	</option_data>
+	<option_data id="30721">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.01875"/>
+		</for>
+	</option_data>
+	<option_data id="30722">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.0225"/>
+		</for>
+	</option_data>
+	<option_data id="30723">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.02625"/>
+		</for>
+	</option_data>
+	<option_data id="30724">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.03"/>
+		</for>
+	</option_data>
+	<option_data id="30725">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.0375"/>
+		</for>
+	</option_data>
+	<option_data id="30726">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="1.075"/>
+		</for>
+	</option_data>
+	<option_data id="30727">
+		<skills>
+			<skill id="13758" level="11"/> <!--Предметное умение: Сила Крит. Атк. маг. умений  -->
+		</skills>
+	</option_data>
+	<option_data id="30728">
+		<skills>
+			<skill id="13758" level="12"/> <!--Предметное умение: Сила Крит. Атк. маг. умений  -->
+		</skills>
+	</option_data>
+	<option_data id="30729">
+		<skills>
+			<skill id="13758" level="13"/> <!--Предметное умение: Сила Крит. Атк. маг. умений  -->
+		</skills>
+	</option_data>
+	<option_data id="30730">
+		<skills>
+			<skill id="13758" level="14"/> <!--Предметное умение: Сила Крит. Атк. маг. умений  -->
+		</skills>
+	</option_data>
+	<option_data id="30731">
+		<skills>
+			<skill id="13758" level="15"/> <!--Предметное умение: Сила Крит. Атк. маг. умений  -->
+		</skills>
+	</option_data>
+	<option_data id="30732">
+		<skills>
+			<skill id="13758" level="16"/> <!--Предметное умение: Сила Крит. Атк. маг. умений  -->
+		</skills>
+	</option_data>
+	<option_data id="30733">
+		<skills>
+			<skill id="13758" level="17"/> <!--Предметное умение: Сила Крит. Атк. маг. умений  -->
+		</skills>
+	</option_data>
+	<option_data id="30734">
+		<skills>
+			<skill id="13758" level="18"/> <!--Предметное умение: Сила Крит. Атк. маг. умений  -->
+		</skills>
+	</option_data>
+	<option_data id="30735">
+		<skills>
+			<skill id="13758" level="19"/> <!--Предметное умение: Сила Крит. Атк. маг. умений  -->
+		</skills>
+	</option_data>
+	<option_data id="30736">
+		<skills>
+			<skill id="13758" level="20"/> <!--Предметное умение: Сила Крит. Атк. маг. умений  -->
+		</skills>
+	</option_data>
+	<option_data id="30737">
+		<skills>
+			<skill id="13753" level="11"/> <!--Предметное умение: Стихия атаки  -->
+		</skills>
+	</option_data>
+	<option_data id="30738">
+		<skills>
+			<skill id="13753" level="12"/> <!--Предметное умение: Стихия атаки  -->
+		</skills>
+	</option_data>
+	<option_data id="30739">
+		<skills>
+			<skill id="13753" level="13"/> <!--Предметное умение: Стихия атаки  -->
+		</skills>
+	</option_data>
+	<option_data id="30740">
+		<skills>
+			<skill id="13753" level="19"/> <!--Предметное умение: Стихия атаки  -->
+		</skills>
+	</option_data>
+	<option_data id="30741">
+		<skills>
+			<skill id="13753" level="15"/> <!--Предметное умение: Стихия атаки  -->
+		</skills>
+	</option_data>
+	<option_data id="30742">
+		<skills>
+			<skill id="13753" level="20"/> <!--Предметное умение: Стихия атаки  -->
+		</skills>
+	</option_data>
+	<option_data id="30743">
+		<skills>
+			<skill id="13753" level="16"/> <!--Предметное умение: Стихия атаки  -->
+		</skills>
+	</option_data>
+	<option_data id="30744">
+		<skills>
+			<skill id="13753" level="17"/> <!--Предметное умение: Стихия атаки  -->
+		</skills>
+	</option_data>
+	<option_data id="30745">
+		<skills>
+			<skill id="13753" level="18"/> <!--Предметное умение: Стихия атаки  -->
+		</skills>
+	</option_data>
+	<option_data id="30746">
+		<skills>
+			<skill id="13753" level="14"/> <!--Предметное умение: Стихия атаки  -->
+		</skills>
+	</option_data>
+	<option_data id="30747">
+		<for>
+			<add order="0x60" stat="stunPower" value="2"/>
+		</for>
+	</option_data>
+	<option_data id="30748">
+		<for>
+			<add order="0x60" stat="stunPower" value="3"/>
+		</for>
+	</option_data>
+	<option_data id="30749">
+		<for>
+			<add order="0x60" stat="stunPower" value="4"/>
+		</for>
+	</option_data>
+	<option_data id="30750">
+		<for>
+			<add order="0x60" stat="stunPower" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30751">
+		<for>
+			<add order="0x60" stat="stunPower" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="30752">
+		<for>
+			<add order="0x60" stat="stunPower" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="30753">
+		<for>
+			<add order="0x60" stat="stunPower" value="8"/>
+		</for>
+	</option_data>
+	<option_data id="30754">
+		<for>
+			<add order="0x60" stat="stunPower" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30755">
+		<for>
+			<add order="0x60" stat="stunPower" value="20"/>
+		</for>
+	</option_data>
+	<option_data id="30756">
+		<for>
+			<add order="0x60" stat="rootPower" value="2"/>
+		</for>
+	</option_data>
+	<option_data id="30757">
+		<for>
+			<add order="0x60" stat="rootPower" value="3"/>
+		</for>
+	</option_data>
+	<option_data id="30758">
+		<for>
+			<add order="0x60" stat="rootPower" value="4"/>
+		</for>
+	</option_data>
+	<option_data id="30759">
+		<for>
+			<add order="0x60" stat="rootPower" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30760">
+		<for>
+			<add order="0x60" stat="rootPower" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="30761">
+		<for>
+			<add order="0x60" stat="rootPower" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="30762">
+		<for>
+			<add order="0x60" stat="rootPower" value="8"/>
+		</for>
+	</option_data>
+	<option_data id="30763">
+		<for>
+			<add order="0x60" stat="rootPower" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30764">
+		<for>
+			<add order="0x60" stat="rootPower" value="20"/>
+		</for>
+	</option_data>
+	<option_data id="30765">
+		<for>
+			<add order="0x60" stat="bleedPower" value="2"/>
+		</for>
+	</option_data>
+	<option_data id="30766">
+		<for>
+			<add order="0x60" stat="bleedPower" value="3"/>
+		</for>
+	</option_data>
+	<option_data id="30767">
+		<for>
+			<add order="0x60" stat="bleedPower" value="4"/>
+		</for>
+	</option_data>
+	<option_data id="30768">
+		<for>
+			<add order="0x60" stat="bleedPower" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30769">
+		<for>
+			<add order="0x60" stat="bleedPower" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="30770">
+		<for>
+			<add order="0x60" stat="bleedPower" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="30771">
+		<for>
+			<add order="0x60" stat="bleedPower" value="8"/>
+		</for>
+	</option_data>
+	<option_data id="30772">
+		<for>
+			<add order="0x60" stat="bleedPower" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30773">
+		<for>
+			<add order="0x60" stat="bleedPower" value="20"/>
+		</for>
+	</option_data>
+	<option_data id="30774">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="2"/>
+		</for>
+	</option_data>
+	<option_data id="30775">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="3"/>
+		</for>
+	</option_data>
+	<option_data id="30776">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="4"/>
+		</for>
+	</option_data>
+	<option_data id="30777">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30778">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="30779">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="30780">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="8"/>
+		</for>
+	</option_data>
+	<option_data id="30781">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30782">
+		<for>
+			<add order="0x60" stat="paralyzePower" value="20"/>
+		</for>
+	</option_data>
+	<option_data id="30783">
+		<for>
+			<add order="0x60" stat="mentalPower" value="2"/>
+		</for>
+	</option_data>
+	<option_data id="30784">
+		<for>
+			<add order="0x60" stat="mentalPower" value="3"/>
+		</for>
+	</option_data>
+	<option_data id="30785">
+		<for>
+			<add order="0x60" stat="mentalPower" value="4"/>
+		</for>
+	</option_data>
+	<option_data id="30786">
+		<for>
+			<add order="0x60" stat="mentalPower" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30787">
+		<for>
+			<add order="0x60" stat="mentalPower" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="30788">
+		<for>
+			<add order="0x60" stat="mentalPower" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="30789">
+		<for>
+			<add order="0x60" stat="mentalPower" value="8"/>
+		</for>
+	</option_data>
+	<option_data id="30790">
+		<for>
+			<add order="0x60" stat="mentalPower" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30791">
+		<for>
+			<add order="0x60" stat="mentalPower" value="20"/>
+		</for>
+	</option_data>
+	<option_data id="30792">
+		<for>
+			<add order="0x60" stat="sleepPower" value="2"/>
+		</for>
+	</option_data>
+	<option_data id="30793">
+		<for>
+			<add order="0x60" stat="sleepPower" value="3"/>
+		</for>
+	</option_data>
+	<option_data id="30794">
+		<for>
+			<add order="0x60" stat="sleepPower" value="4"/>
+		</for>
+	</option_data>
+	<option_data id="30795">
+		<for>
+			<add order="0x60" stat="sleepPower" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30796">
+		<for>
+			<add order="0x60" stat="sleepPower" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="30797">
+		<for>
+			<add order="0x60" stat="sleepPower" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="30798">
+		<for>
+			<add order="0x60" stat="sleepPower" value="8"/>
+		</for>
+	</option_data>
+	<option_data id="30799">
+		<for>
+			<add order="0x60" stat="sleepPower" value="10"/>
+		</for>
+	</option_data>
+</list>

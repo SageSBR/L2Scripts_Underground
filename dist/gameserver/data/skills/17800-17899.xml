@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17800" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+				<or>
+					<target race="Dragons"/>
+				</or>
+			</mul>
+			<!-- Урон по Драконам +300% -->
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17801" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+				<or>
+					<target race="Dragons"/>
+				</or>
+			</mul>
+			<!-- Урон по Драконам +300% -->
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17802" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+				<or>
+					<target race="Dragons"/>
+				</or>
+			</mul>
+			<!-- Урон по Драконам +300% -->
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17803" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+				<or>
+					<target race="Dragons"/>
+				</or>
+			</mul>
+			<!-- Урон по Драконам +300% -->
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17804" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Маг. +1500, шанс маг. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="mAtkSpd" value="1999" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="mCritRate" value="500" />
+			<!-- шанс Маг. Крит. Атк. +500 -->
+			<mul order="0x30" stat="mAtk" value="4">
+				<or>
+					<target race="Dragons"/>
+				</or>
+			</mul>
+			<!-- Урон по Драконам +300% -->
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17805" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Маг. +1500, шанс маг. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="mAtkSpd" value="1999" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="mCritRate" value="500" />
+			<!-- шанс Маг. Крит. Атк. +500 -->
+			<mul order="0x30" stat="mAtk" value="4">
+				<or>
+					<target race="Dragons"/>
+				</or>
+			</mul>
+			<!-- Урон по Драконам +300% -->
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17806" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Маг. +1500, шанс маг. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="mAtkSpd" value="1999" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="mCritRate" value="500" />
+			<!-- шанс Маг. Крит. Атк. +500 -->
+			<mul order="0x30" stat="mAtk" value="4">
+				<or>
+					<target race="Dragons"/>
+				</or>
+			</mul>
+			<!-- Урон по Драконам +300% -->
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17807" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+				<or>
+					<target race="Dragons"/>
+				</or>
+			</mul>
+			<!-- Урон по Драконам +300% -->
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17808" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+				<or>
+					<target race="Dragons"/>
+				</or>
+			</mul>
+			<!-- Урон по Драконам +300% -->
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17809" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+				<or>
+					<target race="Dragons"/>
+				</or>
+			</mul>
+			<!-- Урон по Драконам +300% -->
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17810" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Маг. +1500, шанс маг. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="mAtkSpd" value="1999" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="mCritRate" value="500" />
+			<!-- шанс Маг. Крит. Атк. +500 -->
+			<mul order="0x30" stat="mAtk" value="4">
+				<or>
+					<target race="Dragons"/>
+				</or>
+			</mul>
+			<!-- Урон по Драконам +300% -->
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17811" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+				<or>
+					<target race="Dragons"/>
+				</or>
+			</mul>
+			<!-- Урон по Драконам +300% -->
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17812" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+				<or>
+					<target race="Dragons"/>
+				</or>
+			</mul>
+			<!-- Урон по Драконам +300% -->
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17813" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+				<or>
+					<target race="Dragons"/>
+				</or>
+			</mul>
+			<!-- Урон по Драконам +300% -->
+		</for>
+	</skill>
+	<skill id="17814" levels="2" name="Рубин">
+		<table name="#power">101 103.5</table>
+		<set name="icon" value="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<set name="isHandler" value="true"/>
+		<for>
+			<effect instant="true" name="i_soul_shot">
+				<def name="power" value="#power"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="17815" levels="1" name="Рубин">
+		<set name="icon" value="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<set name="isHandler" value="true"/>
+		<for>
+			<effect instant="true" name="i_soul_shot">
+				<def name="power" value="107.5"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="17816" levels="1" name="Рубин">
+		<set name="icon" value="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<set name="isHandler" value="true"/>
+		<for>
+			<effect instant="true" name="i_soul_shot">
+				<def name="power" value="112.5"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="17817" levels="1" name="Ruby">
+		<set name="icon" value="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="isHandler" value="true"/>
+		<for>
+			<effect instant="true" name="i_soul_shot">
+				<def name="power" value="120"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="17818" levels="4" name="Драгоценный Камень - Сапфир">
+		<table name="#power">101 103.5 301 303.5</table>
+		<table name="#unk_spiritshot_parameter_1">40 40 40 40</table>
+		<table name="#unk_spiritshot_parameter_2">1.0 1.0 2.4 2.4</table>
+		<set name="icon" value="icon.etc_bm_jewel_sapphire_i00"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<set name="isHandler" value="true"/>
+		<for>
+			<effect instant="true" name="i_spirit_shot">
+				<def name="power" value="#power"/>
+				<def name="unk_spiritshot_parameter_1" value="#unk_spiritshot_parameter_1"/>
+				<def name="unk_spiritshot_parameter_2" value="#unk_spiritshot_parameter_2"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="17819" levels="2" name="Драгоценный Камень - Сапфир">
+		<table name="#power">107.5 307.5</table>
+		<table name="#unk_spiritshot_parameter_1">40 40</table>	<!--TODO: Check.-->
+		<table name="#unk_spiritshot_parameter_2">1.0 2.4</table>	<!--TODO: Check.-->
+		<set name="icon" value="icon.etc_bm_jewel_sapphire_i00"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<set name="isHandler" value="true"/>
+		<for>
+			<effect instant="true" name="i_spirit_shot">
+				<def name="power" value="#power"/>
+				<def name="unk_spiritshot_parameter_1" value="#unk_spiritshot_parameter_1"/>
+				<def name="unk_spiritshot_parameter_2" value="#unk_spiritshot_parameter_2"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="17820" levels="2" name="Драгоценный Камень - Сапфир">
+		<table name="#power">112.5 312.5</table>
+		<table name="#unk_spiritshot_parameter_1">40 40</table>	<!--TODO: Check.-->
+		<table name="#unk_spiritshot_parameter_2">1.0 2.4</table>	<!--TODO: Check.-->
+		<set name="icon" value="icon.etc_bm_jewel_sapphire_i00"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<set name="isHandler" value="true"/>
+		<for>
+			<effect instant="true" name="i_spirit_shot">
+				<def name="power" value="#power"/>
+				<def name="unk_spiritshot_parameter_1" value="#unk_spiritshot_parameter_1"/>
+				<def name="unk_spiritshot_parameter_2" value="#unk_spiritshot_parameter_2"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="17821" levels="2" name="Драгоценный Камень - Сапфир">
+		<table name="#power">120 320</table>
+		<table name="#unk_spiritshot_parameter_1">40 40</table>	<!--TODO: Check.-->
+		<table name="#unk_spiritshot_parameter_2">1.0 2.4</table>	<!--TODO: Check.-->
+		<set name="icon" value="icon.etc_bm_jewel_sapphire_i00"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<set name="isHandler" value="true"/>
+		<for>
+			<effect instant="true" name="i_spirit_shot">
+				<def name="power" value="#power"/>
+				<def name="unk_spiritshot_parameter_1" value="#unk_spiritshot_parameter_1"/>
+				<def name="unk_spiritshot_parameter_2" value="#unk_spiritshot_parameter_2"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="17822" levels="1" name="Аквамарин">
+		<set name="reuseDelay" value="2000"/>
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_ACTIVE" />
+		<set name="magicType" value="SPECIAL"/>
+		<set name="useSS" value="false"/>
+		<set name="isSkillTimePermanent" value="true"/>
+		<set name="isReuseDelayPermanent" value="true"/>
+		<for>
+			<effect instant="true" name="RestoreMP" value="136">
+				<def name="ignore_bonuses" value="true"/>
+				<def name="static_power" value="true"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="17823" levels="5" name="Драгоценный Камень - Аквамарин">
+		<set name="icon" value="icon.etc_bm_jewel_aquamarine_i00"/>
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<table name="#chance">1 2 4 9 15</table>
+		<triggers>
+			<trigger id="17822" level="1" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="#chance"/>
+		</triggers>
+	</skill>
+	<skill id="17824" levels="1" name="Ларец Лавианроз">
+		<table name="#itemConsumeId">38941 24333 26296</table>
+		<set name="icon" value="icon.etc_bm_jewelbox_main_i00"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="itemConsumeId" val="#itemConsumeId" />
+		<set name="itemConsumeCount" value="1"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="RESTORATION"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isHandler" value="true"/>
+		<cond msgId="1509">
+			<player olympiad="false"/>
+		</cond>
+		<restoration level="1">
+			<group chance="11.111">
+				<item id="38932" min_count="1" max_count="1"/>
+			</group>
+			<group chance="11.111">
+				<item id="38933" min_count="1" max_count="1"/>
+			</group>
+			<group chance="11.111">
+				<item id="38934" min_count="1" max_count="1"/>
+			</group>
+			<group chance="11.111">
+				<item id="38935" min_count="1" max_count="1"/>
+			</group>
+			<group chance="11.111">
+				<item id="38936" min_count="1" max_count="1"/>
+			</group>
+			<group chance="11.111">
+				<item id="38937" min_count="1" max_count="1"/>
+			</group>
+			<group chance="11.111">
+				<item id="38938" min_count="1" max_count="1"/>
+			</group>
+			<group chance="11.111">
+				<item id="38939" min_count="1" max_count="1"/>
+			</group>
+			<group chance="11.111">
+				<item id="38940" min_count="1" max_count="1"/>
+			</group>
+		</restoration> 
+	</skill>
+	<skill id="17825" levels="5" name="Emerald">
+		<table name="#STR">0 1 1 2 3</table>
+		<table name="#DEX">0 0 1 2 3</table>
+		<table name="#CON">1 1 1 2 3</table>
+		<table name="#INT">0 1 1 2 3</table>
+		<table name="#WIT">0 0 1 2 3</table>
+		<table name="#MEN">1 1 1 2 3</table>
+		<set name="icon" value="icon.etc_bm_jewel_emerald_i00"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x10" stat="STR" value="#STR"/>
+			<add order="0x10" stat="DEX" value="#DEX"/>
+			<add order="0x10" stat="CON" value="#CON"/>
+			<add order="0x10" stat="INT" value="#INT"/>
+			<add order="0x10" stat="WIT" value="#WIT"/>
+			<add order="0x10" stat="MEN" value="#MEN"/>
+		</for>
+	</skill>
+	<skill id="17826" levels="1" name="10th Anniversary Time Capsule Box">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17827" levels="1" name="10th Anniversary Designer's Edition">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17828" levels="1" name="10th Anniversary Welcome Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17829" levels="1" name="10th Anniversary Cake">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17830" levels="1" name="Appearance Stone: Formal Wear (100-day)">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17831" levels="1" name="Appearance Stone: Formal Wear (100-day)">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17832" levels="1" name="Appearance Stone: NC Dinos Hat (100-day)">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17833" levels="1" name="Appearance Stone: Wedding Veil (100-day)">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17834" levels="1" name="Appearance Stone: Black Phantom Mask (100-day)">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17835" levels="1" name="Eternal Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17836" levels="1" name="Seraph Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17837" levels="1" name="Twilight Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17838" levels="1" name="Elegia Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17839" levels="1" name="Crafting Ingredients Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17840" levels="1" name="Eternal Crafting Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17841" levels="1" name="Eternal Completion Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17842" levels="1" name="+ 5 Eternal Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17843" levels="1" name="+ 6 Eternal Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17844" levels="1" name="+ 8 Eternal Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17845" levels="1" name="Seraph Crafting Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17846" levels="1" name="Seraph Completion Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17847" levels="1" name="+ 5 Seraph Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17848" levels="1" name="+ 6 Seraph Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17849" levels="1" name="+ 8 Seraph Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17850" levels="1" name="Twilight Crafting Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17851" levels="1" name="Twilight Completion Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17852" levels="1" name="+ 5 Twilight Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17853" levels="1" name="+ 6 Twilight Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17854" levels="1" name="+ 8 Twilight Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17855" levels="1" name="Vesper Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17856" levels="1" name="Apocalypse Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17857" levels="1" name="Apocalypse Crafting Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17858" levels="1" name="Apocalypse Completion Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17859" levels="1" name="+ 4 Apocalypse Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17860" levels="1" name="+ 5 Apocalypse Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17861" levels="1" name="+ 6 Apocalypse Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17862" levels="1" name="+ 7 Apocalypse Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17863" levels="1" name="+ 8 Apocalypse Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17864" levels="1" name="Specter Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17865" levels="1" name="Specter Crafting Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17866" levels="1" name="Specter Completion Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17867" levels="1" name="+ 4 Specter Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17868" levels="1" name="+ 5 Specter Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17869" levels="1" name="+ 6 Specter Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17870" levels="1" name="+ 7 Specter Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17871" levels="1" name="+ 8 Specter Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17872" levels="1" name="Amaranthine Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17873" levels="1" name="Amaranthine Crafting Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17874" levels="1" name="Amaranthine Completion Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17875" levels="1" name="+ 4 Amaranthine Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17876" levels="1" name="+ 5 Amaranthine Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17877" levels="1" name="+ 6 Amaranthine Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17878" levels="1" name="+ 7 Amaranthine Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17879" levels="1" name="+ 8 Amaranthine Pack">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17880" levels="1" name="Scroll: 1,000,000 SP">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="reuseDelay" value="3000"/>
+		<set name="hitTime" value="200"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="itemConsumeId" value="39373"/>
+		<set name="itemConsumeCount" value="1"/>
+		<set name="power" value="1000000"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="SPHEAL"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isHandler" value="true"/>
+	</skill>
+	<skill id="17881" levels="1" name="Scroll: 5,000,000 SP">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="reuseDelay" value="3000"/>
+		<set name="hitTime" value="200"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="itemConsumeId" value="39374"/>
+		<set name="itemConsumeCount" value="1"/>
+		<set name="power" value="5000000"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="SPHEAL"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isHandler" value="true"/>
+	</skill>
+	<skill id="17882" levels="1" name="Scroll: 10,000,000 SP">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="reuseDelay" value="3000"/>
+		<set name="hitTime" value="200"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="itemConsumeId" value="39375"/>
+		<set name="itemConsumeCount" value="1"/>
+		<set name="power" value="10000000"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="SPHEAL"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isHandler" value="true"/>
+	</skill>
+	<skill id="17883" levels="1" name="Daily Attendance Reward">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17884" levels="1" name="Reward: Week 1">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17885" levels="1" name="Reward: Week 2">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17886" levels="1" name="Reward: Week 3">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17887" levels="1" name="Reward: Week 4">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17888" levels="2" name="Рубин">
+		<table name="#power">101 103.5</table>
+		<set name="icon" value="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isHandler" value="true"/>
+		<for>
+			<effect instant="true" name="i_summon_soul_shot">
+				<def name="power" value="#power"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="17889" levels="1" name="Рубин">
+		<set name="icon" value="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isHandler" value="true"/>
+		<for>
+			<effect instant="true" name="i_summon_soul_shot">
+				<def name="power" value="107.5"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="17890" levels="1" name="Рубин">
+		<set name="icon" value="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isHandler" value="true"/>
+		<for>
+			<effect instant="true" name="i_summon_soul_shot">
+				<def name="power" value="112.5"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="17891" levels="1" name="Рубин">
+		<set name="icon" value="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isHandler" value="true"/>
+		<for>
+			<effect instant="true" name="i_summon_soul_shot">
+				<def name="power" value="120"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="17892" levels="1" name="Yum Yum Candy">
+		<set name="icon" value="etc_whiteday_candy_i05"/>
+		<set name="hitTime" value="500"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17893" levels="1" name="Nom Nom Candy">
+		<set name="icon" value="etc_whiteday_candy_i06"/>
+		<set name="hitTime" value="500"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17894" levels="1" name="10th Anniversary Raid Defeat Reward">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17895" levels="1" name="Lindvior's Egg">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17896" levels="1" name="Orc Recovery Block">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17897" levels="1" name="10th Anniversary Inventory Boost">
+		<set name="icon" value="icon.skill0332"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17898" levels="1" name="Wondrous Wind Scroll">
+		<set name="icon" value="icon.ev_charge_scroll"/>
+		<set name="reuseDelay" value="10000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+</list>

@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="19100" levels="1" name="Light Armor Mastery - Test">
+		<set name="icon" value="icon.skill19100"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="19101" levels="1" name="Chain Blow - Test">
+		<set name="icon" value="icon.skill19101"/>
+		<set name="reuseDelay" value="5000"/>
+		<set name="coolTime" value="699"/>
+		<set name="hitTime" value="1130"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="19102" levels="1" name="Chaos Sympathy">
+		<set name="icon" value="icon.skill1505"/>
+		<set name="coolTime" value="300"/>
+		<set name="hitTime" value="1200"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="19103" levels="1" name="Resident Power">
+		<set name="icon" value="icon.skill0050"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="maxCp" value="700"/>
+			<mul order="0x30" stat="pvpPhysDefenceBonus" value="1.03"/>
+			<mul order="0x30" stat="pvpPhysSkillDefenceBonus" value="1.03"/>
+			<mul order="0x30" stat="pvpMagicSkillDefenceBonus" value="1.03"/>
+		</for>
+	</skill>
+	<skill id="19104" levels="2" name="Resident Power">
+		<set name="icon" value="icon.skill0050"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="maxCp" value="1000"/>
+			<mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05"/>
+			<mul order="0x30" stat="pvpPhysSkillDefenceBonus" value="1.05"/>
+			<mul order="0x30" stat="pvpMagicSkillDefenceBonus" value="1.05"/>
+		</for>
+	</skill>
+	<skill id="19105" levels="1" name="Resident Advantage">
+		<set name="icon" value="icon.skill0820"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.13">
+				<player max_level="84"/>
+			</mul>
+			<mul order="0x30" stat="mAtkSpd" value="1.13">
+				<player max_level="84"/>
+			</mul>
+			<mul order="0x30" stat="runSpd" value="1.13">
+				<player max_level="84"/>
+			</mul>
+		</for>
+	</skill>
+	<skill id="19106" levels="2" name="Resident Advantage">
+		<set name="icon" value="icon.skill0820"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15">
+				<player max_level="84"/>
+			</mul>
+			<mul order="0x30" stat="mAtkSpd" value="1.15">
+				<player max_level="84"/>
+			</mul>
+			<mul order="0x30" stat="runSpd" value="1.15">
+				<player max_level="84"/>
+			</mul>
+		</for>
+	</skill>
+	<skill id="19107" levels="1" name="Resident Guidance">
+		<set name="icon" value="icon.skill0788_3"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="exp_rate_multiplier" value="0.03"/>
+		</for>
+	</skill>
+	<skill id="19108" levels="2" name="Resident Guidance">
+		<set name="icon" value="icon.skill0788_5"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="exp_rate_multiplier" value="0.05"/>
+		</for>
+	</skill>
+	<skill id="19109" levels="4" name="Siege Golem's Spirit">
+		<table name="#magicLevel">85 90 95 99</table>
+		<set name="icon" value="icon.skill19109"/>
+		<set name="reuseDelay" value="1200000"/>
+		<set name="coolTime" value="300"/>
+		<set name="hitTime" value="10000"/>
+		<set name="mp_consume" value="70"/>
+		<set name="magicLevel" value="#magicLevel"/>
+		<set name="magicType" value="SPECIAL"/>
+		<table name="#npcId">15054 15055 15056 15057</table>
+		<set name="hitCancelTime" value="500"/>
+		<set name="itemConsumeId" value="17371"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="itemConsumeCount" value="10"/>
+		<set name="skillType" value="SUMMON"/>
+		<set name="summonType" value="SIEGE_SUMMON"/>
+		<set name="is_saveable_summon" value="false"/>	<!--TODO: Check.-->
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="abnormal_time" value="300"/>
+		<!-- Summon-specific -->
+		<set name="npcId" value="#npcId"/>
+		<cond msgId="16">
+			<player summon_siege_golem=""/>
+		</cond>
+		<for>
+			<effect>
+				<add order="0x40" stat="pAtk" value="1.5"/>
+				<add order="0x40" stat="mAtk" value="1.5"/>
+				<mul order="0x30" stat="crossbowWpnVuln" value="0.5"/>
+				<mul order="0x30" stat="bowWpnVuln" value="0.5"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="19110" levels="5" name="Clan Resilience">
+		<table name="#resist">12 13 14 15 16</table>
+		<set name="icon" value="icon.skill_tough_spirit"/>
+		<set name="magicLevel" value="1"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<set name="min_pledge_rank" value="WISEMAN"/>
+		<for>
+			<add order="0x40" stat="knockBackResist" value="#resist"/>
+			<add order="0x40" stat="knockDownResist" value="#resist"/>
+		</for>
+	</skill>
+	<skill id="19111" levels="5" name="Clan Steadfastness">
+		<table name="#airjokeResist">12 13 14 15 16</table>
+		<set name="icon" value="icon.skill_heavy_heart"/>
+		<set name="magicLevel" value="1"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<set name="min_pledge_rank" value="WISEMAN"/>
+		<for>
+			<add order="0x40" stat="airjokeResist" value="#airjokeResist"/>
+		</for>
+	</skill>
+	<skill id="19112" levels="1" name="Clan Escape">
+		<set name="icon" value="icon.skill_pledge_party_recall"/>
+		<set name="reuseDelay" value="1800000"/>
+		<set name="hitTime" value="3500"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="magicLevel" value="85"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="hitCancelTime" value="500"/>
+		<set name="target" value="TARGET_CLAN_ONLY"/>
+		<set name="skillRadius" value="1000"/>
+		<set name="skillType" value="RECALL"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="itemConsumeId" value="3031"/>
+		<set name="itemConsumeCount" value="50"/>
+		<set name="fameConsume" value="2000"/>
+		<set name="min_pledge_rank" value="VISCOUNT"/>
+		<cond msgId="1509">
+			<player olympiad="false"/>
+		</cond>
+	</skill>
+	<skill id="19113" levels="1" name="Clan Escape Lock">
+		<set name="icon" value="icon.skill_recall"/>
+		<set name="reuseDelay" value="1800000"/>
+		<set name="castRange" value="600"/>
+		<set name="hitTime" value="2000"/>
+		<set name="abnormal_time" value="180"/>	<!--TODO: Check.-->
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_type" value="clan_recall_block"/>
+		<set name="magicLevel" value="85"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="skillType" value="DEBUFF"/>
+		<set name="target" value="TARGET_ONE"/>
+		<set name="min_pledge_rank" value="MARQUIS"/>	<!--Маркиза-->
+		<set name="itemConsumeId" value="3031"/>
+		<set name="itemConsumeCount" value="100"/>
+		<set name="fameConsume" value="3000"/>
+		<for>
+			<effect name="TeleportBlock"/>
+		</for>
+	</skill>
+	<skill id="19114" levels="1" name="Clan Resurrection Lock">
+		<set name="icon" value="icon.skill_resurrection"/>
+		<set name="reuseDelay" value="1800000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="600"/>
+		<set name="hitTime" value="2000"/>
+		<set name="abnormal_time" value="180"/>	<!--TODO: Check.-->
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_type" value="clan_resurrection_block"/>
+		<set name="magicLevel" value="85"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="skillType" value="DEBUFF"/>
+		<set name="target" value="TARGET_ONE"/>
+		<set name="min_pledge_rank" value="MARQUIS"/>	<!--Маркиза-->
+		<set name="itemConsumeId" value="3031"/>
+		<set name="itemConsumeCount" value="150"/>
+		<set name="fameConsume" value="1000"/>
+		<for>
+			<effect name="ResurrectBlock"/>
+		</for>
+	</skill>
+	<skill id="19115" levels="1" name="Air Bike">
+		<set name="icon" value="icon.etc_dwarf_craft_vehicle"/>
+		<set name="hitTime" value="1000"/>
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_type" value="transform"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isSkillTimePermanent" value="true"/>
+		<set name="hitCancelTime" value="500"/>
+		<cond msgId="1509">
+			<player olympiad="false"/>
+		</cond>
+		<cond>
+			<and>
+				<player min_clan_level="5"/>
+				<player can_transform="146"/>
+			</and>
+		</cond>
+		<for>
+			<effect name="Transformation" value="146"/>
+			<effect instant="true" name="i_dispel_by_slot">
+				<def name="abnormal_type" value="changebody"/>
+				<def name="max_abnormal_level" value="-1"/>
+			</effect>
+			<effect instant="true" name="i_dispel_by_slot">
+				<def name="abnormal_type" value="turn_stone"/>
+				<def name="max_abnormal_level" value="-1"/>
+			</effect>
+			<effect instant="true" name="i_dispel_by_slot">
+				<def name="abnormal_type" value="buff_special_multi"/>
+				<def name="max_abnormal_level" value="-1"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="19116" levels="1" name="Summon Lyn Draco">
+		<set name="icon" value="icon.etc_lind_vehicle"/>
+		<set name="hitTime" value="1000"/>
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_type" value="transform"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isSkillTimePermanent" value="true"/>
+		<set name="hitCancelTime" value="500"/>
+		<cond msgId="1509">
+			<player olympiad="false"/>
+		</cond>
+		<cond>
+			<player can_transform="147"/>
+		</cond>
+		<for>
+			<effect name="Transformation" value="147"/>
+			<effect instant="true" name="i_dispel_by_slot">
+				<def name="abnormal_type" value="changebody"/>
+				<def name="max_abnormal_level" value="-1"/>
+			</effect>
+			<effect instant="true" name="i_dispel_by_slot">
+				<def name="abnormal_type" value="turn_stone"/>
+				<def name="max_abnormal_level" value="-1"/>
+			</effect>
+			<effect instant="true" name="i_dispel_by_slot">
+				<def name="abnormal_type" value="buff_special_multi"/>
+				<def name="max_abnormal_level" value="-1"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="19117" levels="1" name="Dimensional Defense">
+		<set name="icon" value="icon.skill14216"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="19118" levels="4" name="Bike Ability">
+		<table name="#mp_consume">61 63 67 70</table>
+		<set name="icon" value="icon.skill_transform_etc"/>
+		<set name="reuseDelay" value="4000"/>
+		<set name="hitTime" value="2000"/>
+		<set name="mp_consume" value="#mp_consume"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="19119" levels="1" name="Noblesse Grace">
+		<set name="icon" value="icon.skill1323"/>
+		<set name="hitTime" value="4000"/>
+		<set name="mp_consume" value="500"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="19120" levels="4" name="Щит Дворянина">
+		<table name="#pDef">1.02 1.04 1.06 1.08</table>
+		<set name="icon" value="icon.skill19120"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" value="#pDef"/>
+		</for>
+	</skill>
+	<skill id="19121" levels="4" name="Магический Барьер Дворянина">
+		<table name="#mDef">1.03 1.05 1.07 1.10</table>
+		<set name="icon" value="icon.skill19121"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mDef" value="#mDef"/>
+		</for>
+	</skill>
+	<skill id="19122" levels="4" name="Благословение Тела Дворянина">
+		<table name="#maxHp">1.06 1.10 1.12 1.16</table>
+		<set name="icon" value="icon.skill1045"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="maxHp" value="#maxHp"/>
+		</for>
+	</skill>
+	<skill id="19123" levels="4" name="Ускорение Дворянина">
+		<table name="#pAtkSpd">1.02 1.04 1.06 1.09</table>
+		<set name="icon" value="icon.skill1086"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="#pAtkSpd"/>
+		</for>
+	</skill>
+	<skill id="19124" levels="2" name="Врожденная Защита Дворянина">
+	<!-- Шанс парализующей / оглушающей атаки и сопротивление параличу / оглушению -->
+		<table name="#power">1.05 1.10</table>
+		<set name="icon" value="icon.skill19124"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="paralyzePower" value="#power"/>
+			<mul order="0x30" stat="stunPower" value="#power"/>
+			<mul order="0x30" stat="paralyzeResist" value="#power"/>
+			<mul order="0x30" stat="stunResist" value="#power"/>
+		</for>
+	</skill>
+	<skill id="19125" levels="2" name="Искусство Фокусировки Дворянина">
+		<table name="#pCritRate">1.05 1.10</table>
+		<set name="icon" value="icon.skill0193"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="SkillCritChanceMod" value="#pCritRate"/>
+		</for>
+	</skill>
+	<skill id="19126" levels="2" name="Фокусировка Разума Дворянина">
+		<table name="#regMp">4 10</table>
+		<set name="icon" value="icon.skill0229"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="regMp" value="#regMp"/>
+		</for>
+	</skill>
+	<skill id="19127" levels="2" name="Наведение Дворянина">
+		<table name="#accuracy">8 16</table>
+		<!-- <table name="#petacc">15 23</table> -->
+		<set name="icon" value="icon.skill19127"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="pAccCombat" value="#accuracy"/>
+			<add order="0x40" stat="mAccCombat" value="#accuracy"/>
+			<!--TODO: Физ. Точность слуги.-->
+			<!--TODO: Активирует скрытое умение.-->
+		</for>
+	</skill>
+	<skill id="19128" levels="2" name="Искусство Смерти Дворянина">
+		<table name="#pCritDamage">1.05 1.10</table>
+		<set name="icon" value="icon.skill10655"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="SkillCritDamMod" value="#pCritDamage"/>
+		</for>
+	</skill>
+	<skill id="19129" levels="2" name="Охранный Щит Дворянина">
+		<table name="#pCritDamRcpt">0.98 0.96</table>
+		<set name="icon" value="icon.skill19129"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pCritDamRcpt" value="#pCritDamRcpt"/>
+		</for>
+	</skill>
+	<skill id="19130" levels="2" name="Сила Стихий Дворянина">
+		<table name="#power">20 50</table>
+		<set name="icon" value="icon.skill19130"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="defenceFire" value="#power"/>
+			<add order="0x40" stat="defenceWater" value="#power"/>
+			<add order="0x40" stat="defenceWind" value="#power"/>
+			<add order="0x40" stat="defenceEarth" value="#power"/>
+			<add order="0x40" stat="defenceHoly" value="#power"/>
+			<add order="0x40" stat="defenceUnholy" value="#power"/>
+			<add order="0x40" stat="attackFire" value="#power"/>
+			<add order="0x40" stat="attackWater" value="#power"/>
+			<add order="0x40" stat="attackWind" value="#power"/>
+			<add order="0x40" stat="attackEarth" value="#power"/>
+			<add order="0x40" stat="attackHoly" value="#power"/>
+			<add order="0x40" stat="attackUnholy" value="#power"/>
+		</for>
+	</skill>
+	<skill id="19131" levels="2" name="Мастерство Дворянина">
+		<table name="#power">1.03 1.05</table>
+		<set name="icon" value="icon.skill19131"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="#power">
+				<using kind="Pole, Dual Sword, Dual Fist, Big Sword, Big Blunt, Dual Blunt, Dual Dagger, Ancient Sword"/>
+			</mul>
+			<mul order="0x30" stat="pAtkSpd" value="#power">
+				<using kind="Shield"/>
+			</mul>
+		</for>
+	</skill>
+	<skill id="19132" levels="2" name="Контроль Разума Дворянина">
+		<table name="#Reuse">0.97 0.95</table>
+		<set name="icon" value="icon.skill19132"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pReuse" value="#Reuse"/>
+		</for>
+	</skill>
+	<skill id="19133" levels="1" name="Тяжелая Броня Дворянина">
+		<set name="icon" value="icon.skill19133"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="maxMp" value="1.06">
+				<using armor="Heavy"/>
+			</mul>
+			<mul order="0x30" stat="mDef" value="1.03">
+				<using armor="Heavy"/>
+			</mul>
+		</for>
+	</skill>
+	<skill id="19134" levels="4" name="Защита Дворянина">
+		<table name="#pDef">1.03 1.05 1.07 1.10</table>
+		<set name="icon" value="icon.skill19134"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" value="#pDef">
+				<using armor="Heavy"/>
+			</mul>
+		</for>
+	</skill>
+	<skill id="19135" levels="4" name="Атака Дворянина в Тяжелой Броне">
+		<table name="#pAtk">1.02 1.04 1.06 1.08</table>
+		<set name="icon" value="icon.skill19135"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="#pAtk">
+				<using armor="Heavy"/>
+			</mul>
+		</for>
+	</skill>
+	<skill id="19136" levels="3" name="Молитва Дворянина">
+		<table name="#hpEff">3 6 9</table>
+		<set name="icon" value="icon.skill1273"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="hpEff" value="#hpEff"/>
+		</for>
+	</skill>
+	<skill id="19137" levels="1" name="Мужество Дворянина">
+		<set name="icon" value="icon.skill19137"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pvpPhysDefenceBonus" value="1.1"/>
+			<mul order="0x30" stat="pvpPhysSkillDefenceBonus" value="1.1"/>
+			<mul order="0x30" stat="pvpMagicSkillDefenceBonus" value="1.1"/>
+			<mul order="0x30" stat="pvePhysDefenceBonus" value="1.1"/>
+			<mul order="0x30" stat="pvePhysSkillDefenceBonus" value="1.1"/>
+			<mul order="0x30" stat="pveMagicSkillDefenceBonus" value="1.1"/>
+		</for>
+	</skill>
+	<skill id="19138" levels="1" name="Безумие Дворянина">
+		<set name="icon" value="icon.skill19138"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pSkillPower" value="1.10"/>
+		</for>
+	</skill>
+	<skill id="19139" levels="4" name="Могущество Дворянина">
+		<table name="#pAtk">1.02 1.04 1.06 1.09</table>
+		<set name="icon" value="icon.skill19139"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="#pAtk"/>
+		</for>
+	</skill>
+	<skill id="19140" levels="2" name="Расход Дворянина">
+		<table name="#mpConsumePhysical">0.95 0.90</table>
+		<set name="icon" value="icon.skill19140"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mpConsumePhysical" value="#mpConsumePhysical"/>
+		</for>
+	</skill>
+	<skill id="19141" levels="2" name="Легкая Походка Дворянина">
+		<table name="#runSpd">5 10</table>
+		<set name="icon" value="icon.skill1204"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="runSpd" value="#runSpd"/>
+		</for>
+	</skill>
+	<skill id="19142" levels="2" name="Врожденный Берсерк Дворянина">
+		<table name="#power">1.05 1.10</table>
+		<set name="icon" value="icon.skill19142"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="stunResist" value="#power"/>
+			<mul order="0x30" stat="airjokeResist" value="#power"/>
+			<mul order="0x30" stat="stunPower" value="#power"/>
+			<mul order="0x30" stat="airjokePower" value="#power"/>
+		</for>
+	</skill>
+	<skill id="19143" levels="2" name="Фокусировка Дворянина">
+		<table name="#basePCritRate">20 40</table>
+		<set name="icon" value="icon.skill1077"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="basePCritRate" value="#basePCritRate"/>
+		</for>
+	</skill>
+	<skill id="19144" levels="2" name="Коварство Дворянина">
+		<table name="#physDamage">1.03 1.06</table>
+		<set name="icon" value="icon.skill0030"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="inflicts_p_damage_power" value="#physDamage">
+					<and>
+						<target direction="behind"/>
+						<not>
+							<target direction="side"/>
+						</not>
+					</and>
+			</mul>
+		</for>
+	</skill>
+	<skill id="19145" levels="2" name="Шепот Смерти Дворянин">
+		<table name="#pCritDamage">1.03 1.05</table>
+		<set name="icon" value="icon.skill4278"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pCritDamage" value="#pCritDamage"/>
+		</for>
+	</skill>
+	<skill id="19146" levels="2" name="Охранная Магия Дворянина">
+		<table name="#mCritDamRcpt">0.98 0.96</table>
+		<set name="icon" value="icon.skill19146"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mCritDamRcpt" value="#mCritDamRcpt"/>
+		</for>
+	</skill>
+	<skill id="19147" levels="2" name="Западня Дворянина">
+		<table name="#runSpd">6 12</table>
+		<set name="icon" value="icon.skill1905"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>	
+			<add order="0x40" stat="runSpd" value="#runSpd"/>
+			<!-- TODO:Скорость не в "бою" -->
+		</for>
+	</skill>
+	<skill id="19148" levels="1" name="Благословение Легкой Брони Дворянина">
+		<set name="icon" value="icon.skill19148"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="maxMp" value="1.06">
+				<using armor="Light"/>
+			</mul>
+			<mul order="0x30" stat="maxHp" value="1.06">
+				<using armor="Light"/>
+			</mul>
+		</for>
+	</skill>
+	<skill id="19149" levels="4" name="Антимагия Дворянина">
+		<table name="#mDef">1.03 1.05 1.09 1.12</table>
+		<set name="icon" value="icon.skill0146"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mDef" value="#mDef">
+				<using armor="Light"/>
+			</mul>
+		</for>
+	</skill>
+	<skill id="19150" levels="4" name="Атака Дворянина в Легкой Броне">
+		<table name="#pAtk">1.02 1.04 1.06 1.08</table>
+		<set name="icon" value="icon.skill19150"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="#pAtk">
+				<using armor="Light"/>
+			</mul>
+		</for>
+	</skill>
+	<skill id="19151" levels="3" name="Вампиризм Дворянина">
+		<table name="#TababsorbDam">3 6 9</table>
+		<set name="icon" value="icon.skill1268"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<effect>
+				<add order="0x40" stat="absorbDam" value="#TababsorbDam"/>
+				<add order="0x40" stat="absorbBowDam" value="#TababsorbDam"/>
+				<add order="0x40" stat="absorbPSkillDam" value="#TababsorbDam"/>
+				<add order="0x40" stat="absorbMSkillDam" value="#TababsorbDam"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="19152" levels="1" name="Выдержка Дворянин">
+	<!--TODO: В обездвиженном состоянии получаемый урон -21%. -->
+		<set name="icon" value="icon.skill19152"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="19153" levels="1" name="Критическое Чутье Дворянина">
+		<set name="icon" value="icon.skill19153"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="basePCritRate" value="50"/>
+			<add order="0x40" stat="baseMCritRate" value="20"/>
+			<add order="0x40" stat="skillMastery" value="1.50"/>
+		</for>
+	</skill>
+	<skill id="19154" levels="4" name="Воодушевление Дворянина">
+		<table name="#mAtk">1.03 1.06 1.09 1.14</table>
+		<table name="#hpEff">47 94 141 211</table>
+		<set name="icon" value="icon.skill1059"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mAtk" value="#mAtk"/>
+			<add order="0x40" stat="healPower" value="#hpEff"/>
+		</for>
+	</skill>
+	<skill id="19155" levels="2" name="Проницательность Дворянина">
+		<table name="#mAtkSpd">1.02 1.04</table>
+		<set name="icon" value="icon.skill1085"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mAtkSpd" value="#mAtkSpd"/>
+		</for>
+	</skill>
+	<skill id="19156" levels="2" name="Врожденная Магия Дворянина">
+		<table name="#power">1.05 1.10</table>
+		<set name="icon" value="icon.skill19156"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="rootResist" value="#power"/>
+			<mul order="0x30" stat="mentalResist" value="#power"/>
+			<mul order="0x30" stat="rootPower" value="#power"/>
+			<mul order="0x30" stat="mentalPower" value="#power"/>
+		</for>
+	</skill>
+	<skill id="19157" levels="2" name="Дикая Магия Дворянина">
+		<table name="#baseMCritRate">20 30</table>
+		<set name="icon" value="icon.skill1303"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="baseMCritRate" value="#baseMCritRate"/>
+		</for>
+	</skill>
+	<skill id="19158" levels="2" name="Благословение Духа Дворянина">
+		<table name="#maxMp">1.06 1.10</table>
+		<set name="icon" value="icon.skill1048"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="maxMp" value="#maxMp"/>
+		</for>
+	</skill>
+	<skill id="19159" levels="2" name="Сопротивление Дворянина">
+		<table name="#power">1.05 1.10</table>
+		<set name="icon" value="icon.skill11567"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="debuffResist" value="#power"/>
+<!-- 			<mul order="0x30" stat="debuffPower" value="#power"/>
+ -->		</for>
+	</skill>
+	<skill id="19160" levels="2" name="Смертельная Магия Дворянина">
+		<table name="#mCritDamage">1.03 1.05</table>
+		<table name="#hpEff">94 211</table>
+		<set name="icon" value="icon.skill19160"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mCritDamage" value="#mCritDamage"/>
+			<add order="0x40" stat="healPower" value="#hpEff"/>
+		</for>
+	</skill>
+	<skill id="19161" levels="2" name="Охранная Броня Дворянина">
+		<table name="#pCritChanceRcpt">0.98 0.96</table>
+		<set name="icon" value="icon.skill19161"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pCritChanceRcpt" value="#pCritChanceRcpt"/>
+		</for>
+	</skill>
+	<skill id="19162" levels="2" name="Восстановление Дворянина">
+		<table name="#mp">8 12</table>
+		<set name="icon" value="icon.skill19162"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="regMp" value="#mp">
+				<player running="true"/>
+			</add>
+		</for>
+	</skill>
+	<skill id="19163" levels="2" name="Владение Умениями Дворянина">
+		<table name="#skillMastery">1.30 1.50</table>
+		<set name="icon" value="icon.skill0330"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="skillMastery" value="#skillMastery"/>
+		</for>
+	</skill>
+	<skill id="19164" levels="1" name="Защита Мантии Дворянина">
+		<set name="icon" value="icon.skill19164"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="maxMp" value="1.06">
+				<using armor="Magic"/>
+			</mul>
+			<mul order="0x30" stat="pDef" value="1.03">
+				<using armor="Magic"/>
+			</mul>
+		</for>
+	</skill>
+	<skill id="19165" levels="4" name="Физический Щит Дворянина">
+		<table name="#pDef">1.03 1.05 1.07 1.10</table>
+		<set name="icon" value="icon.skill19165"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" value="#pDef">
+				<using armor="Magic"/>
+			</mul>
+		</for>
+	</skill>
+	<skill id="19166" levels="4" name="Атака Дворянина в Магическом Доспехе">
+		<table name="#mAtk">1.03 1.06 1.09 1.12</table>
+		<table name="#hpEff">47 94 0 0</table>
+		<set name="icon" value="icon.skill19166"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mAtk" value="#mAtk">
+				<using armor="Magic"/>
+			</mul>
+			<add order="0x40" stat="healPower" value="#hpEff">
+				<using armor="Magic"/>
+			</add>
+		</for>
+	</skill>
+	<skill id="19167" levels="3" name="Noble Heal Boost">
+		<table name="#hpEff">3 6 9</table>
+		<set name="icon" value="icon.skill19167"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="hpEff" value="#hpEff"/>
+		</for>
+	</skill>
+	<skill id="19168" levels="1" name="Noble Gain">
+		<set name="icon" value="icon.skill19168"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="regMp" value="33"/>
+			<mul order="0x30" stat="maxHp" value="1.10"/>
+		</for>
+	</skill>
+	<skill id="19169" levels="1" name="Noble Advance">
+		<set name="icon" value="icon.skill19169"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="regMp" value="33"/>
+			<mul order="0x30" stat="mReuse" value="0.95"/>
+		</for>
+	</skill>
+	<skill id="19170" levels="2" name="Noble Blessing">
+		<table name="#pDef">1.03 1.05</table>
+		<set name="icon" value="icon.skill19120"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" value="#pDef"/>
+		</for>
+	</skill>
+	<skill id="19171" levels="4" name="Noble Condition">
+		<table name="#maxHp">1.06 1.10 1.14 1.20</table>
+		<set name="icon" value="icon.skill1045"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="maxHp" value="#maxHp"/>
+		</for>
+	</skill>
+	<skill id="19172" levels="2" name="Noble Eagle Eye">
+		<table name="#accuracy">8 16</table>
+		<!-- <table name="#petacc">15 23</table> -->
+		<set name="icon" value="icon.skill19127"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="pAccCombat" value="#accuracy"/>
+			<add order="0x40" stat="mAccCombat" value="#accuracy"/>
+			<!--TODO: Физ. Точность слуги.-->
+		</for>
+	</skill>
+	<skill id="19173" levels="2" name="Noble Emblem">
+		<table name="#power">20 50</table>
+		<set name="icon" value="icon.skill19130"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="defenceFire" value="#power"/>
+			<add order="0x40" stat="defenceWater" value="#power"/>
+			<add order="0x40" stat="defenceWind" value="#power"/>
+			<add order="0x40" stat="defenceEarth" value="#power"/>
+			<add order="0x40" stat="defenceHoly" value="#power"/>
+			<add order="0x40" stat="defenceUnholy" value="#power"/>
+			<add order="0x40" stat="attackFire" value="#power"/>
+			<add order="0x40" stat="attackWater" value="#power"/>
+			<add order="0x40" stat="attackWind" value="#power"/>
+			<add order="0x40" stat="attackEarth" value="#power"/>
+			<add order="0x40" stat="attackHoly" value="#power"/>
+			<add order="0x40" stat="attackUnholy" value="#power"/>
+		</for>
+	</skill>
+	<skill id="19174" levels="4" name="Noble Earth">
+		<table name="#pDef">1.03 1.05 1.06 1.08</table>
+		<set name="icon" value="icon.skill19121"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" value="#pDef"/>
+		</for>
+	</skill>
+	<skill id="19175" levels="2" name="Noble Life">
+		<table name="#maxHp">1.06 1.10</table>
+		<set name="icon" value="icon.skill1045"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="maxHp" value="#maxHp"/>
+		</for>
+	</skill>
+	<skill id="19176" levels="2" name="Noble Vision">
+		<table name="#accuracy">8 16</table>
+		<!-- <table name="#petacc">15 23</table> -->
+		<set name="icon" value="icon.skill19127"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="pAccCombat" value="#accuracy"/>
+			<add order="0x40" stat="mAccCombat" value="#accuracy"/>
+			<!--TODO: Физ. Точность слуги.-->
+		</for>
+	</skill>
+	<skill id="19177" levels="2" name="Noble Spirit">
+		<table name="#power">20 50</table>
+		<set name="icon" value="icon.skill19130"/>
+		<set name="magicLevel" value="99"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="defenceFire" value="#power"/>
+			<add order="0x40" stat="defenceWater" value="#power"/>
+			<add order="0x40" stat="defenceWind" value="#power"/>
+			<add order="0x40" stat="defenceEarth" value="#power"/>
+			<add order="0x40" stat="defenceHoly" value="#power"/>
+			<add order="0x40" stat="defenceUnholy" value="#power"/>
+			<add order="0x40" stat="attackFire" value="#power"/>
+			<add order="0x40" stat="attackWater" value="#power"/>
+			<add order="0x40" stat="attackWind" value="#power"/>
+			<add order="0x40" stat="attackEarth" value="#power"/>
+			<add order="0x40" stat="attackHoly" value="#power"/>
+			<add order="0x40" stat="attackUnholy" value="#power"/>
+		</for>
+	</skill>
+	<skill id="19178" levels="1" name="Тайный Рыцарь">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<cond>
+			<or>
+				<player classId="139"/>
+				<player classId="148"/>
+				<player classId="149"/>
+				<player classId="150"/>
+				<player classId="151"/>
+			</or>
+		</cond>
+	</skill>
+	<skill id="19179" levels="1" name="Тайный Воитель">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<cond>
+			<or>
+				<player classId="140"/>
+				<player classId="153"/>
+				<player classId="154"/>
+				<player classId="155"/>
+				<player classId="156"/>
+				<player classId="157"/>
+			</or>
+		</cond>
+	</skill>
+	<skill id="19180" levels="1" name="Rogue Hidden Trigger">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<cond>
+			<or>
+				<player classId="141"/>
+				<player classId="158"/>
+				<player classId="159"/>
+				<player classId="160"/>
+				<player classId="161"/>
+			</or>
+		</cond>
+	</skill>
+	<skill id="19181" levels="1" name="Archer Hidden Trigger">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<cond>
+			<or>
+				<player classId="142"/>
+				<player classId="162"/>
+				<player classId="163"/>
+				<player classId="164"/>
+				<player classId="165"/>
+			</or>
+		</cond>
+	</skill>
+	<skill id="19182" levels="1" name="Wizard Hidden Trigger">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<cond>
+			<or>
+				<player classId="143"/>
+				<player classId="166"/>
+				<player classId="167"/>
+				<player classId="168"/>
+				<player classId="169"/>
+				<player classId="170"/>
+			</or>
+		</cond>		
+	</skill>
+	<skill id="19183" levels="1" name="Enchanter Hidden Trigger">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<cond>
+			<or>
+				<player classId="144"/>
+				<player classId="171"/>
+				<player classId="172"/>
+				<player classId="173"/>
+				<player classId="174"/>
+				<player classId="175"/>
+			</or>
+		</cond>		
+	</skill>
+	<skill id="19184" levels="1" name="Summoner Hidden Trigger">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<cond>
+			<or>
+				<player classId="145"/>
+				<player classId="176"/>
+				<player classId="177"/>
+				<player classId="178"/>
+			</or>
+		</cond>		
+	</skill>
+	<skill id="19185" levels="1" name="Healer Hidden Trigger">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<cond>
+			<or>
+				<player classId="146"/>
+				<player classId="179"/>
+				<player classId="180"/>
+				<player classId="181"/>
+			</or>
+		</cond>
+	</skill>
+	<skill id="19186" levels="1" name="Щит Атаки">
+		<set name="icon" value="icon.skill19186"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<cond>		
+			<or>
+				<player hasBuffId="1904"/>
+				<player hasBuffId="1907"/>
+				<player hasBuffId="1912"/>
+				<player hasBuffId="1914"/>
+				<player hasBuffId="1918"/>
+				<player hasBuffId="1920"/>
+				<player hasBuffId="1922"/>
+				<player hasBuffId="1925"/>
+				<player hasBuffId="1996"/>
+				<player hasBuffId="1997"/>
+			</or>
+		</cond>
+		<triggers>
+			<trigger id="19196" level="1" type="RECEIVE_DAMAGE" chance="20"><!--TODO Новы триггер в случае успешной защиты щитом-->
+				<player damage="100;0"/>
+			</trigger>
+		</triggers>		
+	</skill>
+	<skill id="19187" levels="1" name="Блокада">
+		<set name="icon" value="icon.skill19187"/>
+		<set name="reuseDelay" value="120000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="600"/>
+		<set name="hitTime" value="1000"/>
+		<set name="mp_consume" value="34"/>
+		<set name="target" value="TARGET_ONE"/>
+		<set name="skillType" value="MUTE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="abnormal_effect" value="SILENCE"/>		
+		<set name="activateRate" value="80"/>		
+		<set name="abnormal_time" value="10"/>
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_type" value="silence_all"/>		
+		<set name="trait" value="DERANGEMENT"/>
+		<set name="magicLevel" value="99"/>
+		<cond>		
+			<or>
+				<player hasBuffId="1904"/>
+				<player hasBuffId="1907"/>
+				<player hasBuffId="1912"/>
+				<player hasBuffId="1914"/>
+				<player hasBuffId="1918"/>
+				<player hasBuffId="1920"/>
+				<player hasBuffId="1922"/>
+				<player hasBuffId="1925"/>
+				<player hasBuffId="1996"/>
+				<player hasBuffId="1997"/>
+			</or>
+		</cond>		
+		<for>
+			<effect name="MuteAll"/>
+		</for>		
+	</skill>
+	<skill id="19188" levels="1" name="Проворность">
+		<set name="icon" value="icon.skill19188"/>
+		<set name="target" value="TARGET_ONE"/>
+		<set name="skillType" value="DEBUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="reflectable" value="false"/>
+		<set name="magicLevel" value="99"/>
+		<cond>		
+			<or>
+				<player hasBuffId="1904"/>
+				<player hasBuffId="1907"/>
+				<player hasBuffId="1912"/>
+				<player hasBuffId="1914"/>
+				<player hasBuffId="1918"/>
+				<player hasBuffId="1920"/>
+				<player hasBuffId="1922"/>
+				<player hasBuffId="1925"/>
+				<player hasBuffId="1996"/>
+				<player hasBuffId="1997"/>
+			</or>
+		</cond>
+		<for>
+			<effect instant="true" name="RemoveTarget" chance="60"/>
+		</for>		
+	</skill>
+	<skill id="19189" levels="1" name="Выстрел Наповал">
+		<set name="icon" value="icon.skill10858"/>
+		<set name="reuseDelay" value="30000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="1100"/>
+		<set name="hitTime" value="1500"/>
+		<set name="mp_consume" value="34"/>
+		<set name="target" value="TARGET_ONE"/>
+		<set name="power" value="30534"/>
+		<set name="skillType" value="PDAM"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="fly_radius" value="-450"/>	<!--TODO: Check.-->
+		<set name="fly_type" value="WARP_BACK"/>
+		<cond>
+			<and>
+				<using kind="BOW, CROSSBOW"/>
+				<or>
+					<player hasBuffId="1904"/>
+					<player hasBuffId="1907"/>
+					<player hasBuffId="1912"/>
+					<player hasBuffId="1914"/>
+					<player hasBuffId="1918"/>
+					<player hasBuffId="1920"/>
+					<player hasBuffId="1922"/>
+					<player hasBuffId="1925"/>
+					<player hasBuffId="1996"/>
+					<player hasBuffId="1997"/>
+				</or>
+			</and>
+		</cond>		
+		<for>
+			<effect instant="true" name="RemoveTarget">
+				<def name="stop_target" value="true"/>
+			</effect>			
+		</for>
+	</skill>
+	<skill id="19190" levels="1" name="Сияние Маны">
+		<set name="icon" value="icon.skill19190"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<cond>		
+			<or>
+				<player hasBuffId="1904"/>
+				<player hasBuffId="1907"/>
+				<player hasBuffId="1912"/>
+				<player hasBuffId="1914"/>
+				<player hasBuffId="1918"/>
+				<player hasBuffId="1920"/>
+				<player hasBuffId="1922"/>
+				<player hasBuffId="1925"/>
+				<player hasBuffId="1996"/>
+				<player hasBuffId="1997"/>
+			</or>
+		</cond>
+		<for>
+			<mul order="0x30" stat="maxMp" value="1.1"/>
+			<add order="0x40" stat="regMp" value="8">
+				<player running="true"/>
+			</add>
+		</for>
+	</skill>
+	<skill id="19191" levels="1" name="Защита Тумана">
+		<set name="icon" value="icon.skill19191"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<cond>		
+			<or>
+				<player hasBuffId="1904"/>
+				<player hasBuffId="1907"/>
+				<player hasBuffId="1912"/>
+				<player hasBuffId="1914"/>
+				<player hasBuffId="1918"/>
+				<player hasBuffId="1920"/>
+				<player hasBuffId="1922"/>
+				<player hasBuffId="1925"/>
+				<player hasBuffId="1996"/>
+				<player hasBuffId="1997"/>
+			</or>
+		</cond>		
+		<for>
+			<mul order="0x30" stat="pvpPhysDefenceBonus" value="1.10"/>
+			<mul order="0x30" stat="pvpPhysSkillDefenceBonus" value="1.10"/>
+			<mul order="0x30" stat="pvpMagicSkillDefenceBonus" value="1.10"/>
+			<mul order="0x30" stat="pvePhysDefenceBonus" value="1.10"/>
+			<mul order="0x30" stat="pvePhysSkillDefenceBonus" value="1.10"/>
+			<mul order="0x30" stat="pveMagicSkillDefenceBonus" value="1.10"/>
+		</for>		
+	</skill>
+	<skill id="19192" levels="1" name="Слуга Берсерк - Массовое">
+	<!-- На 30 сек. Физ. Атк. / сила Крит. Атк. слуги +15%. -->
+		<set name="icon" value="icon.skill19192"/>
+		<set name="reuseDelay" value="300000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="900"/>
+		<set name="hitTime" value="3500"/>
+		<set name="mp_consume" value="67"/>
+		<set name="magicType" value="MAGIC"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="abnormal_time" value="30"/>
+		<cond>		
+			<or>
+				<player hasBuffId="1904"/>
+				<player hasBuffId="1907"/>
+				<player hasBuffId="1912"/>
+				<player hasBuffId="1914"/>
+				<player hasBuffId="1918"/>
+				<player hasBuffId="1920"/>
+				<player hasBuffId="1922"/>
+				<player hasBuffId="1925"/>
+				<player hasBuffId="1996"/>
+				<player hasBuffId="1997"/>
+			</or>
+		</cond>
+		<for>
+			<effect name="ServitorShare">
+				<add order="0x40" stat="pAtk" value="1.15"/>
+				<add order="0x40" stat="pCritDamage" value="0.15"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="19193" levels="1" name="Святое Благословение">
+	<!-- TODO: При использовании Света Исцеления увеличивает Маг. Атк. и эффективность лечения. 
+	Действует только при активированных способностях. 
+	http://l2i-ertheia.gaikotsu.ru/?show=skill_info&uid=770375681
+	-->
+		<set name="icon" value="icon.skill19193"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="19196" levels="1" name="Щит Атаки">
+		<set name="icon" value="icon.skill19186"/>
+		<set name="reuseDelay" value="15000"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="abnormal_time" value="5"/>
+		<for>
+			<effect>
+				<mul order="0x30" stat="pAtk" value="1.30">
+					<using kind="Shield"/>
+				</mul>
+			</effect>
+		</for>
+	</skill>
+	<skill id="19197" levels="1" name="Святое Благословение">
+		<set name="icon" value="icon.skill19193"/>
+		<set name="reuseDelay" value="10000"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="abnormal_time" value="15"/>
+		<for>
+			<effect>
+				<mul order="0x30" stat="mAtk" value="1.16"/>
+				<add order="0x40" stat="healPower" value="242"/>
+			</effect>
+		</for>		
+	</skill>
+	<skill id="19198" levels="1" name="Cбивает цель">
+		<set name="icon" value="icon.skill0445"/>
+		<set name="reuseDelay" value="10000"/>
+		<set name="castRange" value="1100"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="19199" levels="1" name="Сила Урагана">
+	<!-- В течение 60 сек. Физ. Атк. и Маг. Атк. +10%. -->
+		<set name="icon" value="icon.skill1996"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="abnormal_time" value="60"/>
+		<for>
+			<effect>
+				<mul order="0x30" stat="pAtk" value="1.10"/>
+				<mul order="0x30" stat="mAtk" value="1.10"/>
+			</effect>
+		</for>		
+	</skill>
+</list>

@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<list>
+    <loot id="35908">
+        <database_rewardlist>
+            <reward chance="90.0000" item_id="9912" max="200" min="40"/>
+            <reward chance="9.1018" item_id="9581" max="1" min="1"/>
+            <reward chance="4.6782" item_id="9591" max="1" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35909">
+        <database_rewardlist>
+            <reward chance="78.1650" item_id="9912" max="16" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35910">
+        <database_rewardlist>
+            <reward chance="71.8570" item_id="9912" max="12" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35911">
+        <database_rewardlist>
+            <reward chance="66.2800" item_id="9912" max="12" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35912">
+        <database_rewardlist>
+            <reward chance="67.2110" item_id="9912" max="12" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35914">
+        <database_rewardlist>
+            <reward chance="61.7370" item_id="9912" max="12" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35915">
+        <database_rewardlist>
+            <reward chance="84.1370" item_id="9912" max="300" min="140"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35917">
+        <database_rewardlist>
+            <reward chance="73.0100" item_id="9912" max="16" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35918">
+        <database_rewardlist>
+            <reward chance="84.1571" item_id="9912" max="300" min="140"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35919">
+        <database_rewardlist>
+            <reward chance="77.5740" item_id="9912" max="16" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35920">
+        <database_rewardlist>
+            <reward chance="82.3820" item_id="9912" max="16" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35921">
+        <database_rewardlist>
+            <reward chance="84.2235" item_id="9912" max="300" min="140"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35922">
+        <database_rewardlist>
+            <reward chance="71.0000" item_id="9912" max="16" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35940">
+        <database_rewardlist>
+            <reward chance="90.0000" item_id="9912" max="200" min="40"/>
+            <reward chance="9.1018" item_id="9581" max="1" min="1"/>
+            <reward chance="4.6782" item_id="9591" max="1" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35941">
+        <database_rewardlist>
+            <reward chance="78.0050" item_id="9912" max="16" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35942">
+        <database_rewardlist>
+            <reward chance="71.9570" item_id="9912" max="12" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35943">
+        <database_rewardlist>
+            <reward chance="66.2800" item_id="9912" max="12" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35944">
+        <database_rewardlist>
+            <reward chance="66.2110" item_id="9912" max="12" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35949">
+        <database_rewardlist>
+            <reward chance="37.5000" item_id="10014" max="1" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35950">
+        <database_rewardlist>
+            <reward chance="46.0000" item_id="9912" max="6" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35951">
+        <database_rewardlist>
+            <reward chance="84.1571" item_id="9912" max="300" min="140"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35953">
+        <database_rewardlist>
+            <reward chance="73.0100" item_id="9912" max="16" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35954">
+        <database_rewardlist>
+            <reward chance="84.1571" item_id="9912" max="300" min="140"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35955">
+        <database_rewardlist>
+            <reward chance="77.5740" item_id="9912" max="16" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35956">
+        <database_rewardlist>
+            <reward chance="82.3820" item_id="9912" max="16" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35957">
+        <database_rewardlist>
+            <reward chance="84.2235" item_id="9912" max="300" min="140"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35958">
+        <database_rewardlist>
+            <reward chance="71.0000" item_id="9912" max="16" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35959">
+        <database_rewardlist>
+            <reward chance="70.4766" item_id="9912" max="154" min="40"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35960">
+        <database_rewardlist>
+            <reward chance="70.4766" item_id="9912" max="154" min="40"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35978">
+        <database_rewardlist>
+            <reward chance="90.0000" item_id="9912" max="200" min="40"/>
+            <reward chance="9.1018" item_id="9581" max="1" min="1"/>
+            <reward chance="4.6782" item_id="9591" max="1" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35979">
+        <database_rewardlist>
+            <reward chance="78.0050" item_id="9912" max="16" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35980">
+        <database_rewardlist>
+            <reward chance="71.9570" item_id="9912" max="12" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35981">
+        <database_rewardlist>
+            <reward chance="66.2800" item_id="9912" max="12" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35982">
+        <database_rewardlist>
+            <reward chance="66.2110" item_id="9912" max="12" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35987">
+        <database_rewardlist>
+            <reward chance="25.0000" item_id="10014" max="1" min="1"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35988">
+        <database_rewardlist>
+            <reward chance="46.0000" item_id="9912" max="6" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35989">
+        <database_rewardlist>
+            <reward chance="84.1571" item_id="9912" max="300" min="140"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35991">
+        <database_rewardlist>
+            <reward chance="73.0100" item_id="9912" max="16" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35992">
+        <database_rewardlist>
+            <reward chance="84.1571" item_id="9912" max="300" min="140"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35993">
+        <database_rewardlist>
+            <reward chance="77.5740" item_id="9912" max="16" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35994">
+        <database_rewardlist>
+            <reward chance="82.3820" item_id="9912" max="16" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35995">
+        <database_rewardlist>
+            <reward chance="84.2235" item_id="9912" max="300" min="140"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35996">
+        <database_rewardlist>
+            <reward chance="71.0000" item_id="9912" max="16" min="4"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35997">
+        <database_rewardlist>
+            <reward chance="70.4766" item_id="9912" max="154" min="40"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="35998">
+        <database_rewardlist>
+            <reward chance="70.4766" item_id="9912" max="154" min="40"/>
+        </database_rewardlist>
+    </loot>
+</list>

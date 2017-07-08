@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<config show_all="true" no_tax="true" keep_enchanted="false" />
+	<item> <!-- руна опыта 50% 5 часов -->
+		<ingredient id="4037" count="2"/>
+		<production id="20336" count="1"/>
+	</item>
+	<item> <!-- руна опыта 50% 10 часов -->
+		<ingredient id="4037" count="4"/>
+		<production id="20338" count="1"/>
+	</item>
+	<item> <!-- руна опыта 50% 7 дней -->
+		<ingredient id="4037" count="9"/>
+		<production id="20340" count="1"/>
+	</item>
+
+	<item> <!-- руна опыта 100% 1 час -->
+		<ingredient id="4037" count="2"/>
+		<production id="23254" count="1"/>
+	</item>
+	<item> <!-- руна опыта 100% 7 дней -->
+		<ingredient id="4037" count="18"/>
+		<production id="23255" count="1"/>
+	</item>
+
+	<item> <!-- руна сп 50% 5 часов -->
+		<ingredient id="4037" count="2"/>
+		<production id="20342" count="1"/>
+	</item>
+	<item> <!-- руна сп 50% 10 часов -->
+		<ingredient id="4037" count="4"/>
+		<production id="20344" count="1"/>
+	</item>
+	<item> <!-- руна сп 50% 7 дней -->
+		<ingredient id="4037" count="9"/>
+		<production id="20346" count="1"/>
+	</item>
+
+	<item> <!-- руна сп 100% 1 час -->
+		<ingredient id="4037" count="2"/>
+		<production id="23261" count="1"/>
+	</item>
+	<item> <!-- руна сп 100% 7 дней -->
+		<ingredient id="4037" count="18"/>
+		<production id="23262" count="1"/>
+	</item>
+
+	<item> <!-- Руна Мафр 50%	1 час -->
+		<ingredient id="4037" count="1"/>
+		<production id="23270" count="1"/>
+	</item>
+	<item> <!-- Руна Мафр 50% - 5 часов -->
+		<ingredient id="4037" count="3"/>
+		<production id="22755" count="1"/>
+	</item>
+
+	<item> <!-- Руна Мафр 100%	1 час -->
+		<ingredient id="4037" count="2"/>
+		<production id="23271" count="1"/>
+	</item>
+	<item> <!-- Руна Мафр 100% - 5 часов -->
+		<ingredient id="4037" count="6"/>
+		<production id="22757" count="1"/>
+	</item>
+
+	<item> <!-- Руна Мафр Высокого Качества 50%	3 часа -->
+		<ingredient id="4037" count="4"/>
+		<production id="23749" count="1"/>
+	</item>
+	<item> <!-- Руна Мафр Высокого Качества 50%	10 часов -->
+		<ingredient id="4037" count="7"/>
+		<production id="23750" count="1"/>
+	</item>
+	<item> <!-- Руна Мафр Высокого Качества 50%	7 дней -->
+		<ingredient id="4037" count="15"/>
+		<production id="23751" count="1"/>
+	</item>
+
+	<item> <!-- Руна Мафр Высокого Качества 100%	3 часа -->
+		<ingredient id="4037" count="8"/>
+		<production id="23755" count="1"/>
+	</item>
+	<item> <!-- Руна Мафр Высокого Качества 100%	10 часов -->
+		<ingredient id="4037" count="14"/>
+		<production id="23756" count="1"/>
+	</item>
+	<item> <!-- Руна Мафр Высокого Качества 100%	7 дней -->
+		<ingredient id="4037" count="30"/>
+		<production id="23757" count="1"/>
+	</item>
+
+	<item> <!-- Настойка Всплеска Энергии -->
+		<ingredient id="4037" count="2"/>
+		<production id="21212" count="1"/>
+	</item>
+	<item> <!-- Зелье Поддержания Энергии -->
+		<ingredient id="4037" count="2"/>
+		<production id="20391" count="1"/>
+	</item>
+	<item> <!-- Зелье Всплеска Энергии -->
+		<ingredient id="4037" count="1"/>
+		<production id="20392" count="1"/>
+	</item>
+	<item> <!-- Свиток Всплеска Энергии 1 -->
+		<ingredient id="4037" count="1"/>
+		<production id="22883" count="1"/>
+	</item>
+	<item> <!-- Свиток Всплеска Энергии 2 -->
+		<ingredient id="4037" count="2"/>
+		<production id="22884" count="1"/>
+	</item>
+	<item> <!-- Свиток Всплеска Энергии FULL -->
+		<ingredient id="4037" count="4"/>
+		<production id="22885" count="1"/>
+	</item>
+</list>

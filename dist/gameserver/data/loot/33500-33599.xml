@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<list>
+    <loot id="33593">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="34764" max="3" min="3"/>
+        </database_rewardlist>
+    </loot>
+    <loot id="33594">
+        <database_rewardlist>
+            <reward chance="100.0000" item_id="34764" max="3" min="3"/>
+        </database_rewardlist>
+    </loot>
+</list>

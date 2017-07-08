@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="16500" levels="1" name="99Lv. Raid Boss">
+		<set name="icon" value="icon.skillraid"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16501" levels="1" name="99Lv. Raid Boss">
+		<set name="icon" value="icon.skillraid"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16502" levels="1" name="99Lv. Raid Boss">
+		<set name="icon" value="icon.skillraid"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16503" levels="1" name="99Lv. Raid Boss">
+		<set name="icon" value="icon.skillraid"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16504" levels="1" name="99Lv. Raid Boss">
+		<set name="icon" value="icon.skillraid"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16505" levels="1" name="99Lv. Raid Boss">
+		<set name="icon" value="icon.skillraid"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16506" levels="1" name="99Lv. Raid Boss">
+		<set name="icon" value="icon.skillraid"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16507" levels="1" name="99Lv. Raid Boss">
+		<set name="icon" value="icon.skillraid"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16508" levels="1" name="99Lv. Raid Boss">
+		<set name="icon" value="icon.skillraid"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16509" levels="1" name="99Lv. Raid Boss">
+		<set name="icon" value="icon.skillraid"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16510" levels="1" name="99Lv. Raid Boss">
+		<set name="icon" value="icon.skillraid"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16511" levels="6" name="Solo Fighter Monster">
+		<set name="icon" value="icon.skill0335"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16512" levels="6" name="Solo Mage Monster">
+		<set name="icon" value="icon.skill0335"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16513" levels="6" name="Solo Archer Monster">
+		<set name="icon" value="icon.skill0335"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16514" levels="6" name="Party Fighter Monster">
+		<set name="icon" value="icon.skill0335"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16515" levels="6" name="Party Mage Monster">
+		<set name="icon" value="icon.skill0335"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16516" levels="6" name="Party Archer Monster">
+		<set name="icon" value="icon.skill0335"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16517" levels="2" name="Kelbim">
+		<set name="icon" value="icon.skillraid"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16518" levels="1" name="Event Invincibility">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16519" levels="1" name="Slay X">
+		<set name="icon" value="icon.skill0096"/>
+		<set name="reuseDelay" value="15000"/>
+		<set name="castRange" value="500"/>
+		<set name="hitTime" value="2000"/>
+		<set name="mp_consume" value="10"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16520" levels="4" name="Shild of Atelia">
+		<set name="icon" value="icon.skill1418"/>
+		<set name="reuseDelay" value="180000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="4000"/>
+		<set name="mp_consume" value="10"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16521" levels="1" name="Embryo's Call">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="350"/>
+		<set name="hitTime" value="3000"/>
+		<set name="mp_consume" value="10"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16522" levels="1" name="Shield Swing">
+		<set name="icon" value="icon.skill1170"/>
+		<set name="reuseDelay" value="30000"/>
+		<set name="castRange" value="500"/>
+		<set name="hitTime" value="2000"/>
+		<set name="mp_consume" value="10"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16523" levels="1" name="Magma Splash">
+		<set name="icon" value="icon.skill11066"/>
+		<set name="reuseDelay" value="15000"/>
+		<set name="coolTime" value="800"/>
+		<set name="castRange" value="350"/>
+		<set name="hitTime" value="2500"/>
+		<set name="mp_consume" value="10"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16524" levels="4" name="Full Swing Crusher">
+		<set name="icon" value="icon.skill1418"/>
+		<set name="reuseDelay" value="15000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="350"/>
+		<set name="hitTime" value="2000"/>
+		<set name="mp_consume" value="10"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16525" levels="1" name="Spirit of Master">
+		<set name="icon" value="icon.skill1086"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="hitTime" value="2000"/>
+		<set name="mp_consume" value="10"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16526" levels="4" name="Supply Blockade">
+		<set name="icon" value="icon.skill1263"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16527" levels="1" name="Poor Equipment">
+		<set name="icon" value="icon.skill1263"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16528" levels="1" name="Atelia Brainwashing">
+		<set name="icon" value="icon.skill11387"/>
+		<set name="reuseDelay" value="900000"/>
+		<set name="coolTime" value="200"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16529" levels="1" name="Adolph's Will of Steel">
+		<set name="icon" value="icon.skill10105"/>
+		<set name="reuseDelay" value="300000"/>
+		<set name="castRange" value="350"/>
+		<set name="hitTime" value="5000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16530" levels="1" name="Adolph's Will of Steel">
+		<set name="icon" value="icon.skill19211"/>
+		<set name="reuseDelay" value="300000"/>
+		<set name="mp_consume" value="46"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16531" levels="1" name="Barton's Potential Force">
+		<set name="icon" value="icon.skill10332"/>
+		<set name="reuseDelay" value="300000"/>
+		<set name="coolTime" value="200"/>
+		<set name="hitTime" value="2000"/>
+		<set name="mp_consume" value="64"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16532" levels="1" name="Barton's Lunatic Hit">
+		<set name="icon" value="icon.skill10274"/>
+		<set name="reuseDelay" value="300000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="5000"/>
+		<set name="mp_consume" value="45"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16533" levels="1" name="Barton's Sonic Star">
+		<set name="icon" value="icon.skill10281"/>
+		<set name="reuseDelay" value="30000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="5000"/>
+		<set name="mp_consume" value="29"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16534" levels="1" name="Elise's Protection Prayer">
+		<set name="icon" value="icon.skill11759"/>
+		<set name="reuseDelay" value="300000"/>
+		<set name="castRange" value="600"/>
+		<set name="hitTime" value="5000"/>
+		<set name="mp_consume" value="36"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16535" levels="1" name="Elise's Summon Tree of Life">
+		<set name="icon" value="icon.skill19210"/>
+		<set name="reuseDelay" value="180000"/>
+		<set name="coolTime" value="2000"/>
+		<set name="castRange" value="600"/>
+		<set name="hitTime" value="5000"/>
+		<set name="mp_consume" value="243"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16536" levels="1" name="Hayuk's Phoenix Arrow">
+		<set name="icon" value="icon.skill10781"/>
+		<set name="reuseDelay" value="300000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="1100"/>
+		<set name="hitTime" value="5000"/>
+		<set name="mp_consume" value="10"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16537" levels="1" name="Hayuk's Quick Fire">
+		<set name="icon" value="icon.skill10779"/>
+		<set name="reuseDelay" value="120000"/>
+		<set name="coolTime" value="200"/>
+		<set name="hitTime" value="800"/>
+		<set name="mp_consume" value="46"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16538" levels="1" name="Eliyah's Shadow Hell">
+		<set name="icon" value="icon.skill11058"/>
+		<set name="reuseDelay" value="15000"/>
+		<set name="castRange" value="1100"/>
+		<set name="hitTime" value="1000"/>
+		<set name="mp_consume" value="267"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16539" levels="1" name="Eliyah's Elemental Detonation">
+		<set name="icon" value="icon.skill11570"/>
+		<set name="reuseDelay" value="300000"/>
+		<set name="castRange" value="900"/>
+		<set name="hitTime" value="5000"/>
+		<set name="mp_consume" value="45"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16540" levels="1" name="Revolutionaries' Petrification">
+		<set name="icon" value="icon.skill1540"/>
+		<set name="reuseDelay" value="2000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16541" levels="1" name="Burstein's Stigma">
+		<set name="icon" value="icon.etc_talisman_i01"/>
+		<set name="hitTime" value="4000"/>
+		<set name="mp_consume" value="50"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<!-- Остановка Снабжения\ Поврежденное Снаряжение\ Упадок Духа -->
+	<skill id="16542" levels="3" name="Остановка Снабжения">
+		<set name="icon" value="icon.skill1263"/>
+		<set name="castRange" value="900"/>
+		<set name="hitTime" value="1500"/>
+		<table name="#lvl">1 2 3</table>
+		<set name="abnormal_time" value="15"/>
+		<set name="abnormal_level" value="#lvl"/>
+		<!-- <set name="abnormal_type" value="abnormal_astatine"/>	 -->
+		<set name="target" value="TARGET_ONE"/>
+		<set name="skillType" value="DEBUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<for>
+			<effect>
+				<mul order="0x30" stat="maxHp" value="0.85"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="16543" levels="1" name="Spy's Aid Request">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="hitTime" value="15000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="16544" levels="1" name="Rescue Captive">
+		<set name="icon" value="icon.skill0922"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+</list>

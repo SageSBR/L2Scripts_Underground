@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="27550" levels="5" name="Камень Энергии">
+	<!-- При наличии энергии бонус очков опыта TODO: Работу скила -->
+		<set name="operateType" value="OP_PASSIVE"/>
+		<table name="#valueExp">0.03 0.06 0.12 0.25 0.50</table>
+		<!-- <table name="#valueVitalityConsume">1 1 1 0.93 0.85</table> -->
+		<for>
+			<add order="0x40" stat="exp_rate_multiplier" value="#valueExp"/>
+			<!-- <mul order="0x30" stat="vitality_consume" value="#valueVitalityConsume"/> -->
+		</for>
+	</skill>
+</list>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<config show_all="true" no_tax="true" keep_enchanted="false" />
+	<item>
+		<ingredient id="4357" count="2"/>
+		<!-- Большая Упаковка: Заряды Души Ранг S -->
+		<production id="22123" count="1"/>
+	</item>
+	<item>
+		<ingredient id="4357" count="6"/>
+		<!-- Большая Упаковка: Заряды Души - Ранг R -->
+		<production id="30277" count="1"/>
+	</item>
+
+
+	<item>
+		<ingredient id="4357" count="4"/>
+		<!-- Большая Упаковка: Благословенные Заряды Духа Ранг S -->
+		<production id="22113" count="1"/>
+	</item>
+	<item>
+		<ingredient id="4357" count="8"/>
+		<!-- Большая Упаковка: Благословенные Заряды Духа - Ранг R -->
+		<production id="30281" count="1"/>
+	</item>
+
+
+	<item>
+		<ingredient id="4357" count="2"/>
+		<!-- Большая Упаковка: Заряды Души Зверя -->
+		<production id="20329" count="1"/>
+	</item>
+	<item>
+		<ingredient id="4357" count="2"/>
+		<!-- Большая Упаковка: Благословенные Заряды Духа Зверя -->
+		<production id="20331" count="1"/>
+	</item>
+
+	<item>
+		<ingredient id="4357" count="1"/>
+		<!-- бафы -->
+		<production id="32316" count="1"/>
+	</item>
+
+	<item>
+		<ingredient id="4357" count="1"/>
+		<!-- бафы -->
+		<production id="37100" count="1"/>
+	</item>
+	<item>
+		<ingredient id="4357" count="1"/>
+		<!-- бафы -->
+		<production id="37101" count="1"/>
+	</item>
+	<item>
+		<ingredient id="4357" count="1"/>
+		<!-- бафы -->
+		<production id="37102" count="1"/>
+	</item>
+	<item>
+		<ingredient id="4357" count="1"/>
+		<!-- хп -->
+		<production id="30360" count="5"/>
+	</item>
+	<item>
+		<ingredient id="4357" count="1"/>
+		<!-- мп -->
+		<production id="30361" count="1"/>
+	</item>
+	<item>
+		<ingredient id="4357" count="1"/>
+		<!-- цп -->
+		<production id="30362" count="5"/>
+	</item>
+
+	<item>
+		<ingredient id="4357" count="10"/>
+		<!-- Королевское облачение для смены причёсок и лиц -->
+		<production id="36308" count="1"/>
+	</item>
+</list>

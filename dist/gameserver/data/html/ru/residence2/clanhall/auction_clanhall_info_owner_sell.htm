@@ -1,0 +1,112 @@
+<html><body><br>
+<center>Клан холлы доступны на аукционе:</center>
+<img src="L2UI.SquareWhite" width="270" height="1"> <img src="L2UI.SquareBlank" width="1" height="3">
+<table width="270" border="0"><br>
+	<tr>
+		<td width="90">
+			<font color="a2a0a2">Клан Холл Название: </font>
+		</td>
+		<td width="180">
+			<font color="b09979">&%%id%;</font>
+		</td>
+	</tr><br>
+	<tr>
+		<td>
+			<font color="a2a0a2">Владелец: </font>
+		</td>
+		<td>
+			<font color="b09979">%владелец%</font>
+		</td>
+	</tr><br>
+	<tr>
+		<td>
+			<font color="a2a0a2">Лидер Клана: </font>
+		</td>
+		<td>
+			<font color="b09979">%owner_leader%</font>
+		</td>
+	</tr><br>
+	<tr>
+		<td>
+			<font color="a2a0a2">Клан Холл Размер: </font>
+		</td>
+		<td>
+			<font color="b09979">%ранг% квадратных футов</font> (Ранг)
+		</td>
+	</tr><br>
+	<tr>
+		<td>
+			<font color="a2a0a2">Аренда: </font>
+		</td>
+		<td>
+			<font color="b09979">%rental_fee%</font> адену<font color="LEVEL">/неделя</font>
+		</td>
+	</tr><br>
+	<tr>
+		<td>
+			<font color="a2a0a2">Клан холл отеля: </font>
+		</td>
+		<td>
+			&^%id%;
+		</td>
+	</tr>
+</table>
+<img src="L2UI.SquareGray" width="270" height="1"> <img src="L2UI.SquareBlank" width="1" height="3"><br>
+<table width="270" border="0"><br>
+	<tr>
+		<td width="90">
+			<font color="a2a0a2">Аукцион заканчивается: </font>
+		</td>
+		<td width="180">
+			<font color="b09979">%час% час %Дата%</font>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color="a2a0a2">Оставшееся Время: </font>
+		</td>
+		<td>
+			<font color="b09979">%remaining_hour% час(ы), %remaining_minutes% минут</font>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color="a2a0a2">Минимальная Ставка: </font>
+		</td>
+		<td>
+			<font color="b09979">%min_bid%</font> адену
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<font color="a2a0a2">Количество ставок: </font>
+		</td>
+		<td>
+			<font color="b09979">%bigger_size%</font>
+		</td>
+	</tr><br>
+</table><br>
+<table width="270" border="0" bgcolor="333333">
+	<tr>
+		<td width="270">
+			%описание%
+		</td>
+	</tr>
+</table>
+<img src="L2UI.SquareBlank" width="270" height="10"> <img src="L2UI.SquareWhite" width="270" height="1"> <img src="L2UI.SquareBlank" width="270" height="5">
+<table width="270" border="0">
+	<tr>
+		<td width="20"></td>
+		<td width="80" align="center">
+			<button action="bypass -h npc_%objectId%_Chat 0" value="Назад" width="80" height="27" back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+		</td>
+		<td width="80" align="center">
+			<button action="bypass -h npc_%objectId%_bidder_list %id% 0" value="Участники торгов" width="80" height="27" back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+		</td>
+		<td width="80" align="center">
+			<button action="bypass -h npc_%objectId%_cancel_start" value="Отмена" width="80" height="27" back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+		</td>
+	</tr>
+</table>
+&nbsp;<br><br>
+</body></html>

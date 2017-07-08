@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--MaJr-->
+<list>
+	<!--Topaz-->
+	<synthesis item_1_id="38850" item_2_id="38850" chance="25" synthesized_item_id="38851"/>	<!--Topaz Lv.1 & Topaz Lv.1 = Topaz Lv.2-->
+	<synthesis item_1_id="38851" item_2_id="38851" chance="10" synthesized_item_id="38852"/>	<!--Topaz Lv.2 & Topaz Lv.2 = Topaz Lv.3-->
+	<synthesis item_1_id="38852" item_2_id="38852" chance="5" synthesized_item_id="38853"/>	<!--Topaz Lv.3 & Topaz Lv.3 = Topaz Lv.4-->
+	<synthesis item_1_id="38853" item_2_id="38853" chance="1" synthesized_item_id="38854"/>	<!--Topaz Lv.4 & Topaz Lv.4 = Topaz Lv.5-->
+	<!--Ruby-->
+	<synthesis item_1_id="38855" item_2_id="38855" chance="25" synthesized_item_id="38856"/>	<!--Ruby Lv.1 & Ruby Lv.1 = Ruby Lv.2-->
+	<synthesis item_1_id="38856" item_2_id="38856" chance="10" synthesized_item_id="38857"/>	<!--Ruby Lv.2 & Ruby Lv.2 = Ruby Lv.3-->
+	<synthesis item_1_id="38857" item_2_id="38857" chance="5" synthesized_item_id="38858"/>	<!--Ruby Lv.3 & Ruby Lv.3 = Ruby Lv.4-->
+	<synthesis item_1_id="38858" item_2_id="38858" chance="1" synthesized_item_id="38859"/>	<!--Ruby Lv.4 & Ruby Lv.4 = Ruby Lv.5-->
+	<!--Emergency Recovery Jewel-->
+	<synthesis item_1_id="38860" item_2_id="38860" chance="25" synthesized_item_id="38861"/>	<!--Emergency Recovery Jewel Lv.1 & Emergency Recovery Jewel Lv.1 = Emergency Recovery Jewel Lv.2-->
+	<synthesis item_1_id="38861" item_2_id="38861" chance="10" synthesized_item_id="38862"/>	<!--Emergency Recovery Jewel Lv.2 & Emergency Recovery Jewel Lv.2 = Emergency Recovery Jewel Lv.3-->
+	<synthesis item_1_id="38862" item_2_id="38862" chance="5" synthesized_item_id="38863"/>	<!--Emergency Recovery Jewel Lv.3 & Emergency Recovery Jewel Lv.3 = Emergency Recovery Jewel Lv.4-->
+	<synthesis item_1_id="38863" item_2_id="38863" chance="1" synthesized_item_id="38864"/>	<!--Emergency Recovery Jewel Lv.4 & Emergency Recovery Jewel Lv.4 = Emergency Recovery Jewel Lv.5-->
+	<!--Heal Boost Jewel-->
+	<synthesis item_1_id="38865" item_2_id="38865" chance="25" synthesized_item_id="38866"/>	<!--Heal Boost Jewel Lv.1 & Heal Boost Jewel Lv.1 = Heal Boost Jewel Lv.2-->
+	<synthesis item_1_id="38866" item_2_id="38866" chance="10" synthesized_item_id="38867"/>	<!--Heal Boost Jewel Lv.2 & Heal Boost Jewel Lv.2 = Heal Boost Jewel Lv.3-->
+	<synthesis item_1_id="38867" item_2_id="38867" chance="5" synthesized_item_id="38868"/>	<!--Heal Boost Jewel Lv.3 & Heal Boost Jewel Lv.3 = Heal Boost Jewel Lv.4-->
+	<synthesis item_1_id="38868" item_2_id="38868" chance="1" synthesized_item_id="38869"/>	<!--Heal Boost Jewel Lv.4 & Heal Boost Jewel Lv.4 = Heal Boost Jewel Lv.5-->
+	<!--Obsidian-->
+	<synthesis item_1_id="38870" item_2_id="38870" chance="25" synthesized_item_id="38871"/>	<!--Obsidian Lv.1 & Obsidian Lv.1 = Obsidian Lv.2-->
+	<synthesis item_1_id="38871" item_2_id="38871" chance="10" synthesized_item_id="38872"/>	<!--Obsidian Lv.2 & Obsidian Lv.2 = Obsidian Lv.3-->
+	<synthesis item_1_id="38872" item_2_id="38872" chance="5" synthesized_item_id="38873"/>	<!--Obsidian Lv.3 & Obsidian Lv.3 = Obsidian Lv.4-->
+	<synthesis item_1_id="38873" item_2_id="38873" chance="1" synthesized_item_id="38874"/>	<!--Obsidian Lv.4 & Obsidian Lv.4 = Obsidian Lv.5-->
+	<!--Opal-->
+	<synthesis item_1_id="38875" item_2_id="38875" chance="25" synthesized_item_id="38876"/>	<!--Opal Lv.1 & Opal Lv.1 = Opal Lv.2-->
+	<synthesis item_1_id="38876" item_2_id="38876" chance="10" synthesized_item_id="38877"/>	<!--Opal Lv.2 & Opal Lv.2 = Opal Lv.3-->
+	<synthesis item_1_id="38877" item_2_id="38877" chance="5" synthesized_item_id="38878"/>	<!--Opal Lv.3 & Opal Lv.3 = Opal Lv.4-->
+	<synthesis item_1_id="38878" item_2_id="38878" chance="1" synthesized_item_id="38879"/>	<!--Opal Lv.4 & Opal Lv.4 = Opal Lv.5-->
+	<!--Emerald-->
+	<synthesis item_1_id="38880" item_2_id="38880" chance="25" synthesized_item_id="38881"/>	<!--Emerald Lv.1 & Emerald Lv.1 = Emerald Lv.2-->
+	<synthesis item_1_id="38881" item_2_id="38881" chance="10" synthesized_item_id="38882"/>	<!--Emerald Lv.2 & Emerald Lv.2 = Emerald Lv.3-->
+	<synthesis item_1_id="38882" item_2_id="38882" chance="5" synthesized_item_id="38883"/>	<!--Emerald Lv.3 & Emerald Lv.3 = Emerald Lv.4-->
+	<synthesis item_1_id="38883" item_2_id="38883" chance="1" synthesized_item_id="38884"/>	<!--Emerald Lv.4 & Emerald Lv.4 = Emerald Lv.5-->
+	<!--Aquamarine-->
+	<synthesis item_1_id="38885" item_2_id="38885" chance="25" synthesized_item_id="38886"/>	<!--Aquamarine Lv.1 & Aquamarine Lv.1 = Aquamarine Lv.2-->
+	<synthesis item_1_id="38886" item_2_id="38886" chance="10" synthesized_item_id="38887"/>	<!--Aquamarine Lv.2 & Aquamarine Lv.2 = Aquamarine Lv.3-->
+	<synthesis item_1_id="38887" item_2_id="38887" chance="5" synthesized_item_id="38888"/>	<!--Aquamarine Lv.3 & Aquamarine Lv.3 = Aquamarine Lv.4-->
+	<synthesis item_1_id="38888" item_2_id="38888" chance="1" synthesized_item_id="38889"/>	<!--Aquamarine Lv.4 & Aquamarine Lv.4 = Aquamarine Lv.5-->
+	<!--Diamond-->
+	<synthesis item_1_id="38890" item_2_id="38890" chance="25" synthesized_item_id="38891"/>	<!--Diamond Lv.1 & Diamond Lv.1 = Diamond Lv.2-->
+	<synthesis item_1_id="38891" item_2_id="38891" chance="10" synthesized_item_id="38892"/>	<!--Diamond Lv.2 & Diamond Lv.2 = Diamond Lv.3-->
+	<synthesis item_1_id="38892" item_2_id="38892" chance="5" synthesized_item_id="38893"/>	<!--Diamond Lv.3 & Diamond Lv.3 = Diamond Lv.4-->
+	<synthesis item_1_id="38893" item_2_id="38893" chance="1" synthesized_item_id="38894"/>	<!--Diamond Lv.4 & Diamond Lv.4 = Diamond Lv.5-->
+	<!--Pearl-->
+	<synthesis item_1_id="38895" item_2_id="38895" chance="25" synthesized_item_id="38896"/>	<!--Pearl Lv.1 & Pearl Lv.1 = Pearl Lv.2-->
+	<synthesis item_1_id="38896" item_2_id="38896" chance="10" synthesized_item_id="38897"/>	<!--Pearl Lv.2 & Pearl Lv.2 = Pearl Lv.3-->
+	<synthesis item_1_id="38897" item_2_id="38897" chance="5" synthesized_item_id="38898"/>	<!--Pearl Lv.3 & Pearl Lv.3 = Pearl Lv.4-->
+	<synthesis item_1_id="38898" item_2_id="38898" chance="1" synthesized_item_id="38899"/>	<!--Pearl Lv.4 & Pearl Lv.4 = Pearl Lv.5-->
+	<!--Sapphire-->
+	<synthesis item_1_id="38927" item_2_id="38927" chance="25" synthesized_item_id="38928"/>	<!--Sapphire Lv.1 & Sapphire Lv.1 = Sapphire Lv.2-->
+	<synthesis item_1_id="38928" item_2_id="38928" chance="10" synthesized_item_id="38929"/>	<!--Sapphire Lv.2 & Sapphire Lv.2 = Sapphire Lv.3-->
+	<synthesis item_1_id="38929" item_2_id="38929" chance="5" synthesized_item_id="38930"/>	<!--Sapphire Lv.3 & Sapphire Lv.3 = Sapphire Lv.4-->
+	<synthesis item_1_id="38930" item_2_id="38930" chance="1" synthesized_item_id="38931"/>	<!--Sapphire Lv.4 & Sapphire Lv.4 = Sapphire Lv.5-->	
+	<!-- Камень жизни -->
+	<synthesis item_1_id="26476" item_2_id="26476" chance="50" synthesized_item_id="26477"/>
+	<synthesis item_1_id="26477" item_2_id="26477" chance="45" synthesized_item_id="26478"/>
+	<synthesis item_1_id="26478" item_2_id="26478" chance="30" synthesized_item_id="26479"/>
+	<synthesis item_1_id="26479" item_2_id="26479" chance="20" synthesized_item_id="26480"/>
+	<!-- Аметист -->
+	<synthesis item_1_id="26502" item_2_id="26502" chance="40" synthesized_item_id="26503"/>
+	<synthesis item_1_id="26503" item_2_id="26503" chance="25" synthesized_item_id="26504"/>
+	<synthesis item_1_id="26504" item_2_id="26504" chance="15" synthesized_item_id="26505"/>
+	<synthesis item_1_id="26505" item_2_id="26505" chance="8" synthesized_item_id="26506"/>
+	<!-- Танзанит -->
+	<synthesis item_1_id="26486" item_2_id="26486" chance="40" synthesized_item_id="26487"/>
+	<synthesis item_1_id="26487" item_2_id="26487" chance="25" synthesized_item_id="26488"/>
+	<synthesis item_1_id="26488" item_2_id="26488" chance="15" synthesized_item_id="26489"/>
+	<synthesis item_1_id="26489" item_2_id="26489" chance="8" synthesized_item_id="26490"/>
+	<!-- Гранат -->
+	<synthesis item_1_id="26481" item_2_id="26481" chance="40" synthesized_item_id="26482"/>
+	<synthesis item_1_id="26482" item_2_id="26482" chance="25" synthesized_item_id="26483"/>
+	<synthesis item_1_id="26483" item_2_id="26483" chance="15" synthesized_item_id="26484"/>
+	<synthesis item_1_id="26484" item_2_id="26484" chance="8" synthesized_item_id="26485"/>
+	<!-- Кошачий Глаз -->
+	<synthesis item_1_id="26497" item_2_id="26497" chance="40" synthesized_item_id="26498"/>
+	<synthesis item_1_id="26498" item_2_id="26498" chance="25" synthesized_item_id="26499"/>
+	<synthesis item_1_id="26499" item_2_id="26499" chance="15" synthesized_item_id="26500"/>
+	<synthesis item_1_id="26500" item_2_id="26500" chance="8" synthesized_item_id="26501"/>
+	
+	<!--Талисман из Позолоченного Дерева-->
+	<synthesis item_1_id="34989" item_2_id="34989" chance="10" synthesized_item_id="39572"/>	<!--Talisman - Longing & Talisman - Longing = Talisman - Insanity-->
+	
+	<!-- Талисман Бенира -->
+	<synthesis item_1_id="39634" item_2_id="39634" chance="99" synthesized_item_id="39635"/>
+	<synthesis item_1_id="39635" item_2_id="39635" chance="97" synthesized_item_id="39636"/>
+	<synthesis item_1_id="39636" item_2_id="39636" chance="95" synthesized_item_id="39637"/>
+	<synthesis item_1_id="39637" item_2_id="39637" chance="92" synthesized_item_id="39638"/>
+	<synthesis item_1_id="39638" item_2_id="39638" chance="89" synthesized_item_id="39639"/>
+	<synthesis item_1_id="39639" item_2_id="39639" chance="86" synthesized_item_id="39640"/>
+	<synthesis item_1_id="39640" item_2_id="39640" chance="68" synthesized_item_id="39641"/>
+	<synthesis item_1_id="39641" item_2_id="39641" chance="63" synthesized_item_id="39642"/>
+	<synthesis item_1_id="39642" item_2_id="39642" chance="58" synthesized_item_id="39643"/>
+	<synthesis item_1_id="39643" item_2_id="39643" chance="35" synthesized_item_id="39644"/>
+	<synthesis item_1_id="39644" item_2_id="39644" chance="30" synthesized_item_id="39645"/>
+	<synthesis item_1_id="39645" item_2_id="39645" chance="25" synthesized_item_id="39646"/>
+	<synthesis item_1_id="39646" item_2_id="39646" chance="22" synthesized_item_id="39647"/>
+	<synthesis item_1_id="39647" item_2_id="39647" chance="20" synthesized_item_id="39648"/>
+	<synthesis item_1_id="39648" item_2_id="39648" chance="18" synthesized_item_id="39649"/>
+	<synthesis item_1_id="39649" item_2_id="39649" chance="15" synthesized_item_id="39650"/>
+	<synthesis item_1_id="39650" item_2_id="39650" chance="10" synthesized_item_id="39651"/>
+	<synthesis item_1_id="39651" item_2_id="39651" chance="8" synthesized_item_id="39652"/>
+	<synthesis item_1_id="39652" item_2_id="39652" chance="7" synthesized_item_id="39653"/>
+	<synthesis item_1_id="39653" item_2_id="39653" chance="6" synthesized_item_id="39654"/>
+	<synthesis item_1_id="39654" item_2_id="39654" chance="5" synthesized_item_id="39655"/>
+	<synthesis item_1_id="39655" item_2_id="39655" chance="4" synthesized_item_id="39656"/>
+	<synthesis item_1_id="39656" item_2_id="39656" chance="2" synthesized_item_id="39657"/>
+	
+			<!-- Крситаллы Души можно синтезировать только до 5 уровня-->
+			<!-- https://4gameforum.com/threads/537588/ -->
+	<!-- Кристалл Души Каина -->
+	<synthesis item_1_id="46444" item_2_id="46444" chance="49" synthesized_item_id="46445"/>
+	<synthesis item_1_id="46445" item_2_id="46445" chance="48.6" synthesized_item_id="46446"/>
+	<synthesis item_1_id="46446" item_2_id="46446" chance="22.8" synthesized_item_id="46447"/>
+	<synthesis item_1_id="46447" item_2_id="46447" chance="25.4" synthesized_item_id="46448"/>
+	<!-- Кристалл Души Мермедена -->
+	<synthesis item_1_id="46459" item_2_id="46459" chance="49" synthesized_item_id="46460"/>
+	<synthesis item_1_id="46460" item_2_id="46460" chance="48.6" synthesized_item_id="46461"/>
+	<synthesis item_1_id="46461" item_2_id="46461" chance="22.8" synthesized_item_id="46462"/>
+	<synthesis item_1_id="46462" item_2_id="46462" chance="25.4" synthesized_item_id="46463"/>
+	<!-- Кристалл Души Леоны -->
+	<synthesis item_1_id="46474" item_2_id="46474" chance="49" synthesized_item_id="46475"/>
+	<synthesis item_1_id="46475" item_2_id="46475" chance="48.6" synthesized_item_id="46476"/>
+	<synthesis item_1_id="46476" item_2_id="46476" chance="22.8" synthesized_item_id="46477"/>
+	<synthesis item_1_id="46477" item_2_id="46477" chance="25.4" synthesized_item_id="46478"/>
+	<!-- Кристалл Души Пантеона -->
+	<synthesis item_1_id="46489" item_2_id="46489" chance="49" synthesized_item_id="46490"/>
+	<synthesis item_1_id="46490" item_2_id="46490" chance="48.6" synthesized_item_id="46491"/>
+	<synthesis item_1_id="46491" item_2_id="46491" chance="22.8" synthesized_item_id="46492"/>
+	<synthesis item_1_id="46492" item_2_id="46492" chance="25.4" synthesized_item_id="46493"/>
+	<!-- Кристалл Души Леонела -->
+	<synthesis item_1_id="46504" item_2_id="46504" chance="49" synthesized_item_id="46505"/>
+	<synthesis item_1_id="46505" item_2_id="46505" chance="48.6" synthesized_item_id="46506"/>
+	<synthesis item_1_id="46506" item_2_id="46506" chance="22.8" synthesized_item_id="46507"/>
+	<synthesis item_1_id="46507" item_2_id="46507" chance="25.4" synthesized_item_id="46508"/>
+	
+		<!-- Зодиакальные Агатионы при наличии "Бутыль со Звездами" с 100% происходит синтез-->
+		<!-- https://l2central.info/wiki/%D0%97%D0%BE%D0%B4%D0%B8%D0%B0%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%90%D0%B3%D0%B0%D1%82%D0%B8%D0%BE%D0%BD%D1%8B -->
+	<!--  Браслет Призыва Агатиона: Овен -->
+	<synthesis item_1_id="24025" item_2_id="24139" chance="100" synthesized_item_id="24026"/>
+	<synthesis item_1_id="24026" item_2_id="24139" chance="100" synthesized_item_id="24027"/>
+	<synthesis item_1_id="24027" item_2_id="24139" chance="100" synthesized_item_id="24028"/>
+	<synthesis item_1_id="24028" item_2_id="24139" chance="100" synthesized_item_id="24029"/>
+	<synthesis item_1_id="24029" item_2_id="24139" chance="100" synthesized_item_id="24030"/>
+	<synthesis item_1_id="24030" item_2_id="24139" chance="100" synthesized_item_id="24031"/>
+	<synthesis item_1_id="24031" item_2_id="24139" chance="100" synthesized_item_id="24032"/>
+	<synthesis item_1_id="24032" item_2_id="24139" chance="100" synthesized_item_id="24033"/>
+	<synthesis item_1_id="24033" item_2_id="24139" chance="100" synthesized_item_id="24034"/>
+	<synthesis item_1_id="24034" item_2_id="24139" chance="100" synthesized_item_id="24035"/>
+	<synthesis item_1_id="24035" item_2_id="24139" chance="100" synthesized_item_id="24036"/>
+	<!--  Браслет Призыва Агатиона: Телец -->
+	<synthesis item_1_id="24037" item_2_id="24139" chance="100" synthesized_item_id="24038"/>
+	<synthesis item_1_id="24038" item_2_id="24139" chance="100" synthesized_item_id="24039"/>
+	<synthesis item_1_id="24039" item_2_id="24139" chance="100" synthesized_item_id="24040"/>
+	<synthesis item_1_id="24040" item_2_id="24139" chance="100" synthesized_item_id="24041"/>
+	<synthesis item_1_id="24041" item_2_id="24139" chance="100" synthesized_item_id="24042"/>
+	<synthesis item_1_id="24042" item_2_id="24139" chance="100" synthesized_item_id="24043"/>
+	<synthesis item_1_id="24043" item_2_id="24139" chance="100" synthesized_item_id="24044"/>
+	<synthesis item_1_id="24044" item_2_id="24139" chance="100" synthesized_item_id="24045"/>
+	<synthesis item_1_id="24045" item_2_id="24139" chance="100" synthesized_item_id="24046"/>
+	<synthesis item_1_id="24046" item_2_id="24139" chance="100" synthesized_item_id="24047"/>
+	<synthesis item_1_id="24047" item_2_id="24139" chance="100" synthesized_item_id="24048"/>
+	<!--  Браслет Призыва Агатиона: Близнецы -->
+	<synthesis item_1_id="24061" item_2_id="24139" chance="100" synthesized_item_id="24062"/>
+	<synthesis item_1_id="24062" item_2_id="24139" chance="100" synthesized_item_id="24063"/>
+	<synthesis item_1_id="24063" item_2_id="24139" chance="100" synthesized_item_id="24064"/>
+	<synthesis item_1_id="24064" item_2_id="24139" chance="100" synthesized_item_id="24065"/>
+	<synthesis item_1_id="24065" item_2_id="24139" chance="100" synthesized_item_id="24066"/>
+	<synthesis item_1_id="24066" item_2_id="24139" chance="100" synthesized_item_id="24067"/>
+	<synthesis item_1_id="24067" item_2_id="24139" chance="100" synthesized_item_id="24068"/>
+	<synthesis item_1_id="24068" item_2_id="24139" chance="100" synthesized_item_id="24069"/>
+	<synthesis item_1_id="24069" item_2_id="24139" chance="100" synthesized_item_id="24070"/>
+	<synthesis item_1_id="24070" item_2_id="24139" chance="100" synthesized_item_id="24071"/>
+	<synthesis item_1_id="24071" item_2_id="24139" chance="100" synthesized_item_id="24072"/>
+	<!--  Браслет Призыва Агатиона: Рак -->
+	<synthesis item_1_id="24121" item_2_id="24139" chance="100" synthesized_item_id="24122"/>
+	<synthesis item_1_id="24122" item_2_id="24139" chance="100" synthesized_item_id="24123"/>
+	<synthesis item_1_id="24123" item_2_id="24139" chance="100" synthesized_item_id="24124"/>
+	<synthesis item_1_id="24124" item_2_id="24139" chance="100" synthesized_item_id="24125"/>
+	<synthesis item_1_id="24125" item_2_id="24139" chance="100" synthesized_item_id="24126"/>
+	<synthesis item_1_id="24126" item_2_id="24139" chance="100" synthesized_item_id="24127"/>
+	<synthesis item_1_id="24127" item_2_id="24139" chance="100" synthesized_item_id="24128"/>
+	<synthesis item_1_id="24128" item_2_id="24139" chance="100" synthesized_item_id="24129"/>
+	<synthesis item_1_id="24129" item_2_id="24139" chance="100" synthesized_item_id="24130"/>
+	<synthesis item_1_id="24130" item_2_id="24139" chance="100" synthesized_item_id="24131"/>
+	<synthesis item_1_id="24131" item_2_id="24139" chance="100" synthesized_item_id="24132"/>
+	<!--  Браслет Призыва Агатиона: Лев -->
+	<synthesis item_1_id="24049" item_2_id="24139" chance="100" synthesized_item_id="24050"/>
+	<synthesis item_1_id="24050" item_2_id="24139" chance="100" synthesized_item_id="24051"/>
+	<synthesis item_1_id="24051" item_2_id="24139" chance="100" synthesized_item_id="24052"/>
+	<synthesis item_1_id="24052" item_2_id="24139" chance="100" synthesized_item_id="24053"/>
+	<synthesis item_1_id="24053" item_2_id="24139" chance="100" synthesized_item_id="24054"/>
+	<synthesis item_1_id="24054" item_2_id="24139" chance="100" synthesized_item_id="24055"/>
+	<synthesis item_1_id="24055" item_2_id="24139" chance="100" synthesized_item_id="24056"/>
+	<synthesis item_1_id="24056" item_2_id="24139" chance="100" synthesized_item_id="24057"/>
+	<synthesis item_1_id="24057" item_2_id="24139" chance="100" synthesized_item_id="24058"/>
+	<synthesis item_1_id="24058" item_2_id="24139" chance="100" synthesized_item_id="24059"/>
+	<synthesis item_1_id="24059" item_2_id="24139" chance="100" synthesized_item_id="24060"/>
+	<!--  Браслет Призыва Агатиона: Дева -->
+	<synthesis item_1_id="23989" item_2_id="24139" chance="100" synthesized_item_id="23990"/>
+	<synthesis item_1_id="23990" item_2_id="24139" chance="100" synthesized_item_id="23991"/>
+	<synthesis item_1_id="23991" item_2_id="24139" chance="100" synthesized_item_id="23992"/>
+	<synthesis item_1_id="23992" item_2_id="24139" chance="100" synthesized_item_id="23993"/>
+	<synthesis item_1_id="23993" item_2_id="24139" chance="100" synthesized_item_id="23994"/>
+	<synthesis item_1_id="23994" item_2_id="24139" chance="100" synthesized_item_id="23995"/>
+	<synthesis item_1_id="23995" item_2_id="24139" chance="100" synthesized_item_id="23996"/>
+	<synthesis item_1_id="23996" item_2_id="24139" chance="100" synthesized_item_id="23997"/>
+	<synthesis item_1_id="23997" item_2_id="24139" chance="100" synthesized_item_id="23998"/>
+	<synthesis item_1_id="23998" item_2_id="24139" chance="100" synthesized_item_id="23999"/>
+	<synthesis item_1_id="23999" item_2_id="24139" chance="100" synthesized_item_id="24000"/>
+	<!--  Браслет Призыва Агатиона: Весы -->
+	<synthesis item_1_id="24013" item_2_id="24139" chance="100" synthesized_item_id="24014"/>
+	<synthesis item_1_id="24014" item_2_id="24139" chance="100" synthesized_item_id="24015"/>
+	<synthesis item_1_id="24015" item_2_id="24139" chance="100" synthesized_item_id="24016"/>
+	<synthesis item_1_id="24016" item_2_id="24139" chance="100" synthesized_item_id="24017"/>
+	<synthesis item_1_id="24017" item_2_id="24139" chance="100" synthesized_item_id="24018"/>
+	<synthesis item_1_id="24018" item_2_id="24139" chance="100" synthesized_item_id="24019"/>
+	<synthesis item_1_id="24019" item_2_id="24139" chance="100" synthesized_item_id="24020"/>
+	<synthesis item_1_id="24020" item_2_id="24139" chance="100" synthesized_item_id="24021"/>
+	<synthesis item_1_id="24021" item_2_id="24139" chance="100" synthesized_item_id="24022"/>
+	<synthesis item_1_id="24022" item_2_id="24139" chance="100" synthesized_item_id="24023"/>
+	<synthesis item_1_id="24023" item_2_id="24139" chance="100" synthesized_item_id="24024"/>
+	<!--  Браслет Призыва Агатиона: Скорпион -->
+	<synthesis item_1_id="24073" item_2_id="24139" chance="100" synthesized_item_id="24074"/>
+	<synthesis item_1_id="24074" item_2_id="24139" chance="100" synthesized_item_id="24075"/>
+	<synthesis item_1_id="24075" item_2_id="24139" chance="100" synthesized_item_id="24076"/>
+	<synthesis item_1_id="24076" item_2_id="24139" chance="100" synthesized_item_id="24077"/>
+	<synthesis item_1_id="24077" item_2_id="24139" chance="100" synthesized_item_id="24078"/>
+	<synthesis item_1_id="24078" item_2_id="24139" chance="100" synthesized_item_id="24079"/>
+	<synthesis item_1_id="24079" item_2_id="24139" chance="100" synthesized_item_id="24080"/>
+	<synthesis item_1_id="24080" item_2_id="24139" chance="100" synthesized_item_id="24081"/>
+	<synthesis item_1_id="24081" item_2_id="24139" chance="100" synthesized_item_id="24082"/>
+	<synthesis item_1_id="24082" item_2_id="24139" chance="100" synthesized_item_id="24083"/>
+	<synthesis item_1_id="24083" item_2_id="24139" chance="100" synthesized_item_id="24084"/>
+	<!--  Браслет Призыва Агатиона: Стрелец -->
+	<synthesis item_1_id="24109" item_2_id="24139" chance="100" synthesized_item_id="24110"/>
+	<synthesis item_1_id="24110" item_2_id="24139" chance="100" synthesized_item_id="24111"/>
+	<synthesis item_1_id="24111" item_2_id="24139" chance="100" synthesized_item_id="24112"/>
+	<synthesis item_1_id="24112" item_2_id="24139" chance="100" synthesized_item_id="24113"/>
+	<synthesis item_1_id="24113" item_2_id="24139" chance="100" synthesized_item_id="24114"/>
+	<synthesis item_1_id="24114" item_2_id="24139" chance="100" synthesized_item_id="24115"/>
+	<synthesis item_1_id="24115" item_2_id="24139" chance="100" synthesized_item_id="24116"/>
+	<synthesis item_1_id="24116" item_2_id="24139" chance="100" synthesized_item_id="24117"/>
+	<synthesis item_1_id="24117" item_2_id="24139" chance="100" synthesized_item_id="24118"/>
+	<synthesis item_1_id="24118" item_2_id="24139" chance="100" synthesized_item_id="24119"/>
+	<synthesis item_1_id="24119" item_2_id="24139" chance="100" synthesized_item_id="24120"/>
+	<!--  Браслет Призыва Агатиона: Козерог -->
+	<synthesis item_1_id="24001" item_2_id="24139" chance="100" synthesized_item_id="24002"/>
+	<synthesis item_1_id="24002" item_2_id="24139" chance="100" synthesized_item_id="24003"/>
+	<synthesis item_1_id="24003" item_2_id="24139" chance="100" synthesized_item_id="24004"/>
+	<synthesis item_1_id="24004" item_2_id="24139" chance="100" synthesized_item_id="24005"/>
+	<synthesis item_1_id="24005" item_2_id="24139" chance="100" synthesized_item_id="24006"/>
+	<synthesis item_1_id="24006" item_2_id="24139" chance="100" synthesized_item_id="24007"/>
+	<synthesis item_1_id="24007" item_2_id="24139" chance="100" synthesized_item_id="24008"/>
+	<synthesis item_1_id="24008" item_2_id="24139" chance="100" synthesized_item_id="24009"/>
+	<synthesis item_1_id="24009" item_2_id="24139" chance="100" synthesized_item_id="24010"/>
+	<synthesis item_1_id="24010" item_2_id="24139" chance="100" synthesized_item_id="24011"/>
+	<synthesis item_1_id="24011" item_2_id="24139" chance="100" synthesized_item_id="24012"/>
+	<!--  Браслет Призыва Агатиона: Водолей -->
+	<synthesis item_1_id="24085" item_2_id="24139" chance="100" synthesized_item_id="24086"/>
+	<synthesis item_1_id="24086" item_2_id="24139" chance="100" synthesized_item_id="24087"/>
+	<synthesis item_1_id="24087" item_2_id="24139" chance="100" synthesized_item_id="24088"/>
+	<synthesis item_1_id="24088" item_2_id="24139" chance="100" synthesized_item_id="24089"/>
+	<synthesis item_1_id="24089" item_2_id="24139" chance="100" synthesized_item_id="24090"/>
+	<synthesis item_1_id="24090" item_2_id="24139" chance="100" synthesized_item_id="24091"/>
+	<synthesis item_1_id="24091" item_2_id="24139" chance="100" synthesized_item_id="24092"/>
+	<synthesis item_1_id="24092" item_2_id="24139" chance="100" synthesized_item_id="24093"/>
+	<synthesis item_1_id="24093" item_2_id="24139" chance="100" synthesized_item_id="24094"/>
+	<synthesis item_1_id="24094" item_2_id="24139" chance="100" synthesized_item_id="24095"/>
+	<synthesis item_1_id="24095" item_2_id="24139" chance="100" synthesized_item_id="24096"/>
+	<!--  Браслет Призыва Агатиона: Рыбы -->
+	<synthesis item_1_id="24097" item_2_id="24139" chance="100" synthesized_item_id="24098"/>
+	<synthesis item_1_id="24098" item_2_id="24139" chance="100" synthesized_item_id="24099"/>
+	<synthesis item_1_id="24099" item_2_id="24139" chance="100" synthesized_item_id="24100"/>
+	<synthesis item_1_id="24100" item_2_id="24139" chance="100" synthesized_item_id="24101"/>
+	<synthesis item_1_id="24101" item_2_id="24139" chance="100" synthesized_item_id="24102"/>
+	<synthesis item_1_id="24102" item_2_id="24139" chance="100" synthesized_item_id="24103"/>
+	<synthesis item_1_id="24103" item_2_id="24139" chance="100" synthesized_item_id="24104"/>
+	<synthesis item_1_id="24104" item_2_id="24139" chance="100" synthesized_item_id="24105"/>
+	<synthesis item_1_id="24105" item_2_id="24139" chance="100" synthesized_item_id="24106"/>
+	<synthesis item_1_id="24106" item_2_id="24139" chance="100" synthesized_item_id="24107"/>
+	<synthesis item_1_id="24107" item_2_id="24139" chance="100" synthesized_item_id="24108"/>
+	
+	
+	<!-- Ивент к 23 февраля -->
+	<synthesis item_1_id="36399" item_2_id="36398" chance="45" synthesized_item_id="36397"/>
+
+</list>

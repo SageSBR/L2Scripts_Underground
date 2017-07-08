@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<list>
+    <loot id="18706">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="80">
+                <reward chance="100" item_id="8603" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18709">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="80">
+                <reward chance="100" item_id="8603" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18710">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="80">
+                <reward chance="100" item_id="8603" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18711">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="80">
+                <reward chance="100" item_id="8603" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="18799">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="1078" min="461"/>
+            <reward chance="0.9259" item_id="6695" max="1" min="1"/>
+            <reward chance="0.0055" item_id="6371" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="3.3710" item_id="9540" max="1" min="1"/>
+            <reward chance="0.9901" item_id="960" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="18800">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="1078" min="462"/>
+            <reward chance="2.7504" item_id="6707" max="1" min="1"/>
+            <reward chance="0.0300" item_id="6680" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="3.4860" item_id="9540" max="1" min="1"/>
+            <reward chance="1.0140" item_id="960" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+</list>

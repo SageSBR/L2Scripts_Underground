@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config no_tax="true"/>
+	<item>
+		<!-- Raid Points -->
+		<ingredient count="100" id="-500" />
+		<!-- Aria Life Stone -->
+		<production count="1" id="38571" />
+	</item>
+	<item>
+		<!-- Raid Points -->
+		<ingredient count="1000" id="-500" />
+		<ingredient count="1" id="34859" />
+		<!-- Aria Bracelet CON -->
+		<production count="1" id="38565" />
+	</item>
+	<item>
+		<!-- Raid Points -->
+		<ingredient count="1000" id="-500" />
+		<ingredient count="1" id="34859" />
+		<!-- Aria Bracelet MEN -->
+		<production count="1" id="38566" />
+	</item>
+	<item>
+		<!-- Raid Points -->
+		<ingredient count="1000" id="-500" />
+		<ingredient count="1" id="34860" />
+		<!-- Aria Bracelet DEX -->
+		<production count="1" id="38567" />
+	</item>
+	<item>
+		<!-- Raid Points -->
+		<ingredient count="1000" id="-500" />
+		<ingredient count="1" id="34860" />
+		<!-- Aria Bracelet WIT -->
+		<production count="1" id="38568" />
+	</item>	
+	<item>
+		<!-- Raid Points -->
+		<ingredient count="1000" id="-500" />
+		<ingredient count="1" id="35294" />
+		<!-- Aria Bracelet STR -->
+		<production count="1" id="38569" />
+	</item>
+	<item>
+		<!-- Raid Points -->
+		<ingredient count="1000" id="-500" />
+		<ingredient count="1" id="35294" />
+		<!-- Aria Bracelet INT -->
+		<production count="1" id="38570" />
+	</item>
+</list>

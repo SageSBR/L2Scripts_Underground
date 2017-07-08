@@ -1,0 +1,734 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<reward id="26" name="Reach Level (Lv. 4)">
+		<set name="reward_id" value="10"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 4 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 4"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="10650;5"/>
+	</reward>
+
+	<reward id="28" name="Reach Level (Lv. 6)">
+		<set name="reward_id" value="16"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 6 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 6"/>
+		<set name="class_filter" value="0;10;18;25;31;38;44;49;53;123;124;1;4;7;11;15;19;22;26;29;32;35;39;42;45;47;50;54;56;125;126;2;3;5;6;8;9;12;13;14;16;17;20;21;23;24;27;28;30;33;34;36;37;40;41;43;46;48;51;52;55;57;127;128;129;130;135;88;89;90;91;92;93;94;95;96;97;98;99;100;101;102;103;104;105;106;107;108;109;110;111;112;113;114;115;116;117;118;131;132;133;134;136;139;140;141;142;143;144;145;146;148;149;150;151;152;153;154;155;156;157;158;159;160;161;162;163;164;165;166;167;168;169;170;171;172;173;174;175;176;177;178;179;180;181"/>
+		<set name="reward_item" value="32226;10"/>
+	</reward>
+
+	<reward id="28" name="Reach Level (Lv. 6 Ertheia)">
+		<set name="reward_id" value="17"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 6 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 6"/>
+		<set name="class_filter" value="182;183;184;185;186;187;188;189"/>
+		<set name="reward_item" value="40195;10"/>
+	</reward>
+
+	<reward id="31" name="Reach Level (Lv. 9)">
+		<set name="reward_id" value="25"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 9 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 9"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="22193;1"/>
+	</reward>
+
+	<reward id="34" name="Reach Level (Lv. 12)">
+		<set name="reward_id" value="34"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 12 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 12"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="20922;1"/>
+	</reward>
+
+	<reward id="37" name="Reach Level (Lv. 15)">
+		<set name="reward_id" value="43"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 15 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 15"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="9577;1;0;0"/>
+	</reward>
+
+	<reward id="57" name="Reach Level (Lv. 35)">
+		<set name="reward_id" value="103"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 35 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 35"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="9578;1"/>
+	</reward>
+
+	<reward id="63" name="Reach Level (Lv. 41)">
+		<set name="reward_id" value="121"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 41 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 41"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="27565;1"/>
+	</reward>
+
+	<reward id="64" name="Reach Level (Lv. 42)">
+		<set name="reward_id" value="124"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 42 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 42"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38606;1"/>
+	</reward>
+
+	<reward id="65" name="Reach Level (Lv. 43)">
+		<set name="reward_id" value="127"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 43 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 43"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38602;1"/>
+	</reward>
+
+	<reward id="66" name="Reach Level (Lv. 44 Heavy Armor)">
+		<set name="reward_id" value="130"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 44 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 44"/>
+		<set name="class_filter" value="0;18;31;44;53;1;4;19;32;45;54;56;2;3;5;6;20;21;33;34;46;55;57;88;89;90;91;99;100;106;107;113;118;117;139;140;144;148;149;150;151;152;153;154;155;156;157;171;172;173;174;175"/>
+		<set name="reward_item" value="38603;1"/>
+	</reward>
+
+	<reward id="66" name="Reach Level (Lv. 44 Light Armor)">
+		<set name="reward_id" value="131"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 44 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 44"/>
+		<set name="class_filter" value="49;123;124;7;22;35;47;50;125;126;8;9;23;24;36;37;48;51;52;127;128;129;130;135;92;93;101;102;108;109;114;115;116;131;132;133;134;182;184;186;188;141;142;158;159;160;161;162;163;164;165"/>
+		<set name="reward_item" value="38611;1;38612;1"/>
+	</reward>
+
+	<reward id="66" name="Reach Level (Lv. 44 Robe)">
+		<set name="reward_id" value="132"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 44 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 44"/>
+		<set name="class_filter" value="10;25;38;11;15;26;29;39;42;12;13;14;16;17;27;28;30;40;41;43;94;95;96;97;98;103;104;105;110;111;112;183;185;187;189;143;145;146;166;167;168;169;170;176;177;178;146;179;180;181"/>
+		<set name="reward_item" value="38607;1;38608;1"/>
+	</reward>
+
+	<reward id="67" name="Reach Level (Lv. 45 Heavy Armor)">
+		<set name="reward_id" value="133"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 45 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 45"/>
+		<set name="class_filter" value="0;18;31;44;53;1;4;19;32;45;54;56;2;3;5;6;20;21;33;34;46;55;57;88;89;90;91;99;100;106;107;113;118;117;139;140;144;148;149;150;151;152;153;154;155;156;157;171;172;173;174;175"/>
+		<set name="reward_item" value="38605;1;9579;1"/>
+	</reward>
+
+	<reward id="67" name="Reach Level (Lv. 45 Light Armor)">
+		<set name="reward_id" value="134"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 45 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 45"/>
+		<set name="class_filter" value="49;123;124;7;22;35;47;50;125;126;8;9;23;24;36;37;48;51;52;127;128;129;130;135;92;93;101;102;108;109;114;115;116;131;132;133;134;182;184;186;188;141;142;158;159;160;161;162;163;164;165"/>
+		<set name="reward_item" value="38614;1;9579;1"/>
+	</reward>
+
+	<reward id="67" name="Reach Level (Lv. 45 Robe)">
+		<set name="reward_id" value="135"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 45 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 45"/>
+		<set name="class_filter" value="10;25;38;11;15;26;29;39;42;12;13;14;16;17;27;28;30;40;41;43;94;95;96;97;98;103;104;105;110;111;112;183;185;187;189;143;145;146;166;167;168;169;170;176;177;178;146;179;180;181"/>
+		<set name="reward_item" value="38609;1;9579;1"/>
+	</reward>
+
+	<reward id="68" name="Reach Level (Lv. 46 Heavy Armor)">
+		<set name="reward_id" value="136"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 46 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 46"/>
+		<set name="class_filter" value="0;18;31;44;53;1;4;19;32;45;54;56;2;3;5;6;20;21;33;34;46;55;57;88;89;90;91;99;100;106;107;113;118;117;139;140;144;148;149;150;151;152;153;154;155;156;157;171;172;173;174;175"/>
+		<set name="reward_item" value="38604;1;35987;1"/>
+	</reward>
+
+	<reward id="68" name="Reach Level (Lv. 46 Light Armor)">
+		<set name="reward_id" value="137"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 46 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 46"/>
+		<set name="class_filter" value="49;123;124;7;22;35;47;50;125;126;8;9;23;24;36;37;48;51;52;127;128;129;130;135;92;93;101;102;108;109;114;115;116;131;132;133;134;182;184;186;188;141;142;158;159;160;161;162;163;164;165"/>
+		<set name="reward_item" value="38613;1;35987;1"/>
+	</reward>
+
+	<reward id="68" name="Reach Level (Lv. 46 Robe)">
+		<set name="reward_id" value="138"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 46 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 46"/>
+		<set name="class_filter" value="10;25;38;11;15;26;29;39;42;12;13;14;16;17;27;28;30;40;41;43;94;95;96;97;98;103;104;105;110;111;112;183;185;187;189;143;145;146;166;167;168;169;170;176;177;178;146;179;180;181"/>
+		<set name="reward_item" value="38610;1;35987;1"/>
+	</reward>
+
+	<reward id="69" name="Reach Level (Lv. 47)">
+		<set name="reward_id" value="139"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 47 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 47"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38674;1"/>
+	</reward>
+
+	<reward id="70" name="Reach Level (Lv. 48)">
+		<set name="reward_id" value="142"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 48 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 48"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38676;1"/>
+	</reward>
+
+	<reward id="71" name="Reach Level (Lv. 49)">
+		<set name="reward_id" value="145"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 49 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 49"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38675;1;9589;1"/>
+	</reward>
+
+	<reward id="72" name="Reach Level (Lv. 50)">
+		<set name="reward_id" value="148"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 50 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 50"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38674;1;35987;1"/>
+	</reward>
+
+	<reward id="73" name="Reach Level (Lv. 51)">
+		<set name="reward_id" value="151"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 51 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 51"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38676;1;35987;1"/>
+	</reward>
+
+	<reward id="75" name="Reach Level (Lv. 53)">
+		<set name="reward_id" value="157"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 53 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 53"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="27566;1"/>
+	</reward>
+
+	<reward id="76" name="Reach Level (Lv. 54)">
+		<set name="reward_id" value="160"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 54 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 54"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38619;1;35987;1"/>
+	</reward>
+
+	<reward id="77" name="Reach Level (Lv. 55 Heavy Armor)">
+		<set name="reward_id" value="163"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 55 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 55"/>
+		<set name="class_filter" value="0;18;31;44;53;1;4;19;32;45;54;56;2;3;5;6;20;21;33;34;46;55;57;88;89;90;91;99;100;106;107;113;118;117;139;140;144;148;149;150;151;152;153;154;155;156;157;171;172;173;174;175"/>
+		<set name="reward_item" value="38615;1;9580;1;35987;1"/>
+	</reward>
+
+	<reward id="77" name="Reach Level (Lv. 55 Light Armor)">
+		<set name="reward_id" value="164"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 55 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 55"/>
+		<set name="class_filter" value="49;123;124;7;22;35;47;50;125;126;8;9;23;24;36;37;48;51;52;127;128;129;130;135;92;93;101;102;108;109;114;115;116;131;132;133;134;182;184;186;188;141;142;158;159;160;161;162;163;164;165"/>
+		<set name="reward_item" value="38615;1;9580;1;35987;1"/>
+	</reward>
+
+	<reward id="77" name="Reach Level (Lv. 55 Robe)">
+		<set name="reward_id" value="165"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 55 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 55"/>
+		<set name="class_filter" value="10;25;38;11;15;26;29;39;42;12;13;14;16;17;27;28;30;40;41;43;94;95;96;97;98;103;104;105;110;111;112;183;185;187;189;143;145;146;166;167;168;169;170;176;177;178;146;179;180;181"/>
+		<set name="reward_item" value="38621;1;9580;1;35987;1"/>
+	</reward>
+
+	<reward id="78" name="Reach Level (Lv. 56 Heavy Armor)">
+		<set name="reward_id" value="166"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 56 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 56"/>
+		<set name="class_filter" value="0;18;31;44;53;1;4;19;32;45;54;56;2;3;5;6;20;21;33;34;46;55;57;88;89;90;91;99;100;106;107;113;118;117;139;140;144;148;149;150;151;152;153;154;155;156;157;171;172;173;174;175"/>
+		<set name="reward_item" value="38618;1;35987;1"/>
+	</reward>
+
+	<reward id="78" name="Reach Level (Lv. 56 Light Armor)">
+		<set name="reward_id" value="167"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 56 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 56"/>
+		<set name="class_filter" value="49;123;124;7;22;35;47;50;125;126;8;9;23;24;36;37;48;51;52;127;128;129;130;135;92;93;101;102;108;109;114;115;116;131;132;133;134;182;184;186;188;141;142;158;159;160;161;162;163;164;165"/>
+		<set name="reward_item" value="38625;1;35987;1"/>
+	</reward>
+
+	<reward id="78" name="Reach Level (Lv. 56 Robe)">
+		<set name="reward_id" value="168"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 56 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 56"/>
+		<set name="class_filter" value="10;25;38;11;15;26;29;39;42;12;13;14;16;17;27;28;30;40;41;43;94;95;96;97;98;103;104;105;110;111;112;183;185;187;189;143;145;146;166;167;168;169;170;176;177;178;146;179;180;181"/>
+		<set name="reward_item" value="38620;1;35987;1"/>
+	</reward>
+
+	<reward id="79" name="Reach Level (Lv. 57 Heavy Armor)">
+		<set name="reward_id" value="169"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 57 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 57"/>
+		<set name="class_filter" value="0;18;31;44;53;1;4;19;32;45;54;56;2;3;5;6;20;21;33;34;46;55;57;88;89;90;91;99;100;106;107;113;118;117;139;140;144;148;149;150;151;152;153;154;155;156;157;171;172;173;174;175"/>
+		<set name="reward_item" value="38616;1;13895;1;35987;1"/>
+	</reward>
+
+	<reward id="79" name="Reach Level (Lv. 57 Light Armor)">
+		<set name="reward_id" value="170"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 57 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 57"/>
+		<set name="class_filter" value="49;123;124;7;22;35;47;50;125;126;8;9;23;24;36;37;48;51;52;127;128;129;130;135;92;93;101;102;108;109;114;115;116;131;132;133;134;182;184;186;188;141;142;158;159;160;161;162;163;164;165"/>
+		<set name="reward_item" value="38626;1;13895;1;35987;1"/>
+	</reward>
+
+	<reward id="79" name="Reach Level (Lv. 57 Robe)">
+		<set name="reward_id" value="171"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 57 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 57"/>
+		<set name="class_filter" value="10;25;38;11;15;26;29;39;42;12;13;14;16;17;27;28;30;40;41;43;94;95;96;97;98;103;104;105;110;111;112;183;185;187;189;143;145;146;166;167;168;169;170;176;177;178;146;179;180;181"/>
+		<set name="reward_item" value="38622;1;13895;1;35987;1"/>
+	</reward>
+
+	<reward id="80" name="Reach Level (Lv. 58 Heavy Armor)">
+		<set name="reward_id" value="172"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 58 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 58"/>
+		<set name="class_filter" value="0;18;31;44;53;1;4;19;32;45;54;56;2;3;5;6;20;21;33;34;46;55;57;88;89;90;91;99;100;106;107;113;118;117;139;140;144;148;149;150;151;152;153;154;155;156;157;171;172;173;174;175"/>
+		<set name="reward_item" value="38617;1"/>
+	</reward>
+
+	<reward id="80" name="Reach Level (Lv. 58 Light Armor)">
+		<set name="reward_id" value="173"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 58 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 58"/>
+		<set name="class_filter" value="49;123;124;7;22;35;47;50;125;126;8;9;23;24;36;37;48;51;52;127;128;129;130;135;92;93;101;102;108;109;114;115;116;131;132;133;134;182;184;186;188;141;142;158;159;160;161;162;163;164;165"/>
+		<set name="reward_item" value="38627;1"/>
+	</reward>
+
+	<reward id="80" name="Reach Level (Lv. 58 Robe)">
+		<set name="reward_id" value="174"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 58 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 58"/>
+		<set name="class_filter" value="10;25;38;11;15;26;29;39;42;12;13;14;16;17;27;28;30;40;41;43;94;95;96;97;98;103;104;105;110;111;112;183;185;187;189;143;145;146;166;167;168;169;170;176;177;178;146;179;180;181"/>
+		<set name="reward_item" value="38623;1"/>
+	</reward>
+
+	<reward id="81" name="Reach Level (Lv. 59)">
+		<set name="reward_id" value="175"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 59 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 59"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38677;1;9590;1"/>
+	</reward>
+
+	<reward id="82" name="Reach Level (Lv. 60)">
+		<set name="reward_id" value="178"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 60 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 60"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38679;1;35987;1"/>
+	</reward>
+
+	<reward id="83" name="Reach Level (Lv. 61)">
+		<set name="reward_id" value="181"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 61 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 61"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38678;1;38677;1;38679;1"/>
+	</reward>
+
+	<reward id="84" name="Reach Level (Lv. 62)">
+		<set name="reward_id" value="184"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 62 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 62"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="35987;1"/>
+	</reward>
+
+	<reward id="85" name="Reach Level (Lv. 63)">
+		<set name="reward_id" value="187"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 63 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 63"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="27567;1;35987;1"/>
+	</reward>
+
+	<reward id="86" name="Reach Level (Lv. 64)">
+		<set name="reward_id" value="190"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 64 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 64"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38632;1;35987;1"/>
+	</reward>
+
+	<reward id="87" name="Reach Level (Lv. 65 Heavy Armor)">
+		<set name="reward_id" value="193"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 65 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 65"/>
+		<set name="class_filter" value="0;18;31;44;53;1;4;19;32;45;54;56;2;3;5;6;20;21;33;34;46;55;57;88;89;90;91;99;100;106;107;113;118;117;139;140;144;148;149;150;151;152;153;154;155;156;157;171;172;173;174;175"/>
+		<set name="reward_item" value="38629;1;9581;1"/>
+	</reward>
+
+	<reward id="87" name="Reach Level (Lv. 65 Light Armor)">
+		<set name="reward_id" value="194"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 65 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 65"/>
+		<set name="class_filter" value="49;123;124;7;22;35;47;50;125;126;8;9;23;24;36;37;48;51;52;127;128;129;130;135;92;93;101;102;108;109;114;115;116;131;132;133;134;182;184;186;188;141;142;158;159;160;161;162;163;164;165"/>
+		<set name="reward_item" value="38634;1;9581;1"/>
+	</reward>
+
+	<reward id="87" name="Reach Level (Lv. 65 Robe)">
+		<set name="reward_id" value="195"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 65 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 65"/>
+		<set name="class_filter" value="10;25;38;11;15;26;29;39;42;12;13;14;16;17;27;28;30;40;41;43;94;95;96;97;98;103;104;105;110;111;112;183;185;187;189;143;145;146;166;167;168;169;170;176;177;178;146;179;180;181"/>
+		<set name="reward_item" value="38634;1;9581;1"/>
+	</reward>
+
+	<reward id="88" name="Reach Level (Lv. 66 Heavy Armor)">
+		<set name="reward_id" value="196"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 66 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 66"/>
+		<set name="class_filter" value="0;18;31;44;53;1;4;19;32;45;54;56;2;3;5;6;20;21;33;34;46;55;57;88;89;90;91;99;100;106;107;113;118;117;139;140;144;148;149;150;151;152;153;154;155;156;157;171;172;173;174;175"/>
+		<set name="reward_item" value="38628;1;35987;1"/>
+	</reward>
+
+	<reward id="88" name="Reach Level (Lv. 66 Light Armor)">
+		<set name="reward_id" value="197"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 66 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 66"/>
+		<set name="class_filter" value="49;123;124;7;22;35;47;50;125;126;8;9;23;24;36;37;48;51;52;127;128;129;130;135;92;93;101;102;108;109;114;115;116;131;132;133;134;182;184;186;188;141;142;158;159;160;161;162;163;164;165"/>
+		<set name="reward_item" value="38638;1;38639;1;35987;1"/>
+	</reward>
+
+	<reward id="88" name="Reach Level (Lv. 66 Robe)">
+		<set name="reward_id" value="198"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 66 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 66"/>
+		<set name="class_filter" value="10;25;38;11;15;26;29;39;42;12;13;14;16;17;27;28;30;40;41;43;94;95;96;97;98;103;104;105;110;111;112;183;185;187;189;143;145;146;166;167;168;169;170;176;177;178;146;179;180;181"/>
+		<set name="reward_item" value="38633;1;35987;1"/>
+	</reward>
+
+	<reward id="89" name="Reach Level (Lv. 67 Heavy Armor)">
+		<set name="reward_id" value="199"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 67 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 67"/>
+		<set name="class_filter" value="0;18;31;44;53;1;4;19;32;45;54;56;2;3;5;6;20;21;33;34;46;55;57;88;89;90;91;99;100;106;107;113;118;117;139;140;144;148;149;150;151;152;153;154;155;156;157;171;172;173;174;175"/>
+		<set name="reward_item" value="38630;1;13896;1;35987;1"/>
+	</reward>
+
+	<reward id="89" name="Reach Level (Lv. 67 Light Armor)">
+		<set name="reward_id" value="200"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 67 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 67"/>
+		<set name="class_filter" value="49;123;124;7;22;35;47;50;125;126;8;9;23;24;36;37;48;51;52;127;128;129;130;135;92;93;101;102;108;109;114;115;116;131;132;133;134;182;184;186;188;141;142;158;159;160;161;162;163;164;165"/>
+		<set name="reward_item" value="38640;1;13896;1;35987;1"/>
+	</reward>
+
+	<reward id="89" name="Reach Level (Lv. 67 Robe)">
+		<set name="reward_id" value="201"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 67 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 67"/>
+		<set name="class_filter" value="10;25;38;11;15;26;29;39;42;12;13;14;16;17;27;28;30;40;41;43;94;95;96;97;98;103;104;105;110;111;112;183;185;187;189;143;145;146;166;167;168;169;170;176;177;178;146;179;180;181"/>
+		<set name="reward_item" value="38635;1;13896;1;35987;1"/>
+	</reward>
+
+	<reward id="90" name="Reach Level (Lv. 68 Heavy Armor)">
+		<set name="reward_id" value="202"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 68 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 68"/>
+		<set name="class_filter" value="0;18;31;44;53;1;4;19;32;45;54;56;2;3;5;6;20;21;33;34;46;55;57;88;89;90;91;99;100;106;107;113;118;117;139;140;144;148;149;150;151;152;153;154;155;156;157;171;172;173;174;175"/>
+		<set name="reward_item" value="38631;1;35987;1"/>
+	</reward>
+
+	<reward id="90" name="Reach Level (Lv. 68 Light Armor)">
+		<set name="reward_id" value="203"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 68 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 68"/>
+		<set name="class_filter" value="49;123;124;7;22;35;47;50;125;126;8;9;23;24;36;37;48;51;52;127;128;129;130;135;92;93;101;102;108;109;114;115;116;131;132;133;134;182;184;186;188;141;142;158;159;160;161;162;163;164;165"/>
+		<set name="reward_item" value="38641;1;35987;1"/>
+	</reward>
+
+	<reward id="90" name="Reach Level (Lv. 68 Robe)">
+		<set name="reward_id" value="204"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 68 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 68"/>
+		<set name="class_filter" value="10;25;38;11;15;26;29;39;42;12;13;14;16;17;27;28;30;40;41;43;94;95;96;97;98;103;104;105;110;111;112;183;185;187;189;143;145;146;166;167;168;169;170;176;177;178;146;179;180;181"/>
+		<set name="reward_item" value="38636;1;35987;1"/>
+	</reward>
+
+	<reward id="91" name="Reach Level (Lv. 69)">
+		<set name="reward_id" value="205"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 69 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 69"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38680;1;9591;1;35987;1"/>
+	</reward>
+
+	<reward id="92" name="Reach Level (Lv. 70)">
+		<set name="reward_id" value="208"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 70 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 70"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38682;1;35987;1"/>
+	</reward>
+
+	<reward id="93" name="Reach Level (Lv. 71)">
+		<set name="reward_id" value="211"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 71 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 71"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38681;1;35987;1"/>
+	</reward>
+
+	<reward id="94" name="Reach Level (Lv. 72)">
+		<set name="reward_id" value="214"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 72 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 72"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38680;1;35987;1"/>
+	</reward>
+
+	<reward id="95" name="Reach Level (Lv. 73)">
+		<set name="reward_id" value="217"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 73 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 73"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38682;1;35987;1"/>
+	</reward>
+
+	<reward id="96" name="Reach Level (Lv. 74)">
+		<set name="reward_id" value="220"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 74 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 74"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="24351;1;24352;1;24353;1;24354;1;35987;1"/>
+	</reward>
+
+	<reward id="97" name="Reach Level (Lv. 75)">
+		<set name="reward_id" value="223"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 75 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 75"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="35987;1"/>
+	</reward>
+
+	<reward id="98" name="Reach Level (Lv. 76)">
+		<set name="reward_id" value="226"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 76 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 76"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="35987;1"/>
+	</reward>
+
+	<reward id="99" name="Reach Level (Lv. 77)">
+		<set name="reward_id" value="229"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 77 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 77"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="27568;1;9582;1;35987;1"/>
+	</reward>
+
+	<reward id="100" name="Reach Level (Lv. 78 Heavy Armor)">
+		<set name="reward_id" value="232"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 78 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 78"/>
+		<set name="class_filter" value="0;18;31;44;53;1;4;19;32;45;54;56;2;3;5;6;20;21;33;34;46;55;57;88;89;90;91;99;100;106;107;113;118;117;139;140;144;148;149;150;151;152;153;154;155;156;157;171;172;173;174;175"/>
+		<set name="reward_item" value="38647;1;35987;1"/>
+	</reward>
+
+	<reward id="100" name="Reach Level (Lv. 78 Light Armor)">
+		<set name="reward_id" value="233"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 78 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 78"/>
+		<set name="class_filter" value="49;123;124;7;22;35;47;50;125;126;8;9;23;24;36;37;48;51;52;127;128;129;130;135;92;93;101;102;108;109;114;115;116;131;132;133;134;182;184;186;188;141;142;158;159;160;161;162;163;164;165"/>
+		<set name="reward_item" value="35987;1"/>
+	</reward>
+
+	<reward id="100" name="Reach Level (Lv. 78 Robe)">
+		<set name="reward_id" value="234"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 78 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 78"/>
+		<set name="class_filter" value="10;25;38;11;15;26;29;39;42;12;13;14;16;17;27;28;30;40;41;43;94;95;96;97;98;103;104;105;110;111;112;183;185;187;189;143;145;146;166;167;168;169;170;176;177;178;146;179;180;181"/>
+		<set name="reward_item" value="38652;1;35987;1"/>
+	</reward>
+
+	<reward id="101" name="Reach Level (Lv. 79 Heavy Armor)">
+		<set name="reward_id" value="235"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 79 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 79"/>
+		<set name="class_filter" value="0;18;31;44;53;1;4;19;32;45;54;56;2;3;5;6;20;21;33;34;46;55;57;88;89;90;91;99;100;106;107;113;118;117;139;140;144;148;149;150;151;152;153;154;155;156;157;171;172;173;174;175"/>
+		<set name="reward_item" value="38646;1;38642;1;38643;1;13897;1;35987;1"/>
+	</reward>
+
+	<reward id="101" name="Reach Level (Lv. 79 Light Armor)">
+		<set name="reward_id" value="236"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 79 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 79"/>
+		<set name="class_filter" value="49;123;124;7;22;35;47;50;125;126;8;9;23;24;36;37;48;51;52;127;128;129;130;135;92;93;101;102;108;109;114;115;116;131;132;133;134;182;184;186;188;141;142;158;159;160;161;162;163;164;165"/>
+		<set name="reward_item" value="38656;1;38653;1;13897;1;35987;1"/>
+	</reward>
+
+	<reward id="101" name="Reach Level (Lv. 79 Robe)">
+		<set name="reward_id" value="237"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 79 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 79"/>
+		<set name="class_filter" value="10;25;38;11;15;26;29;39;42;12;13;14;16;17;27;28;30;40;41;43;94;95;96;97;98;103;104;105;110;111;112;183;185;187;189;143;145;146;166;167;168;169;170;176;177;178;146;179;180;181"/>
+		<set name="reward_item" value="38651;1;38648;1;13897;1;35987;1"/>
+	</reward>
+
+	<reward id="102" name="Reach Level (Lv. 80 Heavy Armor)">
+		<set name="reward_id" value="238"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 80 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 80"/>
+		<set name="class_filter" value="0;18;31;44;53;1;4;19;32;45;54;56;2;3;5;6;20;21;33;34;46;55;57;88;89;90;91;99;100;106;107;113;118;117;139;140;144;148;149;150;151;152;153;154;155;156;157;171;172;173;174;175"/>
+		<set name="reward_item" value="38644;1;38645;1;9592;1;35987;1"/>
+	</reward>
+
+	<reward id="102" name="Reach Level (Lv. 80 Light Armor)">
+		<set name="reward_id" value="239"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 80 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 80"/>
+		<set name="class_filter" value="49;123;124;7;22;35;47;50;125;126;8;9;23;24;36;37;48;51;52;127;128;129;130;135;92;93;101;102;108;109;114;115;116;131;132;133;134;182;184;186;188;141;142;158;159;160;161;162;163;164;165"/>
+		<set name="reward_item" value="38654;1;38655;1;9592;1;35987;1"/>
+	</reward>
+
+	<reward id="102" name="Reach Level (Lv. 80 Robe)">
+		<set name="reward_id" value="240"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 80 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 80"/>
+		<set name="class_filter" value="10;25;38;11;15;26;29;39;42;12;13;14;16;17;27;28;30;40;41;43;94;95;96;97;98;103;104;105;110;111;112;183;185;187;189;143;145;146;166;167;168;169;170;176;177;178;146;179;180;181"/>
+		<set name="reward_item" value="38649;1;38650;1;9592;1;35987;1"/>
+	</reward>
+
+	<reward id="103" name="Reach Level (Lv. 81)">
+		<set name="reward_id" value="241"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 81 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 81"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="27569;1;38684;1;38683;1;38685;1;35987;1"/>
+	</reward>
+
+	<reward id="104" name="Reach Level (Lv. 82 Heavy Armor)">
+		<set name="reward_id" value="244"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 82 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 82"/>
+		<set name="class_filter" value="0;18;31;44;53;1;4;19;32;45;54;56;2;3;5;6;20;21;33;34;46;55;57;88;89;90;91;99;100;106;107;113;118;117;139;140;144;148;149;150;151;152;153;154;155;156;157;171;172;173;174;175"/>
+		<set name="reward_item" value="38662;1;35987;1"/>
+	</reward>
+
+	<reward id="104" name="Reach Level (Lv. 82 Light Armor)">
+		<set name="reward_id" value="245"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 82 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 82"/>
+		<set name="class_filter" value="49;123;124;7;22;35;47;50;125;126;8;9;23;24;36;37;48;51;52;127;128;129;130;135;92;93;101;102;108;109;114;115;116;131;132;133;134;182;184;186;188;141;142;158;159;160;161;162;163;164;165"/>
+		<set name="reward_item" value="35987;1"/>
+	</reward>
+
+	<reward id="104" name="Reach Level (Lv. 82 Robe)">
+		<set name="reward_id" value="246"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 82 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 82"/>
+		<set name="class_filter" value="10;25;38;11;15;26;29;39;42;12;13;14;16;17;27;28;30;40;41;43;94;95;96;97;98;103;104;105;110;111;112;183;185;187;189;143;145;146;166;167;168;169;170;176;177;178;146;179;180;181"/>
+		<set name="reward_item" value="38668;1;35987;1"/>
+	</reward>
+
+	<reward id="105" name="Reach Level (Lv. 83 Heavy Armor)">
+		<set name="reward_id" value="247"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 83 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 83"/>
+		<set name="class_filter" value="0;18;31;44;53;1;4;19;32;45;54;56;2;3;5;6;20;21;33;34;46;55;57;88;89;90;91;99;100;106;107;113;118;117;139;140;144;148;149;150;151;152;153;154;155;156;157;171;172;173;174;175"/>
+		<set name="reward_item" value="38659;1;38657;1;38658;1;38660;1;38661;1;35987;1"/>
+	</reward>
+
+	<reward id="105" name="Reach Level (Lv. 83 Light Armor)">
+		<set name="reward_id" value="248"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 83 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 83"/>
+		<set name="class_filter" value="49;123;124;7;22;35;47;50;125;126;8;9;23;24;36;37;48;51;52;127;128;129;130;135;92;93;101;102;108;109;114;115;116;131;132;133;134;182;184;186;188;141;142;158;159;160;161;162;163;164;165"/>
+		<set name="reward_item" value="38671;1;38669;1;38670;1;38672;1;38673;1;35987;1"/>
+	</reward>
+
+	<reward id="105" name="Reach Level (Lv. 83 Robe)">
+		<set name="reward_id" value="249"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 83 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 83"/>
+		<set name="class_filter" value="10;25;38;11;15;26;29;39;42;12;13;14;16;17;27;28;30;40;41;43;94;95;96;97;98;103;104;105;110;111;112;183;185;187;189;143;145;146;166;167;168;169;170;176;177;178;146;179;180;181"/>
+		<set name="reward_item" value="38665;1;38663;1;38664;1;38666;1;38667;1;35987;1"/>
+	</reward>
+
+	<reward id="106" name="Reach Level (Lv. 84)">
+		<set name="reward_id" value="250"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 84 you can get a reward for that level once. (Based on the level of the character’s main class)"/>
+		<set name="reward_period" value="Receive it when you reach Lv. 84"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="38687;1;38686;1;38688;1;35987;1"/>
+	</reward>
+
+	<reward id="187" name="Reach Level (Dual Lv. 84)">
+		<set name="reward_id" value="493"/>
+		<set name="reward_desc" value="After creating a character, if you reach Lv. 84 you can get a reward for that level once. Even if you reach higher levels, you can only receive the reward once a day. (Based on the level of the character’s dual class)"/>
+		<set name="reward_period" value="Receive it when you reach Dual Class Lv. 84"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="35987;10"/>
+	</reward>
+
+	<reward id="224" name="Login All Weekend">
+		<set name="reward_id" value="604"/>
+		<set name="reward_desc" value="Worried about what you’ll be doing this weekend? Just login."/>
+		<set name="reward_period" value="Receive it when you login during the weekend"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="27593;4;27603;1"/>
+	</reward>
+
+	<reward id="225" name="Login All Month">
+		<set name="reward_id" value="605"/>
+		<set name="reward_desc" value="Don’t have a hobby to keep you busy for a month? It’s time to level up then."/>
+		<set name="reward_period" value="Receive it when you login more than once during the month"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="27593;15;27603;1"/>
+	</reward>
+
+	<reward id="226" name="Quest Mania">
+		<set name="reward_id" value="606"/>
+		<set name="reward_desc" value="Don’t just go hunt without purpose. Make sure to get your quests to get rewarded."/>
+		<set name="reward_period" value="Receive it when you complete 2 daily quests"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="27593;1;27603;1"/>
+	</reward>
+
+	<reward id="227" name="Olympiad Warrior">
+		<set name="reward_id" value="607"/>
+		<set name="reward_desc" value="Don’t you want fame? Fight in the Olympiad for your honor. Losing is not something to be ashamed of."/>
+		<set name="reward_period" value="Receive it when you participate in the Olympiad 2 times"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="27593;4;27603;3"/>
+	</reward>
+
+	<reward id="228" name="Siege Ruler">
+		<set name="reward_id" value="608"/>
+		<set name="reward_desc" value="Don’t just stand there and watch the siege. Participate to get the amazing rewards."/>
+		<set name="reward_period" value="Receive it when you login to participate in a siege. (Only for clan members who participate in the siege.)"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="27593;50;27603;15"/>
+	</reward>
+
+	<reward id="229" name="Ceremony of Chaos">
+		<set name="reward_id" value="609"/>
+		<set name="reward_desc" value="Anyone can fight against 16 opponents at once. Fighting against 17, however, is a different story."/>
+		<set name="reward_period" value="eceive it when you participate in a Ceremony of Chaos 2 times"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="27593;2;27603;1"/>
+	</reward>
+
+	<reward id="230" name="Boss Master">
+		<set name="reward_id" value="610"/>
+		<set name="reward_desc" value="The reason why I go to instance dungeons is to… fight bosses."/>
+		<set name="reward_period" value="Receive it when you participate in a daily instance dungeon 3 times"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="27593;1;27603;1"/>
+	</reward>
+
+	<reward id="231" name="Fisher">
+		<set name="reward_id" value="611"/>
+		<set name="reward_desc" value="You’ll come to a realization when you do something three times. The realization that you can’t just end at the third time."/>
+		<set name="reward_period" value="Receive it when you fish three times"/>
+		<set name="class_filter" value="-1"/>
+		<set name="reward_item" value="27593;1;27603;1"/>
+	</reward>
+
+
+
+
+</list>

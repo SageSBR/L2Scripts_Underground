@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Create by MaJr-->
+<list>
+	<fishing_skill_tree>
+						<!-- Развитое Обычное Ремесло -->
+		<skill min_level="10" name="Развитое Обычное Ремесло" id="1369" level="1" item_count="1" item_id="36513" cost="0" />
+		<skill min_level="20" name="Развитое Обычное Ремесло" id="1369" level="2" item_count="3" item_id="36513" cost="0" />
+		<skill min_level="20" name="Развитое Обычное Ремесло" id="1369" level="3" item_count="3" item_id="36513" cost="0" />
+		<skill min_level="40" name="Развитое Обычное Ремесло" id="1369" level="4" item_count="7" item_id="36513" cost="0" />
+		<skill min_level="50" name="Развитое Обычное Ремесло" id="1369" level="5" item_count="9" item_id="36513" cost="0" />
+		<skill min_level="60" name="Развитое Обычное Ремесло" id="1369" level="6" item_count="11" item_id="36513" cost="0" />
+		<skill min_level="70" name="Развитое Обычное Ремесло" id="1369" level="7" item_count="13" item_id="36513" cost="0" />
+		<skill min_level="80" name="Развитое Обычное Ремесло" id="1369" level="8" item_count="20" item_id="36513" cost="0" />
+						<!-- Расширенный Склад -->		
+		<skill min_level="10" name="Расширенный Склад" id="1371" level="1" item_count="1" item_id="36513" cost="0" />
+		<skill min_level="20" name="Расширенный Склад" id="1371" level="2" item_count="10" item_id="36513" cost="0" />
+		<skill min_level="20" name="Расширенный Склад" id="1371" level="3" item_count="15" item_id="36513" cost="0" />
+		<skill min_level="40" name="Расширенный Склад" id="1371" level="4" item_count="20" item_id="36513" cost="0" />
+		<skill min_level="50" name="Расширенный Склад" id="1371" level="5" item_count="25" item_id="36513" cost="0" />
+		<skill min_level="60" name="Расширенный Склад" id="1371" level="6" item_count="30" item_id="36513" cost="0" />
+		<skill min_level="70" name="Расширенный Склад" id="1371" level="7" item_count="50" item_id="36513" cost="0" />
+		<skill min_level="80" name="Расширенный Склад" id="1371" level="8" item_count="100" item_id="36513" cost="0" />
+						<!-- Расширенный Инвентарь -->		
+		<skill min_level="10" name="Расширенный Инвентарь" id="1372" level="1" item_count="5" item_id="36513" cost="0" />
+		<skill min_level="20" name="Расширенный Инвентарь" id="1372" level="2" item_count="10" item_id="36513" cost="0" />
+		<skill min_level="20" name="Расширенный Инвентарь" id="1372" level="3" item_count="15" item_id="36513" cost="0" />
+		<skill min_level="40" name="Расширенный Инвентарь" id="1372" level="4" item_count="20" item_id="36513" cost="0" />
+		<skill min_level="50" name="Расширенный Инвентарь" id="1372" level="5" item_count="25" item_id="36513" cost="0" />
+		<skill min_level="60" name="Расширенный Инвентарь" id="1372" level="6" item_count="30" item_id="36513" cost="0" />
+		<skill min_level="70" name="Расширенный Инвентарь" id="1372" level="7" item_count="50" item_id="36513" cost="0" />
+		<skill min_level="80" name="Расширенный Инвентарь" id="1372" level="8" item_count="100" item_id="36513" cost="0" />
+						<!-- Развитое Ремесло Гномов -->		
+		<skill min_level="5" name="Развитое Ремесло Гномов" id="1368" level="1" race="DWARF" item_count="5" item_id="36513" cost="0" />
+		<skill min_level="20" name="Развитое Ремесло Гномов" id="1368" level="2" race="DWARF" item_count="10" item_id="36513" cost="0" />
+		<skill min_level="28" name="Развитое Ремесло Гномов" id="1368" level="3" race="DWARF" item_count="15" item_id="36513" cost="0" />
+		<skill min_level="36" name="Развитое Ремесло Гномов" id="1368" level="4" race="DWARF" item_count="20" item_id="36513" cost="0" />
+		<skill min_level="43" name="Развитое Ремесло Гномов" id="1368" level="5" race="DWARF" item_count="25" item_id="36513" cost="0" />
+		<skill min_level="49" name="Развитое Ремесло Гномов" id="1368" level="6" race="DWARF" item_count="30" item_id="36513" cost="0" />
+		<skill min_level="55" name="Развитое Ремесло Гномов" id="1368" level="7" race="DWARF" item_count="50" item_id="36513" cost="0" />
+		<skill min_level="62" name="Развитое Ремесло Гномов" id="1368" level="8" race="DWARF" item_count="100" item_id="36513" cost="0" />
+						<!-- Развитая Торговля -->		
+		<skill min_level="40" name="Развитая Торговля" id="1370" level="1" item_count="10" item_id="36513" cost="0" />
+		<skill min_level="55" name="Развитая Торговля" id="1370" level="2" item_count="100" item_id="36513" cost="0" />
+		<skill min_level="65" name="Развитая Торговля" id="1370" level="3" item_count="200" item_id="36513" cost="0" />
+	</fishing_skill_tree>
+</list>

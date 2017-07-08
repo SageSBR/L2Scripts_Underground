@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<event id="7" name="Underground Coliseum 1-85 Level" type="MAIN_EVENT" impl="UndergroundColiseum">
+		<parameter name="min_level" value="1" />
+		<parameter name="max_level" value="85" />
+	</event>
+</list>

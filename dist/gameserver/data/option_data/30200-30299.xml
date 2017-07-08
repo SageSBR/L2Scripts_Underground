@@ -1,0 +1,504 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--MaJr-->
+<list>
+	<option_data id="30200">
+		<for>
+			<add order="0x60" stat="mDef" value="24"/>
+		</for>
+	</option_data>
+	<option_data id="30201">
+		<for>
+			<add order="0x60" stat="mDef" value="25"/>
+		</for>
+	</option_data>
+	<option_data id="30202">
+		<for>
+			<add order="0x60" stat="mDef" value="26"/>
+		</for>
+	</option_data>
+	<option_data id="30203">
+		<for>
+			<add order="0x60" stat="mDef" value="27"/>
+		</for>
+	</option_data>
+	<option_data id="30204">
+		<for>
+			<add order="0x60" stat="mDef" value="28"/>
+		</for>
+	</option_data>
+	<option_data id="30205">
+		<for>
+			<add order="0x60" stat="mDef" value="29"/>
+		</for>
+	</option_data>
+	<option_data id="30206">
+		<for>
+			<add order="0x60" stat="mDef" value="30"/>
+		</for>
+	</option_data>
+	<option_data id="30207">
+		<for>
+			<add order="0x60" stat="mDef" value="31"/>
+		</for>
+	</option_data>
+	<option_data id="30208">
+		<for>
+			<add order="0x60" stat="mDef" value="32"/>
+		</for>
+	</option_data>
+	<option_data id="30209">
+		<for>
+			<add order="0x60" stat="mDef" value="33"/>
+		</for>
+	</option_data>
+	<option_data id="30210">
+		<for>
+			<add order="0x60" stat="mDef" value="34"/>
+		</for>
+	</option_data>
+	<option_data id="30211">
+		<for>
+			<add order="0x60" stat="mDef" value="35"/>
+		</for>
+	</option_data>
+	<option_data id="30212">
+		<for>
+			<add order="0x60" stat="mDef" value="36"/>
+		</for>
+	</option_data>
+	<option_data id="30213">
+		<for>
+			<add order="0x60" stat="mDef" value="37"/>
+		</for>
+	</option_data>
+	<option_data id="30214">
+		<for>
+			<add order="0x60" stat="mDef" value="38"/>
+		</for>
+	</option_data>
+	<option_data id="30215">
+		<for>
+			<add order="0x60" stat="mDef" value="39"/>
+		</for>
+	</option_data>
+	<option_data id="30216">
+		<for>
+			<add order="0x60" stat="mDef" value="40"/>
+		</for>
+	</option_data>
+	<option_data id="30217">
+		<for>
+			<add order="0x60" stat="mDef" value="41"/>
+		</for>
+	</option_data>
+	<option_data id="30218">
+		<for>
+			<add order="0x60" stat="mDef" value="42"/>
+		</for>
+	</option_data>
+	<option_data id="30219">
+		<for>
+			<add order="0x60" stat="mDef" value="43"/>
+		</for>
+	</option_data>
+	<option_data id="30220">
+		<for>
+			<add order="0x60" stat="mDef" value="44"/>
+		</for>
+	</option_data>
+	<option_data id="30221">
+		<for>
+			<add order="0x60" stat="mDef" value="45"/>
+		</for>
+	</option_data>
+	<option_data id="30222">
+		<for>
+			<add order="0x60" stat="mDef" value="46"/>
+		</for>
+	</option_data>
+	<option_data id="30223">
+		<for>
+			<add order="0x60" stat="mDef" value="47"/>
+		</for>
+	</option_data>
+	<option_data id="30224">
+		<for>
+			<add order="0x60" stat="mDef" value="48"/>
+		</for>
+	</option_data>
+	<option_data id="30225">
+		<for>
+			<add order="0x60" stat="mDef" value="49"/>
+		</for>
+	</option_data>
+	<option_data id="30226">
+		<for>
+			<add order="0x60" stat="mDef" value="50"/>
+		</for>
+	</option_data>
+	<option_data id="30227">
+		<skills>
+			<skill id="21326" level="1"/> <!--Эффект Эйнхасад от Обычной Футболки-->
+		</skills>
+	</option_data>
+	<option_data id="30228">
+		<skills>
+			<skill id="21327" level="1"/> <!--Эффект Эйнхасад от Обычной Футболки-->
+		</skills>
+	</option_data>
+	<option_data id="30229">
+		<skills>
+			<skill id="21327" level="2"/> <!--Эффект Эйнхасад от Обычной Футболки-->
+		</skills>
+	</option_data>
+	<option_data id="30230">
+		<skills>
+			<skill id="21327" level="3"/> <!--Эффект Эйнхасад от Обычной Футболки-->
+		</skills>
+	</option_data>
+	<option_data id="30231">
+		<skills>
+			<skill id="21327" level="4"/> <!--Эффект Эйнхасад от Обычной Футболки-->
+		</skills>
+	</option_data>
+	<option_data id="30232">
+		<skills>
+			<skill id="21327" level="5"/> <!--Эффект Эйнхасад от Обычной Футболки-->
+		</skills>
+	</option_data>
+	<option_data id="30233">
+		<skills>
+			<skill id="21327" level="6"/> <!--Эффект Эйнхасад от Обычной Футболки-->
+		</skills>
+	</option_data>
+	<option_data id="30234">
+		<skills>
+			<skill id="21327" level="7"/> <!--Эффект Эйнхасад от Обычной Футболки-->
+		</skills>
+	</option_data>
+	<option_data id="30235">
+		<skills>
+			<skill id="21327" level="8"/> <!--Эффект Эйнхасад от Обычной Футболки-->
+		</skills>
+	</option_data>
+	<option_data id="30236">
+		<skills>
+			<skill id="21327" level="9"/> <!--Эффект Эйнхасад от Обычной Футболки-->
+		</skills>
+	</option_data>
+	<option_data id="30237">
+		<skills>
+			<skill id="21327" level="10"/> <!--Эффект Эйнхасад от Обычной Футболки-->
+		</skills>
+	</option_data>
+	<option_data id="30238">
+		<skills>
+			<skill id="9367" level="1"/> <!--Поддержка Паагрио-->
+		</skills>
+	</option_data>
+	<option_data id="30239">
+		<skills>
+			<skill id="9367" level="2"/> <!--Поддержка Паагрио-->
+		</skills>
+	</option_data>
+	<option_data id="30240">
+		<skills>
+			<skill id="9371" level="1"/> <!--Портал Сайхи-->
+		</skills>
+	</option_data>
+	<option_data id="30241">
+		<skills>
+			<skill id="9373" level="1"/> <!--Поддержка Сайхи-->
+		</skills>
+	</option_data>
+	<option_data id="30242">
+		<skills>
+			<skill id="9373" level="2"/> <!--Поддержка Сайхи-->
+		</skills>
+	</option_data>
+	<option_data id="30243">
+		<skills>
+			<skill id="9365" level="1"/> <!--Поддержка Евы-->
+		</skills>
+	</option_data>
+	<option_data id="30244">
+		<skills>
+			<skill id="9365" level="2"/> <!--Поддержка Евы-->
+		</skills>
+	</option_data>
+	<option_data id="30245">
+		<skills>
+			<skill id="9369" level="1"/> <!--Поддержка Мафр-->
+		</skills>
+	</option_data>
+	<option_data id="30246">
+		<skills>
+			<skill id="9369" level="2"/> <!--Поддержка Мафр-->
+		</skills>
+	</option_data>	
+	<option_data id="30247">
+		<for>
+			<add order="0x60" stat="defenceFire" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30248">
+		<for>
+			<add order="0x60" stat="defenceFire" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30249">
+		<for>
+			<add order="0x60" stat="defenceFire" value="15"/>
+		</for>
+	</option_data>
+	<option_data id="30250">
+		<for>
+			<add order="0x60" stat="defenceWater" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30251">
+		<for>
+			<add order="0x60" stat="defenceWater" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30252">
+		<for>
+			<add order="0x60" stat="defenceWater" value="15"/>
+		</for>
+	</option_data>
+	<option_data id="30253">
+		<for>
+			<add order="0x60" stat="defenceWind" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30254">
+		<for>
+			<add order="0x60" stat="defenceWind" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30255">
+		<for>
+			<add order="0x60" stat="defenceWind" value="15"/>
+		</for>
+	</option_data>
+	<option_data id="30256">
+		<for>
+			<add order="0x60" stat="defenceEarth" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30257">
+		<for>
+			<add order="0x60" stat="defenceEarth" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30258">
+		<for>
+			<add order="0x60" stat="defenceEarth" value="15"/>
+		</for>
+	</option_data>
+	<option_data id="30259">
+		<skills>
+			<skill id="9451" level="1"/> <!--Активное: Предметное Умение - Прыжок-->
+		</skills>
+	</option_data>
+	<option_data id="30260">
+		<skills>
+			<skill id="9452" level="1"/> <!--Активное: Предметное Умение - Рывок-->
+		</skills>
+	</option_data>
+	<option_data id="30261">
+		<skills>
+			<skill id="9453" level="1"/> <!--Активное: Предметное Умение - Стойкость Бессмертия-->
+		</skills>
+	</option_data>
+	<option_data id="30262">
+		<skills>
+			<skill id="9454" level="1"/> <!--Активное: Предметное Умение - Безмолвие-->
+		</skills>
+	</option_data>
+	<option_data id="30263">
+		<skills>
+			<skill id="9455" level="1"/> <!--Активное: Предметное Умение - Неуловимая Цель-->
+		</skills>
+	</option_data>
+	<option_data id="30264">
+		<skills>
+			<skill id="9456" level="1"/> <!--Активное: Предметное Умение - Сопротивление Отражению Урона 10%-->
+		</skills>
+	</option_data>
+	<option_data id="30265">
+		<skills>
+			<skill id="9456" level="2"/> <!--Активное: Предметное Умение - Сопротивление Отражению Урона 15%-->
+		</skills>
+	</option_data>
+	<option_data id="30266">
+		<skills>
+			<skill id="9456" level="3"/> <!--Активное: Предметное Умение - Сопротивление Отражению Урона 20%-->
+		</skills>
+	</option_data>
+	<option_data id="30267">
+		<skills>
+					<!--Пассивное: Дает шанс отключить чат цели-->
+		</skills>
+	</option_data>
+	<option_data id="30268">
+		<skills>
+			<skill id="13514" level="1"/> <!--Отражение Урона Гиганта-->
+		</skills>
+	</option_data>
+	<option_data id="30269">
+		<skills>
+			<skill id="13515" level="1"/> <!--Крит. Урон Гиганта-->
+		</skills>
+	</option_data>
+	<option_data id="30270">
+		<skills>
+			<skill id="13516" level="1"/> <!--Колючий Щит Отражения Гиганта-->
+		</skills>
+	</option_data>
+	<option_data id="30271">
+		<skills>
+			<skill id="13517" level="1"/> <!--Боевой Рев Гиганта-->
+		</skills>
+	</option_data>
+	<option_data id="30272">
+		<skills>
+			<skill id="13518" level="1"/> <!--Малый Небесный Щит Гиганта-->
+		</skills>
+	</option_data>
+	<option_data id="30273">
+		<skills>
+			<skill id="13519" level="1"/> <!--Стойкость Бессмертия Гиганта-->
+		</skills>
+	</option_data>
+	<option_data id="30274">
+		<skills>
+			<skill id="13520" level="1"/> <!--Безмолвие Гиганта-->
+		</skills>
+	</option_data>
+	<option_data id="30275">
+		<skills>
+			<skill id="13521" level="1"/> <!--Усыпление Гиганта-->
+		</skills>
+	</option_data>
+	<option_data id="30276">
+		<skills>
+			<skill id="13522" level="1"/> <!--Зима Гиганта-->
+		</skills>
+	</option_data>
+	<option_data id="30277">
+		<skills>
+			<skill id="13523" level="1"/> <!--Критическая Уязвимость Гиганта-->
+		</skills>
+	</option_data>
+	<option_data id="30278">
+		<skills>
+			<skill id="21333" level="1"/> <!--Пассивное: Адения - Гнев Вампира-->			
+		</skills>
+	</option_data>
+	<option_data id="30279">
+		<skills>
+			<skill id="21333" level="2"/> <!--Пассивное: Адения - Гнев Вампира-->	
+		</skills>
+	</option_data>
+	<option_data id="30280">
+		<skills>
+			<skill id="21334" level="1"/> <!--Активное: Адения - Гнев Вампира-->
+		</skills>
+	</option_data>
+	<option_data id="30281">
+		<skills>
+			<skill id="21334" level="2"/> <!--Активное: Адения - Гнев Вампира-->
+		</skills>
+	</option_data>
+	<option_data id="30282">
+		<skills>
+			<skill id="21335" level="1"/> <!--Пассивное: Адения - Отражение Урона-->
+		</skills>
+	</option_data>
+	<option_data id="30283">
+		<skills>
+			<skill id="21335" level="2"/> <!--Пассивное: Адения - Отражение Урона-->
+		</skills>
+	</option_data>
+	<option_data id="30284">
+		<skills>
+			<skill id="21336" level="1"/> <!--Активное: Адения - Отражение Урона-->
+		</skills>
+	</option_data>
+	<option_data id="30285">
+		<skills>
+			<skill id="21336" level="2"/> <!--Активное: Адения - Отражение Урона-->
+		</skills>
+	</option_data>
+	<option_data id="30286">
+		<skills>
+			<skill id="21337" level="1"/> <!--Шанс: Адения - Могущество в Дуэли-->
+		</skills>
+	</option_data>
+	<option_data id="30287">
+		<skills>
+			<skill id="21338" level="1"/> <!--Пассивное: Адения - Могущество в Дуэли-->
+		</skills>
+	</option_data>
+	<option_data id="30288">
+		<skills>
+			<skill id="21339" level="1"/> <!--Шанс: Судьба Адении-->
+		</skills>
+	</option_data>
+	<option_data id="30289">
+		<skills>
+			<skill id="21340" level="1"/> <!--Активное: Мгновенное Восстановление Адения-->
+		</skills>
+	</option_data>
+	<option_data id="30290">
+		<skills>
+			<skill id="21340" level="2"/> <!--Активное: Мгновенное Восстановление Адения-->
+		</skills>
+	</option_data>
+	<option_data id="30291">
+		<skills>
+			<skill id="21341" level="1"/> <!--Активное: Щит Адения-->
+		</skills>
+	</option_data>
+	<option_data id="30292">
+		<skills>
+			<skill id="21342" level="1"/> <!--Активное: Магический Барьер Адения-->
+		</skills>
+	</option_data>
+	<option_data id="30293">
+		<skills>
+			<skill id="21343" level="1"/> <!--Активное: Полный Барьер Адения-->
+		</skills>
+	</option_data>
+	<option_data id="30294">
+		<skills>
+			<skill id="21344" level="1"/> <!--Активное: Абсолютная Неуязвимость Адения-->
+		</skills>
+	</option_data>
+	<option_data id="30295">
+		<skills>
+			<skill id="21344" level="2"/> <!--Активное: Абсолютная Неуязвимость Адения-->
+		</skills>
+	</option_data>
+	<option_data id="30296">
+		<skills>
+			<skill id="21345" level="1"/> <!--Активное: Адения - Возвращение-->
+		</skills>
+	</option_data>
+	<option_data id="30297">
+		<skills>
+			<skill id="21345" level="2"/> <!--Активное: Адения - Возвращение Группы-->
+		</skills>
+	</option_data>
+	<option_data id="30298">
+		<skills>
+			<skill id="21346" level="1"/> <!--Пассивное: Адения - Лимит Веса-->
+		</skills>
+	</option_data>
+	<option_data id="30299">
+		<skills>
+			<skill id="13561" level="1"/> <!-- Сияющая Футболка Эйнхасад: базовый эффект +0-->
+		</skills>
+	</option_data>
+</list>

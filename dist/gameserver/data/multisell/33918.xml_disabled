@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+TODO: Добавить требования Рейдовых Очков
+https://l2central.info/wiki/Ария_Фестматтер
+https://l2central.info/articles/zones/761-lineage-2-raiders-rejdovye-bossy
+-->
+<list>
+	<config no_tax="true"/>
+	<!--Браслет Арии - ВЫН-->
+	<item>
+	<production id="38565" count="1"/>
+		<ingredient id="38566" count="1"/>
+		<ingredient id="" count="1"/>
+	</item>
+	<item>
+	<production id="38565" count="1"/>
+		<ingredient id="34859" count="1"/>
+		<ingredient id="" count="1"/>
+	</item>
+	
+	<!--Браслет Арии - ДУХ-->
+	<item>
+	<production id="38566" count="1"/>
+		<ingredient id="38565" count="1"/>
+		<ingredient id="" count="1"/>
+	</item>
+	<item>
+	<production id="38566" count="1"/>
+		<ingredient id="34859" count="1"/>
+		<ingredient id="" count="1"/>
+	</item>
+	
+	<!--Браслет Арии - ИНТ-->
+	<item>
+	<production id="38570" count="1"/>
+		<ingredient id="38569" count="1"/>
+		<ingredient id="" count="1"/>
+	</item>
+	<item>
+	<production id="38570" count="1"/>
+		<ingredient id="35294" count="1"/>
+		<ingredient id="" count="1"/>
+	</item>
+	
+	<!--Браслет Арии - ЛВК-->
+	<item>
+	<production id="38567" count="1"/>
+		<ingredient id="38568" count="1"/>
+		<ingredient id="" count="1"/>
+	</item>
+	<item>
+	<production id="38567" count="1"/>
+		<ingredient id="34860" count="1"/>
+		<ingredient id="" count="1"/>
+	</item>
+	
+	<!--Браслет Арии - МДР-->
+	<item>
+	<production id="38568" count="1"/>
+		<ingredient id="38567" count="1"/>
+		<ingredient id="" count="1"/>
+	</item>
+	<item>
+	<production id="38568" count="1"/>
+		<ingredient id="34860" count="1"/>
+		<ingredient id="" count="1"/>
+	</item>
+	
+	<!--Браслет Арии - СИЛ-->
+	<item>
+	<production id="38569" count="1"/>
+		<ingredient id="38570" count="1"/>
+		<ingredient id="" count="1"/>
+	</item>
+	<item>
+	<production id="38569" count="1"/>
+		<ingredient id="35294" count="1"/>
+		<ingredient id="" count="1"/>
+	</item>
+	
+	<!--Браслеты: Истхины, Октависа, Таути-->
+	<item>
+	<production id="19455" count="1"/>
+		<ingredient id="57" count="7112000"/>
+		<ingredient id="" count="1"/>
+	</item>
+	<item>
+	<production id="19461" count="1"/>
+		<ingredient id="57" count="7112000"/>
+		<ingredient id="" count="1"/>
+	</item>
+	<item>
+	<production id="35293" count="1"/>
+		<ingredient id="57" count="7112000"/>
+		<ingredient id="" count="1"/>
+	</item>
+	
+	<!--Камень Жизни Арии-->
+	<production id="38571" count="1"/>
+		<ingredient id="57" count="7112000"/>
+		<ingredient id="" count="1"/>
+	</item>
+</list>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config no_tax="true"/>
+	<item>
+		<production id="36514" count="1"/>	<!--Elcyum Crystal-->
+		<ingredient id="36513" count="10"/>	<!--Elcyum Powder-->
+	</item>
+	<item>
+		<production id="36515" count="1"/>	<!--Elcyum-->
+		<ingredient id="36514" count="10"/>	<!--Elcyum Crystal-->
+	</item>
+</list>

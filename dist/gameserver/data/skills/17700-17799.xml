@@ -1,0 +1,1454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="17701" levels="5" name="Топаз - Выстрел Духа">
+		<table name="#power">1062 3717 6903 10089 13275</table>
+		<set name="icon" value="icon.etc_bm_jewel_topaz_i00"/>
+		<set name="reuseDelay" value="30000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="600"/>
+		<set name="hitTime" value="1000"/>
+		<set name="target" value="TARGET_ONE"/>
+		<set name="skillType" value="PDAM"/>
+		<set name="power" value="#power"/>
+		<set name="static" value="true"/>
+		<set name="directHp" value="true"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="useSS" value="false"/>
+		<set name="isSkillTimePermanent" value="true"/>
+		<set name="isReuseDelayPermanent" value="true"/>
+		<for>
+			<effect instant="true" name="Interrupt"/>
+		</for>
+	</skill>
+	<skill id="17702" levels="5" name="Драгоценный Камень - Срочное Восстановление">
+		<table name="#RestoreHPPower">1500 3000 6000 8000 13000</table>
+		<set name="icon" value="icon.skill0000"/>
+		<set name="reuseDelay" value="30000"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="useSS" value="false"/>
+		<set name="isSkillTimePermanent" value="true"/>
+		<set name="isReuseDelayPermanent" value="true"/>
+		<for>
+			<effect instant="true" name="RestoreHP" value="#RestoreHPPower">
+				<def name="ignore_bonuses" value="true"/>
+				<def name="static_power" value="true"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="17703" levels="5" name="Драгоценный Камень - Эффективность Лечения">
+		<table name="#hpEff">3 6 9 13 21</table>
+		<set name="icon" value="icon.skill4416_dwarf"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="hpEff" value="#hpEff"/>
+		</for>
+	</skill>
+	<skill id="17704" levels="5" name="Драгоценный Камень - Обсидиан">
+		<table name="#pvpDefenceBonus">1.01 1.03 1.07 1.11 1.15</table>
+		<set name="icon" value="icon.etc_bm_jewel_obsidian_i00"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pvpPhysDefenceBonus" value="#pvpDefenceBonus"/>
+			<mul order="0x30" stat="pvpPhysSkillDefenceBonus" value="#pvpDefenceBonus"/>
+			<mul order="0x30" stat="pvpMagicSkillDefenceBonus" value="#pvpDefenceBonus"/>
+		</for>
+	</skill>
+	<skill id="17705" levels="5" name="Драгоценный Камень - Опал">
+		<table name="#elementPower">10 20 40 70 120</table>
+		<set name="icon" value="icon.etc_bm_jewel_opal_i00"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="attackFire" value="#elementPower"/>
+			<add order="0x40" stat="attackWater" value="#elementPower"/>
+			<add order="0x40" stat="attackWind" value="#elementPower"/>
+			<add order="0x40" stat="attackEarth" value="#elementPower"/>
+			<add order="0x40" stat="attackHoly" value="#elementPower"/>
+			<add order="0x40" stat="attackUnholy" value="#elementPower"/>
+		</for>
+	</skill>
+	<skill id="17706" levels="5" name="Драгоценный Камень - Скор. Атк.">
+		<table name="#pAtkSpd">33 48 78 138 258</table>
+		<set name="icon" value="icon.etc_talisman_i02"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="pAtkSpd" value="#pAtkSpd"/>
+		</for>
+	</skill>
+	<skill id="17707" levels="5" name="Драгоценный Камень - Скор. Маг.">
+		<table name="#mAtkSpd">33 52 90 166 318</table>
+		<set name="icon" value="icon.skill17085"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mAtkSpd" value="#mAtkSpd"/>
+		</for>
+	</skill>
+	<skill id="17708" levels="5" name="Драгоценный Камень - Бриллиант">
+		<table name="#pDef">283 567 945 1418 1986</table>
+		<table name="#pCritDamRcpt">1.01 1.02 1.03 1.04 1.05</table>
+		<set name="icon" value="icon.etc_bm_jewel_diamond_i00"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="pDef" value="#pDef"/>
+			<mul order="0x30" stat="pCritDamRcpt" value="#pCritDamRcpt"/>
+		</for>
+	</skill>
+	<skill id="17709" levels="5" name="Драгоценный Камень - Жемчужина">
+		<table name="#mDef">163 328 548 821 1150</table>
+		<table name="#mCritDamRcpt">0.99 0.98 0.97 0.96 0.95</table>
+		<set name="icon" value="icon.etc_bm_jewel_pearl_i00"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mDef" value="#mDef"/>
+			<mul order="0x30" stat="mCritDamRcpt" value="#mCritDamRcpt"/>
+		</for>
+	</skill>
+	<skill id="17710" levels="1" name="10th Anniversary Blessing Effect (Free)">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17711" levels="24" name="10th Anniversary Blessing - Stage 1">
+		<table name="#castRange">900 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1</table>
+		<set name="icon" value="icon.ev_10th"/>
+		<set name="castRange" value="#castRange"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17712" levels="1" name="10th Anniversary Blessing Effect (Paid)">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17713" levels="24" name="10th Anniversary Special Blessing - Stage 1">
+		<table name="#castRange">900 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1</table>
+		<set name="icon" value="icon.ev_10th"/>
+		<set name="castRange" value="#castRange"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17714" levels="1" name="Dancing Cat's Steps">
+		<set name="icon" value="icon.skill_sing"/>
+		<set name="castRange" value="900"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17715" levels="1" name="Spirit Hit Lv. 1">
+		<set name="icon" value="icon.skill3260"/>
+		<set name="reuseDelay" value="30000"/>
+		<set name="castRange" value="600"/>
+		<set name="hitTime" value="1000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17716" levels="1" name="Spirit Hit Lv. 2">
+		<set name="icon" value="icon.skill3260"/>
+		<set name="reuseDelay" value="30000"/>
+		<set name="castRange" value="600"/>
+		<set name="hitTime" value="1000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17717" levels="1" name="Spirit Hit Lv. 3">
+		<set name="icon" value="icon.skill3260"/>
+		<set name="reuseDelay" value="30000"/>
+		<set name="castRange" value="600"/>
+		<set name="hitTime" value="1000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17718" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17719" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17720" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17721" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17722" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17723" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17724" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17725" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17726" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17727" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17728" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17729" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17730" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17731" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17732" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17733" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17734" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17735" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17736" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17737" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17738" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17739" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17740" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="17741" levels="1" name="Dandy's Breath">
+		<set name="icon" value="icon.ev_10th_dandi1"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17742" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17743" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17744" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17745" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Маг. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+			<!-- Скорость маг. +15% -->
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17746" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17747" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17748" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17749" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17750" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17751" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17752" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17753" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17754" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17755" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17756" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Маг. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+			<!-- Скорость маг. +15% -->
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17757" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Маг. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+			<!-- Скорость маг. +15% -->
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17758" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Маг. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+			<!-- Скорость маг. +15% -->
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17759" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17760" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17761" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17762" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Маг. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+			<!-- Скорость маг. +15% -->
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17763" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17764" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Данди -->
+	<skill id="17765" levels="1" name="Сила Данди">
+		<!-- Урон в PvP +5%, HP +15%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05" />
+			<mul order="0x30" stat="maxHp" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17766" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17767" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17768" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17769" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17770" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17771" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17772" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17773" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17774" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17775" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17776" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17777" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17778" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17779" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17780" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17781" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17782" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17783" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17784" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17785" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17786" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="mAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17787" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17788" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Сила Старшего Брата -->
+	<skill id="17789" levels="1" name="Сила Старшего Брата">
+		<!-- Урон в PvP +10%, HP/MP/CP +20%, Скор. Атк. +15%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.10" />
+			<mul order="0x30" stat="maxHp" value="1.20" />
+			<!-- HP +20% -->
+			<mul order="0x30" stat="maxMp" value="1.20" />
+			<!-- MP +20% -->
+			<mul order="0x30" stat="maxCp" value="1.20" />
+			<!-- CP +20% -->
+			<mul order="0x30" stat="pAtkSpd" value="1.15" />
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17790" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+					<target race="Dragons"/>
+			</mul>
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17791" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+					<target race="Dragons"/>
+			</mul>
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17792" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+					<target race="Dragons"/>
+			</mul>
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17793" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Маг. +1500, шанс маг. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="mAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="mCritRate" value="500" />
+			<!-- шанс Маг. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+					<target race="Dragons"/>
+			</mul>
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17794" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+					<target race="Dragons"/>
+			</mul>
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17795" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+					<target race="Dragons"/>
+			</mul>
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17796" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+					<target race="Dragons"/>
+			</mul>
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17797" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+					<target race="Dragons"/>
+			</mul>
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17798" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+					<target race="Dragons"/>
+			</mul>
+		</for>
+	</skill>
+	<!-- Улучшенная Дождевой Водой Сила Старшего Брата -->
+	<skill id="17799" levels="1" name="Улучшенная Дождевой Водой Сила Старшего Брата">
+		<!-- Урон в PvP +30%, HP/MP +100%, CP +200%, Скор. Атк. +1500, шанс Физ. Крит. Атк. +500, урон драконам +300%.-->
+		<set name="magicLevel" value="1" />
+		<set name="target" value="TARGET_SELF" />
+		<set name="skillType" value="BUFF" />
+		<set name="operateType" value="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<!-- Урон в PvP +30% -->
+			<mul order="0x30" stat="maxHp" value="2" />
+			<!-- HP +100% -->
+			<mul order="0x30" stat="maxMp" value="2" />
+			<!-- MP +100% -->
+			<mul order="0x30" stat="maxCp" value="3" />
+			<!-- CP +200% -->
+			<add order="0x40" stat="pAtkSpd" value="1500" />
+			<!-- Скорость атаки +1500 -->
+			<add order="0x40" stat="pCritRate" value="500" />
+			<!-- шанс Физ. Крит. Атк. +500 -->
+			<mul order="0x30" stat="pAtk" value="4">
+					<target race="Dragons"/>
+			</mul>
+		</for>
+	</skill>
+</list>

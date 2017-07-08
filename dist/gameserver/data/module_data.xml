@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_data" default="compile.module.data">
+  <dirname property="module.data.basedir" file="${ant.file.module_data}"/>
+  
+  <property name="module.jdk.home.data" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.data" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.data" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.data" value="-encoding windows-1251 -source 8 ${compiler.args}"/>
+  
+  <property name="data.output.dir" value="${module.data.basedir}/../../../out/production/data"/>
+  <property name="data.testoutput.dir" value="${module.data.basedir}/../../../out/test/data"/>
+  
+  <path id="data.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="data.module.production.classpath">
+    <path refid="${module.jdk.classpath.data}"/>
+    <path refid="library.lib.classpath"/>
+    <pathelement location="${commons.output.dir}"/>
+    <pathelement location="${gameserver.output.dir}"/>
+  </path>
+  
+  <path id="data.runtime.production.module.classpath">
+    <pathelement location="${data.output.dir}"/>
+    <path refid="library.lib.classpath"/>
+    <path refid="commons.runtime.production.module.classpath"/>
+    <path refid="gameserver.runtime.production.module.classpath"/>
+  </path>
+  
+  <path id="data.module.classpath">
+    <path refid="${module.jdk.classpath.data}"/>
+    <pathelement location="${data.output.dir}"/>
+    <path refid="library.lib.classpath"/>
+    <pathelement location="${commons.testoutput.dir}"/>
+    <pathelement location="${commons.output.dir}"/>
+    <pathelement location="${gameserver.testoutput.dir}"/>
+    <pathelement location="${gameserver.output.dir}"/>
+  </path>
+  
+  <path id="data.runtime.module.classpath">
+    <pathelement location="${data.testoutput.dir}"/>
+    <pathelement location="${data.output.dir}"/>
+    <path refid="library.lib.classpath"/>
+    <path refid="commons.runtime.module.classpath"/>
+    <path refid="gameserver.runtime.module.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.data">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.data">
+    <patternset refid="excluded.from.module.data"/>
+  </patternset>
+  
+  <path id="data.module.sourcepath">
+    <dirset dir="${module.data.basedir}">
+      <include name="scripts"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.data" depends="compile.module.data.production,compile.module.data.tests" description="Compile module data"/>
+  
+  <target name="compile.module.data.production" depends="compile.module.commons,compile.module.gameserver" description="Compile module data; production classes">
+    <mkdir dir="${data.output.dir}"/>
+    <javac destdir="${data.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.data}/javac">
+      <compilerarg line="${compiler.args.data}"/>
+      <bootclasspath refid="data.module.bootclasspath"/>
+      <classpath refid="data.module.production.classpath"/>
+      <src refid="data.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.data"/>
+    </javac>
+    
+    <copy todir="${data.output.dir}">
+      <fileset dir="${module.data.basedir}/scripts">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.data.tests" depends="compile.module.data.production" description="compile module data; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.data" description="cleanup module">
+    <delete dir="${data.output.dir}"/>
+    <delete dir="${data.testoutput.dir}"/>
+  </target>
+</project>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--MaJr-->
+<list>
+	<option_data id="40001">
+		<skills>
+			<skill id="21377" level="1"/> <!-- Активное: Покровительство Адения -->	
+		</skills>
+	</option_data>
+	<option_data id="40002">
+		<skills>
+			<skill id="21377" level="2"/> <!-- Активное: Покровительство Адения  -->	
+		</skills>
+	</option_data>
+	<option_data id="40003">
+		<skills>
+			<skill id="21377" level="3"/> <!-- Активное: Покровительство Адения  -->	
+		</skills>
+	</option_data>
+	<option_data id="40004">
+		<skills>
+			<skill id="21378" level="1"/> <!-- Активное: Храбрость Адения -->	
+		</skills>
+	</option_data>
+	<option_data id="40005">
+		<skills>
+			<skill id="21378" level="2"/> <!-- Активное: Храбрость Адения -->	
+		</skills>
+	</option_data>
+	<option_data id="40006">
+		<skills>
+			<skill id="21378" level="3"/> <!-- Активное: Храбрость Адения -->	
+		</skills>
+	</option_data>
+	<option_data id="40007">
+		<skills>
+			<skill id="21379" level="1"/> <!-- Активное: Зверство Адения -->	
+		</skills>
+	</option_data>
+	<option_data id="40008">
+		<skills>
+			<skill id="21379" level="2"/> <!-- Активное: Зверство Адения -->	
+		</skills>
+	</option_data>
+	<option_data id="40009">
+		<skills>
+			<skill id="21379" level="3"/> <!-- Активное: Зверство Адения -->	
+		</skills>
+	</option_data>
+</list>

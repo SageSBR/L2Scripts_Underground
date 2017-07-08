@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config no_tax="true"/>
+	<item>
+		<production id="24365" count="1"/>
+		<ingredient id="24135" count="1"/>
+		<ingredient id="24136" count="1"/>
+		<ingredient id="24137" count="1"/>
+		<ingredient id="24138" count="1"/>
+	</item>	
+</list>

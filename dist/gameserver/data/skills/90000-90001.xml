@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="90001" levels="1" name="Mana potion">
+		<set name="icon" value=""/>
+		<set name="display_id" value="2005"/>
+		<set name="isHandler" value="true"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<for>
+			<effect instant="true" name="RestoreMP" value="2000"/>
+		</for>
+	</skill>
+	<skill id="90002" levels="1" name="Mysterious Supply Box - Magic Pin (B, C-grade)">
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="RESTORATION"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<set name="isHandler" value="true"/>
+		<set name="itemConsumeId" value="35641"/>
+		<set name="itemConsumeCount" value="1"/>
+		<cond msgId="1509">
+			<player olympiad="false"/>
+		</cond>
+		<restoration level="1">
+			<group chance="50">
+			<item id="13899" min_count="1" max_count="1"/>
+			</group>
+			<group chance="50">
+			<item id="13898" min_count="1" max_count="1"/>
+			</group>
+		</restoration>
+	</skill>
+	<skill id="90003" levels="1" name="Mysterious Supply Box - Belt (S, A-grade)">
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="RESTORATION"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<set name="isHandler" value="true"/>
+		<set name="itemConsumeId" value="35646"/>
+		<set name="itemConsumeCount" value="1"/>
+		<cond msgId="1509">
+			<player olympiad="false"/>
+		</cond>
+		<restoration level="1">
+			<group chance="50">
+			<item id="13896" min_count="1" max_count="1"/>
+			</group>
+			<group chance="50">
+			<item id="13897" min_count="1" max_count="1"/>
+			</group>
+		</restoration>
+	</skill>
+	<skill id="90004" levels="1" name="Mysterious Supply Box - Magic Ornament (S, A-grade)">
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="RESTORATION"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<set name="isHandler" value="true"/>
+		<set name="itemConsumeId" value="35648"/>
+		<set name="itemConsumeCount" value="1"/>
+		<cond msgId="1509">
+			<player olympiad="false"/>
+		</cond>
+		<restoration level="1">
+			<group chance="50">
+			<item id="14904" min_count="1" max_count="1"/>
+			</group>
+			<group chance="50">
+			<item id="14905" min_count="1" max_count="1"/>
+			</group>
+		</restoration>
+	</skill>
+	
+</list>

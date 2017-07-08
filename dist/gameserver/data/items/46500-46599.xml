@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<etcitem id="46500" name="Кристалл Души Пантеона - Ур. 12">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46501" name="Кристалл Души Пантеона - Ур. 13">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46502" name="Кристалл Души Пантеона - Ур. 14">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46503" name="Кристалл Души Пантеона - Ур. 15">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46504" name="Кристалл Души Леонела - Ур. 1">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46505" name="Кристалл Души Леонела - Ур. 2">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46506" name="Кристалл Души Леонела - Ур. 3">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46507" name="Кристалл Души Леонела - Ур. 4">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46508" name="Кристалл Души Леонела - Ур. 5">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46509" name="Кристалл Души Леонела - Ур. 6">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46510" name="Кристалл Души Леонела - Ур. 7">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46511" name="Кристалл Души Леонела - Ур. 8">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46512" name="Кристалл Души Леонела - Ур. 9">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46513" name="Кристалл Души Леонела - Ур. 10">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46514" name="Кристалл Души Леонела - Ур. 11">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46515" name="Кристалл Души Леонела - Ур. 12">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46516" name="Кристалл Души Леонела - Ур. 13">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46517" name="Кристалл Души Леонела - Ур. 14">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46518" name="Кристалл Души Леонела - Ур. 15">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+	<etcitem id="46537" name="Фрагмент Мистического Доспеха">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_coins_gold_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="price" value="0"/>
+	</etcitem>
+
+	<armor id="46538" name="Tauti"><!--Тушка-->
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_military_u"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+	</armor>
+	<armor id="46539" name="Tauti"><!--Штаны-->
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_military_l"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+	</armor>
+	<armor id="46540" name="Tauti"><!--Перчатки-->
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_military_g"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+	</armor>
+	<armor id="46541" name="Tauti"><!--Сапоги-->
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_military_b"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+	</armor>
+	<armor id="46542" name="Kelbim">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="variation_group_id" value="34"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_military_hair_m"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="HAIR_ALL"/>
+		</equip>
+	</armor>
+	<armor id="46543" name="Kelbim">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_military_u"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+	</armor>
+	<armor id="46544" name="Kelbim">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_military_l"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+	</armor>
+	<armor id="46545" name="Kelbim">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_military_g"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+	</armor>
+	<armor id="46546" name="Kelbim">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_military_b"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+	</armor>
+	<armor id="46548" name="Freya">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_military_u"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+	</armor>
+	<armor id="46549" name="Freya">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_military_l"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+	</armor>
+	<armor id="46550" name="Freya">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_military_g"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+	</armor>
+	<armor id="46551" name="Freya">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchSys3.icon1.g_co_military_b"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+	</armor>
+	<etcitem id="46553" name="Кристалл Души Леонела - Ур. 15">
+		<set name="type" value="SOUL_CRYSTAL"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_soul_stone_i03"/>
+		<set name="weight" value="20"/>
+		<cond msgId="1508">
+			<player olympiad="false"/>
+		</cond>
+	</etcitem>
+
+	<etcitem id="46572" name="Tauti Appeareance Stone">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="BranchSys3.icon1.g_scrl_change_chest"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="APPEARANCE_STONE"/>
+	</etcitem>
+	<etcitem id="46573" name="Tauti Appeareance Stone">
+	<set name="commissionable" value="false"/>
+	<set name="sellable" value="false"/>
+	<set name="privatestoreable" value="false"/>
+	<set name="dropable" value="false"/>
+	<set name="tradeable" value="false"/>
+	<set name="icon" value="BranchSys3.icon1.g_scrl_change_chest"/>
+	<set name="stackable" value="true"/>
+	<set name="crystal_type" value="NONE"/>
+	<set name="type" value="APPEARANCE_STONE"/>
+</etcitem>
+	<etcitem id="46574" name="Tauti Appeareance Stone">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="BranchSys3.icon1.g_scrl_change_chest"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="APPEARANCE_STONE"/>
+	</etcitem>
+	<etcitem id="46575" name="Tauti Appeareance Stone">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="BranchSys3.icon1.g_scrl_change_chest"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="APPEARANCE_STONE"/>
+	</etcitem>
+	<etcitem id="46576" name="Tauti Appeareance Stone">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="BranchSys3.icon1.g_scrl_change_chest"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="APPEARANCE_STONE"/>
+	</etcitem>
+
+
+	<etcitem id="46578" name="Kelbim Appeareance Stone">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="BranchSys3.icon1.g_scrl_change_chest"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="APPEARANCE_STONE"/>
+	</etcitem>
+	<etcitem id="46579" name="Kelbim Appeareance Stone">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="BranchSys3.icon1.g_scrl_change_chest"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="APPEARANCE_STONE"/>
+	</etcitem>
+	<etcitem id="46580" name="Kelbim Appeareance Stone">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="BranchSys3.icon1.g_scrl_change_chest"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="APPEARANCE_STONE"/>
+	</etcitem>
+	<etcitem id="46581" name="Kelbim Appeareance Stone">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="BranchSys3.icon1.g_scrl_change_chest"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="APPEARANCE_STONE"/>
+	</etcitem>
+	<etcitem id="46582" name="Freya Appeareance Stone">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="BranchSys3.icon1.g_scrl_change_chest"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="APPEARANCE_STONE"/>
+	</etcitem>
+	<etcitem id="46583" name="Freya Appeareance Stone">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="BranchSys3.icon1.g_scrl_change_chest"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="APPEARANCE_STONE"/>
+	</etcitem>
+	<etcitem id="46584" name="Freya Appeareance Stone">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="BranchSys3.icon1.g_scrl_change_chest"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="APPEARANCE_STONE"/>
+	</etcitem>
+	<etcitem id="46585" name="Freya Appeareance Stone">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="BranchSys3.icon1.g_scrl_change_chest"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="APPEARANCE_STONE"/>
+	</etcitem>
+	<etcitem id="46586" name="Freya Appeareance Stone">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="BranchSys3.icon1.g_scrl_change_chest"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="type" value="APPEARANCE_STONE"/>
+	</etcitem>
+	<etcitem id="46565" name="Купон на Кристалл Души 1-й уровень">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="icon.etc_ticket_red_i00"/>
+		<set name="weight" value="120"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+	</etcitem>
+	<etcitem id="46566" name="Купон на Кристалл Души 2-й уровень">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="icon.etc_ticket_red_i00"/>
+		<set name="weight" value="120"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+	</etcitem>
+	<etcitem id="46567" name="Купон на Кристалл Души 3-й уровень">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="icon.etc_ticket_red_i00"/>
+		<set name="weight" value="120"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+	</etcitem>
+	<etcitem id="46568" name="Купон на Кристалл Души 4-й уровень">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="icon.etc_ticket_red_i00"/>
+		<set name="weight" value="120"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+	</etcitem>
+	<etcitem id="46569" name="Купон на Кристалл Души 5-й уровень">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="icon" value="icon.etc_ticket_red_i00"/>
+		<set name="weight" value="120"/>
+		<set name="stackable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+	</etcitem>
+	<etcitem id="46587" name="Фрагмент Мистического Доспеха">
+		<set name="commissionable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="privatestoreable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="true"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_coins_gold_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="price" value="0"/>
+	</etcitem>
+</list>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="13900" levels="2" name="Сигель">
+		<!-- Макс. HP -->
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="1"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="maxHp" value="1.15"/>
+		</for>
+	</skill>
+	<skill id="13902" levels="1" name="Ярость - Тренировка">
+		<!-- Скор. Атк. +1% -->
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="1"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtkSpd" value="1.01"/>
+		</for>
+	</skill>
+	<skill id="13903" levels="1" name="Проницательность - Тренировка">
+		<!-- Скор. Маг. +1% -->
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="1"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="mAtkSpd" value="1.01"/>
+		</for>
+	</skill>
+	<skill id="13904" levels="1" name="Помощь Роа">
+		<!-- Скор. Маг. +1% -->
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="1"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="exp_rate_multiplier" value="1.01"/>
+			<mul order="0x30" stat="sp_rate_multiplier" value="1.10"/>
+		</for>
+	</skill>
+</list>

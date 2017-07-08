@@ -1,0 +1,530 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<!--MaJr-->
+<list>
+	<option_data id="30300">
+		<skills>
+			<skill id="13562" level="1"/> <!-- Эффект Модифицированной Сияющей Футболки Эйнхасад +1-->
+		</skills>
+	</option_data>
+	<option_data id="30301">
+		<skills>
+			<skill id="13562" level="2"/> <!-- Эффект Модифицированной Сияющей Футболки Эйнхасад +2-->
+		</skills>
+	</option_data>
+	<option_data id="30302">
+		<skills>
+			<skill id="13562" level="3"/> <!-- Эффект Модифицированной Сияющей Футболки Эйнхасад +3-->
+		</skills>
+	</option_data>
+	<option_data id="30303">
+		<skills>
+			<skill id="13562" level="4"/> <!-- Эффект Модифицированной Сияющей Футболки Эйнхасад +4-->
+		</skills>
+	</option_data>
+	<option_data id="30304">
+		<skills>
+			<skill id="13562" level="5"/> <!-- Эффект Модифицированной Сияющей Футболки Эйнхасад +5-->
+		</skills>
+	</option_data>
+	<option_data id="30305">
+		<skills>
+			<skill id="13562" level="6"/> <!-- Эффект Модифицированной Сияющей Футболки Эйнхасад +6-->
+		</skills>
+	</option_data>
+	<option_data id="30306">
+		<skills>
+			<skill id="13562" level="7"/> <!-- Эффект Модифицированной Сияющей Футболки Эйнхасад +7-->
+		</skills>
+	</option_data>
+	<option_data id="30307">
+		<skills>
+			<skill id="13562" level="8"/> <!-- Эффект Модифицированной Сияющей Футболки Эйнхасад +8-->			
+		</skills>
+	</option_data>
+	<option_data id="30308">
+		<skills>
+			<skill id="13562" level="9"/> <!-- Эффект Модифицированной Сияющей Футболки Эйнхасад +9-->			
+		</skills>
+	</option_data>
+	<option_data id="30309">
+		<skills>
+			<skill id="13562" level="10"/> <!-- Эффект Модифицированной Сияющей Футболки Эйнхасад +10-->			
+		</skills>
+	</option_data>
+	<option_data id="30310">
+		<skills>
+			<skill id="13563" level="1"/> <!-- Активное: Бешенство Эйнхасад -->			
+		</skills>
+	</option_data>
+	<option_data id="30311">
+		<skills>
+			<skill id="13563" level="2"/> <!-- Активное: Бешенство Эйнхасад -->	
+			<skill id="13564" level="1"/> <!-- Активное: Защита Эйнхасад -->
+		</skills>
+	</option_data>
+	<option_data id="30312">
+		<skills>
+			<skill id="13563" level="3"/> <!-- Активное: Бешенство Эйнхасад -->	
+			<skill id="13564" level="2"/> <!-- Активное: Защита Эйнхасад -->
+			<skill id="13565" level="1"/> <!-- Активное: Безмолвие Эйнхасад -->
+		</skills>
+	</option_data>
+	<option_data id="30313">
+		<skills>
+			<skill id="13563" level="4"/> <!-- Активное: Бешенство Эйнхасад -->	
+			<skill id="13564" level="3"/> <!-- Активное: Защита Эйнхасад -->
+			<skill id="13565" level="2"/> <!-- Активное: Безмолвие Эйнхасад -->
+			<skill id="13566" level="1"/> <!-- Активное: Избавление Эйнхасад -->
+		</skills>
+	</option_data>
+	<option_data id="30314">
+		<skills>
+			<skill id="13563" level="5"/> <!-- Активное: Бешенство Эйнхасад -->	
+			<skill id="13564" level="4"/> <!-- Активное: Защита Эйнхасад -->
+			<skill id="13565" level="3"/> <!-- Активное: Безмолвие Эйнхасад -->
+			<skill id="13566" level="2"/> <!-- Активное: Избавление Эйнхасад -->
+			<skill id="13567" level="1"/> <!-- Активное: Благословение Эйнхасад -->
+		</skills>
+	</option_data>
+	<option_data id="30315">
+		<for>
+			<mul order="0x40" stat="pDef" value="15"/>
+		</for>
+	</option_data>	
+	<option_data id="30316">
+		<for>
+			<add order="0x60" stat="defenceFire" value="30"/>
+			<add order="0x60" stat="defenceWater" value="30"/>
+			<add order="0x60" stat="defenceWind" value="30"/>
+			<add order="0x60" stat="defenceEarth" value="30"/>
+		</for>
+	</option_data>	
+	<option_data id="30317">
+		<for>
+			<add order="0x60" stat="defenceHoly" value="30"/>
+			<add order="0x60" stat="defenceUnholy" value="30"/>
+		</for>
+	</option_data>
+	<option_data id="30318">
+		<for>
+			<mul order="0x40" stat="mpConsumePhysical" value="0.99"/>
+		</for>
+	</option_data>	
+	<option_data id="30319">
+		<for>
+			<mul order="0x40" stat="mpConsum" value="0.99"/>
+			<mul order="0x40" stat="mpDanceConsume" value="0.99"/>
+		</for>
+	</option_data>	
+	<option_data id="30320">
+		<for>
+			<mul order="0x40" stat="mReuse" value="0.99"/>
+			<mul order="0x40" stat="pReuse" value="0.99"/>
+		</for>
+	</option_data>		
+	<option_data id="30321">
+		<for>
+			<mul order="0x40" stat="mCritDamage" value="11"/>
+		</for>
+	</option_data>	
+	<option_data id="30322">
+		<for>
+			<mul order="0x40" stat="pCritDamage" value="11"/>
+		</for>
+	</option_data>	
+	<option_data id="30323">
+		<for>
+			<mul order="0x40" stat="hpEff" value="11"/>
+		</for>
+	</option_data>
+	<option_data id="30324">
+		<for>
+			<add order="0x60" stat="defenceFire" value="20"/>
+		</for>
+	</option_data>
+	<option_data id="30325">
+		<for>
+			<add order="0x60" stat="defenceWater" value="20"/>
+		</for>
+	</option_data>
+	<option_data id="30326">
+		<for>
+			<add order="0x60" stat="defenceWind" value="20"/>
+		</for>
+	</option_data>
+	<option_data id="30327">
+		<for>
+			<add order="0x60" stat="defenceEarth" value="20"/>
+		</for>
+	</option_data>
+	<option_data id="30328">
+		<for>
+			<add order="0x60" stat="defenceHoly" value="20"/>
+		</for>
+	</option_data>	
+	<option_data id="30329">
+		<for>
+			<add order="0x60" stat="defenceUnholy" value="20"/>
+		</for>
+	</option_data>
+	<option_data id="30330">
+		<for>
+			<add order="0x60" stat="defenceFire" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30331">
+		<for>
+			<add order="0x60" stat="defenceWater" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30332">
+		<for>
+			<add order="0x60" stat="defenceWind" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30333">
+		<for>
+			<add order="0x60" stat="defenceEarth" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30334">
+		<for>
+			<add order="0x60" stat="defenceHoly" value="10"/>
+		</for>
+	</option_data>	
+	<option_data id="30335">
+		<for>
+			<add order="0x60" stat="defenceUnholy" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30336">
+		<for>
+			<add order="0x60" stat="pAtk" value="212"/> 
+		</for>
+	</option_data>
+	<option_data id="30337">
+		<for>
+			<add order="0x60" stat="mAtk" value="498"/> 
+		</for>
+	</option_data>
+	<option_data id="30338">
+		<for>
+			<add order="0x60" stat="pAccCombat" value="2"/> 
+		</for>
+	</option_data>
+	<option_data id="30339">
+		<for>
+			<add order="0x60" stat="mAccCombat" value="2"/> 
+		</for>
+	</option_data>
+	<option_data id="30340">
+		<for>
+			<mul order="0x40" stat="mDef" value="15"/> 
+		</for>
+	</option_data>
+	<option_data id="30341">
+		<for>
+			<add order="0x60" stat="stunResist" value="10"/> 
+			<add order="0x60" stat="knockDownResist" value="10"/>
+			<add order="0x60" stat="knockBackResist" value="10"/>			
+		</for>
+	</option_data>	
+	<option_data id="30342">
+		<for>
+			<add order="0x60" stat="rootResist" value="10"/> 
+			<add order="0x60" stat="paralyzeResist" value="10"/> 
+		</for>
+	</option_data>		
+	<option_data id="30343">
+		<for>
+			<add order="0x60" stat="mentalResist" value="10"/> 
+			<add order="0x60" stat="airjokeResist" value="10"/> 
+		</for>
+	</option_data>
+	<option_data id="30344">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="10"/> 
+			<add order="0x60" stat="pullResist" value="10"/> 
+		</for>
+	</option_data>
+	<option_data id="30345">
+		<for>
+			<add order="0x60" stat="STR" value="1"/>
+		</for>
+	</option_data>
+	<option_data id="30346">
+		<for>
+			<add order="0x60" stat="DEX" value="1"/>
+		</for>
+	</option_data>	
+	<option_data id="30347">
+		<for>
+			<add order="0x60" stat="CON" value="1"/>
+		</for>
+	</option_data>
+	<option_data id="30348">
+		<for>
+			<add order="0x60" stat="INT" value="1"/>
+		</for>
+	</option_data>	
+	<option_data id="30349">
+		<for>
+			<add order="0x60" stat="WIT" value="1"/>
+		</for>
+	</option_data>	
+	<option_data id="30350">
+		<for>
+			<add order="0x60" stat="MEN" value="1"/>
+		</for>
+	</option_data>	
+	<option_data id="30351">
+		<for>
+			<add order="0x60" stat="runSpd" value="7"/>
+		</for>
+	</option_data>
+	<option_data id="30352">
+		<for>
+			<add order="0x60" stat="stunResist" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30353">
+		<for>
+			<add order="0x60" stat="rootResist" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30354">
+		<for>
+			<add order="0x60" stat="bleedResist" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30355">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30356">
+		<for>
+			<add order="0x60" stat="mentalResist" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30357">
+		<for>
+			<add order="0x60" stat="sleepResist" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30358">
+		<for>
+			<add order="0x60" stat="poisonResist" value="10"/>
+		</for>
+	</option_data>	
+	<option_data id="30359">
+		<for>
+			<add order="0x60" stat="knockDownResist" value="10"/>
+			<add order="0x60" stat="knockBackResist" value="10"/>			
+		</for>
+	</option_data>	
+	<option_data id="30360">
+		<for>
+			<add order="0x60" stat="airjokeResist" value="10"/>
+		</for>
+	</option_data>	
+	<option_data id="30361">
+		<for>
+			<add order="0x60" stat="pullResist" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30362">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="10"/>
+		</for>
+	</option_data>
+	<option_data id="30363">
+		<for>
+			<add order="0x60" stat="stunResist" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30364">
+		<for>
+			<add order="0x60" stat="rootResist" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30365">
+		<for>
+			<add order="0x60" stat="bleedResist" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30366">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30367">
+		<for>
+			<add order="0x60" stat="mentalResist" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30368">
+		<for>
+			<add order="0x60" stat="sleepResist" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30369">
+		<for>
+			<add order="0x60" stat="poisonResist" value="5"/>
+		</for>
+	</option_data>	
+	<option_data id="30370">
+		<for>
+			<add order="0x60" stat="knockDownResist" value="5"/>
+			<add order="0x60" stat="knockBackResist" value="5"/>			
+		</for>
+	</option_data>	
+	<option_data id="30371">
+		<for>
+			<add order="0x60" stat="airjokeResist" value="5"/>
+		</for>
+	</option_data>	
+	<option_data id="30372">
+		<for>
+			<add order="0x60" stat="pullResist" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30373">
+		<for>
+			<add order="0x60" stat="paralyzeResist" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30374">
+		<for>
+			<add order="0x60" stat="maxHp" value="266"/>
+			<add order="0x60" stat="regHp" value="8"/>
+		</for>
+	</option_data>
+	<option_data id="30375">
+		<for>
+			<add order="0x60" stat="maxMp" value="117"/>
+			<add order="0x60" stat="regMp" value="4"/>
+		</for>
+	</option_data>
+	<option_data id="30376">
+		<for>
+			<add order="0x60" stat="maxCp" value="266"/>
+			<add order="0x60" stat="regCp" value="8"/>
+		</for>
+	</option_data>	
+	<option_data id="30377">
+		<for>
+			<add order="0x60" stat="pAtk" value="40"/>
+		</for>
+	</option_data>
+	<option_data id="30378">
+		<for>
+			<add order="0x60" stat="pAtk" value="47"/>
+		</for>
+	</option_data>
+	<option_data id="30379">
+		<for>
+			<add order="0x60" stat="pAtk" value="61"/>
+		</for>
+	</option_data>
+	<option_data id="30380">
+		<for>
+			<add order="0x60" stat="pAtk" value="76"/>
+		</for>
+	</option_data>
+	<option_data id="30381">
+		<for>
+			<add order="0x60" stat="pAtk" value="91"/>
+		</for>
+	</option_data>
+	<option_data id="30382">
+		<for>
+			<add order="0x60" stat="pAtk" value="109"/>
+		</for>
+	</option_data>
+	<option_data id="30383">
+		<for>
+			<add order="0x60" stat="pAtk" value="127"/>
+		</for>
+	</option_data>
+	<option_data id="30384">
+		<for>
+			<add order="0x60" stat="pAtk" value="145"/>
+		</for>
+	</option_data>
+	<option_data id="30385">
+		<for>
+			<add order="0x60" stat="pAtk" value="182"/>
+		</for>
+	</option_data>
+	<option_data id="30386">
+		<for>
+			<add order="0x60" stat="pAtk" value="364"/>
+		</for>
+	</option_data>
+	<option_data id="30387">
+		<for>
+			<add order="0x60" stat="mAtk" value="24"/>
+		</for>
+	</option_data>
+	<option_data id="30388">
+		<for>
+			<add order="0x60" stat="mAtk" value="28"/>
+		</for>
+	</option_data>
+	<option_data id="30389">
+		<for>
+			<add order="0x60" stat="mAtk" value="37"/>
+		</for>
+	</option_data>
+	<option_data id="30390">
+		<for>
+			<add order="0x60" stat="mAtk" value="46"/>
+		</for>
+	</option_data>
+	<option_data id="30391">
+		<for>
+			<add order="0x60" stat="mAtk" value="55"/>
+		</for>
+	</option_data>
+	<option_data id="30392">
+		<for>
+			<add order="0x60" stat="mAtk" value="66"/>
+		</for>
+	</option_data>
+	<option_data id="30393">
+		<for>
+			<add order="0x60" stat="mAtk" value="77"/>
+		</for>
+	</option_data>
+	<option_data id="30394">
+		<for>
+			<add order="0x60" stat="mAtk" value="88"/>
+		</for>
+	</option_data>
+	<option_data id="30395">
+		<for>
+			<add order="0x60" stat="mAtk" value="110"/>
+		</for>
+	</option_data>
+	<option_data id="30396">
+		<for>
+			<add order="0x60" stat="mAtk" value="220"/>
+		</for>
+	</option_data>
+	<option_data id="30397">
+		<for>
+			<add order="0x60" stat="pAtkSpd" value="5"/>
+		</for>
+	</option_data>
+	<option_data id="30398">
+		<for>
+			<add order="0x60" stat="pAtkSpd" value="6"/>
+		</for>
+	</option_data>
+	<option_data id="30399">
+		<for>
+			<add order="0x60" stat="pAtkSpd" value="8"/>
+		</for>
+	</option_data>
+</list>

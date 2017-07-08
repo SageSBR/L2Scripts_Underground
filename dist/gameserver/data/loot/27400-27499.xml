@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<list>
+    <loot id="27437">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="100">
+                <reward chance="100" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="100">
+                <reward chance="100" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="27438">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="100">
+                <reward chance="100" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="100">
+                <reward chance="100" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="27439">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="100">
+                <reward chance="100" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="100">
+                <reward chance="100" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="27440">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="100">
+                <reward chance="100" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="100">
+                <reward chance="100" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="27441">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="100">
+                <reward chance="100" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="100">
+                <reward chance="100" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="27442">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="100">
+                <reward chance="100" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="100">
+                <reward chance="100" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="27443">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="100">
+                <reward chance="100" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="100">
+                <reward chance="100" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="27454">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="100">
+                <reward chance="100" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="100">
+                <reward chance="100" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="27462">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="100">
+                <reward chance="100" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="100">
+                <reward chance="100" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="27463">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="100">
+                <reward chance="100" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="100">
+                <reward chance="100" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="27464">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="100">
+                <reward chance="100" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="100">
+                <reward chance="100" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="27465">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="100">
+                <reward chance="100" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="100">
+                <reward chance="100" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="27466">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="100">
+                <reward chance="100" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="100">
+                <reward chance="100" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="27467">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="100">
+                <reward chance="100" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="100">
+                <reward chance="100" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+    <loot id="27468">
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="100">
+                <reward chance="100" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="100">
+                <reward chance="100" item_id="8605" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+</list>

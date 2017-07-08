@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="18500" levels="1" name="Aden Vanguard Supply Box">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="18501" levels="1" name="System Control Room Key">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="reuseDelay" value="3000"/>
+		<set name="castRange" value="150"/>
+		<set name="hitTime" value="3000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="18502" levels="1" name="Scroll: Enchant Shadow Weapon">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="18503" levels="1" name="Blessed Zodiac Agathion Pack (30-day)">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="18504" levels="1" name="Emergency Whistle - Aden Vanguard">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="reuseDelay" value="300000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="1000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="18505" levels="1" name="Mr. K's Gift Basket">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="18565" levels="5" name="Танзанит - Барьер">
+		<table name="#value">5000 10000 15000 30000 50000</table>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="reuseDelay" value="1800000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="2000"/>
+		<set name="castRange" value="600"/>
+		<set name="abnormal_time" value="15"/>
+		<for>
+			<effect>
+				<def name="maxDamage" value="#value"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="18566" levels="5" name="Гранат">
+		<set name="operateType" value="OP_PASSIVE"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<table name="#value">3 6 12 20 30</table>
+		<for>
+			<add order="0x40" stat="debuffResist" value="#value"/>
+		</for>
+	</skill>
+	<skill id="18567" levels="1" name="Гранат - Очищение">
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="reuseDelay" value="1800000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="2000"/>
+		<set name="castRange" value="600"/>
+		<set name="abnormal_time" value="0"/>
+		<for>
+			<effect instant="true" name="i_dispel_by_category">
+				<def name="abnormal_category" value="slot_debuff"/>
+				<def name="dispel_chance" value="100"/>
+				<def name="max_count" value="10"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="18568" levels="5" name="Камень Энергии">
+	<!-- При наличии энергии бонус очков опыта TODO: Работу скила -->
+		<set name="operateType" value="OP_PASSIVE"/>
+		<table name="#valueExp">0.03 0.06 0.12 0.2 0.3</table>
+		<!-- <table name="#valueVitalityConsume">1 1 1 0.93 0.85</table> -->
+		<for>
+			<add order="0x40" stat="exp_rate_multiplier" value="#valueExp"/>
+			<!-- <mul order="0x30" stat="vitality_consume" value="#valueVitalityConsume"/> -->
+		</for>
+	</skill>
+</list>

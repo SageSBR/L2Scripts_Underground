@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<list grade="NONE">
+	<items type="Light">
+		<item id="23"/><!-- Деревянная Кираса -->
+		<item id="2386"/><!-- Деревянные Набедренники -->
+		<item id="43"/><!-- Деревянный Шлем -->
+	</items>
+
+	<items type="Magic">
+		<item id="1101"/><!-- Туника Преданности -->
+		<item id="1104"/><!-- Штаны Преданности -->
+		<item id="44"/><!-- Кожаный Шлем -->
+	</items>
+</list>

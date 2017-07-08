@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Create by VISTALL. Full reworked to Ertheia (Part 1) by Bonux. -->
+<list>
+	<normal_skill_tree>
+		<class id="168"> <!--feoh_wizard-->
+			<!--Race Skills-->
+			<!--Human-->
+			<skill id="1901" level="1" name="Ясная Цель(Aim)" race="HUMAN"/>
+			<skill id="1902" level="1" name="Крепкая Психика(Mental Fortress)" race="HUMAN"/>
+			<!--Elf-->
+			<skill id="1906" level="1" name="Благословенная Вода(Blessing of Water)" race="ELF"/>
+			<skill id="1908" level="1" name="Чуткость(Delicacy)" race="ELF"/>
+			<!--Dark Elf-->
+			<skill id="1909" level="1" name="Острота(Sharpness)" race="DARKELF"/>
+			<skill id="1911" level="1" name="Благословенный Ветер(Blessing of Wind)" race="DARKELF"/>
+			<!--Orc-->
+			<skill id="1915" level="1" name="Сила Огня(Blessing of Fire)" race="ORC"/>
+			<skill id="1916" level="1" name="Сильная Энергетика(Energetic)" race="ORC"/>
+			<!--Dwarf-->
+			<skill id="1919" level="1" name="Ловкость(Dexterity)" race="DWARF"/>
+			<skill id="1921" level="1" name="Благословенная Земля(Blessing of Earth)" race="DWARF"/>
+			<!--Kamael-->
+			<skill id="1923" level="1" name="Боевой Инстинкт(Battle Instinct)" race="KAMAEL"/>
+			<skill id="1924" level="1" name="Темная Тишина(Dark Silence)" race="KAMAEL"/>
+			<skill id="1926" level="1" name="Укрепление Тела(Body Reinforcement)" race="KAMAEL"/>
+			<skill id="1954" level="1" name="Укрепление Тела в Полете(Flying Body Reinforcement)" race="KAMAEL"/>
+			<skill id="1473" level="1" name="Конверсия(Change Weapon)" race="KAMAEL"/>	<!--TODO: Check this.-->
+			<!--Specific skills-->
+			<skill id="194" level="1" name="Везение(Lucky)"/>
+			<skill id="1322" level="1" name="Обычное Ремесло(Common Craft)"/>
+			<skill id="1571" level="1" name="Увеличение Инвентаря(Inventory Increase)"/>
+			<skill id="1597" level="1" name="Увеличение Веса(Weight Increase)"/>
+			<skill id="248" level="6" name="Кристаллизация(Crystallize)"/>
+			<!--Dafault skills-->
+			<skill id="1935" level="1" name="Аура Фео(Feoh Aura)"/>
+			<skill id="1950" level="1" name="Блокировать Силу Фео(Block Feoh Force)"/>
+			<skill id="8604" level="1" name="Верховой Синий Фантом(Summon Blue Phantom)"/>
+			<!--Default by level skills-->
+			<skill id="11050" level="1" name="Адские Оковы(Hell Binding)" cost="10000" min_level="85"/>
+			<skill id="11023" level="1" name="Буйство Стихии(Elemental Destruction)" cost="10000" min_level="85"/>
+			<skill id="11112" level="1" name="Быстрый Взрыв Стихий(Elemental Speed Burst)" cost="10000" min_level="85"/>
+			<skill id="11003" level="1" name="Великая Антимагия(Superior Anti Magic)" cost="10000" min_level="85"/>
+			<skill id="11183" level="1" name="Великая Перезарядка(Superior Quick Recovery)" cost="10000" min_level="85"/>
+			<skill id="11184" level="1" name="Великие Тайные Знания(Superior Arcane Lore)" cost="10000" min_level="85"/>
+			<skill id="11176" level="1" name="Великий Маг(Superior Wizardry)" cost="10000" min_level="85"/>
+			<skill id="11005" level="1" name="Великий Мастер Магии(Superior Wizard Mastery)" cost="10000" min_level="85"/>
+			<skill id="11187" level="1" name="Великий Свет Разума(Superior Clear Mind)" cost="10000" min_level="85"/>
+			<skill id="11186" level="1" name="Великое Быстрое Восстановление MP(Superior Fast MP Recovery)" cost="10000" min_level="85"/>
+			<skill id="11002" level="1" name="Великое Владение Магической Броней(Superior Robe Mastery)" cost="10000" min_level="85"/>
+			<skill id="11001" level="1" name="Великое Владение Оружием(Superior Weapon Mastery)" cost="10000" min_level="85"/>
+			<skill id="11004" level="1" name="Великое Владение Символами(Superior Sigil Mastery)" cost="10000" min_level="85"/>
+			<skill id="11006" level="1" name="Великое Сопротивление Стихиям(Superior Mental Attack Resistance)" cost="10000" min_level="85"/>
+			<skill id="11185" level="1" name="Великое Увеличение Маны(Superior MP Boost)" cost="10000" min_level="85"/>
+			<skill id="11177" level="1" name="Водяное Разрушение(Aqua Crash)" cost="10000" min_level="85"/>
+			<skill id="11064" level="1" name="Выбор Разума(Ultimate Body To Mind)" cost="10000" min_level="85"/>
+			<skill id="11048" level="1" name="Высокий Путь Зла(Mass Devil's Curse)" cost="10000" min_level="85"/>
+			<skill id="11068" level="1" name="Двойное Колдовство(Double Casting)" cost="10000" min_level="85"/>
+			<skill id="11046" level="1" name="Дух Мага(Wizard Spirit)" cost="10000" min_level="85"/>
+			<skill id="11029" level="1" name="Дыхание Смерти(Death Breath)" cost="10000" min_level="85"/>
+			<skill id="11008" level="1" name="Истинная Вода(Water Stance)" min_level="85"/>
+			<skill id="11010" level="1" name="Истинная Земля(Earth Stance)" min_level="85"/>
+			<skill id="11009" level="1" name="Истинный Ветер(Wind Stance)" min_level="85"/>
+			<skill id="11007" level="1" name="Истинный Огонь(Fire Stance)" min_level="85"/>
+			<skill id="11030" level="1" name="Лорд Смерти(Death Lord)" cost="10000" min_level="85"/>
+			<skill id="11056" level="1" name="Массовый Смертельный Страх(Mass Death Fear)" cost="10000" min_level="85"/>
+			<skill id="11065" level="1" name="Неожиданное Препятствие(Arcane Barrier)" cost="10000" min_level="85"/>
+			<skill id="11094" level="1" name="Последний Прыжок(Magical Charge)" cost="10000" min_level="85"/>
+			<skill id="11040" level="1" name="Последний Стихийный Шторм(Elemental Storm)" cost="10000" min_level="85"/>
+			<skill id="11057" level="1" name="Последняя Вспышка(Magical Evasion)" cost="10000" min_level="85"/>
+			<skill id="11095" level="1" name="Прикосновение Тьмы(Devil's Sway)" cost="10000" min_level="85"/>
+			<skill id="11047" level="1" name="Путь Зла(Devil's Curse)" cost="10000" min_level="85"/>
+			<skill id="11032" level="1" name="Рев Смерти(Death Howl)" cost="10000" min_level="85"/>
+			<skill id="11055" level="1" name="Смертельный Страх(Death Fear)" cost="10000" min_level="85"/>
+			<skill id="1320" level="10" name="Создать Обычный Предмет(Create Common Item)" min_level="85"/>
+			<skill id="11034" level="1" name="Стихийная Волна(Elemental Blast)" cost="10000" min_level="85"/>
+			<skill id="11017" level="1" name="Стихийное Разрушение(Elemental Crash)" cost="10000" min_level="85"/>
+			<skill id="11011" level="1" name="Шип Стихии(Elemental Spike)" cost="10000" min_level="85"/>
+			<skill id="11064" level="2" name="Выбор Разума(Ultimate Body To Mind)" cost="50000" min_level="86"/>
+			<skill id="11047" level="2" name="Путь Зла(Devil's Curse)" cost="50000" min_level="86"/>
+			<skill id="11034" level="2" name="Стихийная Волна(Elemental Blast)" cost="50000" min_level="86"/>
+			<skill id="11017" level="2" name="Стихийное Разрушение(Elemental Crash)" cost="50000" min_level="86"/>
+			<skill id="11011" level="2" name="Шип Стихии(Elemental Spike)" cost="50000" min_level="86"/>
+			<skill id="11023" level="2" name="Буйство Стихии(Elemental Destruction)" cost="60000" min_level="87"/>
+			<skill id="11048" level="2" name="Высокий Путь Зла(Mass Devil's Curse)" cost="60000" min_level="87"/>
+			<skill id="11056" level="2" name="Массовый Смертельный Страх(Mass Death Fear)" cost="60000" min_level="87"/>
+			<skill id="11062" level="1" name="Наездник Ветра(Air Rider)" cost="60000" min_level="87"/>
+			<skill id="11094" level="2" name="Последний Прыжок(Magical Charge)" cost="60000" min_level="87"/>
+			<skill id="11040" level="2" name="Последний Стихийный Шторм(Elemental Storm)" cost="60000" min_level="87"/>
+			<skill id="11057" level="2" name="Последняя Вспышка(Magical Evasion)" cost="60000" min_level="87"/>
+			<skill id="11055" level="2" name="Смертельный Страх(Death Fear)" cost="60000" min_level="87"/>
+			<skill id="11064" level="3" name="Выбор Разума(Ultimate Body To Mind)" cost="80000" min_level="88"/>
+			<skill id="11029" level="2" name="Дыхание Смерти(Death Breath)" cost="80000" min_level="88"/>
+			<skill id="11034" level="3" name="Стихийная Волна(Elemental Blast)" cost="80000" min_level="88"/>
+			<skill id="11017" level="3" name="Стихийное Разрушение(Elemental Crash)" cost="80000" min_level="88"/>
+			<skill id="11011" level="3" name="Шип Стихии(Elemental Spike)" cost="80000" min_level="88"/>
+			<skill id="11050" level="2" name="Адские Оковы(Hell Binding)" cost="100000" min_level="89"/>
+			<skill id="11023" level="3" name="Буйство Стихии(Elemental Destruction)" cost="100000" min_level="89"/>
+			<skill id="11052" level="1" name="Массовые Адские Оковы(Mass Hell Binding)" cost="100000" min_level="89"/>
+			<skill id="11056" level="3" name="Массовый Смертельный Страх(Mass Death Fear)" cost="100000" min_level="89"/>
+			<skill id="11040" level="3" name="Последний Стихийный Шторм(Elemental Storm)" cost="100000" min_level="89"/>
+			<skill id="11047" level="3" name="Путь Зла(Devil's Curse)" cost="100000" min_level="89"/>
+			<skill id="11055" level="3" name="Смертельный Страх(Death Fear)" cost="100000" min_level="89"/>
+			<skill id="11112" level="2" name="Быстрый Взрыв Стихий(Elemental Speed Burst)" cost="370000" min_level="90"/>
+			<skill id="11003" level="2" name="Великая Антимагия(Superior Anti Magic)" cost="370000" min_level="90"/>
+			<skill id="11176" level="2" name="Великий Маг(Superior Wizardry)" cost="370000" min_level="90"/>
+			<skill id="11187" level="2" name="Великий Свет Разума(Superior Clear Mind)" cost="370000" min_level="90"/>
+			<skill id="11186" level="2" name="Великое Быстрое Восстановление MP(Superior Fast MP Recovery)" cost="370000" min_level="90"/>
+			<skill id="11002" level="2" name="Великое Владение Магической Броней(Superior Robe Mastery)" cost="370000" min_level="90"/>
+			<skill id="11001" level="2" name="Великое Владение Оружием(Superior Weapon Mastery)" cost="370000" min_level="90"/>
+			<skill id="11185" level="2" name="Великое Увеличение Маны(Superior MP Boost)" cost="370000" min_level="90"/>
+			<skill id="11177" level="2" name="Водяное Разрушение(Aqua Crash)" cost="370000" min_level="90"/>
+			<skill id="11064" level="4" name="Выбор Разума(Ultimate Body To Mind)" cost="370000" min_level="90"/>
+			<skill id="11048" level="3" name="Высокий Путь Зла(Mass Devil's Curse)" cost="370000" min_level="90"/>
+			<skill id="11068" level="2" name="Двойное Колдовство(Double Casting)" cost="370000" min_level="90"/>
+			<skill id="11030" level="2" name="Лорд Смерти(Death Lord)" cost="370000" min_level="90"/>
+			<skill id="11094" level="3" name="Последний Прыжок(Magical Charge)" cost="370000" min_level="90"/>
+			<skill id="11057" level="3" name="Последняя Вспышка(Magical Evasion)" cost="370000" min_level="90"/>
+			<skill id="11032" level="2" name="Рев Смерти(Death Howl)" cost="370000" min_level="90"/>
+			<skill id="11034" level="4" name="Стихийная Волна(Elemental Blast)" cost="370000" min_level="90"/>
+			<skill id="11017" level="4" name="Стихийное Разрушение(Elemental Crash)" cost="370000" min_level="90"/>
+			<skill id="11011" level="4" name="Шип Стихии(Elemental Spike)" cost="370000" min_level="90"/>
+			<skill id="11023" level="4" name="Буйство Стихии(Elemental Destruction)" cost="400000" min_level="91"/>
+			<skill id="11029" level="3" name="Дыхание Смерти(Death Breath)" cost="400000" min_level="91"/>
+			<skill id="11056" level="4" name="Массовый Смертельный Страх(Mass Death Fear)" cost="400000" min_level="91"/>
+			<skill id="11062" level="2" name="Наездник Ветра(Air Rider)" cost="400000" min_level="91"/>
+			<skill id="11040" level="4" name="Последний Стихийный Шторм(Elemental Storm)" cost="400000" min_level="91"/>
+			<skill id="11055" level="4" name="Смертельный Страх(Death Fear)" cost="400000" min_level="91"/>
+			<skill id="11058" level="1" name="Черная Дыра(Shadow Snare)" cost="400000" min_level="91"/>
+			<skill id="11064" level="5" name="Выбор Разума(Ultimate Body To Mind)" cost="420000" min_level="92"/>
+			<skill id="11052" level="2" name="Массовые Адские Оковы(Mass Hell Binding)" cost="420000" min_level="92"/>
+			<skill id="11047" level="4" name="Путь Зла(Devil's Curse)" cost="420000" min_level="92"/>
+			<skill id="11034" level="5" name="Стихийная Волна(Elemental Blast)" cost="420000" min_level="92"/>
+			<skill id="11017" level="5" name="Стихийное Разрушение(Elemental Crash)" cost="420000" min_level="92"/>
+			<skill id="11011" level="5" name="Шип Стихии(Elemental Spike)" cost="420000" min_level="92"/>
+			<skill id="11050" level="3" name="Адские Оковы(Hell Binding)" cost="440000" min_level="93"/>
+			<skill id="11023" level="5" name="Буйство Стихии(Elemental Destruction)" cost="440000" min_level="93"/>
+			<skill id="11048" level="4" name="Высокий Путь Зла(Mass Devil's Curse)" cost="440000" min_level="93"/>
+			<skill id="11056" level="5" name="Массовый Смертельный Страх(Mass Death Fear)" cost="440000" min_level="93"/>
+			<skill id="11094" level="4" name="Последний Прыжок(Magical Charge)" cost="440000" min_level="93"/>
+			<skill id="11040" level="5" name="Последний Стихийный Шторм(Elemental Storm)" cost="440000" min_level="93"/>
+			<skill id="11057" level="4" name="Последняя Вспышка(Magical Evasion)" cost="440000" min_level="93"/>
+			<skill id="11055" level="5" name="Смертельный Страх(Death Fear)" cost="440000" min_level="93"/>
+			<skill id="11049" level="1" name="Снятие Благословения(Ignore Divinity)" cost="440000" min_level="93"/>
+			<skill id="11064" level="6" name="Выбор Разума(Ultimate Body To Mind)" cost="480000" min_level="94"/>
+			<skill id="11029" level="4" name="Дыхание Смерти(Death Breath)" cost="480000" min_level="94"/>
+			<skill id="11034" level="6" name="Стихийная Волна(Elemental Blast)" cost="480000" min_level="94"/>
+			<skill id="11017" level="6" name="Стихийное Разрушение(Elemental Crash)" cost="480000" min_level="94"/>
+			<skill id="11058" level="2" name="Черная Дыра(Shadow Snare)" cost="480000" min_level="94"/>
+			<skill id="11011" level="6" name="Шип Стихии(Elemental Spike)" cost="480000" min_level="94"/>
+			<skill id="11023" level="6" name="Буйство Стихии(Elemental Destruction)" cost="1000000" min_level="95"/>
+			<skill id="11112" level="3" name="Быстрый Взрыв Стихий(Elemental Speed Burst)" cost="1000000" min_level="95"/>
+			<skill id="11003" level="3" name="Великая Антимагия(Superior Anti Magic)" cost="1000000" min_level="95"/>
+			<skill id="11176" level="3" name="Великий Маг(Superior Wizardry)" cost="1000000" min_level="95"/>
+			<skill id="11187" level="3" name="Великий Свет Разума(Superior Clear Mind)" cost="1000000" min_level="95"/>
+			<skill id="11186" level="3" name="Великое Быстрое Восстановление MP(Superior Fast MP Recovery)" cost="1000000" min_level="95"/>
+			<skill id="11002" level="3" name="Великое Владение Магической Броней(Superior Robe Mastery)" cost="1000000" min_level="95"/>
+			<skill id="11001" level="3" name="Великое Владение Оружием(Superior Weapon Mastery)" cost="1000000" min_level="95"/>
+			<skill id="11185" level="3" name="Великое Увеличение Маны(Superior MP Boost)" cost="1000000" min_level="95"/>
+			<skill id="11177" level="3" name="Водяное Разрушение(Aqua Crash)" cost="1000000" min_level="95"/>
+			<skill id="11068" level="3" name="Двойное Колдовство(Double Casting)" cost="1000000" min_level="95"/>
+			<skill id="11046" level="2" name="Дух Мага(Wizard Spirit)" cost="1000000" min_level="95"/>
+			<skill id="11030" level="3" name="Лорд Смерти(Death Lord)" cost="1000000" min_level="95"/>
+			<skill id="11052" level="3" name="Массовые Адские Оковы(Mass Hell Binding)" cost="1000000" min_level="95"/>
+			<skill id="11056" level="6" name="Массовый Смертельный Страх(Mass Death Fear)" cost="1000000" min_level="95"/>
+			<skill id="11062" level="3" name="Наездник Ветра(Air Rider)" cost="1000000" min_level="95"/>
+			<skill id="11040" level="6" name="Последний Стихийный Шторм(Elemental Storm)" cost="1000000" min_level="95"/>
+			<skill id="11066" level="1" name="Путь Гибели(Unleash Hell)" cost="1000000" min_level="95"/>
+			<skill id="11047" level="5" name="Путь Зла(Devil's Curse)" cost="1000000" min_level="95"/>
+			<skill id="11032" level="3" name="Рев Смерти(Death Howl)" cost="1000000" min_level="95"/>
+			<skill id="11055" level="6" name="Смертельный Страх(Death Fear)" cost="1000000" min_level="95"/>
+			<skill id="11064" level="7" name="Выбор Разума(Ultimate Body To Mind)" cost="4970000" min_level="96"/>
+			<skill id="11048" level="5" name="Высокий Путь Зла(Mass Devil's Curse)" cost="4970000" min_level="96"/>
+			<skill id="11056" level="7" name="Массовый Смертельный Страх(Mass Death Fear)" cost="4970000" min_level="96"/>
+			<skill id="11094" level="5" name="Последний Прыжок(Magical Charge)" cost="4970000" min_level="96"/>
+			<skill id="11057" level="5" name="Последняя Вспышка(Magical Evasion)" cost="4970000" min_level="96"/>
+			<skill id="11034" level="7" name="Стихийная Волна(Elemental Blast)" cost="4970000" min_level="96"/>
+			<skill id="11017" level="7" name="Стихийное Разрушение(Elemental Crash)" cost="4970000" min_level="96"/>
+			<skill id="11011" level="7" name="Шип Стихии(Elemental Spike)" cost="4970000" min_level="96"/>
+			<skill id="11050" level="4" name="Адские Оковы(Hell Binding)" cost="4980000" min_level="97"/>
+			<skill id="11023" level="7" name="Буйство Стихии(Elemental Destruction)" cost="4980000" min_level="97"/>
+			<skill id="11029" level="5" name="Дыхание Смерти(Death Breath)" cost="4980000" min_level="97"/>
+			<skill id="11040" level="7" name="Последний Стихийный Шторм(Elemental Storm)" cost="4980000" min_level="97"/>
+			<skill id="11093" level="1" name="Самоочищение(Crystal Form)" cost="4980000" min_level="97"/>
+			<skill id="11055" level="7" name="Смертельный Страх(Death Fear)" cost="4980000" min_level="97"/>
+			<skill id="11058" level="3" name="Черная Дыра(Shadow Snare)" cost="4980000" min_level="97"/>
+			<skill id="11064" level="8" name="Выбор Разума(Ultimate Body To Mind)" cost="4990000" min_level="98"/>
+			<skill id="11052" level="4" name="Массовые Адские Оковы(Mass Hell Binding)" cost="4990000" min_level="98"/>
+			<skill id="11047" level="6" name="Путь Зла(Devil's Curse)" cost="4990000" min_level="98"/>
+			<skill id="11049" level="2" name="Снятие Благословения(Ignore Divinity)" cost="4990000" min_level="98"/>
+			<skill id="11034" level="8" name="Стихийная Волна(Elemental Blast)" cost="4990000" min_level="98"/>
+			<skill id="11017" level="8" name="Стихийное Разрушение(Elemental Crash)" cost="4990000" min_level="98"/>
+			<skill id="11011" level="8" name="Шип Стихии(Elemental Spike)" cost="4990000" min_level="98"/>
+			<skill id="1405" level="5" name="Божественное Вдохновение(Divine Inspiration)" cost="5000000" min_level="99" item_id="40064" item_count="1"/>
+			<skill id="1405" level="6" name="Божественное Вдохновение(Divine Inspiration)" cost="5000000" min_level="99" item_id="40065" item_count="1"/>
+			<skill id="11023" level="8" name="Буйство Стихии(Elemental Destruction)" cost="5000000" min_level="99"/>
+			<skill id="11112" level="4" name="Быстрый Взрыв Стихий(Elemental Speed Burst)" cost="5000000" min_level="99"/>
+			<skill id="11003" level="4" name="Великая Антимагия(Superior Anti Magic)" cost="5000000" min_level="99"/>
+			<skill id="11176" level="4" name="Великий Маг(Superior Wizardry)" cost="5000000" min_level="99"/>
+			<skill id="11187" level="4" name="Великий Свет Разума(Superior Clear Mind)" cost="5000000" min_level="99"/>
+			<skill id="11186" level="4" name="Великое Быстрое Восстановление MP(Superior Fast MP Recovery)" cost="5000000" min_level="99"/>
+			<skill id="11002" level="4" name="Великое Владение Магической Броней(Superior Robe Mastery)" cost="5000000" min_level="99"/>
+			<skill id="11001" level="4" name="Великое Владение Оружием(Superior Weapon Mastery)" cost="5000000" min_level="99"/>
+			<skill id="11185" level="4" name="Великое Увеличение Маны(Superior MP Boost)" cost="5000000" min_level="99"/>
+			<skill id="11177" level="4" name="Водяное Разрушение(Aqua Crash)" cost="5000000" min_level="99"/>
+			<skill id="11067" level="1" name="Врата Гибели(Death Mass Unleash Hell)" cost="5000000" min_level="99"/>
+			<skill id="11048" level="6" name="Высокий Путь Зла(Mass Devil's Curse)" cost="5000000" min_level="99"/>
+			<skill id="11068" level="4" name="Двойное Колдовство(Double Casting)" cost="5000000" min_level="99"/>
+			<skill id="11030" level="4" name="Лорд Смерти(Death Lord)" cost="5000000" min_level="99"/>
+			<skill id="11056" level="8" name="Массовый Смертельный Страх(Mass Death Fear)" cost="5000000" min_level="99"/>
+			<skill id="11062" level="4" name="Наездник Ветра(Air Rider)" cost="5000000" min_level="99"/>
+			<skill id="11094" level="6" name="Последний Прыжок(Magical Charge)" cost="5000000" min_level="99"/>
+			<skill id="11040" level="8" name="Последний Стихийный Шторм(Elemental Storm)" cost="5000000" min_level="99"/>
+			<skill id="11057" level="6" name="Последняя Вспышка(Magical Evasion)" cost="5000000" min_level="99"/>
+			<skill id="11032" level="4" name="Рев Смерти(Death Howl)" cost="5000000" min_level="99"/>
+			<skill id="11003" level="5" name="Великая Антимагия(Superior Anti Magic)" cost="88099899" min_level="100"/>
+			<skill id="11187" level="5" name="Великий Свет Разума(Superior Clear Mind)" cost="88099899" min_level="100"/>
+			<skill id="11186" level="5" name="Великое Быстрое Восстановление MP(Superior Fast MP Recovery)" cost="88099899" min_level="100"/>
+			<skill id="11002" level="5" name="Великое Владение Магической Броней(Superior Robe Mastery)" cost="88099899" min_level="100"/>
+			<skill id="11001" level="5" name="Великое Владение Оружием(Superior Weapon Mastery)" cost="88099899" min_level="100"/>
+			<skill id="11185" level="5" name="Великое Увеличение Маны(Superior MP Boost)" cost="88099899" min_level="100"/>
+			<skill id="10956" level="1" name="Распространение Божественности(Divine Expansion)" cost="88099899" min_level="100" item_id="39738" item_count="8"/>
+			<skill id="11050" level="5" name="Адские Оковы(Hell Binding)" cost="211440000" min_level="101"/>
+			<skill id="11023" level="9" name="Буйство Стихии(Elemental Destruction)" cost="211440000" min_level="101"/>
+			<skill id="11112" level="5" name="Быстрый Взрыв Стихий(Elemental Speed Burst)" cost="211440000" min_level="101"/>
+			<skill id="11177" level="5" name="Водяное Разрушение(Aqua Crash)" cost="211440000" min_level="101"/>
+			<skill id="11067" level="2" name="Врата Гибели(Death Mass Unleash Hell)" cost="211440000" min_level="101"/>
+			<skill id="11064" level="9" name="Выбор Разума(Ultimate Body To Mind)" cost="211440000" min_level="101"/>
+			<skill id="11048" level="7" name="Высокий Путь Зла(Mass Devil's Curse)" cost="211440000" min_level="101"/>
+			<skill id="11052" level="5" name="Массовые Адские Оковы(Mass Hell Binding)" cost="211440000" min_level="101"/>
+			<skill id="11056" level="9" name="Массовый Смертельный Страх(Mass Death Fear)" cost="211440000" min_level="101"/>
+			<skill id="11094" level="7" name="Последний Прыжок(Magical Charge)" cost="211440000" min_level="101"/>
+			<skill id="11057" level="7" name="Последняя Вспышка(Magical Evasion)" cost="211440000" min_level="101"/>
+			<skill id="11066" level="2" name="Путь Гибели(Unleash Hell)" cost="211440000" min_level="101"/>
+			<skill id="11047" level="7" name="Путь Зла(Devil's Curse)" cost="211440000" min_level="101"/>
+			<skill id="11032" level="5" name="Рев Смерти(Death Howl)" cost="211440000" min_level="101"/>
+			<skill id="11055" level="8" name="Смертельный Страх(Death Fear)" cost="211440000" min_level="101"/>
+			<skill id="11136" level="1" name="Снежная Буря(Snow Storm)" cost="211440000" min_level="101" item_id="39738" item_count="8"/>
+			<skill id="11049" level="3" name="Снятие Благословения(Ignore Divinity)" cost="211440000" min_level="101"/>
+			<skill id="11017" level="9" name="Стихийное Разрушение(Elemental Crash)" cost="211440000" min_level="101"/>
+			<skill id="11058" level="4" name="Черная Дыра(Shadow Snare)" cost="211440000" min_level="101"/>
+			<skill id="11011" level="9" name="Шип Стихии(Elemental Spike)" cost="211440000" min_level="101"/>
+			<skill id="11003" level="6" name="Великая Антимагия(Superior Anti Magic)" cost="507455418" min_level="102"/>
+			<skill id="11187" level="6" name="Великий Свет Разума(Superior Clear Mind)" cost="507455418" min_level="102"/>
+			<skill id="11186" level="6" name="Великое Быстрое Восстановление MP(Superior Fast MP Recovery)" cost="507455418" min_level="102"/>
+			<skill id="11002" level="6" name="Великое Владение Магической Броней(Superior Robe Mastery)" cost="507455418" min_level="102"/>
+			<skill id="11001" level="6" name="Великое Владение Оружием(Superior Weapon Mastery)" cost="507455418" min_level="102"/>
+			<skill id="11185" level="6" name="Великое Увеличение Маны(Superior MP Boost)" cost="507455418" min_level="102"/>
+			<skill id="11050" level="6" name="Адские Оковы(Hell Binding)" cost="608946501" min_level="103"/>
+			<skill id="11023" level="10" name="Буйство Стихии(Elemental Destruction)" cost="608946501" min_level="103"/>
+			<skill id="11112" level="6" name="Быстрый Взрыв Стихий(Elemental Speed Burst)" cost="608946501" min_level="103"/>
+			<skill id="11177" level="6" name="Водяное Разрушение(Aqua Crash)" cost="608946501" min_level="103"/>
+			<skill id="11067" level="3" name="Врата Гибели(Death Mass Unleash Hell)" cost="608946501" min_level="103"/>
+			<skill id="11064" level="10" name="Выбор Разума(Ultimate Body To Mind)" cost="608946501" min_level="103"/>
+			<skill id="11048" level="8" name="Высокий Путь Зла(Mass Devil's Curse)" cost="608946501" min_level="103"/>
+			<skill id="11052" level="6" name="Массовые Адские Оковы(Mass Hell Binding)" cost="608946501" min_level="103"/>
+			<skill id="11056" level="10" name="Массовый Смертельный Страх(Mass Death Fear)" cost="608946501" min_level="103"/>
+			<skill id="11094" level="8" name="Последний Прыжок(Magical Charge)" cost="608946501" min_level="103"/>
+			<skill id="11057" level="8" name="Последняя Вспышка(Magical Evasion)" cost="608946501" min_level="103"/>
+			<skill id="11066" level="3" name="Путь Гибели(Unleash Hell)" cost="608946501" min_level="103"/>
+			<skill id="11047" level="8" name="Путь Зла(Devil's Curse)" cost="608946501" min_level="103"/>
+			<skill id="11032" level="6" name="Рев Смерти(Death Howl)" cost="608946501" min_level="103"/>
+			<skill id="11055" level="9" name="Смертельный Страх(Death Fear)" cost="608946501" min_level="103"/>
+			<skill id="11049" level="4" name="Снятие Благословения(Ignore Divinity)" cost="608946501" min_level="103"/>
+			<skill id="11017" level="10" name="Стихийное Разрушение(Elemental Crash)" cost="608946501" min_level="103"/>
+			<skill id="11058" level="5" name="Черная Дыра(Shadow Snare)" cost="608946501" min_level="103"/>
+			<skill id="11011" level="10" name="Шип Стихии(Elemental Spike)" cost="608946501" min_level="103"/>
+			<skill id="11003" level="7" name="Великая Антимагия(Superior Anti Magic)" cost="1461471604" min_level="104"/>
+			<skill id="11187" level="7" name="Великий Свет Разума(Superior Clear Mind)" cost="1461471604" min_level="104"/>
+			<skill id="11186" level="7" name="Великое Быстрое Восстановление MP(Superior Fast MP Recovery)" cost="1461471604" min_level="104"/>
+			<skill id="11002" level="7" name="Великое Владение Магической Броней(Superior Robe Mastery)" cost="1461471604" min_level="104"/>
+			<skill id="11001" level="7" name="Великое Владение Оружием(Superior Weapon Mastery)" cost="1461471604" min_level="104"/>
+			<skill id="11185" level="7" name="Великое Увеличение Маны(Superior MP Boost)" cost="1461471604" min_level="104"/>
+			<skill id="11050" level="7" name="Адские Оковы(Hell Binding)" cost="1753765925" min_level="105"/>
+			<skill id="11023" level="11" name="Буйство Стихии(Elemental Destruction)" cost="1753765925" min_level="105"/>
+			<skill id="11112" level="7" name="Быстрый Взрыв Стихий(Elemental Speed Burst)" cost="1753765925" min_level="105"/>
+			<skill id="11177" level="7" name="Водяное Разрушение(Aqua Crash)" cost="1753765925" min_level="105"/>
+			<skill id="11067" level="4" name="Врата Гибели(Death Mass Unleash Hell)" cost="1753765925" min_level="105"/>
+			<skill id="11064" level="11" name="Выбор Разума(Ultimate Body To Mind)" cost="1753765925" min_level="105"/>
+			<skill id="11048" level="9" name="Высокий Путь Зла(Mass Devil's Curse)" cost="1753765925" min_level="105"/>
+			<skill id="11052" level="7" name="Массовые Адские Оковы(Mass Hell Binding)" cost="1753765925" min_level="105"/>
+			<skill id="11056" level="11" name="Массовый Смертельный Страх(Mass Death Fear)" cost="1753765925" min_level="105"/>
+			<skill id="11094" level="9" name="Последний Прыжок(Magical Charge)" cost="1753765925" min_level="105"/>
+			<skill id="11057" level="9" name="Последняя Вспышка(Magical Evasion)" cost="1753765925" min_level="105"/>
+			<skill id="11066" level="4" name="Путь Гибели(Unleash Hell)" cost="1753765925" min_level="105"/>
+			<skill id="11047" level="9" name="Путь Зла(Devil's Curse)" cost="1753765925" min_level="105"/>
+			<skill id="11032" level="7" name="Рев Смерти(Death Howl)" cost="1753765925" min_level="105"/>
+			<skill id="11055" level="10" name="Смертельный Страх(Death Fear)" cost="1753765925" min_level="105"/>
+			<skill id="11049" level="5" name="Снятие Благословения(Ignore Divinity)" cost="1753765925" min_level="105"/>
+			<skill id="11017" level="11" name="Стихийное Разрушение(Elemental Crash)" cost="1753765925" min_level="105"/>
+			<skill id="11058" level="6" name="Черная Дыра(Shadow Snare)" cost="1753765925" min_level="105"/>
+			<skill id="11011" level="11" name="Шип Стихии(Elemental Spike)" cost="1753765925" min_level="105"/>
+		</class>
+	</normal_skill_tree>
+</list>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Create by VISTALL. Full reworked to Infinite Odyssey by Bonux. -->
+<list>
+	<normal_skill_tree>
+		<class id="188"> <!--ranger_gravity-->
+			<!--Race Skills-->
+			<!--Ertheia-->
+			<skill id="30400" level="2" name="Воля Ветра()" min_level="85" race="ERTHEIA"/>
+			<skill id="30401" level="2" name="Стойкость()" min_level="85" race="ERTHEIA"/>
+			<skill id="30402" level="2" name="Экстперт()" min_level="85" race="ERTHEIA"/>
+			<!--Default skills-->
+			<skill id="30602" level="1" name="Аура Заступника()"/>
+			<skill id="30604" level="1" name="Сила Заступника - Блокировка()"/>
+			<skill id="8904" level="1" name="Оседлать Лиса()"/>
+			<skill id="1571" level="1" name="Увеличение Инвентаря()"/>
+			<skill id="1597" level="1" name="Увеличение Веса()"/>
+			<!--Default by level skills-->
+			<skill id="30500" level="18" name="Боковая Атака()" cost="15000" min_level="85"/>
+			<skill id="30504" level="6" name="Встречный Ветер Гравитации()" cost="75000" min_level="85"/>
+			<skill id="30511" level="2" name="Гравитационный Прилив()" cost="15000" min_level="85"/>
+			<skill id="30518" level="1" name="Коварное Опрокидывание()" cost="15000" min_level="85"/>
+			<skill id="30514" level="2" name="Маятник()" cost="15000" min_level="85"/>
+			<skill id="30542" level="4" name="Превосходная Устойчивость()" cost="15000" min_level="85"/>
+			<skill id="30540" level="8" name="Превосходное Владение Кастетами()" cost="15000" min_level="85"/>
+			<skill id="30541" level="8" name="Превосходное Владение Легкими Доспехами()" cost="15000" min_level="85"/>
+			<skill id="30544" level="2" name="Превосходное Сопротивление отрицательным эффектам()" cost="15000" min_level="85"/>
+			<skill id="30543" level="2" name="Превосходное Сопротивление Стихиям()" cost="15000" min_level="85"/>
+			<skill id="30545" level="3" name="Превосходные Способности()" cost="15000" min_level="85"/>
+			<skill id="30512" level="2" name="Преображение()" cost="15000" min_level="85"/>
+			<skill id="1320" level="10" name="Создать Обычный Предмет(Create Common Item)" min_level="85"/>
+			<skill id="30520" level="1" name="Стальные Нервы()" cost="15000" min_level="85"/>
+			<skill id="30546" level="1" name="Удар Коленом в Полете()" cost="15000" min_level="85"/>
+			<skill id="30506" level="4" name="Удар Ногой в Голову с Разворота()" cost="15000" min_level="85"/>
+			<skill id="30503" level="1" name="Удар Ногой с Разворота()" cost="15000" min_level="85"/>
+			<skill id="30501" level="17" name="Удар с Разворота()" cost="15000" min_level="85"/>
+			<skill id="30517" level="1" name="Улучшенная Гравитация()" cost="15000" min_level="85"/>
+			<skill id="30508" level="17" name="Шаг Вправо()" cost="15000" min_level="85"/>
+			<skill id="30530" level="6" name="Искажение Энергии()" cost="75000" min_level="86"/>
+			<skill id="30518" level="2" name="Коварное Опрокидывание()" cost="75000" min_level="86"/>
+			<skill id="30503" level="2" name="Удар Ногой с Разворота()" cost="75000" min_level="86"/>
+			<skill id="30502" level="15" name="Удар с Рассечением()" cost="75000" min_level="86"/>
+			<skill id="30507" level="15" name="Шаг Влево()" cost="75000" min_level="86"/>
+			<skill id="30500" level="19" name="Боковая Атака()" cost="90000" min_level="87"/>
+			<skill id="30504" level="7" name="Встречный Ветер Гравитации()" cost="90000" min_level="87"/>
+			<skill id="30505" level="1" name="Гравитационный Шок()" cost="90000" min_level="87"/>
+			<skill id="30546" level="2" name="Удар Коленом в Полете()" cost="90000" min_level="87"/>
+			<skill id="30506" level="5" name="Удар Ногой в Голову с Разворота()" cost="90000" min_level="87"/>
+			<skill id="30501" level="18" name="Удар с Разворота()" cost="90000" min_level="87"/>
+			<skill id="30517" level="2" name="Улучшенная Гравитация()" cost="90000" min_level="87"/>
+			<skill id="30508" level="18" name="Шаг Вправо()" cost="90000" min_level="87"/>
+			<skill id="30530" level="7" name="Искажение Энергии()" cost="120000" min_level="88"/>
+			<skill id="30518" level="3" name="Коварное Опрокидывание()" cost="120000" min_level="88"/>
+			<skill id="30503" level="3" name="Удар Ногой с Разворота()" cost="120000" min_level="88"/>
+			<skill id="30502" level="16" name="Удар с Рассечением()" cost="120000" min_level="88"/>
+			<skill id="30507" level="16" name="Шаг Влево()" cost="120000" min_level="88"/>
+			<skill id="30500" level="20" name="Боковая Атака()" cost="150000" min_level="89"/>
+			<skill id="30504" level="8" name="Встречный Ветер Гравитации()" cost="150000" min_level="89"/>
+			<skill id="30505" level="2" name="Гравитационный Шок()" cost="150000" min_level="89"/>
+			<skill id="30546" level="3" name="Удар Коленом в Полете()" cost="150000" min_level="89"/>
+			<skill id="30506" level="6" name="Удар Ногой в Голову с Разворота()" cost="150000" min_level="89"/>
+			<skill id="30501" level="19" name="Удар с Разворота()" cost="150000" min_level="89"/>
+			<skill id="30517" level="3" name="Улучшенная Гравитация()" cost="150000" min_level="89"/>
+			<skill id="30508" level="19" name="Шаг Вправо()" cost="150000" min_level="89"/>
+			<skill id="30509" level="2" name="Шаг Назад()" cost="150000" min_level="89"/>
+			<skill id="30530" level="8" name="Искажение Энергии()" cost="555000" min_level="90"/>
+			<skill id="30518" level="4" name="Коварное Опрокидывание()" cost="555000" min_level="90"/>
+			<skill id="30542" level="5" name="Превосходная Устойчивость()" cost="555000" min_level="90"/>
+			<skill id="30540" level="9" name="Превосходное Владение Кастетами()" cost="555000" min_level="90"/>
+			<skill id="30541" level="9" name="Превосходное Владение Легкими Доспехами()" cost="555000" min_level="90"/>
+			<skill id="30543" level="3" name="Превосходное Сопротивление Стихиям()" cost="370000" min_level="90"/>
+			<skill id="30503" level="4" name="Удар Ногой с Разворота()" cost="555000" min_level="90"/>
+			<skill id="30502" level="17" name="Удар с Рассечением()" cost="555000" min_level="90"/>
+			<skill id="30507" level="17" name="Шаг Влево()" cost="555000" min_level="90"/>
+			<skill id="30500" level="21" name="Боковая Атака()" cost="600000" min_level="91"/>
+			<skill id="30504" level="9" name="Встречный Ветер Гравитации()" cost="600000" min_level="91"/>
+			<skill id="30505" level="3" name="Гравитационный Шок()" cost="600000" min_level="91"/>
+			<skill id="30546" level="4" name="Удар Коленом в Полете()" cost="600000" min_level="91"/>
+			<skill id="30506" level="7" name="Удар Ногой в Голову с Разворота()" cost="600000" min_level="91"/>
+			<skill id="30501" level="20" name="Удар с Разворота()" cost="600000" min_level="91"/>
+			<skill id="30517" level="4" name="Улучшенная Гравитация()" cost="600000" min_level="91"/>
+			<skill id="30508" level="20" name="Шаг Вправо()" cost="600000" min_level="91"/>
+			<skill id="30530" level="9" name="Искажение Энергии()" cost="630000" min_level="92"/>
+			<skill id="30518" level="5" name="Коварное Опрокидывание()" cost="630000" min_level="92"/>
+			<skill id="30503" level="5" name="Удар Ногой с Разворота()" cost="630000" min_level="92"/>
+			<skill id="30502" level="18" name="Удар с Рассечением()" cost="630000" min_level="92"/>
+			<skill id="30507" level="18" name="Шаг Влево()" cost="630000" min_level="92"/>
+			<skill id="30500" level="22" name="Боковая Атака()" cost="660000" min_level="93"/>
+			<skill id="30504" level="10" name="Встречный Ветер Гравитации()" cost="660000" min_level="93"/>
+			<skill id="30516" level="1" name="Гравитационный Барьер()" cost="660000" min_level="93"/>
+			<skill id="30505" level="4" name="Гравитационный Шок()" cost="660000" min_level="93"/>
+			<skill id="30546" level="5" name="Удар Коленом в Полете()" cost="660000" min_level="93"/>
+			<skill id="30506" level="8" name="Удар Ногой в Голову с Разворота()" cost="660000" min_level="93"/>
+			<skill id="30501" level="21" name="Удар с Разворота()" cost="660000" min_level="93"/>
+			<skill id="30517" level="5" name="Улучшенная Гравитация()" cost="660000" min_level="93"/>
+			<skill id="30508" level="21" name="Шаг Вправо()" cost="660000" min_level="93"/>
+			<skill id="30509" level="3" name="Шаг Назад()" cost="660000" min_level="93"/>
+			<skill id="30530" level="10" name="Искажение Энергии()" cost="720000" min_level="94"/>
+			<skill id="30518" level="6" name="Коварное Опрокидывание()" cost="720000" min_level="94"/>
+			<skill id="30503" level="6" name="Удар Ногой с Разворота()" cost="720000" min_level="94"/>
+			<skill id="30502" level="19" name="Удар с Рассечением()" cost="720000" min_level="94"/>
+			<skill id="30507" level="19" name="Шаг Влево()" cost="720000" min_level="94"/>
+			<skill id="30500" level="23" name="Боковая Атака()" cost="1500000" min_level="95"/>
+			<skill id="30504" level="11" name="Встречный Ветер Гравитации()" cost="1500000" min_level="95"/>
+			<skill id="30511" level="3" name="Гравитационный Прилив()" cost="1500000" min_level="95"/>
+			<skill id="30505" level="5" name="Гравитационный Шок()" cost="1500000" min_level="95"/>
+			<skill id="30542" level="6" name="Превосходная Устойчивость()" cost="1500000" min_level="95"/>
+			<skill id="30540" level="10" name="Превосходное Владение Кастетами()" cost="1500000" min_level="95"/>
+			<skill id="30541" level="10" name="Превосходное Владение Легкими Доспехами()" cost="1500000" min_level="95"/>
+			<skill id="30543" level="4" name="Превосходное Сопротивление Стихиям()" cost="1000000" min_level="95"/>
+			<skill id="30546" level="6" name="Удар Коленом в Полете()" cost="1500000" min_level="95"/>
+			<skill id="30506" level="9" name="Удар Ногой в Голову с Разворота()" cost="1500000" min_level="95"/>
+			<skill id="30501" level="22" name="Удар с Разворота()" cost="1500000" min_level="95"/>
+			<skill id="30517" level="6" name="Улучшенная Гравитация()" cost="1500000" min_level="95"/>
+			<skill id="30508" level="22" name="Шаг Вправо()" cost="1500000" min_level="95"/>
+			<skill id="30530" level="11" name="Искажение Энергии()" cost="7455000" min_level="96"/>
+			<skill id="30518" level="7" name="Коварное Опрокидывание()" cost="7455000" min_level="96"/>
+			<skill id="30503" level="7" name="Удар Ногой с Разворота()" cost="7455000" min_level="96"/>
+			<skill id="30502" level="20" name="Удар с Рассечением()" cost="7455000" min_level="96"/>
+			<skill id="30507" level="20" name="Шаг Влево()" cost="7455000" min_level="96"/>
+			<skill id="30500" level="24" name="Боковая Атака()" cost="7470000" min_level="97"/>
+			<skill id="30504" level="12" name="Встречный Ветер Гравитации()" cost="7470000" min_level="97"/>
+			<skill id="30505" level="6" name="Гравитационный Шок()" cost="7470000" min_level="97"/>
+			<skill id="30510" level="1" name="Истребитель()" cost="7470000" min_level="97"/>
+			<skill id="30546" level="7" name="Удар Коленом в Полете()" cost="7470000" min_level="97"/>
+			<skill id="30506" level="10" name="Удар Ногой в Голову с Разворота()" cost="7470000" min_level="97"/>
+			<skill id="30501" level="23" name="Удар с Разворота()" cost="7470000" min_level="97"/>
+			<skill id="30517" level="7" name="Улучшенная Гравитация()" cost="7470000" min_level="97"/>
+			<skill id="30508" level="23" name="Шаг Вправо()" cost="7470000" min_level="97"/>
+			<skill id="30509" level="4" name="Шаг Назад()" cost="7470000" min_level="97"/>
+			<skill id="30530" level="12" name="Искажение Энергии()" cost="7485000" min_level="98"/>
+			<skill id="30519" level="1" name="Искривленное Пространство()" cost="7485000" min_level="98"/>
+			<skill id="30518" level="8" name="Коварное Опрокидывание()" cost="7485000" min_level="98"/>
+			<skill id="30503" level="8" name="Удар Ногой с Разворота()" cost="7485000" min_level="98"/>
+			<skill id="30502" level="21" name="Удар с Рассечением()" cost="7485000" min_level="98"/>
+			<skill id="30507" level="21" name="Шаг Влево()" cost="7485000" min_level="98"/>
+			<skill id="1405" level="6" name="Божественное Вдохновение(Divine Inspiration)" cost="5000000" min_level="99" item_id="40065" item_count="1"/>
+			<skill id="1405" level="5" name="Божественное Вдохновение(Divine Inspiration)" cost="5000000" min_level="99" item_id="40064" item_count="1"/>
+			<skill id="30500" level="25" name="Боковая Атака()" cost="7500000" min_level="99"/>
+			<skill id="30504" level="13" name="Встречный Ветер Гравитации()" cost="7500000" min_level="99"/>
+			<skill id="30511" level="4" name="Гравитационный Прилив()" cost="7500000" min_level="99"/>
+			<skill id="30505" level="7" name="Гравитационный Шок()" cost="7500000" min_level="99"/>
+			<skill id="30542" level="7" name="Превосходная Устойчивость()" cost="7500000" min_level="99"/>
+			<skill id="30540" level="11" name="Превосходное Владение Кастетами()" cost="7500000" min_level="99"/>
+			<skill id="30541" level="11" name="Превосходное Владение Легкими Доспехами()" cost="7500000" min_level="99"/>
+			<skill id="30543" level="5" name="Превосходное Сопротивление Стихиям()" cost="5000000" min_level="99"/>
+			<skill id="30515" level="1" name="Расщепление()" cost="7500000" min_level="99"/>
+			<skill id="30520" level="2" name="Стальные Нервы()" cost="7500000" min_level="99"/>
+			<skill id="30547" level="1" name="Удар Клейма()" cost="7500000" min_level="99"/>
+			<skill id="30546" level="8" name="Удар Коленом в Полете()" cost="7500000" min_level="99"/>
+			<skill id="30506" level="11" name="Удар Ногой в Голову с Разворота()" cost="7500000" min_level="99"/>
+			<skill id="30501" level="24" name="Удар с Разворота()" cost="7500000" min_level="99"/>
+			<skill id="30517" level="8" name="Улучшенная Гравитация()" cost="7500000" min_level="99"/>
+			<skill id="30508" level="24" name="Шаг Вправо()" cost="7500000" min_level="99"/>
+			<skill id="30542" level="8" name="Превосходная Устойчивость()" cost="88099899" min_level="100"/>
+			<skill id="30540" level="12" name="Превосходное Владение Кастетами()" cost="88099899" min_level="100"/>
+			<skill id="30541" level="12" name="Превосходное Владение Легкими Доспехами()" cost="88099899" min_level="100"/>
+			<skill id="30543" level="6" name="Превосходное Сопротивление Стихиям()" cost="88099899" min_level="100"/>
+			<skill id="10956" level="1" name="Распространение Божественности()" cost="88099899" min_level="100" item_id="39738" item_count="8"/>
+			<skill id="30500" level="26" name="Боковая Атака()" cost="211440000" min_level="101"/>
+			<skill id="30504" level="14" name="Встречный Ветер Гравитации()" cost="211440000" min_level="101"/>
+			<skill id="30511" level="5" name="Гравитационный Прилив()" cost="211440000" min_level="101"/>
+			<skill id="30505" level="8" name="Гравитационный Шок()" cost="211440000" min_level="101"/>
+			<skill id="30530" level="13" name="Искажение Энергии()" cost="211440000" min_level="101"/>
+			<skill id="30518" level="9" name="Коварное Опрокидывание()" cost="211440000" min_level="101"/>
+			<skill id="30512" level="3" name="Преображение()" cost="211440000" min_level="101"/>
+			<skill id="30520" level="3" name="Стальные Нервы()" cost="211440000" min_level="101"/>
+			<skill id="30547" level="2" name="Удар Клейма()" cost="211440000" min_level="101"/>
+			<skill id="30546" level="9" name="Удар Коленом в Полете()" cost="211440000" min_level="101"/>
+			<skill id="30506" level="12" name="Удар Ногой в Голову с Разворота()" cost="211440000" min_level="101"/>
+			<skill id="30503" level="9" name="Удар Ногой с Разворота()" cost="211440000" min_level="101"/>
+			<skill id="30501" level="25" name="Удар с Разворота()" cost="211440000" min_level="101"/>
+			<skill id="30502" level="22" name="Удар с Рассечением()" cost="211440000" min_level="101"/>
+			<skill id="30517" level="9" name="Улучшенная Гравитация()" cost="211440000" min_level="101"/>
+			<skill id="30507" level="22" name="Шаг Влево()" cost="211440000" min_level="101"/>
+			<skill id="30508" level="25" name="Шаг Вправо()" cost="211440000" min_level="101"/>
+			<skill id="30542" level="9" name="Превосходная Устойчивость()" cost="507455418" min_level="102"/>
+			<skill id="30540" level="13" name="Превосходное Владение Кастетами()" cost="507455418" min_level="102"/>
+			<skill id="30541" level="13" name="Превосходное Владение Легкими Доспехами()" cost="507455418" min_level="102"/>
+			<skill id="30543" level="7" name="Превосходное Сопротивление Стихиям()" cost="507455418" min_level="102"/>
+			<skill id="30500" level="27" name="Боковая Атака()" cost="608946501" min_level="103"/>
+			<skill id="30504" level="15" name="Встречный Ветер Гравитации()" cost="608946501" min_level="103"/>
+			<skill id="30505" level="9" name="Гравитационный Шок()" cost="608946501" min_level="103"/>
+			<skill id="30530" level="14" name="Искажение Энергии()" cost="608946501" min_level="103"/>
+			<skill id="30518" level="10" name="Коварное Опрокидывание()" cost="608946501" min_level="103"/>
+			<skill id="30547" level="3" name="Удар Клейма()" cost="608946501" min_level="103"/>
+			<skill id="30546" level="10" name="Удар Коленом в Полете()" cost="608946501" min_level="103"/>
+			<skill id="30506" level="13" name="Удар Ногой в Голову с Разворота()" cost="608946501" min_level="103"/>
+			<skill id="30503" level="10" name="Удар Ногой с Разворота()" cost="608946501" min_level="103"/>
+			<skill id="30501" level="26" name="Удар с Разворота()" cost="608946501" min_level="103"/>
+			<skill id="30502" level="23" name="Удар с Рассечением()" cost="608946501" min_level="103"/>
+			<skill id="30517" level="10" name="Улучшенная Гравитация()" cost="608946501" min_level="103"/>
+			<skill id="30507" level="23" name="Шаг Влево()" cost="608946501" min_level="103"/>
+			<skill id="30508" level="26" name="Шаг Вправо()" cost="608946501" min_level="103"/>
+			<skill id="30542" level="10" name="Превосходная Устойчивость()" cost="1461471604" min_level="104"/>
+			<skill id="30540" level="14" name="Превосходное Владение Кастетами()" cost="1461471604" min_level="104"/>
+			<skill id="30541" level="14" name="Превосходное Владение Легкими Доспехами()" cost="1461471604" min_level="104"/>
+			<skill id="30543" level="8" name="Превосходное Сопротивление Стихиям()" cost="1461471604" min_level="104"/>
+			<skill id="30500" level="28" name="Боковая Атака()" cost="1753765925" min_level="105"/>
+			<skill id="30504" level="16" name="Встречный Ветер Гравитации()" cost="1753765925" min_level="105"/>
+			<skill id="30505" level="10" name="Гравитационный Шок()" cost="1753765925" min_level="105"/>
+			<skill id="30530" level="15" name="Искажение Энергии()" cost="1753765925" min_level="105"/>
+			<skill id="30518" level="11" name="Коварное Опрокидывание()" cost="1753765925" min_level="105"/>
+			<skill id="30547" level="4" name="Удар Клейма()" cost="1753765925" min_level="105"/>
+			<skill id="30546" level="11" name="Удар Коленом в Полете()" cost="1753765925" min_level="105"/>
+			<skill id="30506" level="14" name="Удар Ногой в Голову с Разворота()" cost="1753765925" min_level="105"/>
+			<skill id="30503" level="11" name="Удар Ногой с Разворота()" cost="1753765925" min_level="105"/>
+			<skill id="30501" level="27" name="Удар с Разворота()" cost="1753765925" min_level="105"/>
+			<skill id="30502" level="24" name="Удар с Рассечением()" cost="1753765925" min_level="105"/>
+			<skill id="30517" level="11" name="Улучшенная Гравитация()" cost="1753765925" min_level="105"/>
+			<skill id="30507" level="24" name="Шаг Влево()" cost="1753765925" min_level="105"/>
+			<skill id="30508" level="27" name="Шаг Вправо()" cost="1753765925" min_level="105"/>
+		</class>
+	</normal_skill_tree>
+</list>

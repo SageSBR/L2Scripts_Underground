@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="13800" levels="1" name="Дополнительное Здоровье">
+		<set name="icon" value="icon.weapon_R99_dual_blunt_pve_i00"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="maxHp" value="1.10"/>
+			<mul order="0x30" stat="maxMp" value="1.10"/>
+			<mul order="0x30" stat="maxCp" value="1.10"/>
+		</for>
+	</skill>
+	<skill id="13801" levels="1" name="Дополнительная Мощь">
+		<set name="icon" value="icon.armor_helmet_i00"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="1.01"/>
+			<mul order="0x30" stat="mAtk" value="1.02"/>
+		</for>
+	</skill>
+	<skill id="13802" levels="1" name="Дополнительная Мощь">
+		<set name="icon" value="icon.armor_t801_u_i00"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="1.01"/>
+			<mul order="0x30" stat="mAtk" value="1.02"/>
+		</for>
+	</skill>
+	<skill id="13803" levels="1" name="Дополнительная Мощь">
+		<set name="icon" value="icon.armor_t801_l_i00"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="1.01"/>
+			<mul order="0x30" stat="mAtk" value="1.02"/>
+		</for>
+	</skill>
+	<skill id="13804" levels="1" name="Дополнительная Мощь">
+		<set name="icon" value="icon.armor_t801_g_i00"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="1.01"/>
+			<mul order="0x30" stat="mAtk" value="1.02"/>
+		</for>
+	</skill>
+	<skill id="13805" levels="1" name="Дополнительная Мощь">
+		<set name="icon" value="icon.armor_t801_b_i00"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="1.01"/>
+			<mul order="0x30" stat="mAtk" value="1.02"/>
+		</for>
+	</skill>
+	<skill id="13806" levels="1" name="Дополнительная Мощь">
+		<set name="icon" value="icon.armor_leather_helmet_i00"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="1.01"/>
+			<mul order="0x30" stat="mAtk" value="1.02"/>
+		</for>
+	</skill>
+	<skill id="13807" levels="1" name="Дополнительная Мощь">
+		<set name="icon" value="icon.armor_t802_u_i00"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="1.01"/>
+			<mul order="0x30" stat="mAtk" value="1.02"/>
+		</for>
+	</skill>
+	<skill id="13808" levels="1" name="Дополнительная Мощь">
+		<set name="icon" value="icon.armor_t802_l_i00"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="1.01"/>
+			<mul order="0x30" stat="mAtk" value="1.02"/>
+		</for>
+	</skill>
+	<skill id="13809" levels="1" name="Дополнительная Мощь">
+		<set name="icon" value="icon.armor_t802_g_i00"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="1.01"/>
+			<mul order="0x30" stat="mAtk" value="1.02"/>
+		</for>
+	</skill>
+	<skill id="13810" levels="1" name="Дополнительная Мощь">
+		<set name="icon" value="icon.armor_t802_b_i00"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="1.01"/>
+			<mul order="0x30" stat="mAtk" value="1.02"/>
+		</for>
+	</skill>
+	<skill id="13811" levels="1" name="Дополнительная Мощь">
+		<set name="icon" value="icon.armor_circlet_i00"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="1.01"/>
+			<mul order="0x30" stat="mAtk" value="1.02"/>
+		</for>
+	</skill>
+	<skill id="13812" levels="1" name="Дополнительная Мощь">
+		<set name="icon" value="icon.armor_t803_u_i00"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="1.01"/>
+			<mul order="0x30" stat="mAtk" value="1.02"/>
+		</for>
+	</skill>
+	<skill id="13813" levels="1" name="Дополнительная Мощь">
+		<set name="icon" value="icon.armor_t803_l_i00"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="1.01"/>
+			<mul order="0x30" stat="mAtk" value="1.02"/>
+		</for>
+	</skill>
+	<skill id="13814" levels="1" name="Дополнительная Мощь">
+		<set name="icon" value="icon.armor_t803_g_i00"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="1.01"/>
+			<mul order="0x30" stat="mAtk" value="1.02"/>
+		</for>
+	</skill>
+	<skill id="13815" levels="1" name="Дополнительная Мощь">
+		<set name="icon" value="icon.armor_t803_b_i00"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="1.01"/>
+			<mul order="0x30" stat="mAtk" value="1.02"/>
+		</for>
+	</skill>
+	<skill id="13816" levels="1" name="Кинжал Кельбима">
+<!-- Урон в PvP +15%%, Макс. HP +25%%, Физ. Атк. +10%%, Скор. Атк. +15%%, сила Физ. Крит. Атк. +15%%, 
+20%% полученного урона возвращается противнику. -->
+		<set name="icon" value="icon.weapon_kelbim_cutter_i01"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.15"/>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.15"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.15"/>
+			<mul order="0x30" stat="maxHp" value="1.25"/>
+			<mul order="0x30" stat="pAtk" value="1.10"/>
+			<mul order="0x30" stat="pAtkSpd" value="1.15"/>
+			<mul order="0x30" stat="pCritDamage" value="1.15"/>
+		</for>
+	</skill>
+	<skill id="13817" levels="1" name="Парные Кинжалы Кельбима">
+<!--Урон в PvP +15%%, Макс. HP +25%%, Физ. Атк. +10%%, Скор. Атк. +15%%, сила Физ. Крит. Атк. +15%%, 
+20%% полученного урона возвращается противнику.-->
+		<set name="icon" value="icon.weapon_kelbim_dual_dagger_i01"/>
+		<set name="operateType" value="OP_PASSIVE"/>	
+		<for>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.15"/>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.15"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.15"/>
+			<mul order="0x30" stat="maxHp" value="1.25"/>
+			<mul order="0x30" stat="pAtk" value="1.10"/>
+			<mul order="0x30" stat="pAtkSpd" value="1.15"/>
+			<mul order="0x30" stat="pCritDamage" value="1.15"/>
+		</for>
+	</skill>
+	<skill id="13818" levels="1" name="Лук Кельбима">
+<!-- Урон в PvP +15%%, Макс. HP +25%%, Физ. Атк. +10%%, Скор. Атк. +15%%, сила Физ. Крит. Атк. +15%%, 
+20%% полученного урона возвращается противнику. -->
+		<set name="icon" value="icon.weapon_kelbim_bow_i01"/>
+		<set name="operateType" value="OP_PASSIVE"/>	
+		<for>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.15"/>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.15"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.15"/>
+			<mul order="0x30" stat="maxHp" value="1.25"/>
+			<mul order="0x30" stat="pAtk" value="1.10"/>
+			<mul order="0x30" stat="pAtkSpd" value="1.15"/>
+			<mul order="0x30" stat="pCritDamage" value="1.15"/>
+		</for>
+	</skill>
+	<skill id="13819" levels="1" name="Арбалет Кельбима">
+<!-- Урон в PvP +15%%, Макс. HP +25%%, Физ. Атк. +10%%, Скор. Атк. +15%%, сила Физ. Крит. Атк. +15%%, 
+20%% полученного урона возвращается противнику. -->
+		<set name="icon" value="icon.weapon_kelbim_crossbow_i01"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.15"/>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.15"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.15"/>
+			<mul order="0x30" stat="maxHp" value="1.25"/>
+			<mul order="0x30" stat="pAtk" value="1.10"/>
+			<mul order="0x30" stat="pAtkSpd" value="1.15"/>
+			<mul order="0x30" stat="pCritDamage" value="1.15"/>
+		</for>
+	</skill>
+	<skill id="13820" levels="1" name="Крик Кельбима">
+<!-- В течение 30 мин. позволяет отразить 20%% урона обратно противнику. -->
+		<set name="icon" value="icon.skill0000"/>
+		<set name="reuseDelay" value="15000"/>
+		<set name="hitTime" value="3000"/>
+		<set name="coolTime" value="500"/>
+		<set name="abnormal_time" value="1800"/>
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_type" value="dmg_shield"/>		
+		<set name="mp_consume" value="382"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<for>	
+			<effect>	
+				<add order="0x40" stat="reflectDam" value="20"/>
+				<add order="0x40" stat="reflectPSkillDam" value="20"/>
+				<add order="0x40" stat="reflectMSkillDam" value="20"/>
+				<add order="0x40" stat="reflectBowDam" value="20"/>
+			</effect>
+		</for>	
+	</skill>
+	<skill id="13821" levels="1" name="Spirit's Evil Thoughts">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="castRange" value="100"/>
+		<set name="hitTime" value="5000"/>
+		<set name="mp_consume" value="10"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="13822" levels="1" name="Stronghold I Teleport">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="reuseDelay" value="1800000"/>
+		<set name="hitTime" value="15000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="13823" levels="1" name="Stronghold II Teleport">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="reuseDelay" value="1800000"/>
+		<set name="hitTime" value="15000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="13824" levels="1" name="Stronghold III Teleport">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="reuseDelay" value="1800000"/>
+		<set name="hitTime" value="15000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="13825" levels="1" name="Stronghold IV Teleport">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="reuseDelay" value="1800000"/>
+		<set name="hitTime" value="15000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="13826" levels="2" name="Christmas Fishing Rod">
+		<table name="#icon">icon.christmas_fishingrod_i00 BranchSys3.lcon.s_g_ring_of_uthanka</table>
+		<set name="icon" value="#icon"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="13827" levels="2" name="Новогодний Талисман - Все Параметры (низ.)\(выс.)">
+		<set name="icon" value="icon.etc_talisman_i02"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<table name="#stat">1 2</table>
+		<for>
+			<add order="0x10" stat="STR" value="#stat"/>
+			<add order="0x10" stat="DEX" value="#stat"/>
+			<add order="0x10" stat="CON" value="#stat"/>
+			<add order="0x10" stat="INT" value="#stat"/>
+			<add order="0x10" stat="WIT" value="#stat"/>
+			<add order="0x10" stat="MEN" value="#stat"/>
+			<add order="0x10" stat="CHA" value="#stat"/>
+			<add order="0x10" stat="LUC" value="#stat"/>
+		</for>
+	</skill>
+	<skill id="13828" levels="1" name="Новогодний Талисман - Сила Крит. Атк. физ. умений">
+		<set name="icon" value="icon.etc_talisman_i02"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="SkillCritDamMod" value="1.07"/>
+		</for>
+	</skill>
+	<skill id="13829" levels="1" name="Новогодний Талисман - Сила Крит. Атк. маг. умений">
+		<set name="icon" value="icon.etc_talisman_i02"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="SkillCritDamMod" value="1.07"/>
+		</for>
+	</skill>
+	<skill id="13830" levels="1" name="Новогодний Талисман - Абсолютная Защита">
+		<set name="icon" value="icon.etc_talisman_i01"/>
+		<set name="reuseDelay" value="600000"/>
+		<set name="hitTime" value="500"/>
+		<set name="mp_consume" value="50"/>
+		<set name="abnormal_time" value="15"/>
+		<set name="abnormal_level" value="1"/>
+		<!-- <set name="abnormal_type" value=""/> -->
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isReuseDelayPermanent" value="true"/>
+		<for>
+			<effect>
+				<add order="0x40" stat="pDef" value="5000"/>
+				<add order="0x40" stat="mDef" value="5000"/>			
+			</effect>
+		</for>
+	</skill>
+	<skill id="13831" levels="1" name="Новогодний Талисман - Сопротивление Отрицательным Эффектам">
+		<set name="icon" value="icon.etc_talisman_i01"/>
+		<set name="reuseDelay" value="600000"/>
+		<set name="hitTime" value="500"/>
+		<set name="mp_consume" value="50"/>
+		<set name="abnormal_time" value="15"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="target" value="TARGET_SELF"/>
+		<for>
+			<effect name="DebuffImmunity">
+				<def name="max_disabled_debuffs" value="5"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="13832" levels="1" name="Новогодний Талисман - Физ. Атк.">
+		<set name="icon" value="icon.etc_talisman_i02"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pAtk" value="1.05"/>
+		</for>
+	</skill>
+	<skill id="13833" levels="1" name="Christmas Talisman - M. Atk.">
+		<set name="icon" value="icon.etc_talisman_i02"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mAtk" value="1.05"/>
+		</for>
+	</skill>
+	<skill id="13834" levels="1" name="Christmas Talisman - P. Def">
+		<set name="icon" value="icon.etc_talisman_i02"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" value="1.07"/>
+		</for>
+	</skill>
+	<skill id="13835" levels="1" name="Christmas Talisman - M. Def.">
+		<set name="icon" value="icon.etc_talisman_i02"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="mDef" value="1.07"/>
+		</for>
+	</skill>
+	<skill id="13836" levels="1" name="Новогодний Талисман - Сопротивление Стихиям">
+		<set name="icon" value="icon.etc_talisman_i02"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="defenceFire" value="30"/>
+			<add order="0x40" stat="defenceWater" value="30"/>
+			<add order="0x40" stat="defenceWind" value="30"/>
+			<add order="0x40" stat="defenceEarth" value="30"/>
+			<add order="0x40" stat="defenceHoly" value="30"/>
+			<add order="0x40" stat="defenceUnholy" value="30"/>
+		</for>
+	</skill>
+	<skill id="13837" levels="12" name="Резак Тени">
+		<table name="#pAtkSpd">1.05 1.07 1.1 1.12 1.15 1.15 1.15 1.15 1.15 1.15 1.15 1.15</table>
+		<table name="#pCritRate">0 0 0 0 30 60 100 100 100 100 100 100</table>
+		<table name="#maxHpMp">1 1 1 1 1 1 1 1.05 1.10 1.15 1.15 1.15</table>
+		<table name="#pAtk">1 1 1 1 1 1 1 1 1 1 1 1.07</table>	
+		<set name="icon" value="icon.weapon_shadow_onehand_sword"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtkSpd" value="#pAtkSpd"/>
+			<add order="0x40" stat="pCritRate" value="#pCritRate"/>
+			<mul order="0x30" stat="maxHp" value="#maxHpMp"/>
+			<mul order="0x30" stat="maxMp" value="#maxHpMp"/>
+			<mul order="0x30" stat="pAtk" value="#pAtk"/>
+		</for>
+	</skill>
+	<skill id="13838" levels="12" name="Эспадон Тени">
+		<table name="#pAtkSpd">1.05 1.07 1.1 1.12 1.15 1.15 1.15 1.15 1.15 1.15 1.15 1.15</table>
+		<table name="#pCritRate">0 0 0 0 30 60 100 100 100 100 100 100</table>
+		<table name="#maxHpMp">1 1 1 1 1 1 1 1.05 1.10 1.15 1.15 1.15</table>
+		<table name="#pAtk">1 1 1 1 1 1 1 1 1 1 1 1.07</table>	
+		<set name="icon" value="icon.weapon_shadow_twohand_sword"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtkSpd" value="#pAtkSpd"/>
+			<add order="0x40" stat="pCritRate" value="#pCritRate"/>
+			<mul order="0x30" stat="maxHp" value="#maxHpMp"/>
+			<mul order="0x30" stat="maxMp" value="#maxHpMp"/>
+			<mul order="0x30" stat="pAtk" value="#pAtk"/>
+		</for>
+	</skill>
+	<skill id="13839" levels="12" name="Воитель Тени">
+		<table name="#pAtkSpd">1.05 1.07 1.1 1.12 1.15 1.15 1.15 1.15 1.15 1.15 1.15 1.15</table>
+		<table name="#pCritRate">0 0 0 0 30 60 100 100 100 100 100 100</table>
+		<table name="#maxHpMp">1 1 1 1 1 1 1 1.05 1.10 1.15 1.15 1.15</table>
+		<table name="#pAtk">1 1 1 1 1 1 1 1 1 1 1 1.07</table>	
+		<set name="icon" value="icon.weapon_shadow_fist"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtkSpd" value="#pAtkSpd"/>
+			<add order="0x40" stat="pCritRate" value="#pCritRate"/>
+			<mul order="0x30" stat="maxHp" value="#maxHpMp"/>
+			<mul order="0x30" stat="maxMp" value="#maxHpMp"/>
+			<mul order="0x30" stat="pAtk" value="#pAtk"/>
+		</for>
+	</skill>
+	<skill id="13840" levels="12" name="Буревестник Тени">
+		<table name="#pAtkSpd">1.05 1.07 1.1 1.12 1.15 1.15 1.15 1.15 1.15 1.15 1.15 1.15</table>
+		<table name="#pCritRate">0 0 0 0 30 60 100 100 100 100 100 100</table>
+		<table name="#maxHpMp">1 1 1 1 1 1 1 1.05 1.10 1.15 1.15 1.15</table>
+		<table name="#pAtk">1 1 1 1 1 1 1 1 1 1 1 1.07</table>	
+		<set name="icon" value="icon.weapon_shadow_spear"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtkSpd" value="#pAtkSpd"/>
+			<add order="0x40" stat="pCritRate" value="#pCritRate"/>
+			<mul order="0x30" stat="maxHp" value="#maxHpMp"/>
+			<mul order="0x30" stat="maxMp" value="#maxHpMp"/>
+			<mul order="0x30" stat="pAtk" value="#pAtk"/>
+		</for>
+	</skill>
+	<skill id="13841" levels="12" name="Парные Мечи Тени">
+		<table name="#pAtkSpd">1.05 1.07 1.1 1.12 1.15 1.15 1.15 1.15 1.15 1.15 1.15 1.15</table>
+		<table name="#pCritRate">0 0 0 0 30 60 100 100 100 100 100 100</table>
+		<table name="#maxHpMp">1 1 1 1 1 1 1 1.05 1.10 1.15 1.15 1.15</table>
+		<table name="#pAtk">1 1 1 1 1 1 1 1 1 1 1 1.07</table>	
+		<set name="icon" value="icon.weapon_shadow_dual_sword"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtkSpd" value="#pAtkSpd"/>
+			<add order="0x40" stat="pCritRate" value="#pCritRate"/>
+			<mul order="0x30" stat="maxHp" value="#maxHpMp"/>
+			<mul order="0x30" stat="maxMp" value="#maxHpMp"/>
+			<mul order="0x30" stat="pAtk" value="#pAtk"/>
+		</for>		
+	</skill>
+	<skill id="13842" levels="12" name="Острие Тени">
+		<table name="#pAtkSpd">1.05 1.07 1.1 1.12 1.15 1.15 1.15 1.15 1.15 1.15 1.15 1.15</table>
+		<table name="#pCritDamage">1 1 1 1 1.03 1.06 1.10 1.10 1.10 1.10 1.10 1.10</table>
+		<table name="#maxHpMp">1 1 1 1 1 1 1 1.05 1.10 1.15 1.15 1.15</table>
+		<table name="#pAtk">1 1 1 1 1 1 1 1 1 1 1 1.07</table>
+		<set name="icon" value="icon.weapon_shadow_dagger"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtkSpd" value="#pAtkSpd"/>
+			<mul order="0x30" stat="pCritDamage" value="#pCritDamage"/>
+			<mul order="0x30" stat="maxHp" value="#maxHpMp"/>
+			<mul order="0x30" stat="maxMp" value="#maxHpMp"/>
+			<mul order="0x30" stat="pAtk" value="#pAtk"/>
+		</for>
+	</skill>
+	<skill id="13843" levels="12" name="Бросок Тени">
+		<table name="#pAtkSpd">1.05 1.07 1.1 1.12 1.15 1.15 1.15 1.15 1.15 1.15 1.15 1.15</table>
+		<table name="#pCritDamage">1 1 1 1 1.03 1.06 1.10 1.10 1.10 1.10 1.10 1.10</table>
+		<table name="#maxHpMp">1 1 1 1 1 1 1 1.05 1.10 1.15 1.15 1.15</table>
+		<table name="#pAtk">1 1 1 1 1 1 1 1 1 1 1 1.07</table>
+		<set name="icon" value="icon.weapon_shadow_bow"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtkSpd" value="#pAtkSpd"/>
+			<mul order="0x30" stat="pCritDamage" value="#pCritDamage"/>
+			<mul order="0x30" stat="maxHp" value="#maxHpMp"/>
+			<mul order="0x30" stat="maxMp" value="#maxHpMp"/>
+			<mul order="0x30" stat="pAtk" value="#pAtk"/>
+		</for>
+	</skill>
+	<skill id="13844" levels="12" name="Страж Тени">
+		<table name="#pAtkSpd">1.05 1.07 1.1 1.12 1.15 1.15 1.15 1.15 1.15 1.15 1.15 1.15</table>
+		<table name="#pCritDamage">1 1 1 1 1.03 1.06 1.10 1.10 1.10 1.10 1.10 1.10</table>
+		<table name="#maxHpMp">1 1 1 1 1 1 1 1.05 1.10 1.15 1.15 1.15</table>
+		<table name="#pAtk">1 1 1 1 1 1 1 1 1 1 1 1.07</table>
+		<set name="icon" value="icon.weapon_shadow_crossbow"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtkSpd" value="#pAtkSpd"/>
+			<mul order="0x30" stat="pCritDamage" value="#pCritDamage"/>
+			<mul order="0x30" stat="maxHp" value="#maxHpMp"/>
+			<mul order="0x30" stat="maxMp" value="#maxHpMp"/>
+			<mul order="0x30" stat="pAtk" value="#pAtk"/>
+		</for>
+	</skill>
+	<skill id="13845" levels="12" name="Расчленитель Тени">
+		<table name="#mAtkSpd">1.05 1.07 1.1 1.12 1.15 1.15 1.15 1.15 1.15 1.15 1.15 1.15</table>
+		<table name="#baseMCritRate">0 0 0 0 30 60 100 100 100 100 100 100 100</table>
+		<table name="#maxHpMp">1 1 1 1 1 1 1 1.05 1.10 1.15 1.15 1.15</table>
+		<table name="#mAtk">1 1 1 1 1 1 1 1 1 1 1 1.07</table>
+		<set name="icon" value="icon.weapon_shadow_magic_sword"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="mAtkSpd" value="#mAtkSpd"/>
+			<add order="0x40" stat="baseMCritRate" value="#baseMCritRate"/>
+			<mul order="0x30" stat="maxHp" value="#maxHpMp"/>
+			<mul order="0x30" stat="maxMp" value="#maxHpMp"/>
+			<mul order="0x30" stat="mAtk" value="#mAtk"/>
+		</for>
+	</skill>
+	<skill id="13846" levels="12" name="Возмездие Тени">
+		<table name="#mAtkSpd">1.05 1.07 1.1 1.12 1.15 1.15 1.15 1.15 1.15 1.15 1.15 1.15</table>
+		<table name="#mCritDamage">1 1 1 1 1.03 1.06 1.10 1.10 1.10 1.10 1.10 1.10</table>
+		<table name="#maxHpMp">1 1 1 1 1 1 1 1.05 1.10 1.15 1.15 1.15</table>
+		<table name="#mAtk">1 1 1 1 1 1 1 1 1 1 1 1.07</table>		
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="mAtkSpd" value="#mAtkSpd"/>
+			<mul order="0x30" stat="mCritDamage" value="#mCritDamage"/>			
+			<mul order="0x30" stat="maxHp" value="#maxHpMp"/>
+			<mul order="0x30" stat="maxMp" value="#maxHpMp"/>
+			<mul order="0x30" stat="mAtk" value="#mAtk"/>
+		</for>
+	</skill>
+	<skill id="13847" levels="1" name="Усиление уникального эффекта PvE урона">
+		<set name="icon" value="icon.pk"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+        <for>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="1.10"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="1.10"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="1.10"/>
+		</for>
+	</skill>
+	<skill id="13850" levels="1" name="Овечья Шапка - Физ. Сила">
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+        <for>
+			<add order="0x10" stat="STR" value="3"/>
+			<mul order="0x30" stat="pAtk" value="1.03"/>
+		</for>
+	</skill>
+	<skill id="13851" levels="1" name="Овечья Шапка - Маг. Сила">
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+        <for>
+			<add order="0x10" stat="INT" value="3"/>
+			<mul order="0x30" stat="mAtk" value="1.05"/>
+		</for>
+	</skill>
+	<skill id="13852" levels="1" name="Овечья Шапка - Защ. Сила">
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+        <for>
+			<add order="0x10" stat="CON" value="3"/>
+			<mul order="0x30" stat="pDef" value="1.03"/>
+			<mul order="0x30" stat="mDef" value="1.03"/>
+		</for>
+	</skill>
+	<skill id="13853" levels="1" name="Телепорт Агатиона: Деревня Говорящего Острова">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="hitTime" value="1000"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="hitCancelTime" value="500"/>
+		<set name="loc" value="-114360;253256;-1536"/>
+		<set name="isHandler" value="true"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="RECALL"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="13854" levels="1" name="Телепорт Агатиона: Годдард">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="hitTime" value="1000"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="hitCancelTime" value="500"/>
+		<set name="loc" value="-73696;53507;-3680"/>
+		<set name="isHandler" value="true"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="RECALL"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="13855" levels="1" name="Телепорт Агатиона: Шутгарт">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="hitTime" value="1000"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="hitCancelTime" value="500"/>
+		<set name="loc" value="-73696;53507;-3680"/>
+		<set name="isHandler" value="true"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="RECALL"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="13856" levels="15" name="Могущество">
+		<table name="#Atkp">1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 1.11 1.12 1.13 1.14 1.15 1.16</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtk" value="#Atkp"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13857" levels="15" name="Ярость">
+		<!-- Скор. Атк. -->
+		<table name="#Atks">1.11 1.12 1.13 1.14 1.15 1.16 1.17 1.18 1.19 1.20 1.21 1.22 1.23 1.24 1.25</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtkSpd" value="#Atks"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13858" levels="15" name="Фокусировка">
+		<!-- Шанс Физ. Крит. Атк. -->
+		<table name="#crita">58 64 70 76 82 88 94 100 106 112 118 124 130 136 142</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<add order="0x40" stat="pCritRate" value="#crita"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13859" levels="15" name="Погибель">
+		<!-- Сила Физ. Крит. Атк. -->
+		<table name="#critm">1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 1.11 1.12 1.13 1.14 1.15 1.16 1.17</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pCritDamage" value="#critm"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13860" levels="15" name="Охотник">
+		<!-- Шанс Крит. Атк. физ. умений -->
+		<table name="#critp">1.06 1.07 1.08 1.09 1.10 1.11 1.12 1.13 1.14 1.15 1.16 1.17 1.18 1.19 1.20</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="SkillCritChanceMod" value="#critp"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13861" levels="15" name="Огонь">
+		<!-- Сила Крит. Атк. физ. умений -->
+		<table name="#crits">1.06 1.07 1.08 1.09 1.10 1.11 1.12 1.13 1.14 1.15 1.16 1.17 1.18 1.19 1.20</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="SkillCritDamMod" value="#crits"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13862" levels="15" name="Тело">
+		<!-- Макс. HP -->
+		<table name="#Hp">1.21 1.22 1.23 1.24 1.25 1.26 1.27 1.28 1.29 1.30 1.31 1.32 1.33 1.34 1.35</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="maxHp" value="#Hp"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13863" levels="15" name="Воодушевление">
+		<!-- Маг. Атк. -->
+		<table name="#Atkm">1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 1.11 1.12 1.13 1.14 1.15 1.16</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="mAtk" value="#Atkm"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13864" levels="15" name="Проницательность">
+		<!-- Скор. Маг. -->
+		<table name="#Atksm">1.11 1.12 1.13 1.14 1.15 1.16 1.17 1.18 1.19 1.20 1.21 1.22 1.23 1.24 1.25</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="mAtkSpd" value="#Atksm"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13865" levels="15" name="Дикость">
+		<!-- Шанс Маг. Крит. Атк. -->
+		<table name="#crita">1.21 1.22 1.23 1.24 1.25 1.26 1.27 1.28 1.29 1.30 1.31 1.32 1.33 1.34 1.35</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="mCritRate" value="#crita"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13866" levels="15" name="Маг">
+		<!-- Сила Маг. Крит. Атк. -->
+		<table name="#critm">1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 1.11 1.12 1.13 1.14 1.15 1.16 1.17</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="mCritDamage" value="#critm"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13867" levels="15" name="Душа">
+		<!-- Макс. MP -->
+		<table name="#Mp">1.26 1.27 1.28 1.29 1.30 1.31 1.32 1.33 1.34 1.35 1.36 1.37 1.38 1.39 1.40</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="maxMp" value="#Mp"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13868" levels="15" name="Скор. Фокусировка">
+		<!-- Скор. Атк. \шанс физ. Крит. Атк. -->
+		<table name="#Atks">1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09 1.09 1.10 1.10 1.11 1.11 1.12</table>
+		<table name="#crit">26 29 32 34 37 40 42 45 48 50 53 56 59 61 64</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtkSpd" value="#Atks"/>
+			<add order="0x40" stat="pCritRate" value="#crit"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13869" levels="15" name="Скор. Погибель">
+		<!-- Скор. Атк. \сила физ. Крит. Атк. -->
+		<table name="#Atks">1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09 1.09 1.10 1.10 1.11 1.11 1.12</table>
+		<table name="#crit">1.01 1.02 1.02 1.03 1.03 1.04 1.04 1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtkSpd" value="#Atks"/>
+			<mul order="0x30" stat="pCritDamage" value="#crit"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13870" levels="15" name="Скор. Охотник">
+		<!-- Скор. Атк. \шанс Крит. Атк. физических умений -->
+		<table name="#Atks">1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09 1.09 1.10 1.10 1.11 1.11 1.12</table>
+		<table name="#crit">1.03 1.04 1.04 1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09 1.09 1.10 1.10</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtkSpd" value="#Atks"/>
+			<mul order="0x30" stat="SkillCritChanceMod" value="#crit"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13871" levels="15" name="Скор. Пламя">
+		<!-- Скор. Атк. \сила Крит. Атк. физических умений -->
+		<table name="#Atks">1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09 1.09 1.10 1.10 1.11 1.11 1.12</table>
+		<table name="#crit">1.03 1.04 1.04 1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09 1.09 1.10 1.10</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtkSpd" value="#Atks"/>
+			<mul order="0x30" stat="SkillCritDamMod" value="#crit"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13872" levels="15" name="Скор. Тело">
+		<!-- Скор. Атк. \Макс. HP -->
+		<table name="#Atks">1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09 1.09 1.10 1.10 1.11 1.11 1.12</table>
+		<table name="#stat">1.10 1.11 1.11 1.12 1.12 1.13 1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtkSpd" value="#Atks"/>
+			<mul order="0x30" stat="maxHp" value="#stat"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13873" levels="15" name="Крит. Погибель">
+		<!-- Шанс Физ. Крит. Атк. \сила физ. Крит. Атк. -->
+		<table name="#crit1">26 29 32 34 37 40 42 45 48 50 53 56 59 61 64</table>
+		<table name="#crit2">1.01 1.02 1.02 1.03 1.03 1.04 1.04 1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<add order="0x40" stat="pCritRate" value="#crit1"/>
+			<mul order="0x30" stat="pCritDamage" value="#crit2"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13874" levels="15" name="Крит. Охотник">
+		<!-- Шанс Физ. Крит. Атк. \шанс Крит. Атк. физических умений -->
+		<table name="#crit1">26 29 32 34 37 40 42 45 48 50 53 56 59 61 64</table>
+		<table name="#crit2">1.03 1.04 1.04 1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09 1.09 1.10 1.10</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<add order="0x40" stat="pCritRate" value="#crit1"/>
+			<mul order="0x30" stat="SkillCritChanceMod" value="#crit2"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13875" levels="15" name="Крит. Пламя">
+		<!-- Шанс Физ. Крит. Атк. \сила Крит. Атк. физ. умений -->
+		<table name="#crit1">26 29 32 34 37 40 42 45 48 50 53 56 59 61 64</table>
+		<table name="#crit2">1.03 1.04 1.04 1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09 1.09 1.10 1.10</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<add order="0x40" stat="pCritRate" value="#crit1"/>
+			<mul order="0x30" stat="SkillCritDamMod" value="#crit2"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13876" levels="15" name="Крит. Тело">
+		<!-- Шанс Физ. Крит. Атк. \Макс. HP -->
+		<table name="#crit1">26 29 32 34 37 40 42 45 48 50 53 56 59 61 64</table>
+		<table name="#stat">1.10 1.11 1.11 1.12 1.12 1.13 1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<add order="0x40" stat="pCritRate" value="#crit1"/>
+			<mul order="0x30" stat="maxHp" value="#stat"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13877" levels="15" name="Прониц. Дикость">
+		<!-- Скор. Маг. \шанс Маг. Крит. Атк. -->
+		<table name="#Atks">1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09 1.09 1.10 1.10 1.11 1.11 1.12</table>
+		<table name="#crit">1.10 1.11 1.11 1.12 1.12 1.13 1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="mAtkSpd" value="#Atks"/>
+			<mul order="0x30" stat="mCritRate" value="#crit"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13878" levels="15" name="Прониц. Маг">
+		<!-- Скор. Атк. \сила Маг. Крит. Атк. -->
+		<table name="#Atks">1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09 1.09 1.10 1.10 1.11 1.11 1.12</table>
+		<table name="#crit">1.01 1.02 1.02 1.03 1.03 1.04 1.04 1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="mAtkSpd" value="#Atks"/>
+			<mul order="0x30" stat="mCritDamage" value="#crit"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13879" levels="15" name="Прониц. Душа">
+		<!-- Скор. Атк. \Макс. MP -->
+		<table name="#Atks">1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09 1.09 1.10 1.10 1.11 1.11 1.12</table>
+		<table name="#Mp">1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17 1.18 1.18 1.19 1.19 1.20 1.20</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="mAtkSpd" value="#Atks"/>
+			<mul order="0x30" stat="maxMp" value="#Mp"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13880" levels="15" name="Дикость. Маг">
+		<!-- Шанс Маг. Крит. Атк. \сила Маг. Крит. Атк. -->
+		<table name="#crit1">1.10 1.11 1.11 1.12 1.12 1.13 1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17</table>
+		<table name="#crit2">1.01 1.02 1.02 1.03 1.03 1.04 1.04 1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="mCritRate" value="#crit1"/>
+			<mul order="0x30" stat="mCritDamage" value="#crit2"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13881" levels="15" name="Дикость. Душа">
+		<!-- Шанс Маг. Крит. Атк. \Макс MP -->
+		<table name="#crit1">1.10 1.11 1.11 1.12 1.12 1.13 1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17</table>
+		<table name="#Mp">1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17 1.18 1.18 1.19 1.19 1.20 1.20</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="mCritRate" value="#crit1"/>
+			<mul order="0x30" stat="maxMp" value="#Mp"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13882" levels="15" name="HP Проницательность">
+		<!-- Макс. HP \Скор. Маг. -->
+		<table name="#Hp">1.10 1.11 1.11 1.12 1.12 1.13 1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17</table>
+		<table name="#spd">1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09 1.09 1.10 1.10 1.11 1.11 1.12</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="maxHp" value="#Hp"/>
+			<mul order="0x30" stat="mAtkSpd" value="#spd"/>		
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13883" levels="15" name="HP Дикость">
+		<!-- Макс. HP \шанс Маг. Крит. Атк. -->
+		<table name="#Hp">1.10 1.11 1.11 1.12 1.12 1.13 1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17</table>
+		<table name="#spd">1.10 1.10 1.11 1.11 1.12 1.12 1.13 1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="maxHp" value="#Hp"/>
+			<mul order="0x30" stat="mCritRate" value="#spd"/>		
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13884" levels="15" name="HP Маг">
+		<!-- Макс. HP \сила Маг. Крит. Атк. -->
+		<table name="#Hp">1.10 1.11 1.11 1.12 1.12 1.13 1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17</table>
+		<table name="#spd">1.01 1.02 1.03 1.03 1.04 1.04 1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="maxHp" value="#Hp"/>
+			<mul order="0x30" stat="mCritDamage" value="#spd"/>		
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13885" levels="15" name="HP Душа">
+		<!-- Макс. HP \Макс. MP -->
+		<table name="#Hp">1.10 1.11 1.11 1.12 1.12 1.13 1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17</table>
+		<table name="#Mp">1.13 1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17 1.18 1.18 1.19 1.19 1.20</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="maxHp" value="#Hp"/>
+			<mul order="0x30" stat="maxMp" value="#Mp"/>		
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13886" levels="15" name="MP Ярость">
+		<!-- Макс. MP \Скор. Атк. -->
+		<table name="#Mp">1.13 1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17 1.18 1.18 1.19 1.19 1.20</table>
+		<table name="#Atks">1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09 1.09 1.10 1.10 1.11 1.11 1.12 1.12</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="maxMp" value="#Mp"/>
+			<mul order="0x30" stat="mAtkSpd" value="#Atks"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13887" levels="15" name="MP Фокусировка">
+		<!-- Макс. MP \шанс Физ. Крит. Атк. -->
+		<table name="#Mp">1.13 1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17 1.18 1.18 1.19 1.19 1.20</table>
+		<table name="#crit">26 29 32 34 37 40 42 45 48 50 53 56 59 61 64</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="maxMp" value="#Mp"/>
+			<add order="0x40" stat="pCritRate" value="#crit"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13888" levels="15" name="MP Погибель">
+		<!-- Макс. MP \сила Физ. Крит. Атк. -->
+		<table name="#Mp">1.13 1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17 1.18 1.18 1.19 1.19 1.20</table>
+		<table name="#crit">1.01 1.02 1.02 1.03 1.03 1.04 1.04 1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="maxMp" value="#Mp"/>
+			<mul order="0x30" stat="pCritDamage" value="#crit"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13889" levels="15" name="MP Охотник">
+		<!-- Макс. MP \шанс Крит. Атк. физ. умений -->
+		<table name="#Mp">1.13 1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17 1.18 1.18 1.19 1.19 1.20</table>
+		<table name="#crit">1.03 1.04 1.04 1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09 1.09 1.10 1.10</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="maxMp" value="#Mp"/>
+			<mul order="0x30" stat="SkillCritChanceMod" value="#crit"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13890" levels="15" name="MP Огонь">
+		<!-- Макс. MP \сила Крит. Атк. физ. умений -->
+		<table name="#Mp">1.13 1.13 1.14 1.14 1.15 1.15 1.16 1.16 1.17 1.17 1.18 1.18 1.19 1.19 1.20</table>
+		<table name="#crit">1.03 1.04 1.04 1.05 1.05 1.06 1.06 1.07 1.07 1.08 1.08 1.09 1.09 1.10 1.10</table>
+		<table name="#pvpdop">1 1 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05 1.05</table>
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="maxMp" value="#Mp"/>
+			<mul order="0x30" stat="SkillCritDamMod" value="#crit"/>
+			<mul order="0x30" stat="pvePhysDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pveMagicSkillDmgBonus" value="#pvpdop"/>
+			<mul order="0x30" stat="pvePhysSkillDmgBonus" value="#pvpdop"/>
+		</for>
+	</skill>
+	<skill id="13891" levels="1" name="Крит. Замедление">
+		<set name="icon" value="icon.ensoul_big_old"/>
+		<set name="castRange" value="1000"/>
+		<set name="ride_state" value="NONE"/>
+		<set name="abnormal_time" value="60"/>
+		<set name="abnormal_level" value="3"/>
+		<set name="abnormal_type" value="speed_down"/>
+		<set name="magicLevel" value="1"/>
+		<set name="levelModifier" value="1"/>
+		<set name="activateRate" value="45"/>
+		<set name="target" value="TARGET_ONE"/>
+		<set name="skillType" value="DEBUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="saveVs" value="MEN"/>
+		<for>
+			<effect>
+				<mul order="0x40" stat="runSpd" value="0.7"/>
+			</effect>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05"/>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05"/>
+		</for>
+	</skill>
+	<skill id="13892" levels="1" name="Крит. Оглушение">
+		<set name="ride_state" value="NONE"/>
+		<set name="abnormal_effect" value="STUN"/>
+		<set name="abnormal_time" value="10"/>
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_type" value="stun"/>
+		<set name="magicLevel" value="1"/>
+		<set name="levelModifier" value="1"/>
+		<set name="target" value="TARGET_ONE"/>
+		<set name="skillType" value="STUN"/>
+		<set name="activateRate" value="45"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="trait" value="SHOCK"/>
+		<set name="saveVs" value="CON"/>
+		<for>
+			<effect name="Stun"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05"/>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05"/>
+		</for>
+	</skill>
+	<skill id="13893" levels="1" name="Магические Оковы">
+		<set name="castRange" value="1000"/>
+		<set name="ride_state" value="NONE;STRIDER;WYVERN;WOLF"/>
+		<set name="abnormal_effect" value="ROOT"/>
+		<set name="abnormal_time" value="20"/>
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_type" value="root_magically"/>
+		<set name="magicLevel" value="1"/>
+		<set name="magicType" value="MAGIC"/>
+		<set name="levelModifier" value="2"/>
+		<set name="activateRate" value="80"/>
+		<set name="target" value="TARGET_ONE"/>
+		<set name="skillType" value="ROOT"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="trait" value="HOLD"/>
+		<set name="saveVs" value="MEN"/>
+		<for>
+			<effect name="Root"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.05"/>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.05"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.05"/>
+		</for>
+	</skill>
+	<skill id="13898" levels="2" name="Тир">
+		<!-- Физ. Атк. -->
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="pAtk" value="1.05"/>
+		</for>
+	</skill>
+	<skill id="13899" levels="2" name="Фео">
+		<!-- Маг. Атк. -->
+		<set name="icon" value="icon.weapon_shadow_magic_blunt"/>
+		<set name="magicLevel" value="85"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+        <for>
+			<mul order="0x30" stat="mAtk" value="1.05"/>
+		</for>
+	</skill>
+</list>

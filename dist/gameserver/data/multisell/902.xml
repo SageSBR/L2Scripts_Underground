@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config no_tax="true"/>
+	<item>
+		<!-- Steel Door Guild Coin -->
+		<ingredient count="50" id="37045" />
+		<!-- Scroll of Escape: Alligator Island -->
+		<production count="1" id="37025" />
+	</item>
+	<item>
+		<!-- Steel Door Guild Coin -->
+		<ingredient count="50" id="37045" />
+		<!-- Scroll of Escape: Outlaw Forest -->
+		<production count="1" id="37026" />
+	</item>
+	<item>
+		<!-- Steel Door Guild Coin -->
+		<ingredient count="50" id="37045" />
+		<!-- Scroll of Escape: Sea of Spores -->
+		<production count="1" id="37027" />
+	</item>
+	<item>
+		<!-- Steel Door Guild Coin -->
+		<ingredient count="50" id="37045" />
+		<!-- Scroll of Escape: Forsaken Plains -->
+		<production count="1" id="37028" />
+	</item>
+	<item>
+		<!-- Steel Door Guild Coin -->
+		<ingredient count="50" id="37045" />
+		<!-- Scroll of Escape: Fields of Massacre -->
+		<production count="1" id="37029" />
+	</item>
+	<item>
+		<!-- Steel Door Guild Coin -->
+		<ingredient count="50" id="37045" />
+		<!-- Scroll of Escape: Swamp of Screams -->
+		<production count="1" id="37030" />
+	</item>
+	<item>
+		<!-- Steel Door Guild Coin -->
+		<ingredient count="50" id="37045" />
+		<!-- Scroll of Escape: Forest of the Dead -->
+		<production count="1" id="37031" />
+	</item>
+	<item>
+		<!-- Steel Door Guild Coin -->
+		<ingredient count="50" id="37045" />
+		<!-- Scroll of Escape: Wall of Argos -->
+		<production count="1" id="37032" />
+	</item>
+	<item>
+		<!-- Steel Door Guild Coin -->
+		<ingredient count="50" id="37045" />
+		<!-- Scroll of Escape: Varka Silenos Barracks -->
+		<production count="1" id="37034" />
+	</item>
+	<item>
+		<!-- Steel Door Guild Coin -->
+		<ingredient count="50" id="37045" />
+		<!-- Scroll of Escape: Ketra Orc Outpost -->
+		<production count="1" id="37035" />
+	</item>
+	<item>
+		<!-- Steel Door Guild Coin -->
+		<ingredient count="50" id="37045" />
+		<!-- Scroll of Escape: Den of Evil -->
+		<production count="1" id="37036" />
+	</item>
+	<item>
+		<!-- Steel Door Guild Coin -->
+		<ingredient count="50" id="37045" />
+		<!-- Scroll of Escape: Sel Mahum Training Grounds -->
+		<production count="1" id="37037" />
+	</item>
+	<item>
+		<!-- Steel Door Guild Coin -->
+		<ingredient count="50" id="37045" />
+		<!-- Scroll of Escape: Plains of the Lizardmen -->
+		<production count="1" id="37038" />
+	</item>
+	<item>
+		<!-- Steel Door Guild Coin -->
+		<ingredient count="50" id="37045" />
+		<!-- Scroll of Escape: Field of Silence -->
+		<production count="1" id="37039" />
+	</item>
+	<item>
+		<!-- Steel Door Guild Coin -->
+		<ingredient count="50" id="37045" />
+		<!-- Scroll of Escape: Field of Whispers -->
+		<production count="1" id="37040" />
+	</item>
+	<item>
+		<production id="17754" count="50"/>	<!--Soulshot (R-grade)-->
+		<ingredient id="37045" count="1"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="19442" count="13"/>	<!--Blessed Spiritshot (R-grade)-->
+		<ingredient id="37045" count="1"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="1467" count="67"/>	<!--Soulshot (S-grade)-->
+		<ingredient id="37045" count="1"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="3952" count="19"/>	<!--Blessed Spiritshot (S-grade)-->
+		<ingredient id="37045" count="1"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="9546" count="1"/>	<!--Fire Stone-->
+		<ingredient id="37045" count="50"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="9547" count="1"/>	<!--Water Stone-->
+		<ingredient id="37045" count="50"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="9548" count="1"/>	<!--Earth Stone-->
+		<ingredient id="37045" count="50"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="9549" count="1"/>	<!--Wind Stone-->
+		<ingredient id="37045" count="50"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="9550" count="1"/>	<!--Dark Stone-->
+		<ingredient id="37045" count="50"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="9551" count="1"/>	<!--Holy Stone-->
+		<ingredient id="37045" count="50"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="1342" count="2000"/>	<!--Steel Arrow-->
+		<ingredient id="37045" count="1"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="1343" count="1420"/>	<!--Silver Arrow-->
+		<ingredient id="37045" count="1"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="1344" count="1250"/>	<!--Mithril Arrow-->
+		<ingredient id="37045" count="1"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="1345" count="1000"/>	<!--Arrow of Light-->
+		<ingredient id="37045" count="1"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="9634" count="2000"/>	<!--Steel Bolt-->
+		<ingredient id="37045" count="1"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="9635" count="1420"/>	<!--Silver Bolt-->
+		<ingredient id="37045" count="1"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="9636" count="1250"/>	<!--Mithril Bolt-->
+		<ingredient id="37045" count="1"/>	<!--Steel Door Guild Coin-->
+	</item>
+	<item>
+		<production id="9637" count="1000"/>	<!--Bolt of Light-->
+		<ingredient id="37045" count="1"/>	<!--Steel Door Guild Coin-->
+	</item>
+</list>

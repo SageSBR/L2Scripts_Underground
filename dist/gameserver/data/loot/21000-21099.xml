@@ -1,0 +1,3009 @@
+<?xml version="1.0" ?>
+<list>
+    <loot id="21001">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="194" min="83"/>
+            <reward chance="1.4900" item_id="1988" max="1" min="1"/>
+            <reward chance="0.4016" item_id="2121" max="1" min="1"/>
+            <reward chance="0.4000" item_id="45929" max="1" min="1"/>
+            <reward chance="0.2294" item_id="36527" max="1" min="1"/>
+            <reward chance="0.2000" item_id="45930" max="1" min="1"/>
+            <reward chance="0.1145" item_id="36517" max="1" min="1"/>
+            <reward chance="0.0750" item_id="36522" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4939" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+            <reward chance="0.0055" item_id="5165" max="1" min="1"/>
+            <reward chance="0.0055" item_id="36562" max="1" min="1"/>
+            <reward chance="0.0030" item_id="286" max="1" min="1"/>
+            <reward chance="0.0030" item_id="4971" max="1" min="1"/>
+            <reward chance="0.0030" item_id="4966" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="14" item_id="8603" max="1" min="1"/>
+                <reward chance="74" item_id="8604" max="1" min="1"/>
+                <reward chance="12" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="74.0891" item_id="36531" max="3" min="1"/>
+            <reward chance="3.8462" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21002">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="171" min="73"/>
+            <reward chance="4.1020" item_id="2960" max="1" min="1"/>
+            <reward chance="0.3322" item_id="4112" max="1" min="1"/>
+            <reward chance="0.0750" item_id="36537" max="1" min="1"/>
+            <reward chance="0.0554" item_id="45929" max="1" min="1"/>
+            <reward chance="0.0554" item_id="36517" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4992" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4949" max="1" min="1"/>
+            <reward chance="0.0055" item_id="4613" max="1" min="1"/>
+            <reward chance="0.0030" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0030" item_id="284" max="1" min="1"/>
+            <reward chance="0.0030" item_id="8311" max="1" min="1"/>
+            <reward chance="0.0010" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="14" item_id="8603" max="1" min="1"/>
+                <reward chance="74" item_id="8604" max="1" min="1"/>
+                <reward chance="12" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="61.9048" item_id="36531" max="3" min="1"/>
+            <reward chance="3.3333" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21003">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="160" min="68"/>
+            <reward chance="5.4863" item_id="1832" max="1" min="1"/>
+            <reward chance="1.3716" item_id="4439" max="1" min="1"/>
+            <reward chance="1.0806" item_id="2963" max="1" min="1"/>
+            <reward chance="1.0391" item_id="4101" max="1" min="1"/>
+            <reward chance="0.9524" item_id="4072" max="1" min="1"/>
+            <reward chance="0.9524" item_id="4049" max="1" min="1"/>
+            <reward chance="0.8000" item_id="45929" max="1" min="1"/>
+            <reward chance="0.5814" item_id="4102" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0750" item_id="36522" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4999" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4993" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4949" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+            <reward chance="0.0055" item_id="503" max="1" min="1"/>
+            <reward chance="0.0055" item_id="633" max="1" min="1"/>
+            <reward chance="0.0055" item_id="673" max="1" min="1"/>
+            <reward chance="0.0055" item_id="2415" max="1" min="1"/>
+            <reward chance="0.0030" item_id="4963" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="14" item_id="8603" max="1" min="1"/>
+                <reward chance="74" item_id="8604" max="1" min="1"/>
+                <reward chance="12" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="58.1818" item_id="36531" max="3" min="1"/>
+            <reward chance="2.7273" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21004">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="174" min="74"/>
+            <reward chance="0.9804" item_id="1920" max="1" min="1"/>
+            <reward chance="0.9259" item_id="4067" max="1" min="1"/>
+            <reward chance="0.8000" item_id="45929" max="1" min="1"/>
+            <reward chance="0.7092" item_id="4066" max="1" min="1"/>
+            <reward chance="0.3145" item_id="4068" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45930" max="1" min="1"/>
+            <reward chance="0.2500" item_id="36527" max="1" min="1"/>
+            <reward chance="0.0403" item_id="4167" max="1" min="1"/>
+            <reward chance="0.0323" item_id="4129" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0242" item_id="4951" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+            <reward chance="0.0055" item_id="2388" max="1" min="1"/>
+            <reward chance="0.0055" item_id="2384" max="1" min="1"/>
+            <reward chance="0.0030" item_id="2390" max="1" min="1"/>
+            <reward chance="0.0030" item_id="4197" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="14" item_id="8603" max="1" min="1"/>
+                <reward chance="74" item_id="8604" max="1" min="1"/>
+                <reward chance="12" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="77.7921" item_id="36531" max="1" min="1"/>
+            <reward chance="1.2912" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36881" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36882" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21005">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="177" min="75"/>
+            <reward chance="1.7603" item_id="4050" max="1" min="1"/>
+            <reward chance="0.8000" item_id="45929" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45930" max="1" min="1"/>
+            <reward chance="0.2188" item_id="4108" max="1" min="1"/>
+            <reward chance="0.2033" item_id="4104" max="1" min="1"/>
+            <reward chance="0.1486" item_id="4107" max="1" min="1"/>
+            <reward chance="0.0782" item_id="36542" max="1" min="1"/>
+            <reward chance="0.0469" item_id="36537" max="1" min="1"/>
+            <reward chance="0.0313" item_id="4129" max="1" min="1"/>
+            <reward chance="0.0313" item_id="4167" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0300" item_id="947" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+            <reward chance="0.0030" item_id="4197" max="1" min="1"/>
+            <reward chance="0.0010" item_id="148" max="1" min="1"/>
+            <reward chance="0.0010" item_id="142" max="1" min="1"/>
+            <reward chance="0.0010" item_id="78" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="14" item_id="8603" max="1" min="1"/>
+                <reward chance="74" item_id="8604" max="1" min="1"/>
+                <reward chance="12" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="81.1454" item_id="36531" max="1" min="1"/>
+            <reward chance="1.9949" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36881" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36882" max="1" min="1"/>
+            <reward chance="0.0644" item_id="37045" max="57" min="57"/>
+        </rewardlist>
+    </loot>
+    <loot id="21006">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="158" min="68"/>
+            <reward chance="0.8000" item_id="45929" max="1" min="1"/>
+            <reward chance="0.6711" item_id="4057" max="1" min="1"/>
+            <reward chance="0.5076" item_id="4065" max="1" min="1"/>
+            <reward chance="0.4902" item_id="4066" max="1" min="1"/>
+            <reward chance="0.4386" item_id="4064" max="1" min="1"/>
+            <reward chance="0.3279" item_id="4056" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45930" max="1" min="1"/>
+            <reward chance="0.1000" item_id="948" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0172" item_id="4173" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+            <reward chance="0.0086" item_id="4130" max="1" min="1"/>
+            <reward chance="0.0086" item_id="36542" max="1" min="1"/>
+            <reward chance="0.0030" item_id="357" max="1" min="1"/>
+            <reward chance="0.0030" item_id="383" max="1" min="1"/>
+            <reward chance="0.0030" item_id="2376" max="1" min="1"/>
+            <reward chance="0.0030" item_id="2379" max="1" min="1"/>
+            <reward chance="0.0020" item_id="4193" max="1" min="1"/>
+            <reward chance="0.0020" item_id="5003" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="14" item_id="8603" max="1" min="1"/>
+                <reward chance="74" item_id="8604" max="1" min="1"/>
+                <reward chance="12" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="70.7317" item_id="36531" max="1" min="1"/>
+            <reward chance="1.3843" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36881" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36882" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21007">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="168" min="72"/>
+            <reward chance="5.4818" item_id="1832" max="1" min="1"/>
+            <reward chance="1.7458" item_id="4051" max="1" min="1"/>
+            <reward chance="0.8000" item_id="45929" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45930" max="1" min="1"/>
+            <reward chance="0.2793" item_id="4105" max="1" min="1"/>
+            <reward chance="0.2096" item_id="4106" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4166" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4998" max="1" min="1"/>
+            <reward chance="0.0300" item_id="948" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0100" item_id="4621" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+            <reward chance="0.0055" item_id="4981" max="1" min="1"/>
+            <reward chance="0.0030" item_id="91" max="1" min="1"/>
+            <reward chance="0.0030" item_id="92" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="14" item_id="8603" max="1" min="1"/>
+                <reward chance="74" item_id="8604" max="1" min="1"/>
+                <reward chance="12" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="80.7407" item_id="36531" max="1" min="1"/>
+            <reward chance="1.8518" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36881" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36882" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21008">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="207" min="89"/>
+            <reward chance="1.7705" item_id="4096" max="1" min="1"/>
+            <reward chance="1.6393" item_id="4099" max="1" min="1"/>
+            <reward chance="1.4426" item_id="4052" max="1" min="1"/>
+            <reward chance="1.4426" item_id="4090" max="1" min="1"/>
+            <reward chance="0.8547" item_id="4091" max="1" min="1"/>
+            <reward chance="0.8000" item_id="45929" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36547" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0100" item_id="5276" max="1" min="1"/>
+            <reward chance="0.0100" item_id="5230" max="1" min="1"/>
+            <reward chance="0.0100" item_id="4983" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+            <reward chance="0.0055" item_id="601" max="1" min="1"/>
+            <reward chance="0.0055" item_id="2439" max="1" min="1"/>
+            <reward chance="0.0055" item_id="2475" max="1" min="1"/>
+            <reward chance="0.0055" item_id="2487" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="14" item_id="8603" max="1" min="1"/>
+                <reward chance="74" item_id="8604" max="1" min="1"/>
+                <reward chance="12" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="6.4706" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36881" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36882" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21009">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="172" min="73"/>
+            <reward chance="0.9709" item_id="4052" max="1" min="1"/>
+            <reward chance="0.8000" item_id="45929" max="1" min="1"/>
+            <reward chance="0.5650" item_id="4080" max="1" min="1"/>
+            <reward chance="0.3584" item_id="4078" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45930" max="1" min="1"/>
+            <reward chance="0.3003" item_id="948" max="1" min="1"/>
+            <reward chance="0.2519" item_id="4081" max="1" min="1"/>
+            <reward chance="0.1297" item_id="4104" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0153" item_id="36552" max="1" min="1"/>
+            <reward chance="0.0100" item_id="2381" max="1" min="1"/>
+            <reward chance="0.0100" item_id="2380" max="1" min="1"/>
+            <reward chance="0.0100" item_id="358" max="1" min="1"/>
+            <reward chance="0.0100" item_id="5281" max="1" min="1"/>
+            <reward chance="0.0100" item_id="5004" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="14" item_id="8603" max="1" min="1"/>
+                <reward chance="74" item_id="8604" max="1" min="1"/>
+                <reward chance="12" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="2.6741" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36881" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36882" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21010">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="204" min="87"/>
+            <reward chance="0.5000" item_id="45929" max="1" min="1"/>
+            <reward chance="0.4098" item_id="4120" max="1" min="1"/>
+            <reward chance="0.2000" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0300" item_id="3956" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4129" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5230" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0182" item_id="36557" max="1" min="1"/>
+            <reward chance="0.0100" item_id="4624" max="1" min="1"/>
+            <reward chance="0.0100" item_id="4621" max="1" min="1"/>
+            <reward chance="0.0100" item_id="268" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="14" item_id="8603" max="1" min="1"/>
+                <reward chance="74" item_id="8604" max="1" min="1"/>
+                <reward chance="12" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="2.9434" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36881" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36882" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21011">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="27" min="24"/>
+            <reward chance="2.4090" item_id="36526" max="1" min="1"/>
+            <reward chance="2.2850" item_id="36516" max="1" min="1"/>
+            <reward chance="1.2880" item_id="1900" max="1" min="1"/>
+            <reward chance="1.2470" item_id="1832" max="1" min="1"/>
+            <reward chance="0.7519" item_id="1061" max="1" min="1"/>
+            <reward chance="0.2000" item_id="36561" max="1" min="1"/>
+            <reward chance="0.2000" item_id="36551" max="1" min="1"/>
+            <reward chance="0.0750" item_id="46" max="1" min="1"/>
+            <reward chance="0.0750" item_id="627" max="1" min="1"/>
+            <reward chance="0.0750" item_id="2185" max="1" min="1"/>
+            <reward chance="0.0100" item_id="2274" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="26" item_id="8603" max="1" min="1"/>
+                <reward chance="65" item_id="8604" max="1" min="1"/>
+                <reward chance="9" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="64.3400" item_id="36531" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21012">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="34" min="16"/>
+            <reward chance="4.1900" item_id="1833" max="1" min="1"/>
+            <reward chance="0.7519" item_id="1936" max="1" min="1"/>
+            <reward chance="0.7519" item_id="36536" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36556" max="1" min="1"/>
+            <reward chance="0.3003" item_id="2024" max="1" min="1"/>
+            <reward chance="0.0750" item_id="2185" max="1" min="1"/>
+            <reward chance="0.0750" item_id="2153" max="1" min="1"/>
+            <reward chance="0.0030" item_id="2273" max="1" min="1"/>
+            <reward chance="0.0030" item_id="275" max="1" min="1"/>
+            <reward chance="0.0030" item_id="276" max="1" min="1"/>
+            <reward chance="0.0030" item_id="2264" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="23" item_id="8603" max="1" min="1"/>
+                <reward chance="66" item_id="8604" max="1" min="1"/>
+                <reward chance="11" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="80.3300" item_id="36531" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21013">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="40" min="18"/>
+            <reward chance="2.0250" item_id="1061" max="1" min="1"/>
+            <reward chance="1.1570" item_id="36541" max="1" min="1"/>
+            <reward chance="1.0000" item_id="1933" max="1" min="1"/>
+            <reward chance="0.7519" item_id="1900" max="1" min="1"/>
+            <reward chance="0.3003" item_id="2023" max="1" min="1"/>
+            <reward chance="0.3003" item_id="737" max="1" min="1"/>
+            <reward chance="0.0750" item_id="848" max="1" min="1"/>
+            <reward chance="0.0750" item_id="879" max="1" min="1"/>
+            <reward chance="0.0300" item_id="911" max="1" min="1"/>
+            <reward chance="0.0300" item_id="2187" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="23" item_id="8603" max="1" min="1"/>
+                <reward chance="66" item_id="8604" max="1" min="1"/>
+                <reward chance="11" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="100.0000" item_id="36531" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21014">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="42" min="19"/>
+            <reward chance="1.2220" item_id="1958" max="1" min="1"/>
+            <reward chance="1.0570" item_id="36536" max="1" min="1"/>
+            <reward chance="0.3003" item_id="2030" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36561" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36546" max="1" min="1"/>
+            <reward chance="0.0750" item_id="2977" max="1" min="1"/>
+            <reward chance="0.0300" item_id="2189" max="1" min="1"/>
+            <reward chance="0.0030" item_id="2286" max="1" min="1"/>
+            <reward chance="0.0030" item_id="316" max="1" min="1"/>
+            <reward chance="0.0030" item_id="317" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="23" item_id="8603" max="1" min="1"/>
+                <reward chance="66" item_id="8604" max="1" min="1"/>
+                <reward chance="11" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="53.8461" item_id="36531" max="3" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21015">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="42" min="19"/>
+            <reward chance="5.3191" item_id="36516" max="1" min="1"/>
+            <reward chance="1.1530" item_id="1940" max="1" min="1"/>
+            <reward chance="0.7519" item_id="36541" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36551" max="1" min="1"/>
+            <reward chance="0.0750" item_id="2026" max="1" min="1"/>
+            <reward chance="0.0750" item_id="2978" max="1" min="1"/>
+            <reward chance="0.0030" item_id="130" max="1" min="1"/>
+            <reward chance="0.0030" item_id="127" max="1" min="1"/>
+            <reward chance="0.0030" item_id="124" max="1" min="1"/>
+            <reward chance="0.0030" item_id="83" max="1" min="1"/>
+            <reward chance="0.0030" item_id="2280" max="1" min="1"/>
+            <reward chance="0.0030" item_id="144" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="23" item_id="8603" max="1" min="1"/>
+                <reward chance="66" item_id="8604" max="1" min="1"/>
+                <reward chance="11" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="50.0000" item_id="36531" max="3" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21016">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="38" min="38"/>
+            <reward chance="1.9220" item_id="36521" max="1" min="1"/>
+            <reward chance="1.0670" item_id="1901" max="1" min="1"/>
+            <reward chance="0.7519" item_id="36556" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36546" max="1" min="1"/>
+            <reward chance="0.0750" item_id="2191" max="1" min="1"/>
+            <reward chance="0.0300" item_id="378" max="1" min="1"/>
+            <reward chance="0.0300" item_id="350" max="1" min="1"/>
+            <reward chance="0.0300" item_id="349" max="1" min="1"/>
+            <reward chance="0.0300" item_id="59" max="1" min="1"/>
+            <reward chance="0.0300" item_id="58" max="1" min="1"/>
+            <reward chance="0.0300" item_id="379" max="1" min="1"/>
+            <reward chance="0.0055" item_id="351" max="1" min="1"/>
+            <reward chance="0.0030" item_id="2276" max="1" min="1"/>
+            <reward chance="0.0030" item_id="2293" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="23" item_id="8603" max="1" min="1"/>
+                <reward chance="66" item_id="8604" max="1" min="1"/>
+                <reward chance="11" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="53.0700" item_id="36531" max="3" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21017">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="138" min="59"/>
+            <reward chance="1.2985" item_id="36536" max="1" min="1"/>
+            <reward chance="0.7519" item_id="45929" max="1" min="1"/>
+            <reward chance="0.7143" item_id="1989" max="1" min="1"/>
+            <reward chance="0.7143" item_id="1985" max="1" min="1"/>
+            <reward chance="0.5952" item_id="1984" max="1" min="1"/>
+            <reward chance="0.5236" item_id="1987" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45930" max="1" min="1"/>
+            <reward chance="0.2833" item_id="36561" max="1" min="1"/>
+            <reward chance="0.0448" item_id="36522" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0300" item_id="420" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36930" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36902" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36872" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36864" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5280" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4189" max="1" min="1"/>
+            <reward chance="0.0300" item_id="1806" max="1" min="1"/>
+            <reward chance="0.0100" item_id="400" max="1" min="1"/>
+            <reward chance="0.0100" item_id="401" max="1" min="1"/>
+            <reward chance="0.0100" item_id="36547" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+            <reward chance="0.0055" item_id="4940" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="14" item_id="8603" max="1" min="1"/>
+                <reward chance="74" item_id="8604" max="1" min="1"/>
+                <reward chance="12" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="53.3708" item_id="36531" max="3" min="1"/>
+            <reward chance="1.1236" item_id="36532" max="1" min="1"/>
+            <reward chance="0.5618" item_id="19487" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21018">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="176" min="75"/>
+            <reward chance="7.6291" item_id="36526" max="1" min="1"/>
+            <reward chance="1.9493" item_id="2961" max="1" min="1"/>
+            <reward chance="1.7541" item_id="4049" max="1" min="1"/>
+            <reward chance="0.6993" item_id="45929" max="1" min="1"/>
+            <reward chance="0.3311" item_id="36551" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45930" max="1" min="1"/>
+            <reward chance="0.1499" item_id="4105" max="1" min="1"/>
+            <reward chance="0.1499" item_id="4106" max="1" min="1"/>
+            <reward chance="0.0454" item_id="36537" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36938" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36914" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36872" max="1" min="1"/>
+            <reward chance="0.0300" item_id="8309" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4999" max="1" min="1"/>
+            <reward chance="0.0200" item_id="4950" max="1" min="1"/>
+            <reward chance="0.0159" item_id="4947" max="1" min="1"/>
+            <reward chance="0.0100" item_id="91" max="1" min="1"/>
+            <reward chance="0.0100" item_id="92" max="1" min="1"/>
+            <reward chance="0.0100" item_id="36562" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="14" item_id="8603" max="1" min="1"/>
+                <reward chance="74" item_id="8604" max="1" min="1"/>
+                <reward chance="12" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="66.2437" item_id="36531" max="3" min="1"/>
+            <reward chance="2.4535" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21019">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="186" min="79"/>
+            <reward chance="7.1375" item_id="36516" max="1" min="1"/>
+            <reward chance="3.9700" item_id="2964" max="1" min="1"/>
+            <reward chance="1.2305" item_id="36541" max="1" min="1"/>
+            <reward chance="0.6993" item_id="45929" max="1" min="1"/>
+            <reward chance="0.3876" item_id="4111" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45930" max="1" min="1"/>
+            <reward chance="0.1825" item_id="36527" max="1" min="1"/>
+            <reward chance="0.1499" item_id="4950" max="1" min="1"/>
+            <reward chance="0.1401" item_id="4176" max="1" min="1"/>
+            <reward chance="0.1401" item_id="4129" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4964" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5003" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36888" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36922" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0100" item_id="36552" max="1" min="1"/>
+            <reward chance="0.0100" item_id="267" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="14" item_id="8603" max="1" min="1"/>
+                <reward chance="74" item_id="8604" max="1" min="1"/>
+                <reward chance="12" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="70.3248" item_id="36531" max="3" min="1"/>
+            <reward chance="3.5118" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21020">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="201" min="86"/>
+            <reward chance="17.3571" item_id="1832" max="1" min="1"/>
+            <reward chance="1.9071" item_id="4050" max="1" min="1"/>
+            <reward chance="0.2398" item_id="1987" max="1" min="1"/>
+            <reward chance="0.2398" item_id="4104" max="1" min="1"/>
+            <reward chance="0.2398" item_id="4107" max="1" min="1"/>
+            <reward chance="0.1056" item_id="4108" max="1" min="1"/>
+            <reward chance="0.1000" item_id="36542" max="1" min="1"/>
+            <reward chance="0.1000" item_id="4952" max="1" min="1"/>
+            <reward chance="0.1000" item_id="4167" max="1" min="1"/>
+            <reward chance="0.0100" item_id="78" max="1" min="1"/>
+            <reward chance="0.0100" item_id="142" max="1" min="1"/>
+            <reward chance="0.0100" item_id="148" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="14" item_id="8603" max="1" min="1"/>
+                <reward chance="74" item_id="8604" max="1" min="1"/>
+                <reward chance="12" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="76.6582" item_id="36531" max="3" min="1"/>
+            <reward chance="2.9337" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+            <reward chance="0.1276" item_id="19487" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21021">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="184" min="78"/>
+            <reward chance="1.7810" item_id="36536" max="1" min="1"/>
+            <reward chance="1.1747" item_id="36556" max="1" min="1"/>
+            <reward chance="0.8000" item_id="45929" max="1" min="1"/>
+            <reward chance="0.6061" item_id="4112" max="1" min="1"/>
+            <reward chance="0.3663" item_id="36546" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45930" max="1" min="1"/>
+            <reward chance="0.2020" item_id="36517" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4613" max="1" min="1"/>
+            <reward chance="0.0300" item_id="947" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36930" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36889" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36888" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5001" max="1" min="1"/>
+            <reward chance="0.0200" item_id="4998" max="1" min="1"/>
+            <reward chance="0.0200" item_id="4130" max="1" min="1"/>
+            <reward chance="0.0100" item_id="284" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="14" item_id="8603" max="1" min="1"/>
+                <reward chance="74" item_id="8604" max="1" min="1"/>
+                <reward chance="12" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="66.4928" item_id="36531" max="3" min="1"/>
+            <reward chance="2.8683" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+            <reward chance="0.1304" item_id="19487" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21022">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="190" min="81"/>
+            <reward chance="3.3631" item_id="36521" max="1" min="1"/>
+            <reward chance="2.0089" item_id="4049" max="1" min="1"/>
+            <reward chance="1.3095" item_id="4070" max="1" min="1"/>
+            <reward chance="0.8000" item_id="45929" max="1" min="1"/>
+            <reward chance="0.7874" item_id="4069" max="1" min="1"/>
+            <reward chance="0.7299" item_id="4071" max="1" min="1"/>
+            <reward chance="0.4405" item_id="4130" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45930" max="1" min="1"/>
+            <reward chance="0.1401" item_id="4998" max="1" min="1"/>
+            <reward chance="0.0550" item_id="2402" max="1" min="1"/>
+            <reward chance="0.0550" item_id="2397" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0300" item_id="947" max="1" min="1"/>
+            <reward chance="0.0300" item_id="2406" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36938" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36901" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5001" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36557" max="1" min="1"/>
+            <reward chance="0.0149" item_id="36537" max="1" min="1"/>
+            <reward chance="0.0100" item_id="4613" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+            <reward chance="0.0055" item_id="36547" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="14" item_id="8603" max="1" min="1"/>
+                <reward chance="74" item_id="8604" max="1" min="1"/>
+                <reward chance="12" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="85.2941" item_id="36531" max="1" min="1"/>
+            <reward chance="1.4706" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36881" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36882" max="1" min="1"/>
+            <reward chance="0.1634" item_id="19487" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21023">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="23" min="10"/>
+            <reward chance="2.3560" item_id="36526" max="1" min="1"/>
+            <reward chance="0.7519" item_id="36521" max="1" min="1"/>
+            <reward chance="0.7519" item_id="36536" max="1" min="1"/>
+            <reward chance="0.3003" item_id="2019" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36556" max="1" min="1"/>
+            <reward chance="0.0750" item_id="36551" max="1" min="1"/>
+            <reward chance="0.0030" item_id="2260" max="1" min="1"/>
+            <reward chance="0.0030" item_id="2263" max="1" min="1"/>
+            <reward chance="0.0030" item_id="156" max="1" min="1"/>
+            <reward chance="0.0030" item_id="167" max="1" min="1"/>
+            <reward chance="0.0030" item_id="178" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="26" item_id="8603" max="1" min="1"/>
+                <reward chance="65" item_id="8604" max="1" min="1"/>
+                <reward chance="9" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="52.4700" item_id="36531" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21024">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="24" min="10"/>
+            <reward chance="1.6070" item_id="1899" max="1" min="1"/>
+            <reward chance="1.3800" item_id="1934" max="1" min="1"/>
+            <reward chance="0.7519" item_id="36536" max="1" min="1"/>
+            <reward chance="0.7519" item_id="2178" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36556" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36561" max="1" min="1"/>
+            <reward chance="0.3003" item_id="2180" max="1" min="1"/>
+            <reward chance="0.0100" item_id="220" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="26" item_id="8603" max="1" min="1"/>
+                <reward chance="65" item_id="8604" max="1" min="1"/>
+                <reward chance="9" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="55.3600" item_id="36531" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21025">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="25" min="12"/>
+            <reward chance="2.8970" item_id="36526" max="1" min="1"/>
+            <reward chance="2.6640" item_id="36516" max="1" min="1"/>
+            <reward chance="0.7519" item_id="2152" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36541" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36561" max="1" min="1"/>
+            <reward chance="0.3003" item_id="2019" max="1" min="1"/>
+            <reward chance="0.3003" item_id="2180" max="1" min="1"/>
+            <reward chance="0.0300" item_id="291" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="26" item_id="8603" max="1" min="1"/>
+                <reward chance="65" item_id="8604" max="1" min="1"/>
+                <reward chance="9" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="60.1400" item_id="36531" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21026">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="27" min="12"/>
+            <reward chance="1.5970" item_id="1834" max="1" min="1"/>
+            <reward chance="0.8850" item_id="36516" max="1" min="1"/>
+            <reward chance="0.7519" item_id="2191" max="1" min="1"/>
+            <reward chance="0.7519" item_id="1900" max="1" min="1"/>
+            <reward chance="0.7519" item_id="2024" max="1" min="1"/>
+            <reward chance="0.7519" item_id="2025" max="1" min="1"/>
+            <reward chance="0.3003" item_id="737" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36546" max="1" min="1"/>
+            <reward chance="0.0300" item_id="2274" max="1" min="1"/>
+            <reward chance="0.0100" item_id="275" max="1" min="1"/>
+            <reward chance="0.0100" item_id="276" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="26" item_id="8603" max="1" min="1"/>
+                <reward chance="65" item_id="8604" max="1" min="1"/>
+                <reward chance="9" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="62.3600" item_id="36531" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21035">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="545" min="234"/>
+            <reward chance="1.4194" item_id="36551" max="1" min="1"/>
+            <reward chance="1.0000" item_id="2205" max="1" min="1"/>
+            <reward chance="0.9009" item_id="2989" max="1" min="1"/>
+            <reward chance="0.9009" item_id="2997" max="1" min="1"/>
+            <reward chance="0.7299" item_id="4173" max="1" min="1"/>
+            <reward chance="0.5525" item_id="2458" max="1" min="1"/>
+            <reward chance="0.1650" item_id="285" max="1" min="1"/>
+            <reward chance="0.0707" item_id="4155" max="1" min="1"/>
+            <reward chance="0.0707" item_id="2308" max="1" min="1"/>
+            <reward chance="0.0354" item_id="948" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36888" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36938" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="23" item_id="8603" max="1" min="1"/>
+                <reward chance="66" item_id="8604" max="1" min="1"/>
+                <reward chance="11" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="88.5701" item_id="36531" max="13" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+            <reward chance="0.2801" item_id="5067" max="31" min="29"/>
+            <reward chance="0.2801" item_id="5071" max="10" min="10"/>
+        </rewardlist>
+    </loot>
+    <loot id="21036">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="601" min="257"/>
+            <reward chance="0.7194" item_id="45929" max="1" min="1"/>
+            <reward chance="0.5236" item_id="632" max="1" min="1"/>
+            <reward chance="0.4098" item_id="4164" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45930" max="1" min="1"/>
+            <reward chance="0.1000" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0550" item_id="947" max="1" min="1"/>
+            <reward chance="0.0300" item_id="94" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45932" max="1" min="1"/>
+            <reward chance="0.0250" item_id="4196" max="1" min="1"/>
+            <reward chance="0.0250" item_id="2318" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="23" item_id="8603" max="1" min="1"/>
+                <reward chance="66" item_id="8604" max="1" min="1"/>
+                <reward chance="11" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="84.6240" item_id="36531" max="15" min="1"/>
+            <reward chance="0.3003" item_id="1458" max="8" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+            <reward chance="0.1869" item_id="5071" max="11" min="10"/>
+        </rewardlist>
+    </loot>
+    <loot id="21037">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="785" min="336"/>
+            <reward chance="34.0729" item_id="36516" max="1" min="1"/>
+            <reward chance="5.8663" item_id="36556" max="1" min="1"/>
+            <reward chance="1.5000" item_id="45929" max="1" min="1"/>
+            <reward chance="0.9009" item_id="45930" max="1" min="1"/>
+            <reward chance="0.3003" item_id="4166" max="1" min="1"/>
+            <reward chance="0.3003" item_id="4160" max="1" min="1"/>
+            <reward chance="0.2732" item_id="500" max="1" min="1"/>
+            <reward chance="0.1976" item_id="853" max="1" min="1"/>
+            <reward chance="0.1215" item_id="2225" max="1" min="1"/>
+            <reward chance="0.1000" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0550" item_id="2345" max="1" min="1"/>
+            <reward chance="0.0550" item_id="2344" max="1" min="1"/>
+            <reward chance="0.0550" item_id="2329" max="1" min="1"/>
+            <reward chance="0.0300" item_id="195" max="1" min="1"/>
+            <reward chance="0.0300" item_id="133" max="1" min="1"/>
+            <reward chance="0.0300" item_id="131" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4198" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="23" item_id="8603" max="1" min="1"/>
+                <reward chance="66" item_id="8604" max="1" min="1"/>
+                <reward chance="11" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="87.8234" item_id="36531" max="21" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21038">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="762" min="327"/>
+            <reward chance="15.1173" item_id="36521" max="1" min="1"/>
+            <reward chance="1.4619" item_id="36561" max="1" min="1"/>
+            <reward chance="1.3000" item_id="45929" max="1" min="1"/>
+            <reward chance="0.9804" item_id="2166" max="1" min="1"/>
+            <reward chance="0.8547" item_id="4130" max="1" min="1"/>
+            <reward chance="0.8000" item_id="45930" max="1" min="1"/>
+            <reward chance="0.7874" item_id="2224" max="1" min="1"/>
+            <reward chance="0.5917" item_id="884" max="1" min="1"/>
+            <reward chance="0.5102" item_id="2457" max="1" min="1"/>
+            <reward chance="0.3215" item_id="952" max="1" min="1"/>
+            <reward chance="0.1000" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0328" item_id="227" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36922" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4193" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="23" item_id="8603" max="1" min="1"/>
+                <reward chance="66" item_id="8604" max="1" min="1"/>
+                <reward chance="11" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="85.4329" item_id="36531" max="19" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21039">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="549" min="236"/>
+            <reward chance="41.9386" item_id="36516" max="1" min="1"/>
+            <reward chance="6.2035" item_id="36556" max="1" min="1"/>
+            <reward chance="0.5181" item_id="2456" max="1" min="1"/>
+            <reward chance="0.3559" item_id="2162" max="1" min="1"/>
+            <reward chance="0.1292" item_id="36889" max="1" min="1"/>
+            <reward chance="0.0750" item_id="4167" max="1" min="1"/>
+            <reward chance="0.0300" item_id="2312" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5159" max="1" min="1"/>
+            <reward chance="0.0300" item_id="242" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4158" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="23" item_id="8603" max="1" min="1"/>
+                <reward chance="66" item_id="8604" max="1" min="1"/>
+                <reward chance="11" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="89.7790" item_id="36531" max="13" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21040">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="806" min="346"/>
+            <reward chance="24.3353" item_id="36526" max="3" min="1"/>
+            <reward chance="17.7157" item_id="1967" max="1" min="1"/>
+            <reward chance="1.0000" item_id="45929" max="1" min="1"/>
+            <reward chance="0.6993" item_id="45930" max="1" min="1"/>
+            <reward chance="0.6369" item_id="2456" max="1" min="1"/>
+            <reward chance="0.5000" item_id="2224" max="1" min="1"/>
+            <reward chance="0.4000" item_id="5422" max="1" min="1"/>
+            <reward chance="0.3356" item_id="952" max="1" min="1"/>
+            <reward chance="0.1000" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0300" item_id="242" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36930" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36872" max="1" min="1"/>
+            <reward chance="0.0300" item_id="36856" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="23" item_id="8603" max="1" min="1"/>
+                <reward chance="66" item_id="8604" max="1" min="1"/>
+                <reward chance="11" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="91.2418" item_id="36531" max="19" min="1"/>
+            <reward chance="0.0750" item_id="36880" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21061">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="816" min="402"/>
+            <reward chance="25.0039" item_id="34992" max="1" min="1"/>
+            <reward chance="10.0015" item_id="1873" max="1" min="1"/>
+            <reward chance="7.1440" item_id="1895" max="1" min="1"/>
+            <reward chance="5.0008" item_id="34991" max="1" min="1"/>
+            <reward chance="0.4926" item_id="5524" max="1" min="1"/>
+            <reward chance="0.4167" item_id="4042" max="1" min="1"/>
+            <reward chance="0.3226" item_id="5520" max="1" min="1"/>
+            <reward chance="0.2778" item_id="45929" max="1" min="1"/>
+            <reward chance="0.2278" item_id="5521" max="1" min="1"/>
+            <reward chance="0.0694" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0243" item_id="5422" max="1" min="1"/>
+            <reward chance="0.0208" item_id="730" max="1" min="1"/>
+            <reward chance="0.0191" item_id="5000" max="1" min="1"/>
+            <reward chance="0.0070" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0045" item_id="5288" max="1" min="1"/>
+            <reward chance="0.0028" item_id="5287" max="1" min="1"/>
+            <reward chance="0.0017" item_id="5293" max="1" min="1"/>
+            <reward chance="0.0014" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="72.5557" item_id="1895" max="7" min="1"/>
+            <reward chance="8.5417" item_id="5478" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21063">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="1761" min="865"/>
+            <reward chance="29.3871" item_id="34992" max="1" min="1"/>
+            <reward chance="10.7796" item_id="1865" max="6" min="2"/>
+            <reward chance="5.9886" item_id="34991" max="2" min="1"/>
+            <reward chance="5.1331" item_id="1868" max="30" min="10"/>
+            <reward chance="2.6949" item_id="1873" max="12" min="4"/>
+            <reward chance="1.0625" item_id="5524" max="1" min="1"/>
+            <reward chance="0.6944" item_id="5520" max="1" min="1"/>
+            <reward chance="0.5988" item_id="45929" max="1" min="1"/>
+            <reward chance="0.4902" item_id="5521" max="1" min="1"/>
+            <reward chance="0.1497" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0718" item_id="5281" max="1" min="1"/>
+            <reward chance="0.0294" item_id="8314" max="1" min="1"/>
+            <reward chance="0.0149" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0097" item_id="5288" max="1" min="1"/>
+            <reward chance="0.0060" item_id="5287" max="1" min="1"/>
+            <reward chance="0.0060" item_id="729" max="1" min="1"/>
+            <reward chance="0.0037" item_id="5293" max="1" min="1"/>
+            <reward chance="0.0030" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="87.5838" item_id="5220" max="1" min="1"/>
+            <reward chance="18.4123" item_id="5478" max="1" min="1"/>
+            <reward chance="2.9195" item_id="1807" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21064">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="906" min="444"/>
+            <reward chance="22.1866" item_id="34992" max="2" min="2"/>
+            <reward chance="12.3259" item_id="34990" max="1" min="1"/>
+            <reward chance="8.6667" item_id="1344" max="120" min="40"/>
+            <reward chance="3.6978" item_id="1881" max="1" min="1"/>
+            <reward chance="1.8489" item_id="1875" max="1" min="1"/>
+            <reward chance="0.5464" item_id="5524" max="1" min="1"/>
+            <reward chance="0.4505" item_id="4130" max="1" min="1"/>
+            <reward chance="0.3571" item_id="5520" max="1" min="1"/>
+            <reward chance="0.3077" item_id="45929" max="1" min="1"/>
+            <reward chance="0.2525" item_id="5521" max="1" min="1"/>
+            <reward chance="0.2410" item_id="34991" max="23" min="23"/>
+            <reward chance="0.0770" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0555" item_id="4403" max="1" min="1"/>
+            <reward chance="0.0077" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0050" item_id="5288" max="1" min="1"/>
+            <reward chance="0.0031" item_id="5287" max="1" min="1"/>
+            <reward chance="0.0019" item_id="5293" max="1" min="1"/>
+            <reward chance="0.0015" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="5.3333" item_id="5479" max="1" min="1"/>
+            <reward chance="3.9452" item_id="4119" max="1" min="1"/>
+            <reward chance="1.2018" item_id="5230" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21065">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="1022" min="500"/>
+            <reward chance="27.2681" item_id="34992" max="2" min="2"/>
+            <reward chance="15.1489" item_id="34990" max="1" min="1"/>
+            <reward chance="4.5447" item_id="1881" max="1" min="1"/>
+            <reward chance="2.2723" item_id="1875" max="1" min="1"/>
+            <reward chance="1.0990" item_id="5496" max="1" min="1"/>
+            <reward chance="1.0990" item_id="5497" max="1" min="1"/>
+            <reward chance="1.0990" item_id="5508" max="1" min="1"/>
+            <reward chance="1.0990" item_id="5509" max="1" min="1"/>
+            <reward chance="0.3788" item_id="45929" max="1" min="1"/>
+            <reward chance="0.2967" item_id="34991" max="23" min="23"/>
+            <reward chance="0.2257" item_id="4164" max="1" min="1"/>
+            <reward chance="0.0947" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0682" item_id="4401" max="1" min="1"/>
+            <reward chance="0.0105" item_id="5290" max="1" min="1"/>
+            <reward chance="0.0105" item_id="5296" max="1" min="1"/>
+            <reward chance="0.0105" item_id="5295" max="1" min="1"/>
+            <reward chance="0.0105" item_id="5291" max="1" min="1"/>
+            <reward chance="0.0095" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0019" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="4.4373" item_id="4120" max="1" min="1"/>
+            <reward chance="1.3539" item_id="1807" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21066">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="1027" min="504"/>
+            <reward chance="12.5786" item_id="34992" max="4" min="4"/>
+            <reward chance="12.5786" item_id="1873" max="1" min="1"/>
+            <reward chance="4.1928" item_id="34991" max="8" min="8"/>
+            <reward chance="3.4940" item_id="6671" max="1" min="1"/>
+            <reward chance="2.0964" item_id="1889" max="1" min="1"/>
+            <reward chance="1.3208" item_id="5494" max="1" min="1"/>
+            <reward chance="1.0482" item_id="4044" max="1" min="1"/>
+            <reward chance="0.9709" item_id="5525" max="1" min="1"/>
+            <reward chance="0.9709" item_id="5526" max="1" min="1"/>
+            <reward chance="0.2915" item_id="45929" max="1" min="1"/>
+            <reward chance="0.0728" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0434" item_id="4613" max="1" min="1"/>
+            <reward chance="0.0134" item_id="5292" max="1" min="1"/>
+            <reward chance="0.0094" item_id="5289" max="1" min="1"/>
+            <reward chance="0.0094" item_id="5294" max="1" min="1"/>
+            <reward chance="0.0073" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0035" item_id="729" max="1" min="1"/>
+            <reward chance="0.0015" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="13.4892" item_id="5482" max="1" min="1"/>
+            <reward chance="10.0730" item_id="4081" max="1" min="1"/>
+            <reward chance="1.3627" item_id="5230" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21068">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="2416" min="1185"/>
+            <reward chance="21.1215" item_id="34992" max="1" min="1"/>
+            <reward chance="16.1292" item_id="34991" max="1" min="1"/>
+            <reward chance="7.6806" item_id="1872" max="21" min="7"/>
+            <reward chance="6.7205" item_id="34990" max="3" min="1"/>
+            <reward chance="4.4803" item_id="1867" max="36" min="12"/>
+            <reward chance="1.4574" item_id="5524" max="1" min="1"/>
+            <reward chance="0.9524" item_id="5520" max="1" min="1"/>
+            <reward chance="0.7463" item_id="45929" max="1" min="1"/>
+            <reward chance="0.6711" item_id="5521" max="1" min="1"/>
+            <reward chance="0.1866" item_id="45930" max="1" min="1"/>
+            <reward chance="0.1613" item_id="4402" max="1" min="1"/>
+            <reward chance="0.0187" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0133" item_id="5288" max="1" min="1"/>
+            <reward chance="0.0090" item_id="729" max="1" min="1"/>
+            <reward chance="0.0083" item_id="5287" max="1" min="1"/>
+            <reward chance="0.0051" item_id="5293" max="1" min="1"/>
+            <reward chance="0.0037" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="20.2033" item_id="5485" max="1" min="1"/>
+            <reward chance="14.2164" item_id="5479" max="1" min="1"/>
+            <reward chance="3.2034" item_id="3035" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21069">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="1300" min="637"/>
+            <reward chance="26.8297" item_id="34991" max="24" min="24"/>
+            <reward chance="19.8853" item_id="34992" max="1" min="1"/>
+            <reward chance="1.5908" item_id="34990" max="2" min="2"/>
+            <reward chance="1.3989" item_id="5496" max="1" min="1"/>
+            <reward chance="1.3989" item_id="5497" max="1" min="1"/>
+            <reward chance="1.3989" item_id="5508" max="1" min="1"/>
+            <reward chance="1.3989" item_id="5509" max="1" min="1"/>
+            <reward chance="0.7937" item_id="4040" max="1" min="1"/>
+            <reward chance="0.3676" item_id="45929" max="1" min="1"/>
+            <reward chance="0.3460" item_id="4041" max="1" min="1"/>
+            <reward chance="0.0921" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0549" item_id="4619" max="1" min="1"/>
+            <reward chance="0.0386" item_id="5422" max="1" min="1"/>
+            <reward chance="0.0298" item_id="10302" max="1" min="1"/>
+            <reward chance="0.0134" item_id="5291" max="1" min="1"/>
+            <reward chance="0.0134" item_id="5296" max="1" min="1"/>
+            <reward chance="0.0134" item_id="5290" max="1" min="1"/>
+            <reward chance="0.0134" item_id="5295" max="1" min="1"/>
+            <reward chance="0.0092" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0044" item_id="729" max="1" min="1"/>
+            <reward chance="0.0019" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="26.5874" item_id="4080" max="1" min="1"/>
+            <reward chance="11.2395" item_id="34991" max="23" min="23"/>
+            <reward chance="1.7234" item_id="3035" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21071">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="2514" min="1232"/>
+            <reward chance="6.3117" item_id="34990" max="4" min="4"/>
+            <reward chance="3.8771" item_id="34991" max="29" min="29"/>
+            <reward chance="3.0749" item_id="4039" max="1" min="1"/>
+            <reward chance="3.0749" item_id="4044" max="1" min="1"/>
+            <reward chance="2.0291" item_id="5482" max="1" min="1"/>
+            <reward chance="1.2928" item_id="5478" max="1" min="1"/>
+            <reward chance="0.9091" item_id="5479" max="1" min="1"/>
+            <reward chance="0.8547" item_id="45929" max="1" min="1"/>
+            <reward chance="0.2137" item_id="45930" max="1" min="1"/>
+            <reward chance="0.1845" item_id="4403" max="1" min="1"/>
+            <reward chance="0.0214" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0184" item_id="5298" max="1" min="1"/>
+            <reward chance="0.0115" item_id="5297" max="1" min="1"/>
+            <reward chance="0.0103" item_id="729" max="1" min="1"/>
+            <reward chance="0.0071" item_id="5301" max="1" min="1"/>
+            <reward chance="0.0043" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="32.9756" item_id="5489" max="1" min="1"/>
+            <reward chance="14.7834" item_id="5486" max="1" min="1"/>
+            <reward chance="3.3312" item_id="5156" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21072">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="1067" min="523"/>
+            <reward chance="14.2370" item_id="34992" max="4" min="4"/>
+            <reward chance="14.2370" item_id="1873" max="1" min="1"/>
+            <reward chance="4.7456" item_id="34991" max="8" min="8"/>
+            <reward chance="2.3728" item_id="1889" max="1" min="1"/>
+            <reward chance="1.3703" item_id="5494" max="1" min="1"/>
+            <reward chance="1.1864" item_id="4044" max="1" min="1"/>
+            <reward chance="1.0086" item_id="5525" max="1" min="1"/>
+            <reward chance="1.0086" item_id="5526" max="1" min="1"/>
+            <reward chance="0.3300" item_id="45929" max="1" min="1"/>
+            <reward chance="0.1008" item_id="4984" max="1" min="1"/>
+            <reward chance="0.0824" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0712" item_id="4403" max="1" min="1"/>
+            <reward chance="0.0140" item_id="5292" max="1" min="1"/>
+            <reward chance="0.0098" item_id="5289" max="1" min="1"/>
+            <reward chance="0.0098" item_id="5294" max="1" min="1"/>
+            <reward chance="0.0083" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0016" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="11.9814" item_id="4083" max="1" min="1"/>
+            <reward chance="1.4138" item_id="5161" max="1" min="1"/>
+            <reward chance="1.4138" item_id="5230" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21073">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="303" min="135"/>
+            <reward chance="3.5714" item_id="4052" max="1" min="1"/>
+            <reward chance="3.2468" item_id="1830" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="12.5000" item_id="36532" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21074">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="608" min="298"/>
+            <reward chance="21.6416" item_id="34991" max="4" min="4"/>
+            <reward chance="20.2890" item_id="34992" max="1" min="1"/>
+            <reward chance="1.3526" item_id="1874" max="1" min="1"/>
+            <reward chance="0.6757" item_id="34990" max="2" min="2"/>
+            <reward chance="0.6757" item_id="4043" max="1" min="1"/>
+            <reward chance="0.6536" item_id="5497" max="1" min="1"/>
+            <reward chance="0.6536" item_id="5508" max="1" min="1"/>
+            <reward chance="0.6536" item_id="5509" max="1" min="1"/>
+            <reward chance="0.6536" item_id="5496" max="1" min="1"/>
+            <reward chance="0.2252" item_id="45929" max="1" min="1"/>
+            <reward chance="0.0563" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0270" item_id="5166" max="1" min="1"/>
+            <reward chance="0.0169" item_id="730" max="1" min="1"/>
+            <reward chance="0.0063" item_id="5291" max="1" min="1"/>
+            <reward chance="0.0063" item_id="5296" max="1" min="1"/>
+            <reward chance="0.0063" item_id="5290" max="1" min="1"/>
+            <reward chance="0.0063" item_id="5295" max="1" min="1"/>
+            <reward chance="0.0056" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0011" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="40.2961" item_id="34991" max="3" min="3"/>
+            <reward chance="7.9779" item_id="5482" max="1" min="1"/>
+            <reward chance="5.0828" item_id="5478" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21075">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="438" min="216"/>
+            <reward chance="13.4494" item_id="34992" max="1" min="1"/>
+            <reward chance="9.0832" item_id="34991" max="24" min="24"/>
+            <reward chance="0.9091" item_id="4099" max="1" min="1"/>
+            <reward chance="0.9091" item_id="4090" max="1" min="1"/>
+            <reward chance="0.9091" item_id="4091" max="1" min="1"/>
+            <reward chance="0.9091" item_id="4096" max="1" min="1"/>
+            <reward chance="0.5376" item_id="34990" max="2" min="2"/>
+            <reward chance="0.2688" item_id="4040" max="1" min="1"/>
+            <reward chance="0.1792" item_id="45929" max="1" min="1"/>
+            <reward chance="0.1170" item_id="4041" max="1" min="1"/>
+            <reward chance="0.0448" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0199" item_id="5418" max="1" min="1"/>
+            <reward chance="0.0179" item_id="5276" max="1" min="1"/>
+            <reward chance="0.0103" item_id="5005" max="1" min="1"/>
+            <reward chance="0.0065" item_id="601" max="1" min="1"/>
+            <reward chance="0.0065" item_id="2487" max="1" min="1"/>
+            <reward chance="0.0065" item_id="2475" max="1" min="1"/>
+            <reward chance="0.0065" item_id="2439" max="1" min="1"/>
+            <reward chance="0.0045" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0009" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="19.3443" item_id="4052" max="1" min="1"/>
+            <reward chance="4.7511" item_id="34991" max="23" min="23"/>
+            <reward chance="0.7519" item_id="4616" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21076">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="282" min="121"/>
+            <reward chance="4.6723" item_id="1830" max="1" min="1"/>
+            <reward chance="1.0964" item_id="4052" max="1" min="1"/>
+            <reward chance="1.0000" item_id="45929" max="1" min="1"/>
+            <reward chance="0.9804" item_id="4053" max="1" min="1"/>
+            <reward chance="0.7463" item_id="4086" max="1" min="1"/>
+            <reward chance="0.7092" item_id="4085" max="1" min="1"/>
+            <reward chance="0.6849" item_id="4087" max="1" min="1"/>
+            <reward chance="0.3861" item_id="4084" max="1" min="1"/>
+            <reward chance="0.3731" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0550" item_id="2403" max="1" min="1"/>
+            <reward chance="0.0550" item_id="2404" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0300" item_id="2399" max="1" min="1"/>
+            <reward chance="0.0300" item_id="2398" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5230" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="4.9180" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36881" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36882" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21077">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="268" min="115"/>
+            <reward chance="2.0825" item_id="4053" max="1" min="1"/>
+            <reward chance="1.4132" item_id="4052" max="1" min="1"/>
+            <reward chance="1.1652" item_id="4054" max="1" min="1"/>
+            <reward chance="0.7463" item_id="45929" max="1" min="1"/>
+            <reward chance="0.4950" item_id="864" max="1" min="1"/>
+            <reward chance="0.2481" item_id="926" max="1" min="1"/>
+            <reward chance="0.2481" item_id="45930" max="1" min="1"/>
+            <reward chance="0.1239" item_id="895" max="1" min="1"/>
+            <reward chance="0.0496" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5276" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5230" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="4.3500" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36881" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36882" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21078">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="543" min="267"/>
+            <reward chance="19.9550" item_id="34992" max="1" min="1"/>
+            <reward chance="7.9820" item_id="1873" max="1" min="1"/>
+            <reward chance="5.7015" item_id="1895" max="1" min="1"/>
+            <reward chance="3.9910" item_id="34991" max="1" min="1"/>
+            <reward chance="0.6993" item_id="5494" max="1" min="1"/>
+            <reward chance="0.5128" item_id="5525" max="1" min="1"/>
+            <reward chance="0.5128" item_id="5526" max="1" min="1"/>
+            <reward chance="0.3846" item_id="4175" max="1" min="1"/>
+            <reward chance="0.3322" item_id="4042" max="1" min="1"/>
+            <reward chance="0.2217" item_id="45929" max="1" min="1"/>
+            <reward chance="0.0554" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0071" item_id="5292" max="1" min="1"/>
+            <reward chance="0.0055" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0050" item_id="5289" max="1" min="1"/>
+            <reward chance="0.0050" item_id="5294" max="1" min="1"/>
+            <reward chance="0.0011" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="13.5112" item_id="4040" max="1" min="1"/>
+            <reward chance="5.6808" item_id="5485" max="1" min="1"/>
+            <reward chance="0.9009" item_id="3956" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21079">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="516" min="254"/>
+            <reward chance="17.2649" item_id="34992" max="1" min="1"/>
+            <reward chance="6.9060" item_id="1873" max="1" min="1"/>
+            <reward chance="4.9328" item_id="1895" max="1" min="1"/>
+            <reward chance="3.4530" item_id="34991" max="1" min="1"/>
+            <reward chance="0.4184" item_id="5489" max="1" min="1"/>
+            <reward chance="0.2874" item_id="4042" max="1" min="1"/>
+            <reward chance="0.2660" item_id="5485" max="1" min="1"/>
+            <reward chance="0.1919" item_id="45929" max="1" min="1"/>
+            <reward chance="0.1873" item_id="5486" max="1" min="1"/>
+            <reward chance="0.0480" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0230" item_id="5161" max="1" min="1"/>
+            <reward chance="0.0144" item_id="730" max="1" min="1"/>
+            <reward chance="0.0048" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0038" item_id="5305" max="1" min="1"/>
+            <reward chance="0.0024" item_id="5304" max="1" min="1"/>
+            <reward chance="0.0015" item_id="5308" max="1" min="1"/>
+            <reward chance="0.0010" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="91.8483" item_id="1895" max="3" min="1"/>
+            <reward chance="10.7156" item_id="4042" max="1" min="1"/>
+            <reward chance="5.4065" item_id="5478" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21080">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="477" min="235"/>
+            <reward chance="20.4783" item_id="34992" max="1" min="1"/>
+            <reward chance="15.1149" item_id="34990" max="3" min="3"/>
+            <reward chance="9.0014" item_id="34991" max="1" min="1"/>
+            <reward chance="5.8509" item_id="1878" max="1" min="1"/>
+            <reward chance="1.1191" item_id="6345" max="1" min="1"/>
+            <reward chance="0.8065" item_id="6341" max="1" min="1"/>
+            <reward chance="0.6250" item_id="6343" max="1" min="1"/>
+            <reward chance="0.4878" item_id="6036" max="1" min="1"/>
+            <reward chance="0.4878" item_id="4039" max="1" min="1"/>
+            <reward chance="0.1626" item_id="45929" max="1" min="1"/>
+            <reward chance="0.0407" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0195" item_id="5166" max="1" min="1"/>
+            <reward chance="0.0087" item_id="6325" max="1" min="1"/>
+            <reward chance="0.0080" item_id="8314" max="1" min="1"/>
+            <reward chance="0.0058" item_id="6324" max="1" min="1"/>
+            <reward chance="0.0044" item_id="6323" max="1" min="1"/>
+            <reward chance="0.0041" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0008" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="3.5162" item_id="5479" max="1" min="1"/>
+            <reward chance="0.7937" item_id="1807" max="1" min="1"/>
+            <reward chance="0.7937" item_id="3035" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21081">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="606" min="297"/>
+            <reward chance="29.6760" item_id="34990" max="1" min="1"/>
+            <reward chance="17.8056" item_id="34992" max="2" min="2"/>
+            <reward chance="2.9676" item_id="1881" max="1" min="1"/>
+            <reward chance="1.4838" item_id="1875" max="1" min="1"/>
+            <reward chance="0.4902" item_id="5482" max="1" min="1"/>
+            <reward chance="0.3115" item_id="5478" max="1" min="1"/>
+            <reward chance="0.2193" item_id="5479" max="1" min="1"/>
+            <reward chance="0.2062" item_id="45929" max="1" min="1"/>
+            <reward chance="0.1934" item_id="34991" max="23" min="23"/>
+            <reward chance="0.0631" item_id="4985" max="1" min="1"/>
+            <reward chance="0.0515" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0052" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0044" item_id="5298" max="1" min="1"/>
+            <reward chance="0.0028" item_id="5297" max="1" min="1"/>
+            <reward chance="0.0017" item_id="5301" max="1" min="1"/>
+            <reward chance="0.0011" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="5.0689" item_id="5478" max="1" min="1"/>
+            <reward chance="2.6385" item_id="4119" max="1" min="1"/>
+            <reward chance="0.8065" item_id="5230" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21082">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="581" min="285"/>
+            <reward chance="21.3452" item_id="34991" max="1" min="1"/>
+            <reward chance="21.3452" item_id="34992" max="1" min="1"/>
+            <reward chance="3.5575" item_id="1879" max="1" min="1"/>
+            <reward chance="1.4230" item_id="1875" max="1" min="1"/>
+            <reward chance="0.4695" item_id="5489" max="1" min="1"/>
+            <reward chance="0.4274" item_id="4040" max="1" min="1"/>
+            <reward chance="0.2994" item_id="5485" max="1" min="1"/>
+            <reward chance="0.2105" item_id="5486" max="1" min="1"/>
+            <reward chance="0.1976" item_id="45929" max="1" min="1"/>
+            <reward chance="0.0494" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0284" item_id="5281" max="1" min="1"/>
+            <reward chance="0.0049" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0043" item_id="5305" max="1" min="1"/>
+            <reward chance="0.0027" item_id="5304" max="1" min="1"/>
+            <reward chance="0.0016" item_id="5308" max="1" min="1"/>
+            <reward chance="0.0011" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="7.6302" item_id="5482" max="1" min="1"/>
+            <reward chance="3.4207" item_id="5486" max="1" min="1"/>
+            <reward chance="0.7692" item_id="5156" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21083">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="607" min="298"/>
+            <reward chance="20.2718" item_id="34992" max="1" min="1"/>
+            <reward chance="13.6908" item_id="34991" max="24" min="24"/>
+            <reward chance="1.6893" item_id="34990" max="1" min="1"/>
+            <reward chance="1.4217" item_id="6345" max="1" min="1"/>
+            <reward chance="1.0279" item_id="6341" max="1" min="1"/>
+            <reward chance="0.8130" item_id="5220" max="1" min="1"/>
+            <reward chance="0.7937" item_id="6343" max="1" min="1"/>
+            <reward chance="0.1876" item_id="45929" max="1" min="1"/>
+            <reward chance="0.1764" item_id="4041" max="1" min="1"/>
+            <reward chance="0.0469" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0270" item_id="1807" max="1" min="1"/>
+            <reward chance="0.0169" item_id="730" max="1" min="1"/>
+            <reward chance="0.0111" item_id="6325" max="1" min="1"/>
+            <reward chance="0.0074" item_id="6324" max="1" min="1"/>
+            <reward chance="0.0056" item_id="6323" max="1" min="1"/>
+            <reward chance="0.0047" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0009" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="5.0785" item_id="5485" max="1" min="1"/>
+            <reward chance="3.5736" item_id="5486" max="1" min="1"/>
+            <reward chance="0.8065" item_id="5156" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21084">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="256" min="119"/>
+            <reward chance="7.4074" item_id="1832" max="1" min="1"/>
+            <reward chance="0.7519" item_id="4056" max="1" min="1"/>
+            <reward chance="0.3003" item_id="4104" max="1" min="1"/>
+            <reward chance="0.3003" item_id="4107" max="1" min="1"/>
+            <reward chance="0.3003" item_id="4108" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45930" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45929" max="1" min="1"/>
+            <reward chance="0.3003" item_id="4402" max="1" min="1"/>
+            <reward chance="0.3003" item_id="4129" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0300" item_id="148" max="1" min="1"/>
+            <reward chance="0.0300" item_id="142" max="1" min="1"/>
+            <reward chance="0.0300" item_id="78" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5002" max="1" min="1"/>
+            <reward chance="0.0300" item_id="4196" max="1" min="1"/>
+            <reward chance="0.0100" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="65.8500" item_id="36531" max="3" min="3"/>
+            <reward chance="4.3580" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36880" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21085">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="941" min="461"/>
+            <reward chance="12.5628" item_id="34992" max="4" min="4"/>
+            <reward chance="12.5628" item_id="1873" max="1" min="1"/>
+            <reward chance="4.1876" item_id="34991" max="8" min="8"/>
+            <reward chance="2.0938" item_id="1889" max="1" min="1"/>
+            <reward chance="1.0470" item_id="6036" max="1" min="1"/>
+            <reward chance="1.0469" item_id="4044" max="1" min="1"/>
+            <reward chance="0.7576" item_id="5482" max="1" min="1"/>
+            <reward chance="0.4831" item_id="5478" max="1" min="1"/>
+            <reward chance="0.3484" item_id="45929" max="1" min="1"/>
+            <reward chance="0.3401" item_id="5479" max="1" min="1"/>
+            <reward chance="0.2551" item_id="4131" max="1" min="1"/>
+            <reward chance="0.0873" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0087" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0069" item_id="5298" max="1" min="1"/>
+            <reward chance="0.0043" item_id="5297" max="1" min="1"/>
+            <reward chance="0.0026" item_id="5301" max="1" min="1"/>
+            <reward chance="0.0017" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="62.3779" item_id="34992" max="3" min="3"/>
+            <reward chance="12.3496" item_id="5489" max="1" min="1"/>
+            <reward chance="5.5365" item_id="5479" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21086">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="942" min="461"/>
+            <reward chance="9.8770" item_id="1895" max="1" min="1"/>
+            <reward chance="1.1523" item_id="4043" max="1" min="1"/>
+            <reward chance="0.6897" item_id="4040" max="1" min="1"/>
+            <reward chance="0.5747" item_id="4042" max="1" min="1"/>
+            <reward chance="0.5682" item_id="5524" max="1" min="1"/>
+            <reward chance="0.3846" item_id="45929" max="1" min="1"/>
+            <reward chance="0.3717" item_id="5520" max="1" min="1"/>
+            <reward chance="0.2857" item_id="4166" max="1" min="1"/>
+            <reward chance="0.2625" item_id="5521" max="1" min="1"/>
+            <reward chance="0.0961" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0691" item_id="4401" max="1" min="1"/>
+            <reward chance="0.0096" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0052" item_id="5288" max="1" min="1"/>
+            <reward chance="0.0032" item_id="5287" max="1" min="1"/>
+            <reward chance="0.0020" item_id="5293" max="1" min="1"/>
+            <reward chance="0.0019" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="89.1673" item_id="1895" max="5" min="1"/>
+            <reward chance="12.3574" item_id="5482" max="1" min="1"/>
+            <reward chance="1.2483" item_id="1807" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21087">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="1306" min="641"/>
+            <reward chance="9.2249" item_id="34990" max="1" min="1"/>
+            <reward chance="7.3800" item_id="34992" max="1" min="1"/>
+            <reward chance="4.1820" item_id="34991" max="17" min="17"/>
+            <reward chance="4.1000" item_id="6037" max="27" min="9"/>
+            <reward chance="4.1000" item_id="6671" max="1" min="1"/>
+            <reward chance="1.2300" item_id="4043" max="1" min="1"/>
+            <reward chance="0.7874" item_id="5524" max="1" min="1"/>
+            <reward chance="0.5155" item_id="5520" max="1" min="1"/>
+            <reward chance="0.4926" item_id="5550" max="1" min="1"/>
+            <reward chance="0.3636" item_id="5521" max="1" min="1"/>
+            <reward chance="0.3413" item_id="45929" max="1" min="1"/>
+            <reward chance="0.0854" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0509" item_id="4614" max="1" min="1"/>
+            <reward chance="0.0085" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0072" item_id="5288" max="1" min="1"/>
+            <reward chance="0.0045" item_id="5287" max="1" min="1"/>
+            <reward chance="0.0041" item_id="729" max="1" min="1"/>
+            <reward chance="0.0028" item_id="5293" max="1" min="1"/>
+            <reward chance="0.0017" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="45.5851" item_id="34990" max="2" min="2"/>
+            <reward chance="27.2850" item_id="5494" max="1" min="1"/>
+            <reward chance="14.6799" item_id="4082" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21088">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="1000" min="490"/>
+            <reward chance="14.6851" item_id="1873" max="1" min="1"/>
+            <reward chance="12.2376" item_id="34992" max="1" min="1"/>
+            <reward chance="10.4894" item_id="1895" max="1" min="1"/>
+            <reward chance="7.3426" item_id="34991" max="1" min="1"/>
+            <reward chance="0.8065" item_id="5489" max="1" min="1"/>
+            <reward chance="0.6135" item_id="4042" max="1" min="1"/>
+            <reward chance="0.5155" item_id="5485" max="1" min="1"/>
+            <reward chance="0.3623" item_id="5486" max="1" min="1"/>
+            <reward chance="0.3401" item_id="45929" max="1" min="1"/>
+            <reward chance="0.1524" item_id="4986" max="1" min="1"/>
+            <reward chance="0.0850" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0085" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0073" item_id="5305" max="1" min="1"/>
+            <reward chance="0.0046" item_id="5304" max="1" min="1"/>
+            <reward chance="0.0028" item_id="5308" max="1" min="1"/>
+            <reward chance="0.0017" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="16.5717" item_id="4042" max="1" min="1"/>
+            <reward chance="8.3611" item_id="5485" max="1" min="1"/>
+            <reward chance="1.2863" item_id="5338" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21089">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="1163" min="570"/>
+            <reward chance="14.2275" item_id="34992" max="1" min="1"/>
+            <reward chance="12.1950" item_id="1895" max="1" min="1"/>
+            <reward chance="8.5365" item_id="34991" max="1" min="1"/>
+            <reward chance="4.2682" item_id="1873" max="6" min="2"/>
+            <reward chance="0.9346" item_id="5489" max="1" min="1"/>
+            <reward chance="0.7092" item_id="4042" max="1" min="1"/>
+            <reward chance="0.5988" item_id="5485" max="1" min="1"/>
+            <reward chance="0.4202" item_id="5486" max="1" min="1"/>
+            <reward chance="0.3953" item_id="45929" max="1" min="1"/>
+            <reward chance="0.1770" item_id="4986" max="1" min="1"/>
+            <reward chance="0.0988" item_id="45930" max="1" min="1"/>
+            <reward chance="0.0099" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0085" item_id="5305" max="1" min="1"/>
+            <reward chance="0.0053" item_id="5304" max="1" min="1"/>
+            <reward chance="0.0033" item_id="5308" max="1" min="1"/>
+            <reward chance="0.0020" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="5.1871" item_id="5480" max="1" min="1"/>
+            <reward chance="5.0514" item_id="4116" max="1" min="1"/>
+            <reward chance="1.5413" item_id="3035" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21090">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="581" min="252"/>
+            <reward chance="0.9615" item_id="5524" max="1" min="1"/>
+            <reward chance="0.7519" item_id="45930" max="1" min="1"/>
+            <reward chance="0.7519" item_id="5486" max="1" min="1"/>
+            <reward chance="0.7519" item_id="5520" max="1" min="1"/>
+            <reward chance="0.3003" item_id="4401" max="1" min="1"/>
+            <reward chance="0.3003" item_id="45929" max="1" min="1"/>
+            <reward chance="0.3003" item_id="5521" max="1" min="1"/>
+            <reward chance="0.3003" item_id="730" max="1" min="1"/>
+            <reward chance="0.0550" item_id="45931" max="1" min="1"/>
+            <reward chance="0.0550" item_id="5288" max="1" min="1"/>
+            <reward chance="0.0550" item_id="5287" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5293" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5230" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5156" max="1" min="1"/>
+            <reward chance="0.0300" item_id="45932" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="7.7630" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36881" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36882" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21091">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="393" min="168"/>
+            <reward chance="1.2048" item_id="5482" max="1" min="1"/>
+            <reward chance="0.7042" item_id="5479" max="1" min="1"/>
+            <reward chance="0.5025" item_id="5478" max="1" min="1"/>
+            <reward chance="0.1004" item_id="10306" max="1" min="1"/>
+            <reward chance="0.0550" item_id="5297" max="1" min="1"/>
+            <reward chance="0.0550" item_id="5298" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5336" max="1" min="1"/>
+            <reward chance="0.0300" item_id="3035" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5301" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="5.1450" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36881" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36882" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21092">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="383" min="164"/>
+            <reward chance="1.6250" item_id="5494" max="1" min="1"/>
+            <reward chance="1.2500" item_id="5525" max="1" min="1"/>
+            <reward chance="0.8772" item_id="5526" max="1" min="1"/>
+            <reward chance="0.5000" item_id="5485" max="1" min="1"/>
+            <reward chance="0.3745" item_id="5478" max="1" min="1"/>
+            <reward chance="0.1000" item_id="10306" max="1" min="1"/>
+            <reward chance="0.0550" item_id="5289" max="1" min="1"/>
+            <reward chance="0.0550" item_id="5294" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5161" max="1" min="1"/>
+            <reward chance="0.0300" item_id="3956" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5292" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="8.6957" item_id="36532" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36881" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36882" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21093">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="14" min="6"/>
+            <reward chance="1.2579" item_id="36526" max="1" min="1"/>
+            <reward chance="0.7519" item_id="1897" max="1" min="1"/>
+            <reward chance="0.7519" item_id="1800" max="1" min="1"/>
+            <reward chance="0.7519" item_id="36536" max="1" min="1"/>
+            <reward chance="0.3003" item_id="1801" max="1" min="1"/>
+            <reward chance="0.0750" item_id="2012" max="1" min="1"/>
+            <reward chance="0.0550" item_id="2" max="1" min="1"/>
+            <reward chance="0.0550" item_id="120" max="1" min="1"/>
+            <reward chance="0.0550" item_id="121" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="40" item_id="8603" max="1" min="1"/>
+                <reward chance="52" item_id="8604" max="1" min="1"/>
+                <reward chance="8" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="29.4118" item_id="36531" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21094">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="14" min="6"/>
+            <reward chance="5.9406" item_id="36516" max="1" min="1"/>
+            <reward chance="1.9590" item_id="1924" max="1" min="1"/>
+            <reward chance="0.7519" item_id="36536" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36541" max="1" min="1"/>
+            <reward chance="0.3003" item_id="734" max="1" min="1"/>
+            <reward chance="0.0300" item_id="176" max="1" min="1"/>
+            <reward chance="0.0300" item_id="2501" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="40" item_id="8603" max="1" min="1"/>
+                <reward chance="52" item_id="8604" max="1" min="1"/>
+                <reward chance="8" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="37.5000" item_id="36531" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21095">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="20" min="8"/>
+            <reward chance="5.6200" item_id="1831" max="1" min="1"/>
+            <reward chance="1.2470" item_id="1898" max="1" min="1"/>
+            <reward chance="0.3003" item_id="2151" max="1" min="1"/>
+            <reward chance="0.0300" item_id="1804" max="1" min="1"/>
+            <reward chance="0.0300" item_id="257" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="26" item_id="8603" max="1" min="1"/>
+                <reward chance="65" item_id="8604" max="1" min="1"/>
+                <reward chance="9" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="46.2600" item_id="36531" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21096">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="19" min="8"/>
+            <reward chance="4.4790" item_id="36526" max="1" min="1"/>
+            <reward chance="4.0870" item_id="36516" max="1" min="1"/>
+            <reward chance="1.6000" item_id="1930" max="1" min="1"/>
+            <reward chance="0.7519" item_id="1926" max="1" min="1"/>
+            <reward chance="0.3003" item_id="2179" max="1" min="1"/>
+            <reward chance="0.3003" item_id="39" max="1" min="1"/>
+            <reward chance="0.3003" item_id="51" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="26" item_id="8603" max="1" min="1"/>
+                <reward chance="65" item_id="8604" max="1" min="1"/>
+                <reward chance="9" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="45.5300" item_id="36531" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21097">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="22" min="9"/>
+            <reward chance="4.7770" item_id="1831" max="1" min="1"/>
+            <reward chance="0.7519" item_id="1928" max="1" min="1"/>
+            <reward chance="0.3003" item_id="1927" max="1" min="1"/>
+            <reward chance="0.3003" item_id="2176" max="1" min="1"/>
+            <reward chance="0.3003" item_id="1898" max="1" min="1"/>
+            <reward chance="0.3003" item_id="878" max="1" min="1"/>
+            <reward chance="0.3003" item_id="734" max="1" min="1"/>
+            <reward chance="0.0750" item_id="846" max="1" min="1"/>
+            <reward chance="0.0750" item_id="909" max="1" min="1"/>
+            <reward chance="0.0055" item_id="2257" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="26" item_id="8603" max="1" min="1"/>
+                <reward chance="65" item_id="8604" max="1" min="1"/>
+                <reward chance="9" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="50.1700" item_id="36531" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21098">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="21" min="9"/>
+            <reward chance="1.7960" item_id="1929" max="1" min="1"/>
+            <reward chance="1.3330" item_id="36521" max="1" min="1"/>
+            <reward chance="0.7519" item_id="36536" max="1" min="1"/>
+            <reward chance="0.3003" item_id="2177" max="1" min="1"/>
+            <reward chance="0.0300" item_id="5158" max="1" min="1"/>
+            <reward chance="0.0300" item_id="16" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="26" item_id="8603" max="1" min="1"/>
+                <reward chance="65" item_id="8604" max="1" min="1"/>
+                <reward chance="9" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="47.4900" item_id="36531" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21099">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="23" min="9"/>
+            <reward chance="3.8370" item_id="36526" max="1" min="1"/>
+            <reward chance="1.1810" item_id="1932" max="1" min="1"/>
+            <reward chance="1.1060" item_id="1899" max="1" min="1"/>
+            <reward chance="0.7519" item_id="36541" max="1" min="1"/>
+            <reward chance="0.7519" item_id="2152" max="1" min="1"/>
+            <reward chance="0.7519" item_id="45" max="1" min="1"/>
+            <reward chance="0.7519" item_id="626" max="1" min="1"/>
+            <reward chance="0.0550" item_id="8294" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="26" item_id="8603" max="1" min="1"/>
+                <reward chance="65" item_id="8604" max="1" min="1"/>
+                <reward chance="9" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+        <rewardlist type="SWEEP">
+            <reward chance="51.7900" item_id="36531" max="1" min="1"/>
+        </rewardlist>
+    </loot>
+    <loot id="21100">
+        <database_rewardlist>
+            <reward chance="70.0000" item_id="57" max="14" min="6"/>
+            <reward chance="2.9851" item_id="36526" max="1" min="1"/>
+            <reward chance="1.1740" item_id="1924" max="1" min="1"/>
+            <reward chance="0.7519" item_id="1897" max="1" min="1"/>
+            <reward chance="0.7519" item_id="1800" max="1" min="1"/>
+            <reward chance="0.7519" item_id="908" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36556" max="1" min="1"/>
+            <reward chance="0.3003" item_id="36541" max="1" min="1"/>
+            <reward chance="0.3003" item_id="845" max="1" min="1"/>
+            <reward chance="0.3003" item_id="877" max="1" min="1"/>
+        </database_rewardlist>
+        <rewardlist type="NOT_RATED_GROUPED">
+            <group chance="42">
+                <reward chance="55" item_id="8600" max="1" min="1"/>
+                <reward chance="38" item_id="8601" max="1" min="1"/>
+                <reward chance="7" item_id="8602" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="40" item_id="8603" max="1" min="1"/>
+                <reward chance="52" item_id="8604" max="1" min="1"/>
+                <reward chance="8" item_id="8605" max="1" min="1"/>
+            </group>
+            <group chance="25">
+                <reward chance="20" item_id="8606" max="1" min="1"/>
+                <reward chance="20" item_id="8608" max="1" min="1"/>
+                <reward chance="20" item_id="8610" max="1" min="1"/>
+                <reward chance="20" item_id="10655" max="1" min="1"/>
+                <reward chance="20" item_id="10656" max="1" min="1"/>
+            </group>
+            <group chance="10">
+                <reward chance="50" item_id="8607" max="1" min="1"/>
+                <reward chance="50" item_id="8609" max="1" min="1"/>
+            </group>
+            <group chance="1">
+                <reward chance="33" item_id="8612" max="1" min="1"/>
+                <reward chance="33" item_id="8613" max="1" min="1"/>
+                <reward chance="34" item_id="8614" max="1" min="1"/>
+            </group>
+            <group chance="11">
+                <reward chance="84" item_id="8611" max="1" min="1"/>
+                <reward chance="6" item_id="10657" max="1" min="1"/>
+                <reward chance="5" item_id="34849" max="1" min="1"/>
+                <reward chance="5" item_id="34850" max="1" min="1"/>
+            </group>
+        </rewardlist>
+    </loot>
+</list>

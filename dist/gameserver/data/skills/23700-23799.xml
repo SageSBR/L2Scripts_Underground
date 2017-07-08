@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="23700" levels="1" name="Contaminated Atelia Gas">
+		<set name="icon" value="icon.skill1160"/>
+		<set name="mp_consume" value="20"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23701" levels="1" name="Laceration">
+		<set name="icon" value="icon.skill11066"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23702" levels="1" name="Kelbim Battle Mode">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="hitTime" value="1000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23703" levels="1" name="Kelbim Battle Mode">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="hitTime" value="1000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23704" levels="1" name="Kelbim Battle Mode">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="hitTime" value="1000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23705" levels="1" name="Kelbim Presentation Skill 4">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="hitTime" value="1000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23706" levels="4" name="Dark Fire">
+		<set name="icon" value="icon.skill4336_new"/>
+		<set name="castRange" value="450"/>
+		<set name="hitTime" value="2500"/>
+		<set name="mp_consume" value="10"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23707" levels="4" name="Chaos Fire">
+		<set name="icon" value="icon.skill4336_new"/>
+		<set name="castRange" value="450"/>
+		<set name="hitTime" value="2500"/>
+		<set name="mp_consume" value="10"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23708" levels="4" name="Dark Breaker">
+		<set name="icon" value="icon.skill1443"/>
+		<set name="reuseDelay" value="10000"/>
+		<set name="castRange" value="450"/>
+		<set name="hitTime" value="2500"/>
+		<set name="mp_consume" value="10"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23709" levels="4" name="Chaos Breaker">
+		<set name="icon" value="icon.skill1443"/>
+		<set name="reuseDelay" value="10000"/>
+		<set name="castRange" value="450"/>
+		<set name="hitTime" value="2500"/>
+		<set name="mp_consume" value="10"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23710" levels="1" name="Atelia Buff Check">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23711" levels="1" name="Atelia Buff Check">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23712" levels="1" name="Atelia Buff Check">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23713" levels="1" name="Atelia Buff Check">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23714" levels="1" name="Water Drop Shackle - Silence">
+		<set name="icon" value="icon.skill1064"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23715" levels="2" name="Power Strike">
+		<table name="#castRange">40 100</table>
+		<set name="icon" value="icon.skill0000"/>
+		<set name="castRange" value="#castRange"/>
+		<set name="hitTime" value="1500"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23716" levels="2" name="Power Smash">
+		<table name="#castRange">40 100</table>
+		<set name="icon" value="icon.skill0000"/>
+		<set name="castRange" value="#castRange"/>
+		<set name="hitTime" value="1500"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23717" levels="5" name="Pollen Spray">
+		<set name="icon" value="icon.etc_powder_orange_i00"/>
+		<set name="castRange" value="1500"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23718" levels="1" name="Dust Spray">
+		<set name="icon" value="icon.skill4036"/>
+		<set name="castRange" value="900"/>
+		<set name="hitTime" value="1500"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23719" levels="1" name="Rose Scent Spray">
+		<set name="icon" value="icon.etc_red_rose_i00"/>
+		<set name="castRange" value="900"/>
+		<set name="hitTime" value="1500"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23720" levels="1" name="Lily Scent Spray">
+		<set name="icon" value="icon.etc_flower_i00"/>
+		<set name="castRange" value="900"/>
+		<set name="hitTime" value="1500"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23721" levels="1" name="Tulip Scent Spray">
+		<set name="icon" value="icon.etc_flower_i02"/>
+		<set name="castRange" value="900"/>
+		<set name="hitTime" value="1500"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23722" levels="1" name="Cosmos Scent Spray">
+		<set name="icon" value="icon.etc_flower_i01"/>
+		<set name="castRange" value="900"/>
+		<set name="hitTime" value="1500"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23723" levels="1" name="Guardian Knock Down">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="castRange" value="150"/>
+		<set name="hitTime" value="1000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23724" levels="1" name="Nymph's Fury">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="castRange" value="150"/>
+		<set name="hitTime" value="5000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23725" levels="1" name="Enchanted Valley Teleport">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="hitTime" value="1000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23726" levels="1" name="Strong Flower Scent">
+		<set name="icon" value="icon.SKILL19014"/>
+		<set name="castRange" value="1500"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23727" levels="1" name="Birthday Cake Vitality Buff">
+		<set name="icon" value="BranchSys.icon.br_birthday_cake_i00"/>
+		<set name="castRange" value="500"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23728" levels="1" name="Superior Aggression Aura">
+		<set name="icon" value="icon.skill10027"/>
+		<set name="reuseDelay" value="10000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="1000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23729" levels="1" name="Mass Lightning Strike">
+		<set name="icon" value="icon.skll10094"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="400"/>
+		<set name="hitTime" value="1500"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23730" levels="1" name="Chain Galaxy">
+		<set name="icon" value="icon.skill10014"/>
+		<set name="reuseDelay" value="10000"/>
+		<set name="coolTime" value="370"/>
+		<set name="hitTime" value="1700"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23731" levels="1" name="Chain Hydra">
+		<set name="icon" value="icon.skill10016"/>
+		<set name="reuseDelay" value="45000"/>
+		<set name="coolTime" value="1000"/>
+		<set name="castRange" value="600"/>
+		<set name="hitTime" value="500"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23732" levels="1" name="Shield Wave">
+		<set name="icon" value="icon.skill10012"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="coolTime" value="470"/>
+		<set name="hitTime" value="1000"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23733" levels="1" name="Armor Destruction">
+		<set name="icon" value="icon.skill10258"/>
+		<set name="reuseDelay" value="2000"/>
+		<set name="coolTime" value="200"/>
+		<set name="hitTime" value="1090"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23734" levels="1" name="Lightning Disarm">
+		<set name="icon" value="icon.skill10273"/>
+		<set name="reuseDelay" value="120000"/>
+		<set name="coolTime" value="300"/>
+		<set name="hitTime" value="1200"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23735" levels="1" name="Sonic Star">
+		<set name="icon" value="icon.skill10281"/>
+		<set name="reuseDelay" value="30000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="7500"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23736" levels="1" name="Jump Attack">
+		<set name="icon" value="icon.skill10269"/>
+		<set name="reuseDelay" value="5000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="600"/>
+		<set name="hitTime" value="889"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23737" levels="1" name="Power Revival">
+		<set name="icon" value="icon.skill10298"/>
+		<set name="reuseDelay" value="600000"/>
+		<set name="hitTime" value="200"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23738" levels="1" name="Power Bluff">
+		<set name="icon" value="icon.skill10554"/>
+		<set name="reuseDelay" value="8000"/>
+		<set name="hitTime" value="1000"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23739" levels="1" name="Heart Breaker">
+		<set name="icon" value="icon.skill10509"/>
+		<set name="reuseDelay" value="5000"/>
+		<set name="coolTime" value="699"/>
+		<set name="hitTime" value="1029"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23740" levels="1" name="Final Ultimate Evasion">
+		<set name="icon" value="icon.skill10520"/>
+		<set name="reuseDelay" value="600000"/>
+		<set name="coolTime" value="100"/>
+		<set name="hitTime" value="800"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23741" levels="1" name="Razor Rain">
+		<set name="icon" value="icon.skill10513"/>
+		<set name="reuseDelay" value="10000"/>
+		<set name="coolTime" value="200"/>
+		<set name="hitTime" value="1529"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23742" levels="1" name="Mass Trick">
+		<set name="icon" value="icon.skill10527"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="coolTime" value="300"/>
+		<set name="castRange" value="400"/>
+		<set name="hitTime" value="1200"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23743" levels="1" name="Mass Bullseye">
+		<set name="icon" value="icon.skill10782"/>
+		<set name="reuseDelay" value="180000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="1100"/>
+		<set name="hitTime" value="3000"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23744" levels="1" name="Multiple Arrow">
+		<set name="icon" value="icon.skill10771"/>
+		<set name="reuseDelay" value="7000"/>
+		<set name="coolTime" value="349"/>
+		<set name="castRange" value="1100"/>
+		<set name="hitTime" value="2900"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23745" levels="1" name="Impact Shot">
+		<set name="icon" value="icon.skill10769"/>
+		<set name="reuseDelay" value="10000"/>
+		<set name="coolTime" value="349"/>
+		<set name="castRange" value="1100"/>
+		<set name="hitTime" value="2200"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23746" levels="1" name="Quick Evasion">
+		<set name="icon" value="icon.skill10774"/>
+		<set name="reuseDelay" value="15000"/>
+		<set name="castRange" value="400"/>
+		<set name="hitTime" value="699"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23747" levels="1" name="Tornado Shot">
+		<set name="icon" value="icon.skill10760"/>
+		<set name="reuseDelay" value="7000"/>
+		<set name="coolTime" value="349"/>
+		<set name="castRange" value="1100"/>
+		<set name="hitTime" value="2200"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23748" levels="1" name="Elemental Destruction">
+		<set name="icon" value="icon.skill11023"/>
+		<set name="reuseDelay" value="6699"/>
+		<set name="coolTime" value="1000"/>
+		<set name="castRange" value="1100"/>
+		<set name="hitTime" value="3000"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23749" levels="1" name="Elemental Storm">
+		<set name="icon" value="icon.skill11040"/>
+		<set name="reuseDelay" value="6699"/>
+		<set name="coolTime" value="300"/>
+		<set name="castRange" value="1100"/>
+		<set name="hitTime" value="2000"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23750" levels="1" name="Mass Hell Binding">
+		<set name="icon" value="icon.skill11052"/>
+		<set name="reuseDelay" value="300000"/>
+		<set name="castRange" value="1100"/>
+		<set name="hitTime" value="7000"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23751" levels="1" name="Mass Death Fear">
+		<set name="icon" value="icon.skill11056"/>
+		<set name="reuseDelay" value="120000"/>
+		<set name="coolTime" value="300"/>
+		<set name="castRange" value="1100"/>
+		<set name="hitTime" value="1200"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23752" levels="1" name="Magical Charge">
+		<set name="icon" value="icon.skill11094"/>
+		<set name="reuseDelay" value="15000"/>
+		<set name="coolTime" value="200"/>
+		<set name="hitTime" value="800"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23753" levels="1" name="Battle Rhapsody">
+		<set name="icon" value="icon.skill11544"/>
+		<set name="reuseDelay" value="600000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="3000"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23754" levels="1" name="Mass Crippling Attack">
+		<set name="icon" value="icon.skill11513"/>
+		<set name="reuseDelay" value="10000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="1210"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23755" levels="1" name="Polymorph">
+		<set name="icon" value="icon.skill11541"/>
+		<set name="reuseDelay" value="5000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="1500"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23756" levels="1" name="Assault Rush">
+		<set name="icon" value="icon.skill11508"/>
+		<set name="reuseDelay" value="10000"/>
+		<set name="coolTime" value="200"/>
+		<set name="castRange" value="600"/>
+		<set name="hitTime" value="800"/>
+		<set name="mp_consume" value="1"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23757" levels="1" name="Ultimate Suspension">
+		<set name="icon" value="icon.skill11559"/>
+		<set name="reuseDelay" value="10000"/>
+		<set name="coolTime" value="200"/>
+		<set name="hitTime" value="2000"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23758" levels="1" name="Summon Demonic Crucifix">
+		<set name="icon" value="icon.skill11365"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="600"/>
+		<set name="hitTime" value="2500"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23759" levels="1" name="Mass Exile">
+		<set name="icon" value="icon.skill11296"/>
+		<set name="reuseDelay" value="300000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="600"/>
+		<set name="hitTime" value="3000"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23760" levels="1" name="Spectral Rage">
+		<set name="icon" value="icon.skill11356"/>
+		<set name="reuseDelay" value="2400"/>
+		<set name="coolTime" value="300"/>
+		<set name="castRange" value="900"/>
+		<set name="hitTime" value="2779"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23761" levels="1" name="Invoke">
+		<set name="icon" value="icon.skill11263"/>
+		<set name="reuseDelay" value="15000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="600"/>
+		<set name="hitTime" value="2559"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23762" levels="1" name="Mark of Weakness">
+		<set name="icon" value="icon.skill11259"/>
+		<set name="reuseDelay" value="5000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="900"/>
+		<set name="hitTime" value="1200"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23763" levels="1" name="Mark of Lumi">
+		<set name="icon" value="icon.skill11777"/>
+		<set name="reuseDelay" value="4000"/>
+		<set name="coolTime" value="800"/>
+		<set name="castRange" value="900"/>
+		<set name="hitTime" value="1500"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23764" levels="1" name="Brilliant Heal">
+		<set name="icon" value="icon.skill11757"/>
+		<set name="reuseDelay" value="5000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="3000"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23765" levels="1" name="Celestial Party Protection">
+		<set name="icon" value="icon.skill11759"/>
+		<set name="reuseDelay" value="120000"/>
+		<set name="hitTime" value="500"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23766" levels="1" name="Mass Dark Veil">
+		<set name="icon" value="icon.skill11767"/>
+		<set name="reuseDelay" value="6699"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="900"/>
+		<set name="hitTime" value="3779"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23767" levels="1" name="Dark Force">
+		<set name="icon" value="icon.skill11814"/>
+		<set name="reuseDelay" value="10000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="400"/>
+		<set name="hitTime" value="2779"/>
+		<set name="mp_consume" value="2"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23768" levels="1" name="Disparition">
+		<set name="icon" value="icon.skill1912"/>
+		<set name="reuseDelay" value="600000"/>
+		<set name="hitTime" value="200"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23769" levels="1" name="Undying Will">
+		<set name="icon" value="icon.skill1917"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23770" levels="1" name="Undying Will">
+		<set name="icon" value="icon.skill1917"/>
+		<set name="reuseDelay" value="300000"/>
+		<set name="hitTime" value="200"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23771" levels="1" name="Savage">
+		<set name="icon" value="icon.skill1914"/>
+		<set name="reuseDelay" value="600000"/>
+		<set name="hitTime" value="200"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23772" levels="1" name="Revolutionaries' Petrification">
+		<set name="icon" value="icon.skill4111"/>
+		<set name="coolTime" value="1799"/>
+		<set name="castRange" value="1000"/>
+		<set name="hitTime" value="3200"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="23773" levels="1" name="Sharing Ability (Test)">
+		<set name="icon" value="icon.skill11288"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="hitTime" value="1000"/>
+		<set name="mp_consume" value="77"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+</list>

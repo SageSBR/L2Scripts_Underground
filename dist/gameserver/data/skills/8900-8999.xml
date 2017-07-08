@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="8900" levels="1" name="Дракон-воитель">
+		<set name="icon" value="icon.skill5860"/>
+		<set name="magicLevel" value="1"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="maxHp" value="1.30"/>
+			<mul order="0x30" stat="maxCp" value="1.30"/>
+			<mul order="0x30" stat="maxMp" value="1.30"/>
+			<mul order="0x30" stat="pAtkSpd" value="1.30"/>
+			<add order="0x40" stat="basePCritRate" value="100"/>
+			<mul order="0x30" stat="SkillCritChanceMod" value="1.30"/>
+			<mul order="0x30" stat="SkillCritDamMod" value="1.30"/>
+			<mul order="0x30" stat="pAtk" value="2">
+				<target race="Dragons"/>
+			</mul>
+		</for>
+	</skill>
+	<skill id="8901" levels="1" name="Дракон-рыцарь">
+		<set name="icon" value="icon.skill5861"/>
+		<set name="magicLevel" value="1"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.50"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.50"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.50"/>
+			<mul order="0x30" stat="maxHp" value="2"/>
+			<mul order="0x30" stat="maxCp" value="2"/>
+			<mul order="0x30" stat="maxMp" value="2"/>
+			<mul order="0x30" stat="pAtkSpd" value="2"/>
+			<add order="0x40" stat="basePCritRate" value="500"/>
+			<mul order="0x30" stat="SkillCritChanceMod" value="1.50"/>
+			<mul order="0x30" stat="SkillCritDamMod" value="1.50"/>
+			<mul order="0x30" stat="pAtk" value="4">
+				<target race="Dragons"/>
+			</mul>
+		</for>
+	</skill>
+	<skill id="8902" levels="1" name="Дракон-маг">
+		<set name="icon" value="icon.skill5860"/>
+		<set name="magicLevel" value="1"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.30"/>
+			<mul order="0x30" stat="maxHp" value="1.30"/>
+			<mul order="0x30" stat="maxCp" value="1.30"/>
+			<mul order="0x30" stat="maxMp" value="1.30"/>
+			<mul order="0x30" stat="mAtkSpd" value="1.30"/>
+			<add order="0x40" stat="baseMCritRate" value="100"/>
+			<add order="0x40" stat="SkillCritChanceMod" value="100"/>
+			<mul order="0x30" stat="SkillCritDamMod" value="1.30"/>
+			<mul order="0x30" stat="mAtk" value="2">
+				<target race="Dragons"/>
+			</mul>
+		</for>
+	</skill>
+	<skill id="8903" levels="1" name="Дракон-чародей">
+		<set name="icon" value="icon.skill5861"/>
+		<set name="magicLevel" value="1"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pvpPhysSkillDmgBonus" value="1.50"/>
+			<mul order="0x30" stat="pvpPhysDmgBonus" value="1.50"/>
+			<mul order="0x30" stat="pvpMagicSkillDmgBonus" value="1.50"/>
+			<mul order="0x30" stat="maxHp" value="2"/>
+			<mul order="0x30" stat="maxCp" value="2"/>
+			<mul order="0x30" stat="maxMp" value="2"/>
+			<mul order="0x30" stat="mAtkSpd" value="2"/>
+			<add order="0x40" stat="baseMCritRate" value="500"/>
+			<mul order="0x30" stat="SkillCritChanceMod" value="1.50"/>
+			<mul order="0x30" stat="SkillCritDamMod" value="1.50"/>
+			<mul order="0x30" stat="mAtk" value="4">
+				<target race="Dragons"/>
+			</mul>
+		</for>
+	</skill>
+	<skill id="8904" levels="1" name="Summon Eviscerator Fox">
+		<set name="icon" value="icon.skill8904"/>
+		<set name="hitTime" value="1000"/>
+		<set name="abnormal_time" value="3600"/>
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_type" value="transform"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isSkillTimePermanent" value="true"/>
+		<set name="hitCancelTime" value="500"/>
+		<cond msgId="1509">
+			<player olympiad="false"/>
+		</cond>
+		<cond>
+			<player can_transform="154"/>
+		</cond>
+		<for>
+			<effect name="Transformation" value="154"/>
+			<effect instant="true" name="i_dispel_by_slot">
+				<def name="abnormal_type" value="changebody"/>
+				<def name="max_abnormal_level" value="-1"/>
+			</effect>
+			<effect instant="true" name="i_dispel_by_slot">
+				<def name="abnormal_type" value="turn_stone"/>
+				<def name="max_abnormal_level" value="-1"/>
+			</effect>
+			<effect instant="true" name="i_dispel_by_slot">
+				<def name="abnormal_type" value="buff_special_multi"/>
+				<def name="max_abnormal_level" value="-1"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="8905" levels="1" name="Summon Sayha's Seer Fox">
+		<set name="icon" value="icon.skill8905"/>
+		<set name="hitTime" value="1000"/>
+		<set name="abnormal_time" value="3600"/>
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_type" value="transform"/>
+		<set name="magicType" value="SPECIAL"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isSkillTimePermanent" value="true"/>
+		<set name="hitCancelTime" value="500"/>
+		<cond msgId="1509">
+			<player olympiad="false"/>
+		</cond>
+		<cond>
+			<player can_transform="155"/>
+		</cond>
+		<for>
+			<effect name="Transformation" value="155"/>
+			<effect instant="true" name="i_dispel_by_slot">
+				<def name="abnormal_type" value="changebody"/>
+				<def name="max_abnormal_level" value="-1"/>
+			</effect>
+			<effect instant="true" name="i_dispel_by_slot">
+				<def name="abnormal_type" value="turn_stone"/>
+				<def name="max_abnormal_level" value="-1"/>
+			</effect>
+			<effect instant="true" name="i_dispel_by_slot">
+				<def name="abnormal_type" value="buff_special_multi"/>
+				<def name="max_abnormal_level" value="-1"/>
+			</effect>
+		</for>
+	</skill>
+</list>

@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="21400" levels="1" name="Mysterious Lindvior Defense Dye">
+		<set name="icon" value="BranchSys3.icon1.g_premium_hena_boss_lindvior"/>
+		<set name="magicLevel" value="1"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="pDef" value="1.15">
+				<zone name="[lindvior_raid_zone]"/>
+			</mul>
+			<mul order="0x30" stat="mDef" value="1.15">
+				<zone name="[lindvior_raid_zone]"/>
+			</mul>
+		</for>
+	</skill>
+	<skill id="21401" levels="1" name="Mysterious Buff Boost Dye - Noblesse Blessing">
+		<set name="icon" value="icon.skill1323"/>
+		<set name="reuseDelay" value="2000"/>
+		<set name="hitTime" value="4000"/>
+		<set name="mp_consume" value="69"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="21402" levels="1" name="Mysterious Human Dye - Unbind">
+		<set name="icon" value="icon.skill1904"/>
+		<set name="reuseDelay" value="600000"/>
+		<set name="hitTime" value="200"/>
+		<set name="abnormal_time" value="10"/>		
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isReuseDelayPermanent" value="true"/>
+		<for>
+			<effect name="DebuffImmunity"/>
+		</for>
+	</skill>
+	<skill id="21403" levels="1" name="Mysterious Elf Dye - Prevision">
+		<set name="icon" value="icon.skill1907"/>
+		<set name="reuseDelay" value="600000"/>
+		<set name="hitTime" value="200"/>
+		<set name="abnormal_time" value="15"/>		
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isReuseDelayPermanent" value="true"/>
+		<for>
+			<effect>
+				<add order="0x40" stat="runSpd" value="50"/>
+				<add order="0x40" stat="pEvasRate" value="50"/>
+				<add order="0x40" stat="pSkillEvasion" value="90"/>
+				<!--TODO 
+					<add order="0x40" stat="mSkillEvasion" value="90"/>
+				-->
+			</effect>
+		</for>
+	</skill>
+	<skill id="21404" levels="1" name="Mysterious Dark Elf Dye - Disparition">
+		<set name="icon" value="icon.skill1912"/>
+		<set name="reuseDelay" value="600000"/>
+		<set name="hitTime" value="200"/>
+		<set name="abnormal_time" value="5"/>		
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isReuseDelayPermanent" value="true"/>
+		<for>
+			<effect instant="true" name="i_dispel_by_category">
+				<def name="abnormal_category" value="slot_debuff"/>
+				<def name="dispel_chance" value="100"/>
+				<def name="max_count" value="10"/>
+			</effect>
+			<effect name="TargetableDisable"/>
+		</for>
+	</skill>
+	<skill id="21405" levels="1" name="Mysterious Orc Dye - Savage">
+		<set name="icon" value="icon.skill1914"/>
+		<set name="reuseDelay" value="600000"/>
+		<set name="hitTime" value="200"/>
+		<set name="abnormal_time" value="60"/>		
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isReuseDelayPermanent" value="true"/>
+		<for>
+			<effect>
+				<mul order="0x30" stat="pDef" value="0.9"/>
+				<mul order="0x30" stat="mDef" value="0.9"/>
+				<mul order="0x30" stat="pAtk" value="1.1"/>
+				<mul order="0x30" stat="mAtk" value="1.2"/>
+				<mul order="0x30" stat="pAtkSpd" value="1.1"/>
+				<mul order="0x30" stat="mAtkSpd" value="1.1"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="21406" levels="1" name="Mysterious Dwarf Dye - Endurance">
+		<set name="icon" value="icon.skill1920"/>
+		<set name="reuseDelay" value="600000"/>
+		<set name="hitTime" value="200"/>
+		<set name="abnormal_time" value="5"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isReuseDelayPermanent" value="true"/>
+		<for>
+			<effect name="RestoreHP" interval="1" value="460">
+				<add order="0x40" stat="reflectDam" value="50"/>
+				<add order="0x40" stat="reflectBowDam" value="50"/>
+				<add order="0x40" stat="reflectPSkillDam" value="50"/>
+				<add order="0x40" stat="reflectMSkillDam" value="50"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="21407" levels="1" name="Mysterious Kamael Dye - Soul Protection">
+		<set name="icon" value="icon.skill1925"/>
+		<set name="reuseDelay" value="600000"/>
+		<set name="hitTime" value="200"/>
+		<set name="abnormal_time" value="60"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="isReuseDelayPermanent" value="true"/>
+		<for>
+			<effect/>
+		</for>
+		<!--TODO В течение 60 сек. 3 раза защищает от наложения отрицательных эффектов-->
+	</skill>
+	<skill id="21408" levels="1" name="Mysterious Dye Cancellation">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+	</skill>
+	<skill id="21409" levels="1" name="Release Agathion's Seal - Three-headed Dragon">
+		<set name="icon" value="icon.etc_summon_aga_agit_i00"/>
+		<set name="hitTime" value="3000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21410" levels="1" name="Cloak of the Chosen: Blessed Escape">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="hitTime" value="200"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21411" levels="1" name="Halloween Outfit Appearance Stone">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21412" levels="1" name="Halloween Weapon Appearance Stone">
+		<set name="icon" value="icon.skill0000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21413" levels="1" name="Mysterious Halloween Potion">
+		<set name="icon" value="icon.etc_whiteday_herb"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21414" levels="1" name="Halloween: Outfit">
+		<set name="icon" value="icon.ev_wp_halloween"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21415" levels="1" name="Halloween: Weapon">
+		<set name="icon" value="icon.ev_wp_halloween"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21416" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21417" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21418" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21419" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21420" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21421" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21422" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21423" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21424" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21425" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21426" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21427" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21428" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21429" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21430" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21431" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21432" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21433" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21434" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21435" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21436" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21437" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21438" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21439" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21440" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21441" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21442" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21443" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21444" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21445" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21446" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21447" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21448" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21449" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21450" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21451" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21452" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21453" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21454" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21455" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21456" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21457" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21458" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21459" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21460" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21461" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21462" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21463" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21464" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21465" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21466" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21467" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21468" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21469" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21470" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21471" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21472" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21473" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21474" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21475" levels="1" name="Visual Enchant Stone">
+		<set name="icon" value="icon.skill_agathion_special"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+	</skill>
+	<skill id="21476" levels="1" name="Плащ Избранного">
+	<!-- 21476	1	Плащ Избранного  СИЛ +2, ЛВК +2, ВЫН +2, ИНТ +2, МДР +2, ДУХ +2, получаемый урон в PVP -5%. -->
+		<set name="icon" value="icon.vesper_cloack_i00"/>
+		<set name="target" value="TARGET_NONE"/>
+		<set name="skillType" value="NOTDONE"/>
+		<set name="operateType" value="OP_PASSIVE"/>
+		<for> 
+			<add order="0x40" stat="STR" val="2"/> 
+			<add order="0x40" stat="DEX" val="2"/>
+			<add order="0x40" stat="CON" val="2"/>
+			<add order="0x40" stat="INT" val="2"/>
+			<add order="0x40" stat="WIT" val="2"/>
+			<add order="0x40" stat="MEN" val="2"/>
+			<mul order="0x30" stat="pvpPhysDefenceBonus" value="1.05"/>
+			<mul order="0x30" stat="pvpPhysSkillDefenceBonus" value="1.05"/>
+			<mul order="0x30" stat="pvpMagicSkillDefenceBonus" value="1.05"/>
+		</for>	 
+	</skill>
+	<skill id="21477" levels="4" name="Сила Изобилия"> 
+		<table name="#stat">1.15 1.16 1.17 1.20</table>
+		<table name="#abnormal_level">1 2 3 4</table>
+		<set name="abnormal_time" value="60"/>
+		<set name="abnormal_level" value="#abnormal_level"/>
+		<!-- <set name="abnormal_type" value="power_izobilie"/> -->
+		<set name="operateType" value="OP_ACTIVE"/> 
+		<set name="magicType" value="SPECIAL"/>
+		<set name="hitTime" value="500"/>  
+		<set name="reuseDelay" value="600000"/>   
+		<set name="target" value="TARGET_SELF"/> 
+		<set name="skillType" value="BUFF"/> 
+		<for> 
+			<effect>
+				<mul order="0x30" stat="pAtk" value="#stat"/> 
+				<mul order="0x30" stat="mAtk" value="#stat"/>
+				<mul order="0x30" stat="pSkillPower" value="#stat"/>
+				<mul order="0x30" stat="pCritDamage" value="#stat"/>
+				<mul order="0x30" stat="mCritDamage" value="#stat"/> 
+			</effect>  
+		</for>	 
+	</skill>
+</list>

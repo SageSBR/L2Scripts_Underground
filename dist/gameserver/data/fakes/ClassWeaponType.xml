@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<list>
+	<class id="0">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+		<weapon type="DAGGER"/>
+	</class>
+
+	<class id="1">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="2">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="3">
+		<weapon type="POLE"/>
+	</class>
+
+	<class id="4">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="5">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="6">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="7">
+		<weapon type="DAGGER"/>
+		<weapon type="BOW"/>
+	</class>
+
+	<class id="8">
+		<weapon type="DAGGER"/>
+	</class>
+
+	<class id="9">
+		<weapon type="BOW"/>
+	</class>
+
+	<class id="10">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="11">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="12">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="13">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="14">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="15">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="16">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="17">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="18">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+		<weapon type="DAGGER"/>
+	</class>
+
+	<class id="19">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="20">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="21">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="22">
+		<weapon type="DAGGER"/>
+		<weapon type="BOW"/>
+	</class>
+
+	<class id="23">
+		<weapon type="DAGGER"/>
+	</class>
+
+	<class id="24">
+		<weapon type="BOW"/>
+	</class>
+
+	<class id="25">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="26">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="27">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="28">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="29">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="30">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="31">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+		<weapon type="DAGGER"/>
+	</class>
+
+	<class id="32">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="33">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="34">
+		<weapon type="DUAL"/>
+		<weapon type="DUALBLUNT"/>
+	</class>
+
+	<class id="35">
+		<weapon type="DAGGER"/>
+		<weapon type="BOW"/>
+	</class>
+
+	<class id="36">
+		<weapon type="DAGGER"/>
+	</class>
+
+	<class id="37">
+		<weapon type="BOW"/>
+	</class>
+
+	<class id="38">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="39">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="40">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="41">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="42">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="43">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="44">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="45">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="46">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="47">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="48">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="49">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="50">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="51">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="52">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="53">
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="54">
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="55">
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="56">
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="57">
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="88">
+		<weapon type="DUAL"/>
+	</class>
+
+	<class id="89">
+		<weapon type="POLE"/>
+	</class>
+
+	<class id="90">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="91">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="92">
+		<weapon type="BOW"/>
+	</class>
+
+	<class id="93">
+		<weapon type="DAGGER"/>
+	</class>
+
+	<class id="94">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="95">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="96">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="97">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="98">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="99">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="100">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="101">
+		<weapon type="DAGGER"/>
+	</class>
+
+	<class id="102">
+		<weapon type="BOW"/>
+	</class>
+
+	<class id="103">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="104">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="105">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="106">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="107">
+		<weapon type="DUAL"/>
+	</class>
+
+	<class id="108">
+		<weapon type="DAGGER"/>
+	</class>
+
+	<class id="109">
+		<weapon type="BOW"/>
+	</class>
+
+	<class id="110">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="111">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="112">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="113">
+		<weapon type="BIGBLUNT"/>
+		<weapon type="BIGSWORD"/>
+	</class>
+
+	<class id="114">
+		<weapon type="FIST"/>
+		<weapon type="DUALFIST"/>
+	</class>
+
+	<class id="115">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="116">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="117">
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="118">
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="148">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="149">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="150">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="151">
+		<weapon type="SWORD"/>
+		<weapon type="BLUNT"/>
+	</class>
+
+	<class id="152">
+		<weapon type="DUAL"/>
+		<weapon type="DUALBLUNT"/>
+		<weapon type="BIGBLUNT"/>
+		<weapon type="BIGSWORD"/>
+	</class>
+
+	<class id="153">
+		<weapon type="POLE"/>
+		<weapon type="BIGBLUNT"/>
+		<weapon type="BIGSWORD"/>
+	</class>
+
+	<class id="154">
+		<weapon type="POLE"/>
+		<weapon type="DUAL"/>
+		<weapon type="DUALBLUNT"/>
+		<weapon type="BIGBLUNT"/>
+		<weapon type="BIGSWORD"/>
+	</class>
+
+	<class id="155">
+		<weapon type="POLE"/>
+		<weapon type="DUAL"/>
+		<weapon type="DUALBLUNT"/>
+		<weapon type="FIST"/>
+		<weapon type="DUALFIST"/>
+		<weapon type="BIGBLUNT"/>
+		<weapon type="BIGSWORD"/>
+	</class>
+
+	<class id="156">
+		<weapon type="DUAL"/>
+		<weapon type="DUALBLUNT"/>
+		<weapon type="POLE"/>
+		<weapon type="BIGBLUNT"/>
+		<weapon type="BIGSWORD"/>
+	</class>
+
+	<class id="157">
+		<weapon type="DUAL"/>
+		<weapon type="DUALBLUNT"/>
+		<weapon type="BIGBLUNT"/>
+		<weapon type="BIGSWORD"/>
+		<weapon type="POLE"/>
+	</class>
+
+	<class id="158">
+		<weapon type="DAGGER"/>
+		<weapon type="DUALDAGGER"/>
+	</class>
+
+	<class id="159">
+		<weapon type="DAGGER"/>
+		<weapon type="DUALDAGGER"/>
+	</class>
+
+	<class id="160">
+		<weapon type="DAGGER"/>
+		<weapon type="DUALDAGGER"/>
+	</class>
+
+	<class id="161">
+		<weapon type="DAGGER"/>
+		<weapon type="DUALDAGGER"/>
+	</class>
+
+	<class id="162">
+		<weapon type="BOW"/>
+		<weapon type="CROSSBOW"/>
+		<weapon type="TWOHANDCROSSBOW"/>
+	</class>
+
+	<class id="163">
+		<weapon type="BOW"/>
+		<weapon type="CROSSBOW"/>
+		<weapon type="TWOHANDCROSSBOW"/>
+	</class>
+
+	<class id="164">
+		<weapon type="BOW"/>
+		<weapon type="CROSSBOW"/>
+		<weapon type="TWOHANDCROSSBOW"/>
+	</class>
+
+	<class id="165">
+		<weapon type="BOW"/>
+		<weapon type="CROSSBOW"/>
+		<weapon type="TWOHANDCROSSBOW"/>
+	</class>
+
+	<class id="166">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="167">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="168">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="169">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="170">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="171">
+		<weapon type="DUAL"/>
+		<weapon type="DUALBLUNT"/>
+		<weapon type="BIGBLUNT"/>
+		<weapon type="BIGSWORD"/>
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="172">
+		<weapon type="DUAL"/>
+		<weapon type="DUALBLUNT"/>
+		<weapon type="BIGSWORD"/>
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="173">
+		<weapon type="DUAL"/>
+		<weapon type="DUALBLUNT"/>
+		<weapon type="BIGBLUNT"/>
+		<weapon type="BIGSWORD"/>
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="174">
+		<weapon type="DUAL"/>
+		<weapon type="DUALBLUNT"/>
+		<weapon type="BIGBLUNT"/>
+		<weapon type="BIGSWORD"/>
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="175">
+		<weapon type="DUAL"/>
+		<weapon type="DUALBLUNT"/>
+		<weapon type="BIGBLUNT"/>
+		<weapon type="BIGSWORD"/>
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="176">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="177">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="178">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="179">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="180">
+		<weapon type="MAGIC"/>
+	</class>
+
+	<class id="181">
+		<weapon type="MAGIC"/>
+	</class>
+</list>

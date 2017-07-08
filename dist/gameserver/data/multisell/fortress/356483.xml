@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config no_tax="true"/>
+	<item>
+		<production id="9579" count="1"/>
+		<ingredient id="9912" count="80"/>
+	</item>
+	<item>
+		<production id="9585" count="1"/>
+		<ingredient id="9912" count="180"/>
+	</item>
+	<item>
+		<production id="9580" count="1"/>
+		<ingredient id="9912" count="260"/>
+	</item>
+	<item>
+		<production id="9586" count="1"/>
+		<ingredient id="9912" count="360"/>
+	</item>
+	<item>
+		<production id="9581" count="1"/>
+		<ingredient id="9912" count="588"/>
+	</item>
+	<item>
+		<production id="9587" count="1"/>
+		<ingredient id="9912" count="880"/>
+	</item>
+	<item>
+		<production id="9582" count="1"/>
+		<ingredient id="9912" count="1800"/>
+	</item>
+	<item>
+		<production id="9588" count="1"/>
+		<ingredient id="9912" count="2540"/>
+	</item>
+</list>

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="10100" levels="4" name="Guardian's Frenzy">
+		<table name="#magicLevel">85 90 95 99</table>
+		<table name="#pCritDamRcpt">1</table>
+		<table name="#pDef">1.5 1.7 2 2.2</table>
+		<table name="#mDef">1.5 1.7 2 2.2</table>
+		<table name="#defenceFire">10 20 25 30</table>
+		<table name="#defenceWater">10 20 25 30</table>
+		<table name="#defenceWind">10 20 25 30</table>
+		<table name="#defenceEarth">10 20 25 30</table>
+		<table name="#defenceHoly">10 20 25 30</table>
+		<table name="#defenceUnholy">10 20 25 30</table>
+		<table name="#runSpd">10 20 25 30</table>
+		<table name="#pAccCombat">4 6 8 10</table>
+		<table name="#pAtkSpd">1.1 1.2 1.25 1.3</table>
+		<table name="#basePCritRate">30 40 50 60</table>
+		<table name="#pCritDamage">1.30 1.40 1.50 1.60</table>
+		<table name="#abnormal_time">60</table>
+		<table name="#mp_consume">20 21 23 24</table>
+		<set name="icon" value="icon.skill10100"/>
+		<set name="reuseDelay" value="600000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="3000"/>
+		<set name="mp_consume" value="#mp_consume"/>
+		<set name="ride_state" value="NONE"/>
+		<set name="abnormal_time" value="#abnormal_time"/>
+		<set name="abnormal_level" value="5"/>	<!--TODO: Check.-->
+		<set name="abnormal_type" value="pinch"/>	<!--TODO: Check.-->
+		<set name="magicLevel" value="#magicLevel"/>
+		<set name="magicType" value="ITEM"/>
+		<set name="hitCancelTime" value="500"/>
+		<set name="effectPoint" value="879"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="analog_skills" value="406;22;449;278;67;33;10;65"/>
+		<enchant_info type="1" name="Time">
+			<table name="#abnormal_time" type="ADD">1 2 3 4 5 6 7 8 9 10 10 11 11 12 12 13 13 14 14 15 15 16 16 17 17 18 18 19 19 20</table>
+			<enchant_tables skill_level="3" enchant_levels="30"/>
+			<enchant_tables skill_level="4" enchant_levels="30"/>
+		</enchant_info>
+		<enchant_info type="2" name="Counter">
+			<table name="#pCritDamRcpt">0.99 0.985 0.98 0.975 0.97 0.965 0.96 0.955 0.95 0.945 0.94 0.935 0.93 0.925 0.92 0.915 0.91 0.9 0.895 0.89 0.885 0.88 0.875 0.87 0.865 0.86 0.855 0.85 0.845 0.84</table>
+			<enchant_tables skill_level="3" enchant_levels="30"/>
+			<enchant_tables skill_level="4" enchant_levels="30"/>
+		</enchant_info>
+		<for>
+			<effect>
+				<mul order="0x30" stat="pDef" value="#pDef"/>
+				<mul order="0x30" stat="mDef" value="#mDef"/>
+				<add order="0x40" stat="defenceFire" value="#defenceFire"/>
+				<add order="0x40" stat="defenceWater" value="#defenceWater"/>
+				<add order="0x40" stat="defenceWind" value="#defenceWind"/>
+				<add order="0x40" stat="defenceEarth" value="#defenceEarth"/>
+				<add order="0x40" stat="defenceHoly" value="#defenceHoly"/>
+				<add order="0x40" stat="defenceUnholy" value="#defenceUnholy"/>
+				<add order="0x40" stat="runSpd" value="#runSpd"/>
+				<mul order="0x30" stat="pCritDamRcpt" value="#pCritDamRcpt"/>				
+				<add order="0x40" stat="pAccCombat" value="#pAccCombat">
+					<using kind="Sword, Blunt, Big Sword, Big Blunt"/>
+				</add>
+				<mul order="0x30" stat="pAtkSpd" value="#pAtkSpd">
+					<using kind="Sword, Blunt, Big Sword, Big Blunt"/>
+				</mul>
+				<add order="0x40" stat="basePCritRate" value="#basePCritRate">
+					<using kind="Sword, Blunt, Big Sword, Big Blunt"/>
+				</add>
+				<mul order="0x30" stat="pCritDamage" value="#pCritDamage">
+					<using kind="Sword, Blunt, Big Sword, Big Blunt"/>
+				</mul>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10101" levels="4" name="Templar's Frenzy">
+		<table name="#magicLevel">85 90 95 99</table>
+		<table name="#pCritDamRcpt">1</table>
+		<table name="#pSkillPower">1.05 1.07 1.1 1.15</table>
+		<table name="#pDef">1.5 1.65 1.8 2</table>
+		<table name="#mDef">1.5 1.65 1.8 2</table>
+		<table name="#runSpd">10 20 25 30</table>
+		<table name="#pAccCombat">4 6 8 10</table>
+		<table name="#pAtkSpd">1.1 1.15 1.2 1.25</table>
+		<table name="#basePCritRate">30 40 50 60</table>
+		<table name="#pCritDamage">1.30 1.40 1.50 1.60</table>
+		<table name="#mp_consume">20 21 23 24</table>
+		<table name="#abnormal_time">60</table>
+		<set name="icon" value="icon.skill10101"/>
+		<set name="reuseDelay" value="600000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="3000"/>
+		<set name="mp_consume" value="#mp_consume"/>
+		<set name="ride_state" value="NONE"/>
+		<set name="abnormal_time" value="#abnormal_time"/>
+		<set name="abnormal_level" value="5"/>	<!--TODO: Check.-->
+		<set name="abnormal_type" value="pinch"/>	<!--TODO: Check.-->
+		<set name="magicLevel" value="#magicLevel"/>
+		<set name="magicType" value="ITEM"/>
+		<set name="hitCancelTime" value="500"/>
+		<set name="effectPoint" value="879"/>
+		<set name="target" value="TARGET_SELF"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="analog_skills" value="406;22;449;278;67;33;10;65"/>
+		<enchant_info type="1" name="Time">
+			<table name="#abnormal_time" type="ADD">1 2 3 4 5 6 7 8 9 10 10 11 11 12 12 13 13 14 14 15 15 16 16 17 17 18 18 19 19 20</table>
+			<enchant_tables skill_level="3" enchant_levels="30"/>
+			<enchant_tables skill_level="4" enchant_levels="30"/>
+		</enchant_info>
+		<enchant_info type="2" name="Counter">
+			<table name="#pCritDamRcpt">0.99 0.985 0.98 0.975 0.97 0.965 0.96 0.955 0.95 0.945 0.94 0.935 0.93 0.925 0.92 0.915 0.91 0.9 0.895 0.89 0.885 0.88 0.875 0.87 0.865 0.86 0.855 0.85 0.845 0.84</table>
+			<enchant_tables skill_level="3" enchant_levels="30"/>
+			<enchant_tables skill_level="4" enchant_levels="30"/>
+		</enchant_info>
+		<for>
+			<effect>
+				<mul order="0x30" stat="pSkillPower" value="#pSkillPower"/>
+				<mul order="0x30" stat="pDef" value="#pDef"/>
+				<mul order="0x30" stat="mDef" value="#mDef"/>
+				<add order="0x40" stat="runSpd" value="#runSpd"/>
+				<mul order="0x30" stat="pCritDamRcpt" value="#pCritDamRcpt"/>
+				<add order="0x40" stat="pAccCombat" value="#pAccCombat">
+					<using kind="Sword, Blunt, Big Sword, Big Blunt"/>
+				</add>
+				<mul order="0x30" stat="pAtkSpd" value="#pAtkSpd">
+					<using kind="Sword, Blunt, Big Sword, Big Blunt"/>
+				</mul>
+				<add order="0x40" stat="basePCritRate" value="#basePCritRate">
+					<using kind="Sword, Blunt, Big Sword, Big Blunt"/>
+				</add>
+				<mul order="0x30" stat="pCritDamage" value="#pCritDamage">
+					<using kind="Sword, Blunt, Big Sword, Big Blunt"/>
+				</mul>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10102" levels="6" name="Shadow Slash">
+		<table name="#activateRate">80</table>
+		<table name="#power">33505 34353 35201 36897 38593 40289</table>
+		<table name="#magicLevel">97 98 99 101 103 105</table>
+		<table name="#mp_consume">185 191 197 203 209 215</table>
+		<set name="icon" value="icon.skill10102"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="coolTime" value="500"/>
+		<set name="hitTime" value="3000"/>
+		<set name="mp_consume" value="#mp_consume"/>
+		<set name="magicLevel" value="#magicLevel"/>
+		<set name="abnormal_effect" value="KNOCKDOWN"/>
+		<set name="abnormal_time" value="2"/>
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_type" value="knockdown"/>
+		<set name="activateRate" value="#activateRate"/>
+		<set name="power" value="#power"/>
+		<set name="target" value="TARGET_AREA"/>
+		<set name="skillRadius" value="100"/>	<!--TODO: Check.-->
+		<set name="behind_radius" value="40"/>	<!--TODO: Check.-->
+		<set name="skillType" value="PDAM"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="nextAction" value="attack"/>
+		<set name="overHit" value="true"/>
+		<set name="trait" value="KNOCKDOWN"/>
+		<set name="itemConsumeId" value="1785"/>
+		<set name="itemConsumeCount" value="6"/>
+		<cond msgId="113">
+			<using kind="Shield"/>
+		</cond>
+		<enchant_info type="1" name="Power">
+			<table name="#power" type="MUL">1.01 1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.1 1.11 1.12 1.13 1.14 1.15 1.16 1.17 1.18 1.19 1.2 1.21 1.22 1.23 1.24 1.25 1.26 1.27 1.28 1.29 1.3</table>		
+			<enchant_tables skill_level="2" enchant_levels="30"/>
+			<enchant_tables skill_level="3" enchant_levels="30"/>
+			<enchant_tables skill_level="4" enchant_levels="30"/>
+			<enchant_tables skill_level="5" enchant_levels="30"/>
+			<enchant_tables skill_level="6" enchant_levels="30"/>
+		</enchant_info>
+		<enchant_info type="2" name="Chance">
+			<table name="#activateRate" type="ADD">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30</table>		
+			<enchant_tables skill_level="2" enchant_levels="30"/>
+			<enchant_tables skill_level="3" enchant_levels="30"/>
+			<enchant_tables skill_level="4" enchant_levels="30"/>
+			<enchant_tables skill_level="5" enchant_levels="30"/>
+			<enchant_tables skill_level="6" enchant_levels="30"/>
+		</enchant_info>
+		<for>
+			<effect name="KnockDown">
+				<def name="fly_radius" value="75"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10103" levels="6" name="Mass Freezing Strike">
+		<table name="#power">18151 18641 19131 19131 21091 22071</table>
+		<table name="#itemConsumeId">1785 1785 1785 0</table>
+		<table name="#activateRate">40</table>
+		<table name="#itemConsumeCount">6 6 6 0</table>
+		<table name="#magicLevel">97 98 99 101 103 105</table>
+		<table name="#mp_consume">185 191 197 199 201 203</table>
+		<set name="icon" value="icon.skill10103"/>
+		<set name="reuseDelay" value="60000"/>
+		<set name="coolTime" value="500"/>
+		<set name="castRange" value="400"/>
+		<set name="hitTime" value="1500"/>
+		<set name="mp_consume" value="#mp_consume"/>
+		<set name="magicLevel" value="#magicLevel"/>
+		<set name="abnormal_time" value="5"/>	<!--TODO: Check.-->
+		<set name="abnormal_level" value="5"/>	<!--TODO: Check.-->
+		<set name="abnormal_type" value="speed_down"/>
+		<set name="power" value="#power"/>
+		<set name="skillRadius" value="100"/>	<!--TODO: Check.-->
+		<set name="activateRate" value="#activateRate"/> <!--TODO: Check.-->
+		<set name="target" value="TARGET_AURA"/>
+		<set name="skillType" value="PDAM"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="itemConsumeId" value="#itemConsumeId"/>
+		<set name="itemConsumeCount" value="#itemConsumeCount"/>
+		<enchant_info type="1" name="Power">
+			<table name="#pAtk">1.01 1.014 1.018 1.022 1.026 1.03 1.034 1.038 1.042 1.046 1.05 1.054 1.058 1.062 1.066 1.07 1.074 1.078 1.082 1.086 1.09 1.094 1.098 1.102 1.106 1.11 1.114 1.118 1.122 1.126</table>
+			<table name="#mp_consume">197</table>		
+			<enchant_tables skill_level="3" enchant_levels="30"/>
+			<enchant_tables skill_level="4" enchant_levels="30"/>
+			<enchant_tables skill_level="5" enchant_levels="30"/>
+			<enchant_tables skill_level="6" enchant_levels="30"/>
+		</enchant_info>
+		<enchant_info type="2" name="Chance">
+			<table name="#activateRate" type="ADD">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30</table>
+			<table name="#mp_consume">197</table>
+			<enchant_tables skill_level="3" enchant_levels="30"/>
+			<enchant_tables skill_level="4" enchant_levels="30"/>
+			<enchant_tables skill_level="5" enchant_levels="30"/>
+			<enchant_tables skill_level="6" enchant_levels="30"/>
+		</enchant_info>
+		<for>
+			<effect>
+				<sub order="0x40" stat="runSpd" value="100"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10104" levels="1" name="Paladin's Aura">
+		<set name="icon" value="icon.skill10104"/>
+		<set name="reuseDelay" value="1000"/>
+		<set name="abnormal_effect" value="AURA_BUFF_SELF"/>
+		<set name="abnormal_level" value="2"/>	<!--TODO: Такого значения на оффе нету. Переделать на досуге.-->
+		<set name="abnormal_type" value="aura"/>	<!--TODO: Такого значения на оффе нету. Переделать на досуге.-->
+		<set name="magicLevel" value="101"/>
+		<set name="operateType" value="OP_TOGGLE"/>
+		<set name="skillRadius" value="300"/>
+		<set name="target" value="TARGET_SELF"/>
+		<for>
+			<effect hide_time="true">
+				<mul order="0x30" stat="pDef" value="1.25"/>
+				<mul order="0x30" stat="pCritDamRcpt" value="0.75"/>
+				<add order="0x40" stat="hpEff" value="25"/>
+				<triggers>	
+					<trigger id="10108" level="1" type="ADD"/>
+					<trigger id="10108" level="1" type="IDLE"/>
+				</triggers>			
+			</effect>
+		</for>
+	</skill>
+	<skill id="10105" levels="1" name="Avenger's Aura">
+		<set name="icon" value="icon.skill10105"/>
+		<set name="reuseDelay" value="1000"/>
+		<set name="abnormal_effect" value="AURA_DEBUFF_SELF"/>
+		<set name="magicLevel" value="101"/>
+		<set name="operateType" value="OP_TOGGLE"/>
+		<set name="skillRadius" value="300"/>
+		<set name="target" value="TARGET_SELF"/>
+		<for>
+			<effect>
+				<mul order="0x30" stat="pAtk" value="1.25"/>
+				<mul order="0x30" stat="pAtkSpd" value="1.25"/>
+				<add order="0x40" stat="pCritRate" value="80"/>
+				<mul order="0x30" stat="pCritDamage" value="1.25"/>
+				<add order="0x40" stat="hpEff" value="25"/>
+				<add order="0x40" stat="runSpd" value="20"/>
+				<triggers>
+					<trigger id="10109" level="1" type="ADD"/>
+					<trigger id="10109" level="1" type="IDLE"/>
+				</triggers>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10106" levels="1" name="Sentinel's Aura">
+		<set name="icon" value="icon.skill10106"/>
+		<set name="reuseDelay" value="1000"/>
+		<set name="abnormal_effect" value="AURA_BUFF_SELF"/>
+		<set name="abnormal_level" value="2"/>	<!--TODO: Такого значения на оффе нету. Переделать на досуге.-->
+		<set name="abnormal_type" value="aura"/>	<!--TODO: Такого значения на оффе нету. Переделать на досуге.-->
+		<set name="magicLevel" value="101"/>
+		<set name="operateType" value="OP_TOGGLE"/>
+		<set name="skillRadius" value="300"/>
+		<set name="target" value="TARGET_SELF"/>
+		<for>
+			<effect hide_time="true">
+				<mul order="0x30" stat="mDef" value="1.25"/>
+				<add order="0x40" stat="defenceFire" value="50"/>
+				<add order="0x40" stat="defenceWater" value="50"/>
+				<add order="0x40" stat="defenceWind" value="50"/>
+				<add order="0x40" stat="defenceEarth" value="50"/>
+				<add order="0x40" stat="defenceHoly" value="50"/>
+				<add order="0x40" stat="defenceUnholy" value="50"/>
+				<add order="0x40" stat="debuffResist" value="25"/>
+				<triggers>	
+					<trigger id="10110" level="1" type="ADD"/>
+					<trigger id="10110" level="1" type="IDLE"/>
+				</triggers>			
+			</effect>
+		</for>
+	</skill>
+	<skill id="10107" levels="1" name="Templar's Aura">
+		<set name="icon" value="icon.skill10107"/>
+		<set name="reuseDelay" value="1000"/>
+		<set name="abnormal_effect" value="AURA_BUFF_SELF"/>
+		<set name="abnormal_level" value="2"/>	<!--TODO: Такого значения на оффе нету. Переделать на досуге.-->
+		<set name="abnormal_type" value="aura"/>	<!--TODO: Такого значения на оффе нету. Переделать на досуге.-->
+		<set name="magicLevel" value="101"/>
+		<set name="operateType" value="OP_TOGGLE"/>
+		<set name="skillRadius" value="300"/>
+		<set name="target" value="TARGET_SELF"/>
+		<for>
+			<effect hide_time="true">
+				<mul order="0x30" stat="pAtk" value="1.15"/>
+				<mul order="0x30" stat="pAtkSpd" value="1.15"/>
+				<add order="0x40" stat="runSpd" value="10"/>
+				<triggers>	
+					<trigger id="10111" level="1" type="ADD"/>
+					<trigger id="10111" level="1" type="IDLE"/>
+				</triggers>			
+			</effect>
+		</for>
+	</skill>
+	<skill id="10108" levels="1" name="Paladin's Aura">
+		<set name="icon" value="icon.skill10104"/>
+		<set name="reuseDelay" value="1000"/>
+		<set name="hitTime" value="500"/>
+		<set name="abnormal_effect" value="AURA_BUFF"/>
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_time" value="6"/>
+		<set name="abnormal_type" value="aura"/>
+		<set name="isHideStartMessage" value="true"/>
+		<set name="isHideUseMessage" value="true"/>
+		<set name="magicLevel" value="101"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="skillRadius" value="300"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="target" value="TARGET_PARTY"/>
+		<set name="useSS" value="false"/>
+		<for>
+			<effect hide_time="true">
+				<mul order="0x30" stat="pDef" value="1.2"/>
+				<add order="0x40" stat="hpEff" value="20"/>
+				<mul order="0x30" stat="pCritDamRcpt" value="0.8"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10109" levels="1" name="Avenger's Aura">
+		<set name="icon" value="icon.skill10105"/>
+		<set name="reuseDelay" value="1000"/>
+		<set name="hitTime" value="500"/>
+		<set name="abnormal_effect" value="AURA_DEBUFF"/>
+		<set name="abnormal_time" value="6"/>
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_type" value="aura"/>
+		<set name="magicLevel" value="101"/>
+		<set name="levelModifier" value="1"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="skillType" value="DEBUFF"/>
+		<set name="target" value="TARGET_AURA"/>
+		<set name="isHideStartMessage" value="true"/>
+		<set name="isHideUseMessage" value="true"/>
+		<set name="saveVs" value="CON"/>
+		<set name="skillRadius" value="300"/>
+		<set name="useSS" value="false"/>
+		<set name="effectPoint" value="0"/>
+		<for>
+			<effect hide_time="true">
+				<mul order="0x30" stat="pAtk" value="0.7"/>
+				<mul order="0x30" stat="mAtk" value="0.7"/>
+				<mul order="0x30" stat="pAtkSpd" value="0.7"/>
+				<mul order="0x30" stat="mAtkSpd" value="0.7"/>
+				<sub order="0x40" stat="runSpd" value="20"/>
+				<mul order="0x30" stat="pCritDamRcpt" value="1.15"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10110" levels="1" name="Sentinel's Aura">
+		<set name="icon" value="icon.skill10106"/>
+		<set name="reuseDelay" value="1000"/>
+		<set name="hitTime" value="500"/>
+		<set name="abnormal_effect" value="AURA_BUFF"/>
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_time" value="6"/>
+		<set name="abnormal_type" value="aura"/>
+		<set name="isHideStartMessage" value="true"/>
+		<set name="isHideUseMessage" value="true"/>
+		<set name="magicLevel" value="101"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="skillRadius" value="300"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="target" value="TARGET_PARTY"/>
+		<set name="useSS" value="false"/>
+		<for>
+			<effect hide_time="true">
+				<mul order="0x30" stat="mDef" value="1.2"/>
+				<add order="0x40" stat="defenceFire" value="40"/>
+				<add order="0x40" stat="defenceWater" value="40"/>
+				<add order="0x40" stat="defenceWind" value="40"/>
+				<add order="0x40" stat="defenceEarth" value="40"/>
+				<add order="0x40" stat="defenceHoly" value="40"/>
+				<add order="0x40" stat="defenceUnholy" value="40"/>
+				<add order="0x40" stat="debuffResist" value="20"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="10111" levels="1" name="Templar's Aura">
+		<set name="icon" value="icon.skill10107"/>
+		<set name="reuseDelay" value="1000"/>
+		<set name="hitTime" value="500"/>
+		<set name="abnormal_effect" value="AURA_BUFF"/>
+		<set name="abnormal_level" value="1"/>
+		<set name="abnormal_time" value="6"/>
+		<set name="abnormal_type" value="aura"/>
+		<set name="isHideStartMessage" value="true"/>
+		<set name="isHideUseMessage" value="true"/>
+		<set name="magicLevel" value="101"/>
+		<set name="operateType" value="OP_ACTIVE"/>
+		<set name="skillRadius" value="300"/>
+		<set name="skillType" value="BUFF"/>
+		<set name="target" value="TARGET_PARTY"/>
+		<set name="useSS" value="false"/>
+		<for>
+			<effect hide_time="true">
+				<mul order="0x30" stat="pAtk" value="1.1"/>
+				<mul order="0x30" stat="mAtk" value="1.1"/>
+				<mul order="0x30" stat="pAtkSpd" value="1.1"/>
+				<mul order="0x30" stat="mAtkSpd" value="1.1"/>
+				<add order="0x40" stat="runSpd" value="10"/>
+			</effect>
+		</for>
+	</skill>
+</list>

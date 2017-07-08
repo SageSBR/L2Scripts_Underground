@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<list>
+	<class id="0">
+		<armor type="Light"/>
+	</class>
+
+	<class id="1">
+		<armor type="Light"/>
+	</class>
+
+	<class id="2">
+		<armor type="Light"/>
+	</class>
+
+	<class id="3">
+		<armor type="Light"/>
+	</class>
+
+	<class id="4">
+		<armor type="Light"/>
+	</class>
+
+	<class id="5">
+		<armor type="Light"/>
+	</class>
+
+	<class id="6">
+		<armor type="Light"/>
+	</class>
+
+	<class id="7">
+		<armor type="Light"/>
+	</class>
+
+	<class id="8">
+		<armor type="Light"/>
+	</class>
+
+	<class id="9">
+		<armor type="Light"/>
+	</class>
+
+	<class id="10">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="11">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="12">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="13">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="14">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="15">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="16">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="17">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="18">
+		<armor type="Light"/>
+	</class>
+
+	<class id="19">
+		<armor type="Light"/>
+	</class>
+
+	<class id="20">
+		<armor type="Light"/>
+	</class>
+
+	<class id="21">
+		<armor type="Light"/>
+	</class>
+
+	<class id="22">
+		<armor type="Light"/>
+	</class>
+
+	<class id="23">
+		<armor type="Light"/>
+	</class>
+
+	<class id="24">
+		<armor type="Light"/>
+	</class>
+
+	<class id="25">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="26">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="27">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="28">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="29">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="30">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="31">
+		<armor type="Light"/>
+	</class>
+
+	<class id="32">
+		<armor type="Light"/>
+	</class>
+
+	<class id="33">
+		<armor type="Light"/>
+	</class>
+
+	<class id="34">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="35">
+		<armor type="Light"/>
+	</class>
+
+	<class id="36">
+		<armor type="Light"/>
+	</class>
+
+	<class id="37">
+		<armor type="Light"/>
+	</class>
+
+	<class id="38">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="39">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="40">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="41">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="42">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="43">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="44">
+		<armor type="Light"/>
+	</class>
+
+	<class id="45">
+		<armor type="Light"/>
+	</class>
+
+	<class id="46">
+		<armor type="Light"/>
+	</class>
+
+	<class id="47">
+		<armor type="Light"/>
+	</class>
+
+	<class id="48">
+		<armor type="Light"/>
+	</class>
+
+	<class id="49">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="50">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="51">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="52">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="53">
+		<armor type="Light"/>
+	</class>
+
+	<class id="54">
+		<armor type="Light"/>
+	</class>
+
+	<class id="55">
+		<armor type="Light"/>
+	</class>
+
+	<class id="56">
+		<armor type="Light"/>
+	</class>
+
+	<class id="57">
+		<armor type="Light"/>
+	</class>
+
+	<class id="88">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="89">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="90">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="91">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="92">
+		<armor type="Light"/>
+	</class>
+
+	<class id="93">
+		<armor type="Light"/>
+	</class>
+
+	<class id="94">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="95">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="96">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="97">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="98">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="99">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="100">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="101">
+		<armor type="Light"/>
+	</class>
+
+	<class id="102">
+		<armor type="Light"/>
+	</class>
+
+	<class id="103">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="104">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="105">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="106">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="107">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="108">
+		<armor type="Light"/>
+	</class>
+
+	<class id="109">
+		<armor type="Light"/>
+	</class>
+
+	<class id="110">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="111">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="112">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="113">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="114">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="115">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="116">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="117">
+		<armor type="Light"/>
+	</class>
+
+	<class id="118">
+		<armor type="Light"/>
+	</class>
+
+	<class id="148">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="149">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="150">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="151">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="152">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="153">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="154">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="155">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="156">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="157">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="158">
+		<armor type="Light"/>
+	</class>
+
+	<class id="159">
+		<armor type="Light"/>
+	</class>
+
+	<class id="160">
+		<armor type="Light"/>
+	</class>
+
+	<class id="161">
+		<armor type="Light"/>
+	</class>
+
+	<class id="162">
+		<armor type="Light"/>
+	</class>
+
+	<class id="163">
+		<armor type="Light"/>
+	</class>
+
+	<class id="164">
+		<armor type="Light"/>
+	</class>
+
+	<class id="165">
+		<armor type="Light"/>
+	</class>
+
+	<class id="166">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="167">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="168">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="169">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="170">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="171">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="172">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="173">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="174">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="175">
+		<armor type="Heavy"/>
+	</class>
+
+	<class id="179">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="180">
+		<armor type="Magic"/>
+	</class>
+
+	<class id="181">
+		<armor type="Magic"/>
+	</class>
+</list>

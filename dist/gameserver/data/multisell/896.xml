@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<config no_tax="true"/>
+	<item>
+		<!-- Raid Points -->
+		<ingredient count="100" id="-500" />
+		<!-- Istina Bracelet -->
+		<production count="1" id="19455" />
+	</item>
+	<item>
+		<!-- Raid Points -->
+		<ingredient count="100" id="-500" />
+		<!-- Istina Bracelet -->
+		<production count="1" id="19461" />
+	</item>
+		<item>
+		<!-- Raid Points -->
+		<ingredient count="100" id="-500" />
+		<!-- Istina Bracelet -->
+		<production count="1" id="35293" />
+	</item>
+</list>
